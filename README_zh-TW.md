@@ -88,9 +88,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **550** |
-| ⭐ 精選 | **7** |
-| 🔄 最後更新 | **2025年12月5日 星期五 凌晨4:13:09 [UTC]** |
+| 📝 提示詞總數 | **622** |
+| ⭐ 精選 | **12** |
+| 🔄 最後更新 | **2025年12月5日 星期五 凌晨4:46:52 [UTC]** |
 
 </div>
 
@@ -160,7 +160,7 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-手繪風格的標題圖片提示：一個人正在介紹 Nano Banana Pro
+為一張手繪風格的標題圖片提供提示，內容為一個人介紹 Nano Banana Pro
 
 #### 📝 提示詞
 
@@ -238,12 +238,12 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-將 AI 新聞內容轉化為手繪教師風格黑板圖並附帶解釋的日語提示。
+將 AI 新聞內容轉化為手繪教師風格黑板圖並附帶說明的日文提示。
 
 #### 📝 提示詞
 
 ```
-使用以下內容，以黑板風格的手寫外觀總結新聞，並像老師寫的一樣，用圖表和易於理解的表達方式進行分解。
+使用以下內容，以黑板手寫風格總結新聞，並像老師寫的一樣，用圖表和淺顯易懂的表達方式進行分解。
 —-
 來自 Grok 的搜尋結果
 ```
@@ -269,7 +269,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年11月22日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%BF%E7%94%A8%E4%BB%A5%E4%B8%8B%E5%85%A7%E5%AE%B9%EF%BC%8C%E4%BB%A5%E9%BB%91%E6%9D%BF%E9%A2%A8%E6%A0%BC%E7%9A%84%E6%89%8B%E5%AF%AB%E5%A4%96%E8%A7%80%E7%B8%BD%E7%B5%90%E6%96%B0%E8%81%9E%EF%BC%8C%E4%B8%A6%E5%83%8F%E8%80%81%E5%B8%AB%E5%AF%AB%E7%9A%84%E4%B8%80%E6%A8%A3%EF%BC%8C%E7%94%A8%E5%9C%96%E8%A1%A8%E5%92%8C%E6%98%93%E6%96%BC%E7%90%86%E8%A7%A3%E7%9A%84%E8%A1%A8%E9%81%94%E6%96%B9%E5%BC%8F%E9%80%B2%E8%A1%8C%E5%88%86%E8%A7%A3%E3%80%82%0A%E2%80%94-%0A%E4%BE%86%E8%87%AA%20Grok%20%E7%9A%84%E6%90%9C%E5%B0%8B%E7%B5%90%E6%9E%9C)**
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%BF%E7%94%A8%E4%BB%A5%E4%B8%8B%E5%85%A7%E5%AE%B9%EF%BC%8C%E4%BB%A5%E9%BB%91%E6%9D%BF%E6%89%8B%E5%AF%AB%E9%A2%A8%E6%A0%BC%E7%B8%BD%E7%B5%90%E6%96%B0%E8%81%9E%EF%BC%8C%E4%B8%A6%E5%83%8F%E8%80%81%E5%B8%AB%E5%AF%AB%E7%9A%84%E4%B8%80%E6%A8%A3%EF%BC%8C%E7%94%A8%E5%9C%96%E8%A1%A8%E5%92%8C%E6%B7%BA%E9%A1%AF%E6%98%93%E6%87%82%E7%9A%84%E8%A1%A8%E9%81%94%E6%96%B9%E5%BC%8F%E9%80%B2%E8%A1%8C%E5%88%86%E8%A7%A3%E3%80%82%0A%E2%80%94-%0A%E4%BE%86%E8%87%AA%20Grok%20%E7%9A%84%E6%90%9C%E5%B0%8B%E7%B5%90%E6%9E%9C)**
 
 ---
 
@@ -324,7 +324,48 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 6: 夢想日記：卡比吹泡泡
+### No. 6: 倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張寫實的照片提示，內容是一位年輕女性在倫敦一家寧靜的戶外餐廳，時值三月清晨，畫面帶有淺景深和隨手用手機拍攝的感覺。
+
+#### 📝 提示詞
+
+```
+請創作一張寫實的照片，內容是一位年輕女性在三月一個涼爽的週三早晨，於 {argument name="city in english" default="London"} 一間悠閒的戶外餐廳裡。時間是 {argument name="year in english" default="2025"}。天空晴朗，春天的空氣清新，城市在甦醒中顯得寧靜。她是照片的焦點——戴著一條輕柔的圍巾，輕輕攪拌著茶，若有所思地望向一旁。她身後的一切，從來回走動的服務生到輕柔的晨間車流，都應呈現柔和的模糊，讓照片帶有隨手用手機捕捉的瞬間那種輕鬆、自然的氛圍。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Johnn](https://x.com/john_my07)
+- **來源:** [Twitter Post](https://x.com/john_my07/status/1996230085645623770)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E5%89%B5%E4%BD%9C%E4%B8%80%E5%BC%B5%E5%AF%AB%E5%AF%A6%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E5%85%A7%E5%AE%B9%E6%98%AF%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%89%E6%9C%88%E4%B8%80%E5%80%8B%E6%B6%BC%E7%88%BD%E7%9A%84%E9%80%B1%E4%B8%89%E6%97%A9%E6%99%A8%EF%BC%8C%E6%96%BC%20%7Bargument%20name%3D%22city%20in%20english%22%20default%3D%22London%22%7D%20%E4%B8%80%E9%96%93%E6%82%A0%E9%96%92%E7%9A%84%E6%88%B6%E5%A4%96%E9%A4%90%E5%BB%B3%E8%A3%A1%E3%80%82%E6%99%82%E9%96%93%E6%98%AF%20%7Bargument%20name%3D%22year%20in%20english%22%20default%3D%222025%22%7D%E3%80%82%E5%A4%A9%E7%A9%BA%E6%99%B4%E6%9C%97%EF%BC%8C%E6%98%A5%E5%A4%A9%E7%9A%84%E7%A9%BA%E6%B0%A3%E6%B8%85%E6%96%B0%EF%BC%8C%E5%9F%8E%E5%B8%82%E5%9C%A8%E7%94%A6%E9%86%92%E4%B8%AD%E9%A1%AF%E5%BE%97%E5%AF%A7%E9%9D%9C%E3%80%82%E5%A5%B9%E6%98%AF%E7%85%A7%E7%89%87%E7%9A%84%E7%84%A6%E9%BB%9E%E2%80%94%E2%80%94%E6%88%B4%E8%91%97%E4%B8%80%E6%A2%9D%E8%BC%95%E6%9F%94%E7%9A%84%E5%9C%8D%E5%B7%BE%EF%BC%8C%E8%BC%95%E8%BC%95%E6%94%AA%E6%8B%8C%E8%91%97%E8%8C%B6%EF%BC%8C%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D%E5%9C%B0%E6%9C%9B%E5%90%91%E4%B8%80%E6%97%81%E3%80%82%E5%A5%B9%E8%BA%AB%E5%BE%8C%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%8C%E5%BE%9E%E4%BE%86%E5%9B%9E%E8%B5%B0%E5%8B%95%E7%9A%84%E6%9C%8D%E5%8B%99%E7%94%9F%E5%88%B0%E8%BC%95%E6%9F%94%E7%9A%84%E6%99%A8%E9%96%93%E8%BB%8A%E6%B5%81%EF%BC%8C%E9%83%BD%E6%87%89%E5%91%88%E7%8F%BE%E6%9F%94%E5%92%8C%E7%9A%84%E6%A8%A1%E7%B3%8A%EF%BC%8C%E8%AE%93%E7%85%A7%E7%89%87%E5%B8%B6%E6%9C%89%E9%9A%A8%E6%89%8B%E7%94%A8%E6%89%8B%E6%A9%9F%E6%8D%95%E6%8D%89%E7%9A%84%E7%9E%AC%E9%96%93%E9%82%A3%E7%A8%AE%E8%BC%95%E9%AC%86%E3%80%81%E8%87%AA%E7%84%B6%E7%9A%84%E6%B0%9B%E5%9C%8D%E3%80%82)**
+
+---
+
+### No. 7: 夢想日記：卡比吹泡泡
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -358,7 +399,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 7: 詳細的鏡中自拍御宅族房間場景
+### No. 8: 詳細的鏡中自拍御宅族房間場景
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -461,11 +502,3130 @@ https://t.co/QxbYpfFVj6
 
 ---
 
+### No. 9: 黑白工作室側身肖像提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡潔的 Nano Banana Pro 提示，用於生成一張超寫實的年輕男子側面黑白攝影棚肖像，使用隨附的參考圖片並指定尺寸和輸出數量。
+
+#### 📝 提示詞
+
+```
+{
+  "Use the attached image of the person as reference. Hyper-realistic black and white studio portrait of the young man in side profile, natural hair gently falling around his face. Strong rim light accentuating his jawline and nose, dark minimalist background. Expression thoughtful and serene, cinematic lighting creating dramatic contrast and fine photographic detail.": "請參考隨附的人物圖片。這是一張超寫實的黑白工作室肖像照，年輕男子側面入鏡，自然髮絲輕柔地垂落在臉龐周圍。強烈的輪廓光突顯了他的下顎線和鼻子，背景是深色極簡風格。表情沉思而寧靜，電影般的燈光營造出戲劇性的對比和精緻的攝影細節。",
+  "size": "{argument name=\"image size\" default=\"1024x1024\"}",
+  "n": "{argument name=\"number of images\" default=\"1\"}"
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="黑白工作室側身肖像提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [K](https://x.com/ChillaiKalan__)
+- **來源:** [Twitter Post](https://x.com/ChillaiKalan__/status/1992790080503902651)
+- **發布時間:** 2025年11月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22Use%20the%20attached%20image%20of%20the%20person%20as%20reference.%20Hyper-realistic%20black%20and%20white%20studio%20portrait%20of%20the%20young%20man%20in%20side%20profile%2C%20natural%20hair%20gently%20falling%20around%20his%20face.%20Strong%20rim%20light%20accentuating%20his%20jawline%20and%20nose%2C%20dark%20minimalist%20background.%20Expression%20thoughtful%20and%20serene%2C%20cinematic%20lighting%20creating%20dramatic%20contrast%20and%20fine%20photographic%20detail.%22%3A%20%22%E8%AB%8B%E5%8F%83%E8%80%83%E9%9A%A8%E9%99%84%E7%9A%84%E4%BA%BA%E7%89%A9%E5%9C%96%E7%89%87%E3%80%82%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%E8%B6%85%E5%AF%AB%E5%AF%A6%E7%9A%84%E9%BB%91%E7%99%BD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%82%96%E5%83%8F%E7%85%A7%EF%BC%8C%E5%B9%B4%E8%BC%95%E7%94%B7%E5%AD%90%E5%81%B4%E9%9D%A2%E5%85%A5%E9%8F%A1%EF%BC%8C%E8%87%AA%E7%84%B6%E9%AB%AE%E7%B5%B2%E8%BC%95%E6%9F%94%E5%9C%B0%E5%9E%82%E8%90%BD%E5%9C%A8%E8%87%89%E9%BE%90%E5%91%A8%E5%9C%8D%E3%80%82%E5%BC%B7%E7%83%88%E7%9A%84%E8%BC%AA%E5%BB%93%E5%85%89%E7%AA%81%E9%A1%AF%E4%BA%86%E4%BB%96%E7%9A%84%E4%B8%8B%E9%A1%8E%E7%B7%9A%E5%92%8C%E9%BC%BB%E5%AD%90%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E6%B7%B1%E8%89%B2%E6%A5%B5%E7%B0%A1%E9%A2%A8%E6%A0%BC%E3%80%82%E8%A1%A8%E6%83%85%E6%B2%89%E6%80%9D%E8%80%8C%E5%AF%A7%E9%9D%9C%EF%BC%8C%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E7%87%88%E5%85%89%E7%87%9F%E9%80%A0%E5%87%BA%E6%88%B2%E5%8A%87%E6%80%A7%E7%9A%84%E5%B0%8D%E6%AF%94%E5%92%8C%E7%B2%BE%E7%B7%BB%E7%9A%84%E6%94%9D%E5%BD%B1%E7%B4%B0%E7%AF%80%E3%80%82%22%2C%0A%20%20%22size%22%3A%20%22%7Bargument%20name%3D%5C%22image%20size%5C%22%20default%3D%5C%221024x1024%5C%22%7D%22%2C%0A%20%20%22n%22%3A%20%22%7Bargument%20name%3D%5C%22number%20of%20images%5C%22%20default%3D%5C%221%5C%22%7D%22%0A%7D)**
+
+---
+
+### No. 10: 2005 年 Sony CyberShot 商場美食廣場快照提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張圖片提示，重現一張早期數碼相機拍攝的購物中心美食廣場照片，內容有青少年、刺眼的閃光燈、日期戳記和 Myspace 時代的美學風格。
+
+#### 📝 提示詞
+
+```
+一張用 2005 年 Sony CyberShot 拍攝的低解析度數位相片。一群青少年在購物中心美食廣場閒逛。刺眼的機頂閃光燈，高光略微過曝，陰影處有數位雜訊。由於早期數位處理，皮膚紋理看起來有點蠟狀。右下角有一個橘色日期戳記，上面寫著「{argument name="date stamp in english" default="04/12/2005"}」。隨性、尷尬的角度，充滿 Myspace 相片美學。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="2005 年 Sony CyberShot 商場美食廣場快照提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="2005 年 Sony CyberShot 商場美食廣場快照提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Marky @ Easy-Peasy.AI](https://x.com/easy_peasy_ai)
+- **來源:** [Twitter Post](https://x.com/easy_peasy_ai/status/1996232508162310472)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%E7%94%A8%202005%20%E5%B9%B4%20Sony%20CyberShot%20%E6%8B%8D%E6%94%9D%E7%9A%84%E4%BD%8E%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%95%B8%E4%BD%8D%E7%9B%B8%E7%89%87%E3%80%82%E4%B8%80%E7%BE%A4%E9%9D%92%E5%B0%91%E5%B9%B4%E5%9C%A8%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E7%BE%8E%E9%A3%9F%E5%BB%A3%E5%A0%B4%E9%96%92%E9%80%9B%E3%80%82%E5%88%BA%E7%9C%BC%E7%9A%84%E6%A9%9F%E9%A0%82%E9%96%83%E5%85%89%E7%87%88%EF%BC%8C%E9%AB%98%E5%85%89%E7%95%A5%E5%BE%AE%E9%81%8E%E6%9B%9D%EF%BC%8C%E9%99%B0%E5%BD%B1%E8%99%95%E6%9C%89%E6%95%B8%E4%BD%8D%E9%9B%9C%E8%A8%8A%E3%80%82%E7%94%B1%E6%96%BC%E6%97%A9%E6%9C%9F%E6%95%B8%E4%BD%8D%E8%99%95%E7%90%86%EF%BC%8C%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%9C%89%E9%BB%9E%E8%A0%9F%E7%8B%80%E3%80%82%E5%8F%B3%E4%B8%8B%E8%A7%92%E6%9C%89%E4%B8%80%E5%80%8B%E6%A9%98%E8%89%B2%E6%97%A5%E6%9C%9F%E6%88%B3%E8%A8%98%EF%BC%8C%E4%B8%8A%E9%9D%A2%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22date%20stamp%20in%20english%22%20default%3D%2204%2F12%2F2005%22%7D%E3%80%8D%E3%80%82%E9%9A%A8%E6%80%A7%E3%80%81%E5%B0%B7%E5%B0%AC%E7%9A%84%E8%A7%92%E5%BA%A6%EF%BC%8C%E5%85%85%E6%BB%BF%20Myspace%20%E7%9B%B8%E7%89%87%E7%BE%8E%E5%AD%B8%E3%80%82)**
+
+---
+
+### No. 11: 橄欖油品牌社群媒體內容生成請求
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+該推文引用了給予 Gamma 的自然語言請求，然後 Gamma 使用了 Nano Banana Pro，該請求可以作為一個簡單的提示重複使用，為小批量橄欖油品牌生成社群媒體動態。
+
+#### 📝 提示詞
+
+```
+為「{argument name="brand description" default="這個小批量橄欖油品牌"}」建立社群媒體動態消息。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909159851_ahqsgd_AINoNNOpgxMpOVV7.jpg" width="700" alt="橄欖油品牌社群媒體內容生成請求 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Bishal Nandi](https://x.com/LearnWithBishal)
+- **來源:** [Twitter Post](https://x.com/LearnWithBishal/status/1995876788657172902)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%E3%80%8C%7Bargument%20name%3D%22brand%20description%22%20default%3D%22%E9%80%99%E5%80%8B%E5%B0%8F%E6%89%B9%E9%87%8F%E6%A9%84%E6%AC%96%E6%B2%B9%E5%93%81%E7%89%8C%22%7D%E3%80%8D%E5%BB%BA%E7%AB%8B%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E5%8B%95%E6%85%8B%E6%B6%88%E6%81%AF%E3%80%82)**
+
+---
+
+### No. 12: 重複橄欖油社群媒體貼文提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+另一則推文引用了相同的請求，要求為小批量橄欖油品牌建立社群媒體動態消息，可用作 Nano Banana Pro 的文字或圖片提示，並搭配產品照片。
+
+#### 📝 提示詞
+
+```
+為 {argument name="brand description" default="這個小批量橄欖油品牌"} 建立社群媒體動態消息。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909156641_4jmcin_tOn80A78xv0O-eYb.jpg" width="700" alt="重複橄欖油社群媒體貼文提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Mujeeb Ahmed](https://x.com/hey_mujeebahmed)
+- **來源:** [Twitter Post](https://x.com/hey_mujeebahmed/status/1995920209941856416)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%20%7Bargument%20name%3D%22brand%20description%22%20default%3D%22%E9%80%99%E5%80%8B%E5%B0%8F%E6%89%B9%E9%87%8F%E6%A9%84%E6%AC%96%E6%B2%B9%E5%93%81%E7%89%8C%22%7D%20%E5%BB%BA%E7%AB%8B%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E5%8B%95%E6%85%8B%E6%B6%88%E6%81%AF%E3%80%82)**
+
+---
+
 ## 📋 所有提示詞
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: Nano Banana Pro 的聖人與惡魔雙重角色提示
+### No. 1: 輕便數位相機螢幕人像提示
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的 nano-banana-pro 提示，用於生成一張懷舊的 2000 年代風格小型數碼相機照片，顯示相機背面螢幕上的特寫人像，並包含特定的構圖、光線和相機設定。
+
+#### 📝 提示詞
+
+```
+使用附件照片中的臉部特徵。在小型 Canon 輕便型數位相機的螢幕上，顯示 {argument name="character description" default="一位年輕女性"} 的特寫鏡頭。相機機身環繞著影像，其按鈕、轉盤和紋理表面清晰可見，包括 FUNC/SET 轉盤、DISP 按鈕以及側面的「IMAGE STABILIZER」標籤。螢幕上的照片拍攝於 {argument name="time and environment" default="室內夜晚"}，明亮的內建閃光燈照亮了 {argument name="character term" default="這位女性"} 的臉部和頭髮，在她的皮膚和髮絲上產生了鮮明的亮點。她有著 {argument name="hair color and style" default="深色長髮，鬆散地垂在臉頰旁"}，嘴唇微啟，表情柔和。閃光燈強調了她的臉部特徵，而背景則是 {argument name="background setting" default="一個昏暗、雜亂的廚房"}，其中電器、架子和金屬表面在柔和的散景效果下隱約可見。整體氛圍自然、真實且懷舊，讓人聯想到 {argument name="era feeling" default="2000 年代初期數位相機快照"}。色彩偏冷且柔和，閃光燈帶來強烈的對比，螢幕顯示具有自然的顆粒紋理。照片預覽中沒有文字或標誌。
+
+長寬比：{argument name="aspect ratio" default="4:5 垂直"}
+
+相機：輕便型數位相機模擬
+鏡頭：28–35mm 等效
+光圈：f/2.8
+ISO：400
+快門速度：1/60 秒（帶閃光燈）
+白平衡：自動閃光
+照明：主體由強烈直射閃光燈照明，背景環境光線微弱
+色彩分級風格：{argument name="color grading style" default="懷舊數位相機色調、高對比閃光燈效果、細膩螢幕顆粒、真實螢幕光暈"}。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909253831_m0r0o3_G7SgEsUbEAA-WXL.jpg" width="600" alt="輕便數位相機螢幕人像提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909257061_1enhlm_G7NVohbbgAcUFBe.jpg" width="600" alt="輕便數位相機螢幕人像提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909259393_mhvo6o_G7NVog9a4AAnfbO.jpg" width="600" alt="輕便數位相機螢幕人像提示 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [ttmouse](https://x.com/ttmouse)
+- **來源:** [Twitter Post](https://x.com/ttmouse/status/1996396553741988347)
+- **發布時間:** 2025年12月4日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%BF%E7%94%A8%E9%99%84%E4%BB%B6%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E3%80%82%E5%9C%A8%E5%B0%8F%E5%9E%8B%20Canon%20%E8%BC%95%E4%BE%BF%E5%9E%8B%E6%95%B8%E4%BD%8D%E7%9B%B8%E6%A9%9F%E7%9A%84%E8%9E%A2%E5%B9%95%E4%B8%8A%EF%BC%8C%E9%A1%AF%E7%A4%BA%20%7Bargument%20name%3D%22character%20description%22%20default%3D%22%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%22%7D%20%E7%9A%84%E7%89%B9%E5%AF%AB%E9%8F%A1%E9%A0%AD%E3%80%82%E7%9B%B8%E6%A9%9F%E6%A9%9F%E8%BA%AB%E7%92%B0%E7%B9%9E%E8%91%97%E5%BD%B1%E5%83%8F%EF%BC%8C%E5%85%B6%E6%8C%89%E9%88%95%E3%80%81%E8%BD%89%E7%9B%A4%E5%92%8C%E7%B4%8B%E7%90%86%E8%A1%A8%E9%9D%A2%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E5%8C%85%E6%8B%AC%20FUNC%2FSET%20%E8%BD%89%E7%9B%A4%E3%80%81DISP%20%E6%8C%89%E9%88%95%E4%BB%A5%E5%8F%8A%E5%81%B4%E9%9D%A2%E7%9A%84%E3%80%8CIMAGE%20STABILIZER%E3%80%8D%E6%A8%99%E7%B1%A4%E3%80%82%E8%9E%A2%E5%B9%95%E4%B8%8A%E7%9A%84%E7%85%A7%E7%89%87%E6%8B%8D%E6%94%9D%E6%96%BC%20%7Bargument%20name%3D%22time%20and%20environment%22%20default%3D%22%E5%AE%A4%E5%85%A7%E5%A4%9C%E6%99%9A%22%7D%EF%BC%8C%E6%98%8E%E4%BA%AE%E7%9A%84%E5%85%A7%E5%BB%BA%E9%96%83%E5%85%89%E7%87%88%E7%85%A7%E4%BA%AE%E4%BA%86%20%7Bargument%20name%3D%22character%20term%22%20default%3D%22%E9%80%99%E4%BD%8D%E5%A5%B3%E6%80%A7%22%7D%20%E7%9A%84%E8%87%89%E9%83%A8%E5%92%8C%E9%A0%AD%E9%AB%AE%EF%BC%8C%E5%9C%A8%E5%A5%B9%E7%9A%84%E7%9A%AE%E8%86%9A%E5%92%8C%E9%AB%AE%E7%B5%B2%E4%B8%8A%E7%94%A2%E7%94%9F%E4%BA%86%E9%AE%AE%E6%98%8E%E7%9A%84%E4%BA%AE%E9%BB%9E%E3%80%82%E5%A5%B9%E6%9C%89%E8%91%97%20%7Bargument%20name%3D%22hair%20color%20and%20style%22%20default%3D%22%E6%B7%B1%E8%89%B2%E9%95%B7%E9%AB%AE%EF%BC%8C%E9%AC%86%E6%95%A3%E5%9C%B0%E5%9E%82%E5%9C%A8%E8%87%89%E9%A0%B0%E6%97%81%22%7D%EF%BC%8C%E5%98%B4%E5%94%87%E5%BE%AE%E5%95%9F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%9F%94%E5%92%8C%E3%80%82%E9%96%83%E5%85%89%E7%87%88%E5%BC%B7%E8%AA%BF%E4%BA%86%E5%A5%B9%E7%9A%84%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%EF%BC%8C%E8%80%8C%E8%83%8C%E6%99%AF%E5%89%87%E6%98%AF%20%7Bargument%20name%3D%22background%20setting%22%20default%3D%22%E4%B8%80%E5%80%8B%E6%98%8F%E6%9A%97%E3%80%81%E9%9B%9C%E4%BA%82%E7%9A%84%E5%BB%9A%E6%88%BF%22%7D%EF%BC%8C%E5%85%B6%E4%B8%AD%E9%9B%BB%E5%99%A8%E3%80%81%E6%9E%B6%E5%AD%90%E5%92%8C%E9%87%91%E5%B1%AC%E8%A1%A8%E9%9D%A2%E5%9C%A8%E6%9F%94%E5%92%8C%E7%9A%84%E6%95%A3%E6%99%AF%E6%95%88%E6%9E%9C%E4%B8%8B%E9%9A%B1%E7%B4%84%E5%8F%AF%E8%A6%8B%E3%80%82%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E8%87%AA%E7%84%B6%E3%80%81%E7%9C%9F%E5%AF%A6%E4%B8%94%E6%87%B7%E8%88%8A%EF%BC%8C%E8%AE%93%E4%BA%BA%E8%81%AF%E6%83%B3%E5%88%B0%20%7Bargument%20name%3D%22era%20feeling%22%20default%3D%222000%20%E5%B9%B4%E4%BB%A3%E5%88%9D%E6%9C%9F%E6%95%B8%E4%BD%8D%E7%9B%B8%E6%A9%9F%E5%BF%AB%E7%85%A7%22%7D%E3%80%82%E8%89%B2%E5%BD%A9%E5%81%8F%E5%86%B7%E4%B8%94%E6%9F%94%E5%92%8C%EF%BC%8C%E9%96%83%E5%85%89%E7%87%88%E5%B8%B6%E4%BE%86%E5%BC%B7%E7%83%88%E7%9A%84%E5%B0%8D%E6%AF%94%EF%BC%8C%E8%9E%A2%E5%B9%95%E9%A1%AF%E7%A4%BA%E5%85%B7%E6%9C%89%E8%87%AA%E7%84%B6%E7%9A%84%E9%A1%86%E7%B2%92%E7%B4%8B%E7%90%86%E3%80%82%E7%85%A7%E7%89%87%E9%A0%90%E8%A6%BD%E4%B8%AD%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%E6%88%96%E6%A8%99%E8%AA%8C%E3%80%82%0A%0A%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%9A%7Bargument%20name%3D%22aspect%20ratio%22%20default%3D%224%3A5%20%E5%9E%82%E7%9B%B4%22%7D%0A%0A%E7%9B%B8%E6%A9%9F%EF%BC%9A%E8%BC%95%E4%BE%BF%E5%9E%8B%E6%95%B8%E4%BD%8D%E7%9B%B8%E6%A9%9F%E6%A8%A1%E6%93%AC%0A%E9%8F%A1%E9%A0%AD%EF%BC%9A28%E2%80%9335mm%20%E7%AD%89%E6%95%88%0A%E5%85%89%E5%9C%88%EF%BC%9Af%2F2.8%0AISO%EF%BC%9A400%0A%E5%BF%AB%E9%96%80%E9%80%9F%E5%BA%A6%EF%BC%9A1%2F60%20%E7%A7%92%EF%BC%88%E5%B8%B6%E9%96%83%E5%85%89%E7%87%88%EF%BC%89%0A%E7%99%BD%E5%B9%B3%E8%A1%A1%EF%BC%9A%E8%87%AA%E5%8B%95%E9%96%83%E5%85%89%0A%E7%85%A7%E6%98%8E%EF%BC%9A%E4%B8%BB%E9%AB%94%E7%94%B1%E5%BC%B7%E7%83%88%E7%9B%B4%E5%B0%84%E9%96%83%E5%85%89%E7%87%88%E7%85%A7%E6%98%8E%EF%BC%8C%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E5%85%89%E7%B7%9A%E5%BE%AE%E5%BC%B1%0A%E8%89%B2%E5%BD%A9%E5%88%86%E7%B4%9A%E9%A2%A8%E6%A0%BC%EF%BC%9A%7Bargument%20name%3D%22color%20grading%20style%22%20default%3D%22%E6%87%B7%E8%88%8A%E6%95%B8%E4%BD%8D%E7%9B%B8%E6%A9%9F%E8%89%B2%E8%AA%BF%E3%80%81%E9%AB%98%E5%B0%8D%E6%AF%94%E9%96%83%E5%85%89%E7%87%88%E6%95%88%E6%9E%9C%E3%80%81%E7%B4%B0%E8%86%A9%E8%9E%A2%E5%B9%95%E9%A1%86%E7%B2%92%E3%80%81%E7%9C%9F%E5%AF%A6%E8%9E%A2%E5%B9%95%E5%85%89%E6%9A%88%22%7D%E3%80%82)**
+
+---
+
+### No. 2: 使用 Nano Banana Pro 與電影角色拍攝魚眼自拍
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的圖像提示，用於生成超寫實的魚眼鏡頭風格團體自拍，將上傳的人物與選定的電影角色結合，模仿復古 35mm 閃光攝影。
+
+#### 📝 提示詞
+
+```
+一張電影般的魚眼廣角 360 度自拍，主體手中沒有任何相機或手機。一張 {argument name="person from uploaded image in english" default="上傳圖片中的人物"} 與 {argument name="characters in english" default="他們最喜歡的電影角色"} 的真實且誇張的自拍照。他們正對著鏡頭做鬼臉。
+
+一張超現實的魚眼廣角自拍，使用復古 35 毫米魚眼鏡頭拍攝，產生嚴重的桶狀畸變，主體手中沒有任何相機或手機。
+主體與動作：一張特寫、扭曲的團體照，主角是 {argument name="person from uploaded image in english" default="上傳圖片中的人物"} 與 {argument name="characters in english" default="他們最喜歡的電影角色"} 的自拍。每個人都做著瘋狂、誇張的鬼臉，因閃光燈而略微瞇眼。
+光線與質感：刺眼、直射的機頂閃光燈，在主體後方形成生硬的陰影。真實的底片顆粒、邊緣輕微的動態模糊和色差。這看起來像是一張隨性、業餘的快照，彷彿是在混亂的幕後時刻捕捉到的，而不是一張攝影棚照片。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909308186_uwe1k5_G7Q6stnXIAAe7Vz.jpg" width="600" alt="使用 Nano Banana Pro 與電影角色拍攝魚眼自拍 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909310826_gtjbuj_G7Q6s9zWYAATJc4.jpg" width="600" alt="使用 Nano Banana Pro 與電影角色拍攝魚眼自拍 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909313174_1wfjpp_G7Q6s7mWsAE_FvH.jpg" width="600" alt="使用 Nano Banana Pro 與電影角色拍攝魚眼自拍 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909315401_k8u49z_G7Q6tBXWQAAAVNI.jpg" width="600" alt="使用 Nano Banana Pro 與電影角色拍攝魚眼自拍 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [ΛRMIN | AI](https://x.com/Arminn_Ai)
+- **來源:** [Twitter Post](https://x.com/Arminn_Ai/status/1996285140893622391)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E9%AD%9A%E7%9C%BC%E5%BB%A3%E8%A7%92%20360%20%E5%BA%A6%E8%87%AA%E6%8B%8D%EF%BC%8C%E4%B8%BB%E9%AB%94%E6%89%8B%E4%B8%AD%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E7%9B%B8%E6%A9%9F%E6%88%96%E6%89%8B%E6%A9%9F%E3%80%82%E4%B8%80%E5%BC%B5%20%7Bargument%20name%3D%22person%20from%20uploaded%20image%20in%20english%22%20default%3D%22%E4%B8%8A%E5%82%B3%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%22%7D%20%E8%88%87%20%7Bargument%20name%3D%22characters%20in%20english%22%20default%3D%22%E4%BB%96%E5%80%91%E6%9C%80%E5%96%9C%E6%AD%A1%E7%9A%84%E9%9B%BB%E5%BD%B1%E8%A7%92%E8%89%B2%22%7D%20%E7%9A%84%E7%9C%9F%E5%AF%A6%E4%B8%94%E8%AA%87%E5%BC%B5%E7%9A%84%E8%87%AA%E6%8B%8D%E7%85%A7%E3%80%82%E4%BB%96%E5%80%91%E6%AD%A3%E5%B0%8D%E8%91%97%E9%8F%A1%E9%A0%AD%E5%81%9A%E9%AC%BC%E8%87%89%E3%80%82%0A%0A%E4%B8%80%E5%BC%B5%E8%B6%85%E7%8F%BE%E5%AF%A6%E7%9A%84%E9%AD%9A%E7%9C%BC%E5%BB%A3%E8%A7%92%E8%87%AA%E6%8B%8D%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%BE%A9%E5%8F%A4%2035%20%E6%AF%AB%E7%B1%B3%E9%AD%9A%E7%9C%BC%E9%8F%A1%E9%A0%AD%E6%8B%8D%E6%94%9D%EF%BC%8C%E7%94%A2%E7%94%9F%E5%9A%B4%E9%87%8D%E7%9A%84%E6%A1%B6%E7%8B%80%E7%95%B8%E8%AE%8A%EF%BC%8C%E4%B8%BB%E9%AB%94%E6%89%8B%E4%B8%AD%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E7%9B%B8%E6%A9%9F%E6%88%96%E6%89%8B%E6%A9%9F%E3%80%82%0A%E4%B8%BB%E9%AB%94%E8%88%87%E5%8B%95%E4%BD%9C%EF%BC%9A%E4%B8%80%E5%BC%B5%E7%89%B9%E5%AF%AB%E3%80%81%E6%89%AD%E6%9B%B2%E7%9A%84%E5%9C%98%E9%AB%94%E7%85%A7%EF%BC%8C%E4%B8%BB%E8%A7%92%E6%98%AF%20%7Bargument%20name%3D%22person%20from%20uploaded%20image%20in%20english%22%20default%3D%22%E4%B8%8A%E5%82%B3%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%22%7D%20%E8%88%87%20%7Bargument%20name%3D%22characters%20in%20english%22%20default%3D%22%E4%BB%96%E5%80%91%E6%9C%80%E5%96%9C%E6%AD%A1%E7%9A%84%E9%9B%BB%E5%BD%B1%E8%A7%92%E8%89%B2%22%7D%20%E7%9A%84%E8%87%AA%E6%8B%8D%E3%80%82%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E5%81%9A%E8%91%97%E7%98%8B%E7%8B%82%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E9%AC%BC%E8%87%89%EF%BC%8C%E5%9B%A0%E9%96%83%E5%85%89%E7%87%88%E8%80%8C%E7%95%A5%E5%BE%AE%E7%9E%87%E7%9C%BC%E3%80%82%0A%E5%85%89%E7%B7%9A%E8%88%87%E8%B3%AA%E6%84%9F%EF%BC%9A%E5%88%BA%E7%9C%BC%E3%80%81%E7%9B%B4%E5%B0%84%E7%9A%84%E6%A9%9F%E9%A0%82%E9%96%83%E5%85%89%E7%87%88%EF%BC%8C%E5%9C%A8%E4%B8%BB%E9%AB%94%E5%BE%8C%E6%96%B9%E5%BD%A2%E6%88%90%E7%94%9F%E7%A1%AC%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%E7%9C%9F%E5%AF%A6%E7%9A%84%E5%BA%95%E7%89%87%E9%A1%86%E7%B2%92%E3%80%81%E9%82%8A%E7%B7%A3%E8%BC%95%E5%BE%AE%E7%9A%84%E5%8B%95%E6%85%8B%E6%A8%A1%E7%B3%8A%E5%92%8C%E8%89%B2%E5%B7%AE%E3%80%82%E9%80%99%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E6%98%AF%E4%B8%80%E5%BC%B5%E9%9A%A8%E6%80%A7%E3%80%81%E6%A5%AD%E9%A4%98%E7%9A%84%E5%BF%AB%E7%85%A7%EF%BC%8C%E5%BD%B7%E5%BD%BF%E6%98%AF%E5%9C%A8%E6%B7%B7%E4%BA%82%E7%9A%84%E5%B9%95%E5%BE%8C%E6%99%82%E5%88%BB%E6%8D%95%E6%8D%89%E5%88%B0%E7%9A%84%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E4%B8%80%E5%BC%B5%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%85%A7%E7%89%87%E3%80%82)**
+
+---
+
+### No. 3: Y2K 風格手寫女孩明信片疊圖提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個日文提示，將 2003 年代辣妹風格的 POSCA 麥克筆塗鴉和文字添加到照片中，模仿懷舊的手寫明信片。
+
+#### 📝 提示詞
+
+```
+加入手繪風格的古怪文字和圖畫，就像是用 POSCA 麥克筆寫的少女塗鴉。文字中包含日文，並使用大約在 {argument name="era" default="2003"} 年左右流行的措辭。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909232181_0x1tng_G7QwiHcbAAA0YW4.jpg" width="600" alt="Y2K 風格手寫女孩明信片疊圖提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909235153_x1e1ur_G7QwifQaMAA_zml.jpg" width="600" alt="Y2K 風格手寫女孩明信片疊圖提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Studio Veco|日本一ダサい画像を生成する人](https://x.com/studio_veco)
+- **來源:** [Twitter Post](https://x.com/studio_veco/status/1996274950689480832)
+- **發布時間:** 2025年12月3日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8A%A0%E5%85%A5%E6%89%8B%E7%B9%AA%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%8F%A4%E6%80%AA%E6%96%87%E5%AD%97%E5%92%8C%E5%9C%96%E7%95%AB%EF%BC%8C%E5%B0%B1%E5%83%8F%E6%98%AF%E7%94%A8%20POSCA%20%E9%BA%A5%E5%85%8B%E7%AD%86%E5%AF%AB%E7%9A%84%E5%B0%91%E5%A5%B3%E5%A1%97%E9%B4%89%E3%80%82%E6%96%87%E5%AD%97%E4%B8%AD%E5%8C%85%E5%90%AB%E6%97%A5%E6%96%87%EF%BC%8C%E4%B8%A6%E4%BD%BF%E7%94%A8%E5%A4%A7%E7%B4%84%E5%9C%A8%20%7Bargument%20name%3D%22era%22%20default%3D%222003%22%7D%20%E5%B9%B4%E5%B7%A6%E5%8F%B3%E6%B5%81%E8%A1%8C%E7%9A%84%E6%8E%AA%E8%BE%AD%E3%80%82)**
+
+---
+
+### No. 4: 簡單的聖誕狗狗和聖誕老人圖片提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個非常簡短的日文提示，用於多個模型以生成聖誕老人抱著狗的圖像。
+
+#### 📝 提示詞
+
+```
+{argument name="subject" default="聖誕老人抱著一隻狗"}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909242535_edj9ce_G7Qi6rjbgAAfouN.jpg" width="600" alt="簡單的聖誕狗狗和聖誕老人圖片提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909244704_nog121_G7Qi8RmaIAAZU9f.jpg" width="600" alt="簡單的聖誕狗狗和聖誕老人圖片提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909246726_vf691f_G6J4JI8kJGBT2sWL.jpg" width="600" alt="簡單的聖誕狗狗和聖誕老人圖片提示 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [あやぴょこ🍍旅・プロレス・チワックス](https://x.com/ayapyokoii)
+- **來源:** [Twitter Post](https://x.com/ayapyokoii/status/1996264945814774028)
+- **發布時間:** 2025年12月3日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22subject%22%20default%3D%22%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E6%8A%B1%E8%91%97%E4%B8%80%E9%9A%BB%E7%8B%97%22%7D)**
+
+---
+
+### No. 5: Sora 影片提示：Macho Meal 麥當勞廣告
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡短的 Sora 提示，用於生成一個真實的 1980 年代風格麥當勞廣告，內容是 Macho Man Randy Savage 推銷 Macho Meal 快樂兒童餐。
+
+#### 📝 提示詞
+
+```
+這是 1980 年代 {argument name="brand in english" default="McDonalds"} 推出 {argument name="product name in english" default="Macho Meal happy meal"} 的原版復古廣告，由 {argument name="celebrity in english" default="Macho Man Randy Savage"} 主演。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909291696_fwd49g_G7QoKZ9W0AAUsNn.jpg" width="600" alt="Sora 影片提示：Macho Meal 麥當勞廣告 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909293873_keczs5_krgJY8gssiXo70r_.jpg" width="600" alt="Sora 影片提示：Macho Meal 麥當勞廣告 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jason Rink](https://x.com/JasonRink)
+- **來源:** [Twitter Post](https://x.com/JasonRink/status/1996264860317851776)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%80%99%E6%98%AF%201980%20%E5%B9%B4%E4%BB%A3%20%7Bargument%20name%3D%22brand%20in%20english%22%20default%3D%22McDonalds%22%7D%20%E6%8E%A8%E5%87%BA%20%7Bargument%20name%3D%22product%20name%20in%20english%22%20default%3D%22Macho%20Meal%20happy%20meal%22%7D%20%E7%9A%84%E5%8E%9F%E7%89%88%E5%BE%A9%E5%8F%A4%E5%BB%A3%E5%91%8A%EF%BC%8C%E7%94%B1%20%7Bargument%20name%3D%22celebrity%20in%20english%22%20default%3D%22Macho%20Man%20Randy%20Savage%22%7D%20%E4%B8%BB%E6%BC%94%E3%80%82)**
+
+---
+
+### No. 6: 情侶 MacBook 螢幕自拍模擬提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個複雜的 JSON 配置，用於模擬超逼真的 MacBook 螢幕，顯示一對特定情侶的 Photo Booth 自拍照，包括實體螢幕瑕疵、使用者介面佈局和嚴格的身份保留設定。
+
+#### 📝 提示詞
+
+```
+{
+  "task_configuration": {
+    "task_type": "screen_simulation_photorealism",
+    "target_model": "SDXL_1.0_Refiner",
+    "aspect_ratio": "3:4",
+    "resolution": {
+      "width": 1152,
+      "height": 1536
+    }
+  },
+  "visual_hierarchy": {
+    "layer_1_physical_macro": {
+      "camera_angle": "向下傾斜、高角度",
+      "framing": "MacBook 螢幕佔據畫面 95%",
+      "surface_imperfections": [
+        "細微的像素網格紋理（莫爾條紋）",
+        "玻璃上的微小灰塵顆粒",
+        "光澤螢幕上微弱的環境光反射",
+        "指紋污漬"
+      ],
+      "foreground_anchor": "實體鍵盤的細長條帶在下邊緣可見"
+    },
+    "layer_2_digital_interface": {
+      "theme": "深色模式 (macOS)",
+      "window_layout": {
+        "left_panel": "Spotify 的「已喜歡歌曲」播放列表（變暗）",
+        "right_panel": "Photo Booth 即時預覽視窗（主要焦點）"
+      }
+    },
+    "layer_3_nested_subject_content": {
+      "context": "Photo Booth 視窗內",
+      "environment": "昏暗的臥室，米白色牆壁，凌亂的床上用品",
+      "lighting_simulation": "螢幕的冷光與溫暖的膚色混合，深邃的夜間陰影",
+      "subjects": {
+        "shared_attributes": [
+          "寬鬆的黑色連帽衫",
+          "帽子向後推（臉部完全可見）",
+          "斜倚的姿勢",
+          "看著螢幕"
+        ],
+        "subject_a_guy": {
+          "identity_target": "{argument name=\"guy reference image in english\" default=\"2nd image attached\"}",
+          "action": "右手拿著一部帶有透明反光手機殼的手機",
+          "position": "右/中"
+        },
+        "subject_b_girl": {
+          "identity_target": "{argument name=\"girl reference image in english\" default=\"1st image attached\"}",
+          "action": "緊挨著 A 主體休息",
+          "position": "左/中"
+        }
+      }
+    }
+  },
+  "prompt_assembly": {
+    "positive_prompt": "MacBook 螢幕的超寫實俯視圖。螢幕表面有可見的灰塵、像素網格和反射。螢幕顯示一個 Photo Booth 視窗，其中顯示一對情侶在黑暗的房間裡。[主體描述]。他們穿著黑色連帽衫。燈光是低調、自然、夜間、藍色螢幕發光。高保真度、原始照片、未經編輯。",
+    "negative_prompt": "向量藝術、螢幕截圖、平面數位圖像、乾淨的玻璃、完美的螢幕、日光、明亮的攝影棚燈光、卡通、3D 渲染、繪畫、浮水印"
+  },
+  "identity_preservation_settings": {
+    "strictness_level": "CRITICAL",
+    "methodology": {
+      "face_restoration": false,
+      "note": "禁用通用臉部修復器 (CodeFormer) 以避免「塑膠感」。使用 IP-Adapter。",
+      "control_net_stack_multiline_placeholder": "[ControlNet 設定在此處繼續]"
+    }
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909300815_o2w1ud_G7QjKGEbEAAR6Ig.jpg" width="600" alt="情侶 MacBook 螢幕自拍模擬提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Mehal Kumar](https://x.com/Mehal_Kay)
+- **來源:** [Twitter Post](https://x.com/Mehal_Kay/status/1996259534336377313)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22task_configuration%22%3A%20%7B%0A%20%20%20%20%22task_type%22%3A%20%22screen_simulation_photorealism%22%2C%0A%20%20%20%20%22target_model%22%3A%20%22SDXL_1.0_Refiner%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22resolution%22%3A%20%7B%0A%20%20%20%20%20%20%22width%22%3A%201152%2C%0A%20%20%20%20%20%20%22height%22%3A%201536%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22visual_hierarchy%22%3A%20%7B%0A%20%20%20%20%22layer_1_physical_macro%22%3A%20%7B%0A%20%20%20%20%20%20%22camera_angle%22%3A%20%22%E5%90%91%E4%B8%8B%E5%82%BE%E6%96%9C%E3%80%81%E9%AB%98%E8%A7%92%E5%BA%A6%22%2C%0A%20%20%20%20%20%20%22framing%22%3A%20%22MacBook%20%E8%9E%A2%E5%B9%95%E4%BD%94%E6%93%9A%E7%95%AB%E9%9D%A2%2095%25%22%2C%0A%20%20%20%20%20%20%22surface_imperfections%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E7%B4%B0%E5%BE%AE%E7%9A%84%E5%83%8F%E7%B4%A0%E7%B6%B2%E6%A0%BC%E7%B4%8B%E7%90%86%EF%BC%88%E8%8E%AB%E7%88%BE%E6%A2%9D%E7%B4%8B%EF%BC%89%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%8E%BB%E7%92%83%E4%B8%8A%E7%9A%84%E5%BE%AE%E5%B0%8F%E7%81%B0%E5%A1%B5%E9%A1%86%E7%B2%92%22%2C%0A%20%20%20%20%20%20%20%20%22%E5%85%89%E6%BE%A4%E8%9E%A2%E5%B9%95%E4%B8%8A%E5%BE%AE%E5%BC%B1%E7%9A%84%E7%92%B0%E5%A2%83%E5%85%89%E5%8F%8D%E5%B0%84%22%2C%0A%20%20%20%20%20%20%20%20%22%E6%8C%87%E7%B4%8B%E6%B1%A1%E6%BC%AC%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22foreground_anchor%22%3A%20%22%E5%AF%A6%E9%AB%94%E9%8D%B5%E7%9B%A4%E7%9A%84%E7%B4%B0%E9%95%B7%E6%A2%9D%E5%B8%B6%E5%9C%A8%E4%B8%8B%E9%82%8A%E7%B7%A3%E5%8F%AF%E8%A6%8B%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22layer_2_digital_interface%22%3A%20%7B%0A%20%20%20%20%20%20%22theme%22%3A%20%22%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20(macOS)%22%2C%0A%20%20%20%20%20%20%22window_layout%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22left_panel%22%3A%20%22Spotify%20%E7%9A%84%E3%80%8C%E5%B7%B2%E5%96%9C%E6%AD%A1%E6%AD%8C%E6%9B%B2%E3%80%8D%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8%EF%BC%88%E8%AE%8A%E6%9A%97%EF%BC%89%22%2C%0A%20%20%20%20%20%20%20%20%22right_panel%22%3A%20%22Photo%20Booth%20%E5%8D%B3%E6%99%82%E9%A0%90%E8%A6%BD%E8%A6%96%E7%AA%97%EF%BC%88%E4%B8%BB%E8%A6%81%E7%84%A6%E9%BB%9E%EF%BC%89%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22layer_3_nested_subject_content%22%3A%20%7B%0A%20%20%20%20%20%20%22context%22%3A%20%22Photo%20Booth%20%E8%A6%96%E7%AA%97%E5%85%A7%22%2C%0A%20%20%20%20%20%20%22environment%22%3A%20%22%E6%98%8F%E6%9A%97%E7%9A%84%E8%87%A5%E5%AE%A4%EF%BC%8C%E7%B1%B3%E7%99%BD%E8%89%B2%E7%89%86%E5%A3%81%EF%BC%8C%E5%87%8C%E4%BA%82%E7%9A%84%E5%BA%8A%E4%B8%8A%E7%94%A8%E5%93%81%22%2C%0A%20%20%20%20%20%20%22lighting_simulation%22%3A%20%22%E8%9E%A2%E5%B9%95%E7%9A%84%E5%86%B7%E5%85%89%E8%88%87%E6%BA%AB%E6%9A%96%E7%9A%84%E8%86%9A%E8%89%B2%E6%B7%B7%E5%90%88%EF%BC%8C%E6%B7%B1%E9%82%83%E7%9A%84%E5%A4%9C%E9%96%93%E9%99%B0%E5%BD%B1%22%2C%0A%20%20%20%20%20%20%22subjects%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22shared_attributes%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22%E5%AF%AC%E9%AC%86%E7%9A%84%E9%BB%91%E8%89%B2%E9%80%A3%E5%B8%BD%E8%A1%AB%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%E5%B8%BD%E5%AD%90%E5%90%91%E5%BE%8C%E6%8E%A8%EF%BC%88%E8%87%89%E9%83%A8%E5%AE%8C%E5%85%A8%E5%8F%AF%E8%A6%8B%EF%BC%89%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%E6%96%9C%E5%80%9A%E7%9A%84%E5%A7%BF%E5%8B%A2%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%E7%9C%8B%E8%91%97%E8%9E%A2%E5%B9%95%22%0A%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%22subject_a_guy%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22identity_target%22%3A%20%22%7Bargument%20name%3D%5C%22guy%20reference%20image%20in%20english%5C%22%20default%3D%5C%222nd%20image%20attached%5C%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22action%22%3A%20%22%E5%8F%B3%E6%89%8B%E6%8B%BF%E8%91%97%E4%B8%80%E9%83%A8%E5%B8%B6%E6%9C%89%E9%80%8F%E6%98%8E%E5%8F%8D%E5%85%89%E6%89%8B%E6%A9%9F%E6%AE%BC%E7%9A%84%E6%89%8B%E6%A9%9F%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22position%22%3A%20%22%E5%8F%B3%2F%E4%B8%AD%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%22subject_b_girl%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22identity_target%22%3A%20%22%7Bargument%20name%3D%5C%22girl%20reference%20image%20in%20english%5C%22%20default%3D%5C%221st%20image%20attached%5C%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22action%22%3A%20%22%E7%B7%8A%E6%8C%A8%E8%91%97%20A%20%E4%B8%BB%E9%AB%94%E4%BC%91%E6%81%AF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22position%22%3A%20%22%E5%B7%A6%2F%E4%B8%AD%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_assembly%22%3A%20%7B%0A%20%20%20%20%22positive_prompt%22%3A%20%22MacBook%20%E8%9E%A2%E5%B9%95%E7%9A%84%E8%B6%85%E5%AF%AB%E5%AF%A6%E4%BF%AF%E8%A6%96%E5%9C%96%E3%80%82%E8%9E%A2%E5%B9%95%E8%A1%A8%E9%9D%A2%E6%9C%89%E5%8F%AF%E8%A6%8B%E7%9A%84%E7%81%B0%E5%A1%B5%E3%80%81%E5%83%8F%E7%B4%A0%E7%B6%B2%E6%A0%BC%E5%92%8C%E5%8F%8D%E5%B0%84%E3%80%82%E8%9E%A2%E5%B9%95%E9%A1%AF%E7%A4%BA%E4%B8%80%E5%80%8B%20Photo%20Booth%20%E8%A6%96%E7%AA%97%EF%BC%8C%E5%85%B6%E4%B8%AD%E9%A1%AF%E7%A4%BA%E4%B8%80%E5%B0%8D%E6%83%85%E4%BE%B6%E5%9C%A8%E9%BB%91%E6%9A%97%E7%9A%84%E6%88%BF%E9%96%93%E8%A3%A1%E3%80%82%5B%E4%B8%BB%E9%AB%94%E6%8F%8F%E8%BF%B0%5D%E3%80%82%E4%BB%96%E5%80%91%E7%A9%BF%E8%91%97%E9%BB%91%E8%89%B2%E9%80%A3%E5%B8%BD%E8%A1%AB%E3%80%82%E7%87%88%E5%85%89%E6%98%AF%E4%BD%8E%E8%AA%BF%E3%80%81%E8%87%AA%E7%84%B6%E3%80%81%E5%A4%9C%E9%96%93%E3%80%81%E8%97%8D%E8%89%B2%E8%9E%A2%E5%B9%95%E7%99%BC%E5%85%89%E3%80%82%E9%AB%98%E4%BF%9D%E7%9C%9F%E5%BA%A6%E3%80%81%E5%8E%9F%E5%A7%8B%E7%85%A7%E7%89%87%E3%80%81%E6%9C%AA%E7%B6%93%E7%B7%A8%E8%BC%AF%E3%80%82%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22%E5%90%91%E9%87%8F%E8%97%9D%E8%A1%93%E3%80%81%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%E3%80%81%E5%B9%B3%E9%9D%A2%E6%95%B8%E4%BD%8D%E5%9C%96%E5%83%8F%E3%80%81%E4%B9%BE%E6%B7%A8%E7%9A%84%E7%8E%BB%E7%92%83%E3%80%81%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%9E%A2%E5%B9%95%E3%80%81%E6%97%A5%E5%85%89%E3%80%81%E6%98%8E%E4%BA%AE%E7%9A%84%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%87%88%E5%85%89%E3%80%81%E5%8D%A1%E9%80%9A%E3%80%813D%20%E6%B8%B2%E6%9F%93%E3%80%81%E7%B9%AA%E7%95%AB%E3%80%81%E6%B5%AE%E6%B0%B4%E5%8D%B0%22%0A%20%20%7D%2C%0A%20%20%22identity_preservation_settings%22%3A%20%7B%0A%20%20%20%20%22strictness_level%22%3A%20%22CRITICAL%22%2C%0A%20%20%20%20%22methodology%22%3A%20%7B%0A%20%20%20%20%20%20%22face_restoration%22%3A%20false%2C%0A%20%20%20%20%20%20%22note%22%3A%20%22%E7%A6%81%E7%94%A8%E9%80%9A%E7%94%A8%E8%87%89%E9%83%A8%E4%BF%AE%E5%BE%A9%E5%99%A8%20(CodeFormer)%20%E4%BB%A5%E9%81%BF%E5%85%8D%E3%80%8C%E5%A1%91%E8%86%A0%E6%84%9F%E3%80%8D%E3%80%82%E4%BD%BF%E7%94%A8%20IP-Adapter%E3%80%82%22%2C%0A%20%20%20%20%20%20%22control_net_stack_multiline_placeholder%22%3A%20%22%5BControlNet%20%E8%A8%AD%E5%AE%9A%E5%9C%A8%E6%AD%A4%E8%99%95%E7%B9%BC%E7%BA%8C%5D%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 7: Nano Banana Pro 的日式居酒屋入口招牌圖片提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個 Nano Banana Pro 圖片提示，用於生成一張具有特定文字、氛圍和燈光效果的寫實日本居酒屋入口招牌。
+
+#### 📝 提示詞
+
+```
+一個美麗的日式餐廳入口招牌，
+上面寫著「{argument name="sign text" default="Izakaya Sakura"}」，採用傳統書法風格，
+溫暖的木質背景，
+柔和的燈籠照明，
+寫實攝影品質
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909208104_5hnkxv_G7QgrHhagAAXPcs.jpg" width="600" alt="Nano Banana Pro 的日式居酒屋入口招牌圖片提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909210946_f9h5bo_G7QWKU9aYAAD1Nn.jpg" width="600" alt="Nano Banana Pro 的日式居酒屋入口招牌圖片提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **來源:** [Twitter Post](https://x.com/hAru_mAki_ch/status/1996256466844762575)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%80%8B%E7%BE%8E%E9%BA%97%E7%9A%84%E6%97%A5%E5%BC%8F%E9%A4%90%E5%BB%B3%E5%85%A5%E5%8F%A3%E6%8B%9B%E7%89%8C%EF%BC%8C%0A%E4%B8%8A%E9%9D%A2%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22sign%20text%22%20default%3D%22Izakaya%20Sakura%22%7D%E3%80%8D%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%82%B3%E7%B5%B1%E6%9B%B8%E6%B3%95%E9%A2%A8%E6%A0%BC%EF%BC%8C%0A%E6%BA%AB%E6%9A%96%E7%9A%84%E6%9C%A8%E8%B3%AA%E8%83%8C%E6%99%AF%EF%BC%8C%0A%E6%9F%94%E5%92%8C%E7%9A%84%E7%87%88%E7%B1%A0%E7%85%A7%E6%98%8E%EF%BC%8C%0A%E5%AF%AB%E5%AF%A6%E6%94%9D%E5%BD%B1%E5%93%81%E8%B3%AA)**
+
+---
+
+### No. 8: 三種姿勢的動漫女孩一致性提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個日語提示，用於生成同一女孩三種不同姿勢的動漫風格插圖，要求臉部和比例保持一致，線稿清晰，並採用鮮豔的賽璐珞上色。
+
+#### 📝 提示詞
+
+```
+一張動漫風格的插畫，描繪了{argument name="the same girl" default="the same girl"} 的三種姿態：站立、行走和揮手。臉部特徵一致，身體比例勻稱，線條清晰，賽璐珞風格上色鮮明，光線自然柔和。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909233113_vkudxc_G7QRV2SboAAoGIC.jpg" width="600" alt="三種姿勢的動漫女孩一致性提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909235415_3p3fnp_G7QRglKaYAEXIlq.jpg" width="600" alt="三種姿勢的動漫女孩一致性提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan)
+- **來源:** [Twitter Post](https://x.com/akiyoshisan/status/1996239818666439105)
+- **發布時間:** 2025年12月3日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%E7%9A%84%E6%8F%92%E7%95%AB%EF%BC%8C%E6%8F%8F%E7%B9%AA%E4%BA%86%7Bargument%20name%3D%22the%20same%20girl%22%20default%3D%22the%20same%20girl%22%7D%20%E7%9A%84%E4%B8%89%E7%A8%AE%E5%A7%BF%E6%85%8B%EF%BC%9A%E7%AB%99%E7%AB%8B%E3%80%81%E8%A1%8C%E8%B5%B0%E5%92%8C%E6%8F%AE%E6%89%8B%E3%80%82%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E4%B8%80%E8%87%B4%EF%BC%8C%E8%BA%AB%E9%AB%94%E6%AF%94%E4%BE%8B%E5%8B%BB%E7%A8%B1%EF%BC%8C%E7%B7%9A%E6%A2%9D%E6%B8%85%E6%99%B0%EF%BC%8C%E8%B3%BD%E7%92%90%E7%8F%9E%E9%A2%A8%E6%A0%BC%E4%B8%8A%E8%89%B2%E9%AE%AE%E6%98%8E%EF%BC%8C%E5%85%89%E7%B7%9A%E8%87%AA%E7%84%B6%E6%9F%94%E5%92%8C%E3%80%82)**
+
+---
+
+### No. 9: 表達風格指南
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個簡潔的英文奈米香蕉提示，能根據給定圖像生成角色表情風格指南，非常適合角色設計工作流程。
+
+#### 📝 提示詞
+
+```
+製作圖像的角色設計表情風格指南
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909253589_otreo2_G7QFy70boAAS4xQ.jpg" width="600" alt="表達風格指南 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909256498_cu97dv_G7MJmA-bgAQYSHS.jpg" width="600" alt="表達風格指南 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [松果先森](https://x.com/songguoxiansen)
+- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1996227651611328990)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%A3%BD%E4%BD%9C%E5%9C%96%E5%83%8F%E7%9A%84%E8%A7%92%E8%89%B2%E8%A8%AD%E8%A8%88%E8%A1%A8%E6%83%85%E9%A2%A8%E6%A0%BC%E6%8C%87%E5%8D%97)**
+
+---
+
+### No. 10: 馬拉加街頭咖啡館的 iPhone 超逼真場景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+為 Nano Banana Pro 提供的詳細圖像生成提示，用於在馬拉加憲法廣場 (Plaza de la Constitución, Málaga) 拍攝一張女性喝咖啡的偷拍寫實 iPhone 風格照片，照片中需包含逼真的建築物和景深效果。
+
+#### 📝 提示詞
+
+```
+生成一張寫實照片，使用 {argument name="device" default="iPhone 17"} 於 {argument name="month and year" default="March 2025"} 的 {argument name="day of week" default="Wednesday"} 早晨在 {argument name="city" default="Málaga"} 的憲法廣場 (Plaza de la Constitución) 拍攝。氛圍明亮但涼爽，柔和的春日陽光照亮了廣場。咖啡館露台上，當地人正在喝咖啡。畫面應清晰聚焦於一位年輕女子，她戴著一條輕薄的圍巾，攪拌著卡布奇諾，若有所思地望向一旁。背景元素——服務生、穿過廣場的人們以及噴泉周圍的動態——應呈現自然模糊的景深效果。這張照片應給人一種隨性、未經擺拍的感覺，並捕捉到 iPhone 照片特有的清晰晨間寫實感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909192827_sy207i_G7P6h4XXIAAp9ep.jpg" width="600" alt="馬拉加街頭咖啡館的 iPhone 超逼真場景 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909195124_aror3n_G7P6h4SWkAArbNi.jpg" width="600" alt="馬拉加街頭咖啡館的 iPhone 超逼真場景 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [NGLPRZ](https://x.com/nglprz)
+- **來源:** [Twitter Post](https://x.com/nglprz/status/1996216207565877482)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%AF%AB%E5%AF%A6%E7%85%A7%E7%89%87%EF%BC%8C%E4%BD%BF%E7%94%A8%20%7Bargument%20name%3D%22device%22%20default%3D%22iPhone%2017%22%7D%20%E6%96%BC%20%7Bargument%20name%3D%22month%20and%20year%22%20default%3D%22March%202025%22%7D%20%E7%9A%84%20%7Bargument%20name%3D%22day%20of%20week%22%20default%3D%22Wednesday%22%7D%20%E6%97%A9%E6%99%A8%E5%9C%A8%20%7Bargument%20name%3D%22city%22%20default%3D%22M%C3%A1laga%22%7D%20%E7%9A%84%E6%86%B2%E6%B3%95%E5%BB%A3%E5%A0%B4%20(Plaza%20de%20la%20Constituci%C3%B3n)%20%E6%8B%8D%E6%94%9D%E3%80%82%E6%B0%9B%E5%9C%8D%E6%98%8E%E4%BA%AE%E4%BD%86%E6%B6%BC%E7%88%BD%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E6%98%A5%E6%97%A5%E9%99%BD%E5%85%89%E7%85%A7%E4%BA%AE%E4%BA%86%E5%BB%A3%E5%A0%B4%E3%80%82%E5%92%96%E5%95%A1%E9%A4%A8%E9%9C%B2%E5%8F%B0%E4%B8%8A%EF%BC%8C%E7%95%B6%E5%9C%B0%E4%BA%BA%E6%AD%A3%E5%9C%A8%E5%96%9D%E5%92%96%E5%95%A1%E3%80%82%E7%95%AB%E9%9D%A2%E6%87%89%E6%B8%85%E6%99%B0%E8%81%9A%E7%84%A6%E6%96%BC%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E5%AD%90%EF%BC%8C%E5%A5%B9%E6%88%B4%E8%91%97%E4%B8%80%E6%A2%9D%E8%BC%95%E8%96%84%E7%9A%84%E5%9C%8D%E5%B7%BE%EF%BC%8C%E6%94%AA%E6%8B%8C%E8%91%97%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AB%BE%EF%BC%8C%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D%E5%9C%B0%E6%9C%9B%E5%90%91%E4%B8%80%E6%97%81%E3%80%82%E8%83%8C%E6%99%AF%E5%85%83%E7%B4%A0%E2%80%94%E2%80%94%E6%9C%8D%E5%8B%99%E7%94%9F%E3%80%81%E7%A9%BF%E9%81%8E%E5%BB%A3%E5%A0%B4%E7%9A%84%E4%BA%BA%E5%80%91%E4%BB%A5%E5%8F%8A%E5%99%B4%E6%B3%89%E5%91%A8%E5%9C%8D%E7%9A%84%E5%8B%95%E6%85%8B%E2%80%94%E2%80%94%E6%87%89%E5%91%88%E7%8F%BE%E8%87%AA%E7%84%B6%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%99%AF%E6%B7%B1%E6%95%88%E6%9E%9C%E3%80%82%E9%80%99%E5%BC%B5%E7%85%A7%E7%89%87%E6%87%89%E7%B5%A6%E4%BA%BA%E4%B8%80%E7%A8%AE%E9%9A%A8%E6%80%A7%E3%80%81%E6%9C%AA%E7%B6%93%E6%93%BA%E6%8B%8D%E7%9A%84%E6%84%9F%E8%A6%BA%EF%BC%8C%E4%B8%A6%E6%8D%95%E6%8D%89%E5%88%B0%20iPhone%20%E7%85%A7%E7%89%87%E7%89%B9%E6%9C%89%E7%9A%84%E6%B8%85%E6%99%B0%E6%99%A8%E9%96%93%E5%AF%AB%E5%AF%A6%E6%84%9F%E3%80%82)**
+
+---
+
+### No. 11: 電影般的特寫肖像，綠色眼睛，身穿針織毛衣
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一位年輕女性的詳細肖像提示，她有深色瀏海和綠色眼睛，沐浴在黃金時段的陽光下，呈現 35mm Kodak Portra 400 的美學風格。
+
+#### 📝 提示詞
+
+```
+一位年輕女子，留著深色凌亂的瀏海，一雙引人注目的綠眼睛，將下巴靠在一隻手上，手上戴著一件粗大的灰色針織羊毛毛衣。她的臉色蒼白，佈滿了自然的雀斑和紅潤的雙頰，被一道溫暖的黃昏陽光照亮，營造出戲劇性的明暗對比。35mm 類比膠片攝影風格，f/1.8，散景，可見的膠片顆粒，高度細緻的皮膚紋理，原始而情感豐富的氛圍，Kodak Portra 400 美學。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909286822_5x9ahu_G7PyFsfaMAE2Afh.jpg" width="600" alt="電影般的特寫肖像，綠色眼睛，身穿針織毛衣 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Oogie](https://x.com/oggii_0)
+- **來源:** [Twitter Post](https://x.com/oggii_0/status/1996205261778747444)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E5%AD%90%EF%BC%8C%E7%95%99%E8%91%97%E6%B7%B1%E8%89%B2%E5%87%8C%E4%BA%82%E7%9A%84%E7%80%8F%E6%B5%B7%EF%BC%8C%E4%B8%80%E9%9B%99%E5%BC%95%E4%BA%BA%E6%B3%A8%E7%9B%AE%E7%9A%84%E7%B6%A0%E7%9C%BC%E7%9D%9B%EF%BC%8C%E5%B0%87%E4%B8%8B%E5%B7%B4%E9%9D%A0%E5%9C%A8%E4%B8%80%E9%9A%BB%E6%89%8B%E4%B8%8A%EF%BC%8C%E6%89%8B%E4%B8%8A%E6%88%B4%E8%91%97%E4%B8%80%E4%BB%B6%E7%B2%97%E5%A4%A7%E7%9A%84%E7%81%B0%E8%89%B2%E9%87%9D%E7%B9%94%E7%BE%8A%E6%AF%9B%E6%AF%9B%E8%A1%A3%E3%80%82%E5%A5%B9%E7%9A%84%E8%87%89%E8%89%B2%E8%92%BC%E7%99%BD%EF%BC%8C%E4%BD%88%E6%BB%BF%E4%BA%86%E8%87%AA%E7%84%B6%E7%9A%84%E9%9B%80%E6%96%91%E5%92%8C%E7%B4%85%E6%BD%A4%E7%9A%84%E9%9B%99%E9%A0%B0%EF%BC%8C%E8%A2%AB%E4%B8%80%E9%81%93%E6%BA%AB%E6%9A%96%E7%9A%84%E9%BB%83%E6%98%8F%E9%99%BD%E5%85%89%E7%85%A7%E4%BA%AE%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%88%B2%E5%8A%87%E6%80%A7%E7%9A%84%E6%98%8E%E6%9A%97%E5%B0%8D%E6%AF%94%E3%80%8235mm%20%E9%A1%9E%E6%AF%94%E8%86%A0%E7%89%87%E6%94%9D%E5%BD%B1%E9%A2%A8%E6%A0%BC%EF%BC%8Cf%2F1.8%EF%BC%8C%E6%95%A3%E6%99%AF%EF%BC%8C%E5%8F%AF%E8%A6%8B%E7%9A%84%E8%86%A0%E7%89%87%E9%A1%86%E7%B2%92%EF%BC%8C%E9%AB%98%E5%BA%A6%E7%B4%B0%E7%B7%BB%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%EF%BC%8C%E5%8E%9F%E5%A7%8B%E8%80%8C%E6%83%85%E6%84%9F%E8%B1%90%E5%AF%8C%E7%9A%84%E6%B0%9B%E5%9C%8D%EF%BC%8CKodak%20Portra%20400%20%E7%BE%8E%E5%AD%B8%E3%80%82)**
+
+---
+
+### No. 12: GoPro 風格極限運動自拍提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張超逼真的廣角自拍照的圖像提示，畫面中一名男子身穿橘色連身衣和頭盔，下方是壯麗的山景，呈現 8K 極限運動美學風格。
+
+#### 📝 提示詞
+
+```
+一位身穿橘色連身服和頭盔的英俊男子，以 GoPro 風格自拍，呈現超寫實效果。從上方廣角俯瞰，可見山脈、波光粼粼的湖泊和下方的翠綠山谷。髮絲或毛髮隨風飄揚，臉上洋溢著喜悅的表情，安全帶細節清晰可見，光線明亮生動，8K 極限運動攝影。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909302301_qevmip_G7PhYw7acAAznBk.jpg" width="600" alt="GoPro 風格極限運動自拍提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909304895_7nq5py_G7PhYxVa4AAvkT0.jpg" width="600" alt="GoPro 風格極限運動自拍提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [K](https://x.com/ChillaiKalan__)
+- **來源:** [Twitter Post](https://x.com/ChillaiKalan__/status/1996186896473706561)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E4%BD%8D%E8%BA%AB%E7%A9%BF%E6%A9%98%E8%89%B2%E9%80%A3%E8%BA%AB%E6%9C%8D%E5%92%8C%E9%A0%AD%E7%9B%94%E7%9A%84%E8%8B%B1%E4%BF%8A%E7%94%B7%E5%AD%90%EF%BC%8C%E4%BB%A5%20GoPro%20%E9%A2%A8%E6%A0%BC%E8%87%AA%E6%8B%8D%EF%BC%8C%E5%91%88%E7%8F%BE%E8%B6%85%E5%AF%AB%E5%AF%A6%E6%95%88%E6%9E%9C%E3%80%82%E5%BE%9E%E4%B8%8A%E6%96%B9%E5%BB%A3%E8%A7%92%E4%BF%AF%E7%9E%B0%EF%BC%8C%E5%8F%AF%E8%A6%8B%E5%B1%B1%E8%84%88%E3%80%81%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC%E7%9A%84%E6%B9%96%E6%B3%8A%E5%92%8C%E4%B8%8B%E6%96%B9%E7%9A%84%E7%BF%A0%E7%B6%A0%E5%B1%B1%E8%B0%B7%E3%80%82%E9%AB%AE%E7%B5%B2%E6%88%96%E6%AF%9B%E9%AB%AE%E9%9A%A8%E9%A2%A8%E9%A3%84%E6%8F%9A%EF%BC%8C%E8%87%89%E4%B8%8A%E6%B4%8B%E6%BA%A2%E8%91%97%E5%96%9C%E6%82%85%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E5%AE%89%E5%85%A8%E5%B8%B6%E7%B4%B0%E7%AF%80%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E5%85%89%E7%B7%9A%E6%98%8E%E4%BA%AE%E7%94%9F%E5%8B%95%EF%BC%8C8K%20%E6%A5%B5%E9%99%90%E9%81%8B%E5%8B%95%E6%94%9D%E5%BD%B1%E3%80%82)**
+
+---
+
+### No. 13: 巴黎瑪黑區咖啡館露台人像提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張關於一位年輕女性在巴黎瑪黑區咖啡館的寫實場景提示，擁有清晰的春日晨光和類似 iPhone 隨拍的模糊背景。
+
+#### 📝 提示詞
+
+```
+生成一張逼真的咖啡館露台圖片，地點在 {argument name="city in english" default="Paris"} 的 {argument name="district in english" default="Marais district"}，時間是 {argument name="year in english" default="2025"} 年三月的某個週三早晨。這是一個清爽、涼快的春日早晨，天空晴朗。當地居民正在喝咖啡。畫面中應有一位年輕女子，圍著圍巾，攪拌著卡布奇諾，若有所思地望向一旁，她身後的服務生和街景交通則呈現模糊效果。這張照片應具有 iPhone 圖像那種自然、不做作的早晨光線感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909299189_dpf3ih_G7Pg4cWbQAA5hO9.jpg" width="600" alt="巴黎瑪黑區咖啡館露台人像提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909301444_wirjdi_G7Pg4gQaoAAFCMj.jpg" width="600" alt="巴黎瑪黑區咖啡館露台人像提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Heisenberg](https://x.com/rovvmut_)
+- **來源:** [Twitter Post](https://x.com/rovvmut_/status/1996186327491162275)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E9%80%BC%E7%9C%9F%E7%9A%84%E5%92%96%E5%95%A1%E9%A4%A8%E9%9C%B2%E5%8F%B0%E5%9C%96%E7%89%87%EF%BC%8C%E5%9C%B0%E9%BB%9E%E5%9C%A8%20%7Bargument%20name%3D%22city%20in%20english%22%20default%3D%22Paris%22%7D%20%E7%9A%84%20%7Bargument%20name%3D%22district%20in%20english%22%20default%3D%22Marais%20district%22%7D%EF%BC%8C%E6%99%82%E9%96%93%E6%98%AF%20%7Bargument%20name%3D%22year%20in%20english%22%20default%3D%222025%22%7D%20%E5%B9%B4%E4%B8%89%E6%9C%88%E7%9A%84%E6%9F%90%E5%80%8B%E9%80%B1%E4%B8%89%E6%97%A9%E6%99%A8%E3%80%82%E9%80%99%E6%98%AF%E4%B8%80%E5%80%8B%E6%B8%85%E7%88%BD%E3%80%81%E6%B6%BC%E5%BF%AB%E7%9A%84%E6%98%A5%E6%97%A5%E6%97%A9%E6%99%A8%EF%BC%8C%E5%A4%A9%E7%A9%BA%E6%99%B4%E6%9C%97%E3%80%82%E7%95%B6%E5%9C%B0%E5%B1%85%E6%B0%91%E6%AD%A3%E5%9C%A8%E5%96%9D%E5%92%96%E5%95%A1%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E6%87%89%E6%9C%89%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E5%AD%90%EF%BC%8C%E5%9C%8D%E8%91%97%E5%9C%8D%E5%B7%BE%EF%BC%8C%E6%94%AA%E6%8B%8C%E8%91%97%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AB%BE%EF%BC%8C%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D%E5%9C%B0%E6%9C%9B%E5%90%91%E4%B8%80%E6%97%81%EF%BC%8C%E5%A5%B9%E8%BA%AB%E5%BE%8C%E7%9A%84%E6%9C%8D%E5%8B%99%E7%94%9F%E5%92%8C%E8%A1%97%E6%99%AF%E4%BA%A4%E9%80%9A%E5%89%87%E5%91%88%E7%8F%BE%E6%A8%A1%E7%B3%8A%E6%95%88%E6%9E%9C%E3%80%82%E9%80%99%E5%BC%B5%E7%85%A7%E7%89%87%E6%87%89%E5%85%B7%E6%9C%89%20iPhone%20%E5%9C%96%E5%83%8F%E9%82%A3%E7%A8%AE%E8%87%AA%E7%84%B6%E3%80%81%E4%B8%8D%E5%81%9A%E4%BD%9C%E7%9A%84%E6%97%A9%E6%99%A8%E5%85%89%E7%B7%9A%E6%84%9F%E3%80%82)**
+
+---
+
+### No. 14: 穿著棕色迷你裙的優雅女士肖像提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個 JSON 封裝的提示，描述一位穿著淺棕色迷你裙的自信女性，身處昏暗溫暖的室內，適用於時尚風格的 AI 人像。
+
+#### 📝 提示詞
+
+```
+{
+  "prompt": "一位長髮飄逸、棕髮美女自信地擺著姿勢。她身穿一件貼身淺棕色迷你連衣裙，突顯出她的曼妙身姿。她左手舉至頭部，眼神迷人地直視觀者。背景燈光昏暗，暖色壁燈點綴其中，隱約可見一張深色皮革沙發，營造出私密而時尚的氛圍。燈光勾勒出她的髮絲和身體曲線。"
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909282430_jvg9fi_G7Ot69-aIAAflyJ.jpg" width="600" alt="穿著棕色迷你裙的優雅女士肖像提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909284385_n83fmn_G7Ot60qbkAAQjDx.jpg" width="600" alt="穿著棕色迷你裙的優雅女士肖像提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Shreya Yadav](https://x.com/ShreyaYadav___)
+- **來源:** [Twitter Post](https://x.com/ShreyaYadav___/status/1996130296006410508)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22%E4%B8%80%E4%BD%8D%E9%95%B7%E9%AB%AE%E9%A3%84%E9%80%B8%E3%80%81%E6%A3%95%E9%AB%AE%E7%BE%8E%E5%A5%B3%E8%87%AA%E4%BF%A1%E5%9C%B0%E6%93%BA%E8%91%97%E5%A7%BF%E5%8B%A2%E3%80%82%E5%A5%B9%E8%BA%AB%E7%A9%BF%E4%B8%80%E4%BB%B6%E8%B2%BC%E8%BA%AB%E6%B7%BA%E6%A3%95%E8%89%B2%E8%BF%B7%E4%BD%A0%E9%80%A3%E8%A1%A3%E8%A3%99%EF%BC%8C%E7%AA%81%E9%A1%AF%E5%87%BA%E5%A5%B9%E7%9A%84%E6%9B%BC%E5%A6%99%E8%BA%AB%E5%A7%BF%E3%80%82%E5%A5%B9%E5%B7%A6%E6%89%8B%E8%88%89%E8%87%B3%E9%A0%AD%E9%83%A8%EF%BC%8C%E7%9C%BC%E7%A5%9E%E8%BF%B7%E4%BA%BA%E5%9C%B0%E7%9B%B4%E8%A6%96%E8%A7%80%E8%80%85%E3%80%82%E8%83%8C%E6%99%AF%E7%87%88%E5%85%89%E6%98%8F%E6%9A%97%EF%BC%8C%E6%9A%96%E8%89%B2%E5%A3%81%E7%87%88%E9%BB%9E%E7%B6%B4%E5%85%B6%E4%B8%AD%EF%BC%8C%E9%9A%B1%E7%B4%84%E5%8F%AF%E8%A6%8B%E4%B8%80%E5%BC%B5%E6%B7%B1%E8%89%B2%E7%9A%AE%E9%9D%A9%E6%B2%99%E7%99%BC%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E7%A7%81%E5%AF%86%E8%80%8C%E6%99%82%E5%B0%9A%E7%9A%84%E6%B0%9B%E5%9C%8D%E3%80%82%E7%87%88%E5%85%89%E5%8B%BE%E5%8B%92%E5%87%BA%E5%A5%B9%E7%9A%84%E9%AB%AE%E7%B5%B2%E5%92%8C%E8%BA%AB%E9%AB%94%E6%9B%B2%E7%B7%9A%E3%80%82%22%0A%7D)**
+
+---
+
+### No. 15: 黃金時段屋頂人像攝影提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張電影風格的黃金時段屋頂人像照，有著溫暖的陽光、隨風飄揚的髮絲，以及 35mm 淺景深效果的簡潔圖像提示。
+
+#### 📝 提示詞
+
+```
+在黃金時段，一個人站在城市屋頂上，溫暖的陽光輕撫著他們的臉龐，細微的鏡頭光暈，風吹拂著他們的頭髮，淺景深，35mm 攝影風格，自然的皮膚紋理。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909290390_91zurj_G7OtaNmbgAACEp7.jpg" width="600" alt="黃金時段屋頂人像攝影提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909292427_930ni0_G7Ota5faMAAMWvc.jpg" width="600" alt="黃金時段屋頂人像攝影提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Heisenberg](https://x.com/rovvmut_)
+- **來源:** [Twitter Post](https://x.com/rovvmut_/status/1996129741360038063)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%9C%A8%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%EF%BC%8C%E4%B8%80%E5%80%8B%E4%BA%BA%E7%AB%99%E5%9C%A8%E5%9F%8E%E5%B8%82%E5%B1%8B%E9%A0%82%E4%B8%8A%EF%BC%8C%E6%BA%AB%E6%9A%96%E7%9A%84%E9%99%BD%E5%85%89%E8%BC%95%E6%92%AB%E8%91%97%E4%BB%96%E5%80%91%E7%9A%84%E8%87%89%E9%BE%90%EF%BC%8C%E7%B4%B0%E5%BE%AE%E7%9A%84%E9%8F%A1%E9%A0%AD%E5%85%89%E6%9A%88%EF%BC%8C%E9%A2%A8%E5%90%B9%E6%8B%82%E8%91%97%E4%BB%96%E5%80%91%E7%9A%84%E9%A0%AD%E9%AB%AE%EF%BC%8C%E6%B7%BA%E6%99%AF%E6%B7%B1%EF%BC%8C35mm%20%E6%94%9D%E5%BD%B1%E9%A2%A8%E6%A0%BC%EF%BC%8C%E8%87%AA%E7%84%B6%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E3%80%82)**
+
+---
+
+### No. 16: Nano Banana Pro 撕紙風格轉換編輯提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的 Nano Banana Pro 圖像編輯提示，可添加水平撕紙條紋，其內部可在線稿、水墨畫、人物渲染、彩色鉛筆、水彩或鉛筆畫風格之間切換，同時保留原始角色和場景。
+
+#### 📝 提示詞
+
+```
+task: "edit-image: add widened torn-paper layered effect"
+
+base_image:
+  use_reference_image: true
+  preserve_everything:
+    - character identity
+    - facial features and expression
+    - hairstyle and anatomy
+    - outfit design and colors
+    - background, lighting, composition
+    - overall art style
+
+rules:
+  - Only modify the torn-paper interior areas.
+  - Do not change pose, anatomy, proportions, clothing details, shading, or scene elements.
+
+effects:
+  - effect: "torn-paper-reveal"
+    placement: "across chest height"
+    description:
+      - Add a wide, natural horizontal tear across the chest area.
+      - The torn interior uses the style defined in `interior_style`.
+
+  - effect: "torn-paper-reveal"
+    placement: "lower abdomen height"
+    description:
+      - Add a wide horizontal tear across the lower abdomen.
+      - The torn interior uses the style defined in `interior_style`.
+
+interior_style:
+  mode: {argument name="style mode" default="line-art"}
+
+  style_settings:
+    line-art:
+      palette: "monochrome"
+      line_quality: "clean, crisp"
+      paper: "notebook paper with subtle ruled lines"
+
+    sumi-e:
+      palette: "black ink tones"
+      brush_texture: "soft bleeding edges"
+      paper: "plain textured paper"
+
+    figure-render:
+      material: "PVC-like"
+      shading: "semi-realistic highlights"
+      paper: "plain smooth surface"
+
+    colored-pencil:
+      stroke_texture: "visible pencil grain"
+      palette: "soft layered hues"
+      paper: "rough sketchbook paper"
+
+    watercolor:
+      palette: "soft transparent pigments"
+      blending: "smooth bleeding"
+      edges: "soft contours"
+      paper: "watercolor paper texture"
+
+    pencil-drawing:
+      graphite_texture: "visible pencil grain"
+      shading: "smooth gradients"
+      line_quality: "mixed sharp and soft"
+      tone: "gray-scale"
+      paper: "notebook paper with faint ruled lines"
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909252272_9wbhhd_G7OpzpjbAAArAAS.jpg" width="600" alt="Nano Banana Pro 撕紙風格轉換編輯提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909263804_ixlq43_G7Op-C-bgAEuLoh.jpg" width="600" alt="Nano Banana Pro 撕紙風格轉換編輯提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909266159_7uv4sl_G7Op_5tboAAB-eW.jpg" width="600" alt="Nano Banana Pro 撕紙風格轉換編輯提示 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909269212_kro3sp_G7OqBr5bUAAGeIs.jpg" width="600" alt="Nano Banana Pro 撕紙風格轉換編輯提示 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [てんねん](https://x.com/munou_ac)
+- **來源:** [Twitter Post](https://x.com/munou_ac/status/1996129537806213597)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=task%3A%20%22edit-image%3A%20add%20widened%20torn-paper%20layered%20effect%22%0A%0Abase_image%3A%0A%20%20use_reference_image%3A%20true%0A%20%20preserve_everything%3A%0A%20%20%20%20-%20character%20identity%0A%20%20%20%20-%20facial%20features%20and%20expression%0A%20%20%20%20-%20hairstyle%20and%20anatomy%0A%20%20%20%20-%20outfit%20design%20and%20colors%0A%20%20%20%20-%20background%2C%20lighting%2C%20composition%0A%20%20%20%20-%20overall%20art%20style%0A%0Arules%3A%0A%20%20-%20Only%20modify%20the%20torn-paper%20interior%20areas.%0A%20%20-%20Do%20not%20change%20pose%2C%20anatomy%2C%20proportions%2C%20clothing%20details%2C%20shading%2C%20or%20scene%20elements.%0A%0Aeffects%3A%0A%20%20-%20effect%3A%20%22torn-paper-reveal%22%0A%20%20%20%20placement%3A%20%22across%20chest%20height%22%0A%20%20%20%20description%3A%0A%20%20%20%20%20%20-%20Add%20a%20wide%2C%20natural%20horizontal%20tear%20across%20the%20chest%20area.%0A%20%20%20%20%20%20-%20The%20torn%20interior%20uses%20the%20style%20defined%20in%20%60interior_style%60.%0A%0A%20%20-%20effect%3A%20%22torn-paper-reveal%22%0A%20%20%20%20placement%3A%20%22lower%20abdomen%20height%22%0A%20%20%20%20description%3A%0A%20%20%20%20%20%20-%20Add%20a%20wide%20horizontal%20tear%20across%20the%20lower%20abdomen.%0A%20%20%20%20%20%20-%20The%20torn%20interior%20uses%20the%20style%20defined%20in%20%60interior_style%60.%0A%0Ainterior_style%3A%0A%20%20mode%3A%20%7Bargument%20name%3D%22style%20mode%22%20default%3D%22line-art%22%7D%0A%0A%20%20style_settings%3A%0A%20%20%20%20line-art%3A%0A%20%20%20%20%20%20palette%3A%20%22monochrome%22%0A%20%20%20%20%20%20line_quality%3A%20%22clean%2C%20crisp%22%0A%20%20%20%20%20%20paper%3A%20%22notebook%20paper%20with%20subtle%20ruled%20lines%22%0A%0A%20%20%20%20sumi-e%3A%0A%20%20%20%20%20%20palette%3A%20%22black%20ink%20tones%22%0A%20%20%20%20%20%20brush_texture%3A%20%22soft%20bleeding%20edges%22%0A%20%20%20%20%20%20paper%3A%20%22plain%20textured%20paper%22%0A%0A%20%20%20%20figure-render%3A%0A%20%20%20%20%20%20material%3A%20%22PVC-like%22%0A%20%20%20%20%20%20shading%3A%20%22semi-realistic%20highlights%22%0A%20%20%20%20%20%20paper%3A%20%22plain%20smooth%20surface%22%0A%0A%20%20%20%20colored-pencil%3A%0A%20%20%20%20%20%20stroke_texture%3A%20%22visible%20pencil%20grain%22%0A%20%20%20%20%20%20palette%3A%20%22soft%20layered%20hues%22%0A%20%20%20%20%20%20paper%3A%20%22rough%20sketchbook%20paper%22%0A%0A%20%20%20%20watercolor%3A%0A%20%20%20%20%20%20palette%3A%20%22soft%20transparent%20pigments%22%0A%20%20%20%20%20%20blending%3A%20%22smooth%20bleeding%22%0A%20%20%20%20%20%20edges%3A%20%22soft%20contours%22%0A%20%20%20%20%20%20paper%3A%20%22watercolor%20paper%20texture%22%0A%0A%20%20%20%20pencil-drawing%3A%0A%20%20%20%20%20%20graphite_texture%3A%20%22visible%20pencil%20grain%22%0A%20%20%20%20%20%20shading%3A%20%22smooth%20gradients%22%0A%20%20%20%20%20%20line_quality%3A%20%22mixed%20sharp%20and%20soft%22%0A%20%20%20%20%20%20tone%3A%20%22gray-scale%22%0A%20%20%20%20%20%20paper%3A%20%22notebook%20paper%20with%20faint%20ruled%20lines%22)**
+
+---
+
+### No. 17: Nano Banana Pro 迷因風格服裝剪裁線條插畫提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+一個用於 Nano Banana Pro 的結構化日文提示，將角色重新繪製成迷因風格的插圖，顯示帶有按讚和轉發數量的虛線剪裁線，同時僅保留參考圖像中的設計元素。
+
+#### 📝 提示詞
+
+```
+[目的]
+參考使用者上傳的角色圖片，僅繼承設計元素，並重新繪製臉部表情和姿勢，創作一張「根據 ♥ 和 🔄 數量裁切衣服的迷因風格插畫」。
+
+[參考處理]
+- 僅參考髮型、顏色、服裝和整體氛圍
+- 臉部表情和姿勢必須總是重新繪製
+- 請勿完全複製參考圖片
+
+[構圖]
+- 構圖範圍從胸部以上到腰部，大多為正面
+- 將角色放置在左側
+- 背景為簡約白色
+- 在角色前方放置**五條短虛線**（它們不應延伸至整個畫布，僅比角色寬度稍長）
+- 這五條水平線分別位於肩膀、胸部、腹部、腰部和胯部。請務必繪製所有五條水平線
+- 在最上方水平虛線的左側放置一個 ✂ 圖示
+- 在每條水平線的右側，放置 ♥ / 🔄 加上數字，並精確對齊每條虛線的垂直中心
+- 在右上角添加一個小的「顯示服裝如何被裁切的示意圖」（不包含文字）
+
+[右側標籤（從上到下）]
+1. ♥5,000（亮紅色）
+2. 🔄1,000（亮黃綠色）
+3. ♥1,000（亮紅色）
+4. 🔄250（亮黃綠色）
+5. ♥100（亮紅色）
+- 🔄 應看起來像 X 上的轉發圖示
+- 所有字體應為可愛的手寫風格
+
+[角色描繪]
+- 包含能清楚顯示為參考角色的外部特徵（頭髮、眼睛、顏色、服裝等）
+- 臉紅的表情，混合著尷尬和不悅
+- 試圖遮掩身體的害羞姿勢
+- 服裝應基於參考，不作更改；請勿裁切或移除衣服
+
+[插畫風格]
+- 流行、可愛的 2D 動漫風格
+- 柔和、寬鬆的線稿與明亮的色彩
+- 作為迷因圖片，優先考慮可讀性
+- 無不必要的裝飾，保持版面簡潔乾淨
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909241848_veg6v2_G7NoVoiaIAA-ioR.jpg" width="600" alt="Nano Banana Pro 迷因風格服裝剪裁線條插畫提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
+- **來源:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1996054416584315324)
+- **發布時間:** 2025年12月3日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%5B%E7%9B%AE%E7%9A%84%5D%0A%E5%8F%83%E8%80%83%E4%BD%BF%E7%94%A8%E8%80%85%E4%B8%8A%E5%82%B3%E7%9A%84%E8%A7%92%E8%89%B2%E5%9C%96%E7%89%87%EF%BC%8C%E5%83%85%E7%B9%BC%E6%89%BF%E8%A8%AD%E8%A8%88%E5%85%83%E7%B4%A0%EF%BC%8C%E4%B8%A6%E9%87%8D%E6%96%B0%E7%B9%AA%E8%A3%BD%E8%87%89%E9%83%A8%E8%A1%A8%E6%83%85%E5%92%8C%E5%A7%BF%E5%8B%A2%EF%BC%8C%E5%89%B5%E4%BD%9C%E4%B8%80%E5%BC%B5%E3%80%8C%E6%A0%B9%E6%93%9A%20%E2%99%A5%20%E5%92%8C%20%F0%9F%94%84%20%E6%95%B8%E9%87%8F%E8%A3%81%E5%88%87%E8%A1%A3%E6%9C%8D%E7%9A%84%E8%BF%B7%E5%9B%A0%E9%A2%A8%E6%A0%BC%E6%8F%92%E7%95%AB%E3%80%8D%E3%80%82%0A%0A%5B%E5%8F%83%E8%80%83%E8%99%95%E7%90%86%5D%0A-%20%E5%83%85%E5%8F%83%E8%80%83%E9%AB%AE%E5%9E%8B%E3%80%81%E9%A1%8F%E8%89%B2%E3%80%81%E6%9C%8D%E8%A3%9D%E5%92%8C%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%0A-%20%E8%87%89%E9%83%A8%E8%A1%A8%E6%83%85%E5%92%8C%E5%A7%BF%E5%8B%A2%E5%BF%85%E9%A0%88%E7%B8%BD%E6%98%AF%E9%87%8D%E6%96%B0%E7%B9%AA%E8%A3%BD%0A-%20%E8%AB%8B%E5%8B%BF%E5%AE%8C%E5%85%A8%E8%A4%87%E8%A3%BD%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%0A%0A%5B%E6%A7%8B%E5%9C%96%5D%0A-%20%E6%A7%8B%E5%9C%96%E7%AF%84%E5%9C%8D%E5%BE%9E%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E5%88%B0%E8%85%B0%E9%83%A8%EF%BC%8C%E5%A4%A7%E5%A4%9A%E7%82%BA%E6%AD%A3%E9%9D%A2%0A-%20%E5%B0%87%E8%A7%92%E8%89%B2%E6%94%BE%E7%BD%AE%E5%9C%A8%E5%B7%A6%E5%81%B4%0A-%20%E8%83%8C%E6%99%AF%E7%82%BA%E7%B0%A1%E7%B4%84%E7%99%BD%E8%89%B2%0A-%20%E5%9C%A8%E8%A7%92%E8%89%B2%E5%89%8D%E6%96%B9%E6%94%BE%E7%BD%AE**%E4%BA%94%E6%A2%9D%E7%9F%AD%E8%99%9B%E7%B7%9A**%EF%BC%88%E5%AE%83%E5%80%91%E4%B8%8D%E6%87%89%E5%BB%B6%E4%BC%B8%E8%87%B3%E6%95%B4%E5%80%8B%E7%95%AB%E5%B8%83%EF%BC%8C%E5%83%85%E6%AF%94%E8%A7%92%E8%89%B2%E5%AF%AC%E5%BA%A6%E7%A8%8D%E9%95%B7%EF%BC%89%0A-%20%E9%80%99%E4%BA%94%E6%A2%9D%E6%B0%B4%E5%B9%B3%E7%B7%9A%E5%88%86%E5%88%A5%E4%BD%8D%E6%96%BC%E8%82%A9%E8%86%80%E3%80%81%E8%83%B8%E9%83%A8%E3%80%81%E8%85%B9%E9%83%A8%E3%80%81%E8%85%B0%E9%83%A8%E5%92%8C%E8%83%AF%E9%83%A8%E3%80%82%E8%AB%8B%E5%8B%99%E5%BF%85%E7%B9%AA%E8%A3%BD%E6%89%80%E6%9C%89%E4%BA%94%E6%A2%9D%E6%B0%B4%E5%B9%B3%E7%B7%9A%0A-%20%E5%9C%A8%E6%9C%80%E4%B8%8A%E6%96%B9%E6%B0%B4%E5%B9%B3%E8%99%9B%E7%B7%9A%E7%9A%84%E5%B7%A6%E5%81%B4%E6%94%BE%E7%BD%AE%E4%B8%80%E5%80%8B%20%E2%9C%82%20%E5%9C%96%E7%A4%BA%0A-%20%E5%9C%A8%E6%AF%8F%E6%A2%9D%E6%B0%B4%E5%B9%B3%E7%B7%9A%E7%9A%84%E5%8F%B3%E5%81%B4%EF%BC%8C%E6%94%BE%E7%BD%AE%20%E2%99%A5%20%2F%20%F0%9F%94%84%20%E5%8A%A0%E4%B8%8A%E6%95%B8%E5%AD%97%EF%BC%8C%E4%B8%A6%E7%B2%BE%E7%A2%BA%E5%B0%8D%E9%BD%8A%E6%AF%8F%E6%A2%9D%E8%99%9B%E7%B7%9A%E7%9A%84%E5%9E%82%E7%9B%B4%E4%B8%AD%E5%BF%83%0A-%20%E5%9C%A8%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%B7%BB%E5%8A%A0%E4%B8%80%E5%80%8B%E5%B0%8F%E7%9A%84%E3%80%8C%E9%A1%AF%E7%A4%BA%E6%9C%8D%E8%A3%9D%E5%A6%82%E4%BD%95%E8%A2%AB%E8%A3%81%E5%88%87%E7%9A%84%E7%A4%BA%E6%84%8F%E5%9C%96%E3%80%8D%EF%BC%88%E4%B8%8D%E5%8C%85%E5%90%AB%E6%96%87%E5%AD%97%EF%BC%89%0A%0A%5B%E5%8F%B3%E5%81%B4%E6%A8%99%E7%B1%A4%EF%BC%88%E5%BE%9E%E4%B8%8A%E5%88%B0%E4%B8%8B%EF%BC%89%5D%0A1.%20%E2%99%A55%2C000%EF%BC%88%E4%BA%AE%E7%B4%85%E8%89%B2%EF%BC%89%0A2.%20%F0%9F%94%841%2C000%EF%BC%88%E4%BA%AE%E9%BB%83%E7%B6%A0%E8%89%B2%EF%BC%89%0A3.%20%E2%99%A51%2C000%EF%BC%88%E4%BA%AE%E7%B4%85%E8%89%B2%EF%BC%89%0A4.%20%F0%9F%94%84250%EF%BC%88%E4%BA%AE%E9%BB%83%E7%B6%A0%E8%89%B2%EF%BC%89%0A5.%20%E2%99%A5100%EF%BC%88%E4%BA%AE%E7%B4%85%E8%89%B2%EF%BC%89%0A-%20%F0%9F%94%84%20%E6%87%89%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%20X%20%E4%B8%8A%E7%9A%84%E8%BD%89%E7%99%BC%E5%9C%96%E7%A4%BA%0A-%20%E6%89%80%E6%9C%89%E5%AD%97%E9%AB%94%E6%87%89%E7%82%BA%E5%8F%AF%E6%84%9B%E7%9A%84%E6%89%8B%E5%AF%AB%E9%A2%A8%E6%A0%BC%0A%0A%5B%E8%A7%92%E8%89%B2%E6%8F%8F%E7%B9%AA%5D%0A-%20%E5%8C%85%E5%90%AB%E8%83%BD%E6%B8%85%E6%A5%9A%E9%A1%AF%E7%A4%BA%E7%82%BA%E5%8F%83%E8%80%83%E8%A7%92%E8%89%B2%E7%9A%84%E5%A4%96%E9%83%A8%E7%89%B9%E5%BE%B5%EF%BC%88%E9%A0%AD%E9%AB%AE%E3%80%81%E7%9C%BC%E7%9D%9B%E3%80%81%E9%A1%8F%E8%89%B2%E3%80%81%E6%9C%8D%E8%A3%9D%E7%AD%89%EF%BC%89%0A-%20%E8%87%89%E7%B4%85%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E6%B7%B7%E5%90%88%E8%91%97%E5%B0%B7%E5%B0%AC%E5%92%8C%E4%B8%8D%E6%82%85%0A-%20%E8%A9%A6%E5%9C%96%E9%81%AE%E6%8E%A9%E8%BA%AB%E9%AB%94%E7%9A%84%E5%AE%B3%E7%BE%9E%E5%A7%BF%E5%8B%A2%0A-%20%E6%9C%8D%E8%A3%9D%E6%87%89%E5%9F%BA%E6%96%BC%E5%8F%83%E8%80%83%EF%BC%8C%E4%B8%8D%E4%BD%9C%E6%9B%B4%E6%94%B9%EF%BC%9B%E8%AB%8B%E5%8B%BF%E8%A3%81%E5%88%87%E6%88%96%E7%A7%BB%E9%99%A4%E8%A1%A3%E6%9C%8D%0A%0A%5B%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%5D%0A-%20%E6%B5%81%E8%A1%8C%E3%80%81%E5%8F%AF%E6%84%9B%E7%9A%84%202D%20%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%0A-%20%E6%9F%94%E5%92%8C%E3%80%81%E5%AF%AC%E9%AC%86%E7%9A%84%E7%B7%9A%E7%A8%BF%E8%88%87%E6%98%8E%E4%BA%AE%E7%9A%84%E8%89%B2%E5%BD%A9%0A-%20%E4%BD%9C%E7%82%BA%E8%BF%B7%E5%9B%A0%E5%9C%96%E7%89%87%EF%BC%8C%E5%84%AA%E5%85%88%E8%80%83%E6%85%AE%E5%8F%AF%E8%AE%80%E6%80%A7%0A-%20%E7%84%A1%E4%B8%8D%E5%BF%85%E8%A6%81%E7%9A%84%E8%A3%9D%E9%A3%BE%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%89%88%E9%9D%A2%E7%B0%A1%E6%BD%94%E4%B9%BE%E6%B7%A8)**
+
+---
+
+### No. 18: Nano Banana Pro 的雪花球角色插圖提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+一個給 Nano Banana Pro 的詳細日文提示，用於在逼真的雪花球中創建一個帶有特定道具、燈光和限制的 Q 版動漫風格角色。
+
+#### 📝 提示詞
+
+```
+保持附圖參考影像中角色的特徵，並將其描繪成動漫風格的預設 Q 版角色，擺出一個不酷的姿勢。在角色頭上放置一隻小狸貓。
+角色被放置在一個寫實風格的雪花球中，奇幻的粉狀雪花在戲劇性的夜景中飄落並堆積。雪花球的底座裝飾有 LED 燈光。
+雪花球展示在溫暖的木桌上，桌子後方稍遠處有一支蠟燭。在霧氣瀰漫的窗戶上，只有手寫字體描繪的「(ᐢ⓿ᴥ⓿ᐢ) たぬ参上」字樣部分，能看到窗外白雪皚皚的日本風景。
+不要顯示任何人類手指。不要將狸貓的尾巴畫成條紋狀。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909204454_m7o7c9_G7NM0Kfb0AAHSZu.jpg" width="600" alt="Nano Banana Pro 的雪花球角色插圖提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909206602_pqpbcv_G7NM0LobgAA5x6i.jpg" width="600" alt="Nano Banana Pro 的雪花球角色插圖提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909208595_eaalcq_G7NM0LmakAAkEl7.jpg" width="600" alt="Nano Banana Pro 的雪花球角色插圖提示 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909211381_qdwi8m_G7NM0M5asAA0rXn.jpg" width="600" alt="Nano Banana Pro 的雪花球角色插圖提示 - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909213434_lvdcky_fJ3whuIjAdBEAVMX.jpg" width="600" alt="Nano Banana Pro 的雪花球角色插圖提示 - Image 5">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [赤城（あかぎ）](https://x.com/akagi401)
+- **來源:** [Twitter Post](https://x.com/akagi401/status/1996046940854009875)
+- **發布時間:** 2025年12月3日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BF%9D%E6%8C%81%E9%99%84%E5%9C%96%E5%8F%83%E8%80%83%E5%BD%B1%E5%83%8F%E4%B8%AD%E8%A7%92%E8%89%B2%E7%9A%84%E7%89%B9%E5%BE%B5%EF%BC%8C%E4%B8%A6%E5%B0%87%E5%85%B6%E6%8F%8F%E7%B9%AA%E6%88%90%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%E7%9A%84%E9%A0%90%E8%A8%AD%20Q%20%E7%89%88%E8%A7%92%E8%89%B2%EF%BC%8C%E6%93%BA%E5%87%BA%E4%B8%80%E5%80%8B%E4%B8%8D%E9%85%B7%E7%9A%84%E5%A7%BF%E5%8B%A2%E3%80%82%E5%9C%A8%E8%A7%92%E8%89%B2%E9%A0%AD%E4%B8%8A%E6%94%BE%E7%BD%AE%E4%B8%80%E9%9A%BB%E5%B0%8F%E7%8B%B8%E8%B2%93%E3%80%82%0A%E8%A7%92%E8%89%B2%E8%A2%AB%E6%94%BE%E7%BD%AE%E5%9C%A8%E4%B8%80%E5%80%8B%E5%AF%AB%E5%AF%A6%E9%A2%A8%E6%A0%BC%E7%9A%84%E9%9B%AA%E8%8A%B1%E7%90%83%E4%B8%AD%EF%BC%8C%E5%A5%87%E5%B9%BB%E7%9A%84%E7%B2%89%E7%8B%80%E9%9B%AA%E8%8A%B1%E5%9C%A8%E6%88%B2%E5%8A%87%E6%80%A7%E7%9A%84%E5%A4%9C%E6%99%AF%E4%B8%AD%E9%A3%84%E8%90%BD%E4%B8%A6%E5%A0%86%E7%A9%8D%E3%80%82%E9%9B%AA%E8%8A%B1%E7%90%83%E7%9A%84%E5%BA%95%E5%BA%A7%E8%A3%9D%E9%A3%BE%E6%9C%89%20LED%20%E7%87%88%E5%85%89%E3%80%82%0A%E9%9B%AA%E8%8A%B1%E7%90%83%E5%B1%95%E7%A4%BA%E5%9C%A8%E6%BA%AB%E6%9A%96%E7%9A%84%E6%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%A1%8C%E5%AD%90%E5%BE%8C%E6%96%B9%E7%A8%8D%E9%81%A0%E8%99%95%E6%9C%89%E4%B8%80%E6%94%AF%E8%A0%9F%E7%87%AD%E3%80%82%E5%9C%A8%E9%9C%A7%E6%B0%A3%E7%80%B0%E6%BC%AB%E7%9A%84%E7%AA%97%E6%88%B6%E4%B8%8A%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%89%8B%E5%AF%AB%E5%AD%97%E9%AB%94%E6%8F%8F%E7%B9%AA%E7%9A%84%E3%80%8C(%E1%90%A2%E2%93%BF%E1%B4%A5%E2%93%BF%E1%90%A2)%20%E3%81%9F%E3%81%AC%E5%8F%82%E4%B8%8A%E3%80%8D%E5%AD%97%E6%A8%A3%E9%83%A8%E5%88%86%EF%BC%8C%E8%83%BD%E7%9C%8B%E5%88%B0%E7%AA%97%E5%A4%96%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%E7%9A%84%E6%97%A5%E6%9C%AC%E9%A2%A8%E6%99%AF%E3%80%82%0A%E4%B8%8D%E8%A6%81%E9%A1%AF%E7%A4%BA%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%A1%9E%E6%89%8B%E6%8C%87%E3%80%82%E4%B8%8D%E8%A6%81%E5%B0%87%E7%8B%B8%E8%B2%93%E7%9A%84%E5%B0%BE%E5%B7%B4%E7%95%AB%E6%88%90%E6%A2%9D%E7%B4%8B%E7%8B%80%E3%80%82)**
+
+---
+
+### No. 19: Nano Banana Pro 的法線貼圖和深度貼圖生成提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+以下是兩個給 Nano Banana Pro 的英文提示，用於從輸入的藝術作品圖像生成切線空間法線貼圖和物理上合理的深度貼圖，適用於透過 WebGL 或 Three.js 進行 3D 樣式檢視。
+
+#### 📝 提示詞
+
+```
+從輸入的藝術作品圖像生成表面法線貼圖。
+
+輸出一個 RGB 圖像，其中每個像素以標準切線空間格式編碼表面法線方向：
+• R = X 方向
+• G = Y 方向
+• B = Z 方向
+
+要求：
+• 保持與輸入圖像相同的解析度和長寬比。
+• 法線方向必須遵循筆觸、陰影和輪廓所暗示的局部幾何形狀。
+• 請勿添加新的藝術元素或重繪場景。
+• 僅推斷合理的微觀幾何形狀和表面方向。
+• 確保平滑、一致的法線過渡，無雜訊。
+
+從輸入的藝術作品圖像生成深度貼圖。
+
+輸出一個單一的灰階深度貼圖，其中：
+• 白色 = 靠近觀看者
+• 黑色 = 遠離觀看者
+
+要求：
+• 保持與輸入圖像相同的解析度和長寬比。
+• 深度必須平滑、連續且符合物理學。
+• 僅推斷原始藝術作品中可能合理存在的幾何深度。
+• 請勿添加新的物體或細節。
+• 請勿風格化、重繪或重新詮釋場景。
+• 避免紋理雜訊；僅專注於深度結構。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909246223_oejk2i_N_VRX8gtYM5vdGZ-.jpg" width="600" alt="Nano Banana Pro 的法線貼圖和深度貼圖生成提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Takuma Hashimoto](https://x.com/tkm_hmng8)
+- **來源:** [Twitter Post](https://x.com/tkm_hmng8/status/1996037744305570235)
+- **發布時間:** 2025年12月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BE%9E%E8%BC%B8%E5%85%A5%E7%9A%84%E8%97%9D%E8%A1%93%E4%BD%9C%E5%93%81%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90%E8%A1%A8%E9%9D%A2%E6%B3%95%E7%B7%9A%E8%B2%BC%E5%9C%96%E3%80%82%0A%0A%E8%BC%B8%E5%87%BA%E4%B8%80%E5%80%8B%20RGB%20%E5%9C%96%E5%83%8F%EF%BC%8C%E5%85%B6%E4%B8%AD%E6%AF%8F%E5%80%8B%E5%83%8F%E7%B4%A0%E4%BB%A5%E6%A8%99%E6%BA%96%E5%88%87%E7%B7%9A%E7%A9%BA%E9%96%93%E6%A0%BC%E5%BC%8F%E7%B7%A8%E7%A2%BC%E8%A1%A8%E9%9D%A2%E6%B3%95%E7%B7%9A%E6%96%B9%E5%90%91%EF%BC%9A%0A%E2%80%A2%20R%20%3D%20X%20%E6%96%B9%E5%90%91%0A%E2%80%A2%20G%20%3D%20Y%20%E6%96%B9%E5%90%91%0A%E2%80%A2%20B%20%3D%20Z%20%E6%96%B9%E5%90%91%0A%0A%E8%A6%81%E6%B1%82%EF%BC%9A%0A%E2%80%A2%20%E4%BF%9D%E6%8C%81%E8%88%87%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E7%9B%B8%E5%90%8C%E7%9A%84%E8%A7%A3%E6%9E%90%E5%BA%A6%E5%92%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E3%80%82%0A%E2%80%A2%20%E6%B3%95%E7%B7%9A%E6%96%B9%E5%90%91%E5%BF%85%E9%A0%88%E9%81%B5%E5%BE%AA%E7%AD%86%E8%A7%B8%E3%80%81%E9%99%B0%E5%BD%B1%E5%92%8C%E8%BC%AA%E5%BB%93%E6%89%80%E6%9A%97%E7%A4%BA%E7%9A%84%E5%B1%80%E9%83%A8%E5%B9%BE%E4%BD%95%E5%BD%A2%E7%8B%80%E3%80%82%0A%E2%80%A2%20%E8%AB%8B%E5%8B%BF%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E8%97%9D%E8%A1%93%E5%85%83%E7%B4%A0%E6%88%96%E9%87%8D%E7%B9%AA%E5%A0%B4%E6%99%AF%E3%80%82%0A%E2%80%A2%20%E5%83%85%E6%8E%A8%E6%96%B7%E5%90%88%E7%90%86%E7%9A%84%E5%BE%AE%E8%A7%80%E5%B9%BE%E4%BD%95%E5%BD%A2%E7%8B%80%E5%92%8C%E8%A1%A8%E9%9D%A2%E6%96%B9%E5%90%91%E3%80%82%0A%E2%80%A2%20%E7%A2%BA%E4%BF%9D%E5%B9%B3%E6%BB%91%E3%80%81%E4%B8%80%E8%87%B4%E7%9A%84%E6%B3%95%E7%B7%9A%E9%81%8E%E6%B8%A1%EF%BC%8C%E7%84%A1%E9%9B%9C%E8%A8%8A%E3%80%82%0A%0A%E5%BE%9E%E8%BC%B8%E5%85%A5%E7%9A%84%E8%97%9D%E8%A1%93%E4%BD%9C%E5%93%81%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90%E6%B7%B1%E5%BA%A6%E8%B2%BC%E5%9C%96%E3%80%82%0A%0A%E8%BC%B8%E5%87%BA%E4%B8%80%E5%80%8B%E5%96%AE%E4%B8%80%E7%9A%84%E7%81%B0%E9%9A%8E%E6%B7%B1%E5%BA%A6%E8%B2%BC%E5%9C%96%EF%BC%8C%E5%85%B6%E4%B8%AD%EF%BC%9A%0A%E2%80%A2%20%E7%99%BD%E8%89%B2%20%3D%20%E9%9D%A0%E8%BF%91%E8%A7%80%E7%9C%8B%E8%80%85%0A%E2%80%A2%20%E9%BB%91%E8%89%B2%20%3D%20%E9%81%A0%E9%9B%A2%E8%A7%80%E7%9C%8B%E8%80%85%0A%0A%E8%A6%81%E6%B1%82%EF%BC%9A%0A%E2%80%A2%20%E4%BF%9D%E6%8C%81%E8%88%87%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E7%9B%B8%E5%90%8C%E7%9A%84%E8%A7%A3%E6%9E%90%E5%BA%A6%E5%92%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E3%80%82%0A%E2%80%A2%20%E6%B7%B1%E5%BA%A6%E5%BF%85%E9%A0%88%E5%B9%B3%E6%BB%91%E3%80%81%E9%80%A3%E7%BA%8C%E4%B8%94%E7%AC%A6%E5%90%88%E7%89%A9%E7%90%86%E5%AD%B8%E3%80%82%0A%E2%80%A2%20%E5%83%85%E6%8E%A8%E6%96%B7%E5%8E%9F%E5%A7%8B%E8%97%9D%E8%A1%93%E4%BD%9C%E5%93%81%E4%B8%AD%E5%8F%AF%E8%83%BD%E5%90%88%E7%90%86%E5%AD%98%E5%9C%A8%E7%9A%84%E5%B9%BE%E4%BD%95%E6%B7%B1%E5%BA%A6%E3%80%82%0A%E2%80%A2%20%E8%AB%8B%E5%8B%BF%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E7%89%A9%E9%AB%94%E6%88%96%E7%B4%B0%E7%AF%80%E3%80%82%0A%E2%80%A2%20%E8%AB%8B%E5%8B%BF%E9%A2%A8%E6%A0%BC%E5%8C%96%E3%80%81%E9%87%8D%E7%B9%AA%E6%88%96%E9%87%8D%E6%96%B0%E8%A9%AE%E9%87%8B%E5%A0%B4%E6%99%AF%E3%80%82%0A%E2%80%A2%20%E9%81%BF%E5%85%8D%E7%B4%8B%E7%90%86%E9%9B%9C%E8%A8%8A%EF%BC%9B%E5%83%85%E5%B0%88%E6%B3%A8%E6%96%BC%E6%B7%B1%E5%BA%A6%E7%B5%90%E6%A7%8B%E3%80%82)**
+
+---
+
+### No. 20: 簡單的相片放大與修復提示
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+用於修復照片並將其放大至 2K 解析度的極簡 Nano Banana Pro 提示。
+
+#### 📝 提示詞
+
+```
+修復這張照片，將此圖片放大至 2K 解析度，並使其完全清晰。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909272055_wk8y5u_G7NSyZ3aYAAhdQd.jpg" width="600" alt="簡單的相片放大與修復提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909274150_1nckg9_G7NSyY2a0AA8nmz.jpg" width="600" alt="簡單的相片放大與修復提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [𝕏_斯基](https://x.com/observer_beat)
+- **來源:** [Twitter Post](https://x.com/observer_beat/status/1996030096038302187)
+- **發布時間:** 2025年12月3日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BF%AE%E5%BE%A9%E9%80%99%E5%BC%B5%E7%85%A7%E7%89%87%EF%BC%8C%E5%B0%87%E6%AD%A4%E5%9C%96%E7%89%87%E6%94%BE%E5%A4%A7%E8%87%B3%202K%20%E8%A7%A3%E6%9E%90%E5%BA%A6%EF%BC%8C%E4%B8%A6%E4%BD%BF%E5%85%B6%E5%AE%8C%E5%85%A8%E6%B8%85%E6%99%B0%E3%80%82)**
+
+---
+
+### No. 21: 適用於 NotebookLM 的簡潔扁平投影片設計風格指南
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+適用於 Nano Banana Pro 的日式提示，定義了簡潔、扁平的投影片設計，具有特定的顏色、輪廓和以圖表為中心的佈局，非常適合學生友善的簡報或社群內容。
+
+#### 📝 提示詞
+
+```
+品牌顏色：[{argument name="brand color" default="#06c7b0"}]
+簡潔、乾淨的扁平化設計。
+人物和圖示以統一的黑色輪廓線條繪製，局部使用柔和的粉彩色調（例如：天藍色和珊瑚粉）。
+強調圓潤的形狀和整體柔和的印象。
+採用以圖表為中心的佈局（例如：文氏圖、長條圖、對話氣泡），語氣友善，適合針對學生和年輕受眾的教材和社群媒體內容。
+保留充足的留白，以確保易讀性和平衡的構圖。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909220018_117yim_G7MnRUUasAAVzDG.jpg" width="600" alt="適用於 NotebookLM 的簡潔扁平投影片設計風格指南 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909222897_9ru7os_G7MnXlQbgAIonv8.jpg" width="600" alt="適用於 NotebookLM 的簡潔扁平投影片設計風格指南 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909225157_xc9goy_G7MnagfbgAAwAI2.jpg" width="600" alt="適用於 NotebookLM 的簡潔扁平投影片設計風格指南 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909227138_jote0v_G7MrepvbgAIgSFE.jpg" width="600" alt="適用於 NotebookLM 的簡潔扁平投影片設計風格指南 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [しんやん@AIツールギャラリー](https://x.com/AI_RESKILL)
+- **來源:** [Twitter Post](https://x.com/AI_RESKILL/status/1995987344646963220)
+- **發布時間:** 2025年12月2日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%93%81%E7%89%8C%E9%A1%8F%E8%89%B2%EF%BC%9A%5B%7Bargument%20name%3D%22brand%20color%22%20default%3D%22%2306c7b0%22%7D%5D%0A%E7%B0%A1%E6%BD%94%E3%80%81%E4%B9%BE%E6%B7%A8%E7%9A%84%E6%89%81%E5%B9%B3%E5%8C%96%E8%A8%AD%E8%A8%88%E3%80%82%0A%E4%BA%BA%E7%89%A9%E5%92%8C%E5%9C%96%E7%A4%BA%E4%BB%A5%E7%B5%B1%E4%B8%80%E7%9A%84%E9%BB%91%E8%89%B2%E8%BC%AA%E5%BB%93%E7%B7%9A%E6%A2%9D%E7%B9%AA%E8%A3%BD%EF%BC%8C%E5%B1%80%E9%83%A8%E4%BD%BF%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E8%AA%BF%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%9A%E5%A4%A9%E8%97%8D%E8%89%B2%E5%92%8C%E7%8F%8A%E7%91%9A%E7%B2%89%EF%BC%89%E3%80%82%0A%E5%BC%B7%E8%AA%BF%E5%9C%93%E6%BD%A4%E7%9A%84%E5%BD%A2%E7%8B%80%E5%92%8C%E6%95%B4%E9%AB%94%E6%9F%94%E5%92%8C%E7%9A%84%E5%8D%B0%E8%B1%A1%E3%80%82%0A%E6%8E%A1%E7%94%A8%E4%BB%A5%E5%9C%96%E8%A1%A8%E7%82%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E4%BD%88%E5%B1%80%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%9A%E6%96%87%E6%B0%8F%E5%9C%96%E3%80%81%E9%95%B7%E6%A2%9D%E5%9C%96%E3%80%81%E5%B0%8D%E8%A9%B1%E6%B0%A3%E6%B3%A1%EF%BC%89%EF%BC%8C%E8%AA%9E%E6%B0%A3%E5%8F%8B%E5%96%84%EF%BC%8C%E9%81%A9%E5%90%88%E9%87%9D%E5%B0%8D%E5%AD%B8%E7%94%9F%E5%92%8C%E5%B9%B4%E8%BC%95%E5%8F%97%E7%9C%BE%E7%9A%84%E6%95%99%E6%9D%90%E5%92%8C%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E5%85%A7%E5%AE%B9%E3%80%82%0A%E4%BF%9D%E7%95%99%E5%85%85%E8%B6%B3%E7%9A%84%E7%95%99%E7%99%BD%EF%BC%8C%E4%BB%A5%E7%A2%BA%E4%BF%9D%E6%98%93%E8%AE%80%E6%80%A7%E5%92%8C%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%82)**
+
+---
+
+### No. 22: 為時尚年輕女性設計的鏡面自拍幻燈片提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度結構化的 Nano Banana Pro 幻燈片提示，描述一位年輕女性正在使用鏡子自拍，其中包含詳細的造型、配件、場景設定和攝影參數，非常適合社群媒體風格的垂直圖像。
+
+#### 📝 提示詞
+
+```
+{
+"subject": {
+"description": "一位年輕女性正在拍鏡中自拍，俏皮地咬著一杯冰鎮綠色飲料的吸管",
+"mirror_rules": "忽略鏡像物理學對衣物文字的影響，文字應正向顯示且觀者可清晰辨識，無多餘字符",
+"age": "年輕成人",
+"expression": "俏皮、鼻子微皺、咬著吸管",
+"hair": {
+"color": { "argument name": "hair color", "default": "棕色" },
+"style": "長直髮披散在肩上"
+},
+"clothing": {
+"top": {
+"type": "羅紋針織吊帶背心",
+"color": { "argument name": "top color", "default": "白色" },
+"details": "短版剪裁、細肩帶、領口處有小巧精緻的蝴蝶結"
+},
+"bottom": {
+"type": "牛仔褲",
+"color": "淺藍色水洗",
+"details": "寬鬆版型、可見鈕扣門襟"
+}
+},
+"face": {
+"preserve_original": true,
+"makeup": "自然陽光親吻妝感、光澤肌膚、裸色亮澤唇"
+}
+},
+"accessories": {
+"headwear": {
+"type": "橄欖綠棒球帽",
+"details": "白色 NY 標誌刺繡、帽子上戴著銀色耳罩式耳機"
+},
+"jewelry": {
+"earrings": "大型金色圈形耳環",
+"necklace": "細金鍊配十字架吊墜",
+"wrist": "金色手鐲和手鍊混搭",
+"rings": "多個金戒指"
+},
+"device": {
+"type": "智慧型手機",
+"details": "白色手機殼，帶有粉紅色花卉圖案"
+},
+"prop": {
+"type": "冰鎮飲料",
+"details": "塑膠杯裝冰抹茶拿鐵和綠色吸管"
+}
+},
+"photography": {
+"camera_style": "智慧型手機鏡中自拍美學",
+"angle": "與視線齊平的鏡面反射",
+"shot_type": "半身構圖，主體位於畫面右側",
+"aspect_ratio": "9:16 垂直",
+"texture": "清晰對焦、自然室內光線、社群媒體真實感、乾淨細節"
+},
+"background": {
+"setting": "明亮休閒臥室",
+"wall_color": "純白色",
+"elements": [
+"鋪有白色紋理羽絨被的床",
+"床上放著黑色編織單肩包",
+"豹紋抱枕",
+"仿舊白色復古床頭櫃",
+"帶白色燈罩的現代床頭燈"
+],
+"atmosphere": "休閒生活、舒適、隨性",
+"lighting": "柔和自然日光"
+}
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909162581_aiz5qr_G7MqA-8aEAA7sWb.jpg" width="600" alt="為時尚年輕女性設計的鏡面自拍幻燈片提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Arpit](https://x.com/Arpitsharma_0)
+- **來源:** [Twitter Post](https://x.com/Arpitsharma_0/status/1995985265077485887)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%22subject%22%3A%20%7B%0A%22description%22%3A%20%22%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%E6%AD%A3%E5%9C%A8%E6%8B%8D%E9%8F%A1%E4%B8%AD%E8%87%AA%E6%8B%8D%EF%BC%8C%E4%BF%8F%E7%9A%AE%E5%9C%B0%E5%92%AC%E8%91%97%E4%B8%80%E6%9D%AF%E5%86%B0%E9%8E%AE%E7%B6%A0%E8%89%B2%E9%A3%B2%E6%96%99%E7%9A%84%E5%90%B8%E7%AE%A1%22%2C%0A%22mirror_rules%22%3A%20%22%E5%BF%BD%E7%95%A5%E9%8F%A1%E5%83%8F%E7%89%A9%E7%90%86%E5%AD%B8%E5%B0%8D%E8%A1%A3%E7%89%A9%E6%96%87%E5%AD%97%E7%9A%84%E5%BD%B1%E9%9F%BF%EF%BC%8C%E6%96%87%E5%AD%97%E6%87%89%E6%AD%A3%E5%90%91%E9%A1%AF%E7%A4%BA%E4%B8%94%E8%A7%80%E8%80%85%E5%8F%AF%E6%B8%85%E6%99%B0%E8%BE%A8%E8%AD%98%EF%BC%8C%E7%84%A1%E5%A4%9A%E9%A4%98%E5%AD%97%E7%AC%A6%22%2C%0A%22age%22%3A%20%22%E5%B9%B4%E8%BC%95%E6%88%90%E4%BA%BA%22%2C%0A%22expression%22%3A%20%22%E4%BF%8F%E7%9A%AE%E3%80%81%E9%BC%BB%E5%AD%90%E5%BE%AE%E7%9A%BA%E3%80%81%E5%92%AC%E8%91%97%E5%90%B8%E7%AE%A1%22%2C%0A%22hair%22%3A%20%7B%0A%22color%22%3A%20%7B%20%22argument%20name%22%3A%20%22hair%20color%22%2C%20%22default%22%3A%20%22%E6%A3%95%E8%89%B2%22%20%7D%2C%0A%22style%22%3A%20%22%E9%95%B7%E7%9B%B4%E9%AB%AE%E6%8A%AB%E6%95%A3%E5%9C%A8%E8%82%A9%E4%B8%8A%22%0A%7D%2C%0A%22clothing%22%3A%20%7B%0A%22top%22%3A%20%7B%0A%22type%22%3A%20%22%E7%BE%85%E7%B4%8B%E9%87%9D%E7%B9%94%E5%90%8A%E5%B8%B6%E8%83%8C%E5%BF%83%22%2C%0A%22color%22%3A%20%7B%20%22argument%20name%22%3A%20%22top%20color%22%2C%20%22default%22%3A%20%22%E7%99%BD%E8%89%B2%22%20%7D%2C%0A%22details%22%3A%20%22%E7%9F%AD%E7%89%88%E5%89%AA%E8%A3%81%E3%80%81%E7%B4%B0%E8%82%A9%E5%B8%B6%E3%80%81%E9%A0%98%E5%8F%A3%E8%99%95%E6%9C%89%E5%B0%8F%E5%B7%A7%E7%B2%BE%E7%B7%BB%E7%9A%84%E8%9D%B4%E8%9D%B6%E7%B5%90%22%0A%7D%2C%0A%22bottom%22%3A%20%7B%0A%22type%22%3A%20%22%E7%89%9B%E4%BB%94%E8%A4%B2%22%2C%0A%22color%22%3A%20%22%E6%B7%BA%E8%97%8D%E8%89%B2%E6%B0%B4%E6%B4%97%22%2C%0A%22details%22%3A%20%22%E5%AF%AC%E9%AC%86%E7%89%88%E5%9E%8B%E3%80%81%E5%8F%AF%E8%A6%8B%E9%88%95%E6%89%A3%E9%96%80%E8%A5%9F%22%0A%7D%0A%7D%2C%0A%22face%22%3A%20%7B%0A%22preserve_original%22%3A%20true%2C%0A%22makeup%22%3A%20%22%E8%87%AA%E7%84%B6%E9%99%BD%E5%85%89%E8%A6%AA%E5%90%BB%E5%A6%9D%E6%84%9F%E3%80%81%E5%85%89%E6%BE%A4%E8%82%8C%E8%86%9A%E3%80%81%E8%A3%B8%E8%89%B2%E4%BA%AE%E6%BE%A4%E5%94%87%22%0A%7D%0A%7D%2C%0A%22accessories%22%3A%20%7B%0A%22headwear%22%3A%20%7B%0A%22type%22%3A%20%22%E6%A9%84%E6%AC%96%E7%B6%A0%E6%A3%92%E7%90%83%E5%B8%BD%22%2C%0A%22details%22%3A%20%22%E7%99%BD%E8%89%B2%20NY%20%E6%A8%99%E8%AA%8C%E5%88%BA%E7%B9%A1%E3%80%81%E5%B8%BD%E5%AD%90%E4%B8%8A%E6%88%B4%E8%91%97%E9%8A%80%E8%89%B2%E8%80%B3%E7%BD%A9%E5%BC%8F%E8%80%B3%E6%A9%9F%22%0A%7D%2C%0A%22jewelry%22%3A%20%7B%0A%22earrings%22%3A%20%22%E5%A4%A7%E5%9E%8B%E9%87%91%E8%89%B2%E5%9C%88%E5%BD%A2%E8%80%B3%E7%92%B0%22%2C%0A%22necklace%22%3A%20%22%E7%B4%B0%E9%87%91%E9%8D%8A%E9%85%8D%E5%8D%81%E5%AD%97%E6%9E%B6%E5%90%8A%E5%A2%9C%22%2C%0A%22wrist%22%3A%20%22%E9%87%91%E8%89%B2%E6%89%8B%E9%90%B2%E5%92%8C%E6%89%8B%E9%8D%8A%E6%B7%B7%E6%90%AD%22%2C%0A%22rings%22%3A%20%22%E5%A4%9A%E5%80%8B%E9%87%91%E6%88%92%E6%8C%87%22%0A%7D%2C%0A%22device%22%3A%20%7B%0A%22type%22%3A%20%22%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%22%2C%0A%22details%22%3A%20%22%E7%99%BD%E8%89%B2%E6%89%8B%E6%A9%9F%E6%AE%BC%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%B2%89%E7%B4%85%E8%89%B2%E8%8A%B1%E5%8D%89%E5%9C%96%E6%A1%88%22%0A%7D%2C%0A%22prop%22%3A%20%7B%0A%22type%22%3A%20%22%E5%86%B0%E9%8E%AE%E9%A3%B2%E6%96%99%22%2C%0A%22details%22%3A%20%22%E5%A1%91%E8%86%A0%E6%9D%AF%E8%A3%9D%E5%86%B0%E6%8A%B9%E8%8C%B6%E6%8B%BF%E9%90%B5%E5%92%8C%E7%B6%A0%E8%89%B2%E5%90%B8%E7%AE%A1%22%0A%7D%0A%7D%2C%0A%22photography%22%3A%20%7B%0A%22camera_style%22%3A%20%22%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%8F%A1%E4%B8%AD%E8%87%AA%E6%8B%8D%E7%BE%8E%E5%AD%B8%22%2C%0A%22angle%22%3A%20%22%E8%88%87%E8%A6%96%E7%B7%9A%E9%BD%8A%E5%B9%B3%E7%9A%84%E9%8F%A1%E9%9D%A2%E5%8F%8D%E5%B0%84%22%2C%0A%22shot_type%22%3A%20%22%E5%8D%8A%E8%BA%AB%E6%A7%8B%E5%9C%96%EF%BC%8C%E4%B8%BB%E9%AB%94%E4%BD%8D%E6%96%BC%E7%95%AB%E9%9D%A2%E5%8F%B3%E5%81%B4%22%2C%0A%22aspect_ratio%22%3A%20%229%3A16%20%E5%9E%82%E7%9B%B4%22%2C%0A%22texture%22%3A%20%22%E6%B8%85%E6%99%B0%E5%B0%8D%E7%84%A6%E3%80%81%E8%87%AA%E7%84%B6%E5%AE%A4%E5%85%A7%E5%85%89%E7%B7%9A%E3%80%81%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E7%9C%9F%E5%AF%A6%E6%84%9F%E3%80%81%E4%B9%BE%E6%B7%A8%E7%B4%B0%E7%AF%80%22%0A%7D%2C%0A%22background%22%3A%20%7B%0A%22setting%22%3A%20%22%E6%98%8E%E4%BA%AE%E4%BC%91%E9%96%92%E8%87%A5%E5%AE%A4%22%2C%0A%22wall_color%22%3A%20%22%E7%B4%94%E7%99%BD%E8%89%B2%22%2C%0A%22elements%22%3A%20%5B%0A%22%E9%8B%AA%E6%9C%89%E7%99%BD%E8%89%B2%E7%B4%8B%E7%90%86%E7%BE%BD%E7%B5%A8%E8%A2%AB%E7%9A%84%E5%BA%8A%22%2C%0A%22%E5%BA%8A%E4%B8%8A%E6%94%BE%E8%91%97%E9%BB%91%E8%89%B2%E7%B7%A8%E7%B9%94%E5%96%AE%E8%82%A9%E5%8C%85%22%2C%0A%22%E8%B1%B9%E7%B4%8B%E6%8A%B1%E6%9E%95%22%2C%0A%22%E4%BB%BF%E8%88%8A%E7%99%BD%E8%89%B2%E5%BE%A9%E5%8F%A4%E5%BA%8A%E9%A0%AD%E6%AB%83%22%2C%0A%22%E5%B8%B6%E7%99%BD%E8%89%B2%E7%87%88%E7%BD%A9%E7%9A%84%E7%8F%BE%E4%BB%A3%E5%BA%8A%E9%A0%AD%E7%87%88%22%0A%5D%2C%0A%22atmosphere%22%3A%20%22%E4%BC%91%E9%96%92%E7%94%9F%E6%B4%BB%E3%80%81%E8%88%92%E9%81%A9%E3%80%81%E9%9A%A8%E6%80%A7%22%2C%0A%22lighting%22%3A%20%22%E6%9F%94%E5%92%8C%E8%87%AA%E7%84%B6%E6%97%A5%E5%85%89%22%0A%7D%0A%7D)**
+
+---
+
+### No. 23: 卡通無人機風格的 Google 地圖空拍圖插畫提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個能將 Google 地圖或 Google Earth 的空拍截圖，轉換成色彩鮮明、異想天開的卡通風格無人機照片的提示，其中包含微小的人物和雜誌品質的插圖。
+
+#### 📝 提示詞
+
+```
+將這張空拍地圖視圖轉化為一張從上方拍攝的插畫式空拍照片。營造出充滿活力、生動的視覺效果，色彩鮮明，並在場景中散佈微型人物，以呈現異想天開、雜誌品質的插畫成果。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909184487_d8rdzz_G7MeF59bgAEvwXV.jpg" width="600" alt="卡通無人機風格的 Google 地圖空拍圖插畫提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909186629_z7prsx_G7MeJ9gbgAI6Dzm.jpg" width="600" alt="卡通無人機風格的 Google 地圖空拍圖插畫提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [SaaS Junction || AI & SaaS Updates](https://x.com/SaasJunctionHQ)
+- **來源:** [Twitter Post](https://x.com/SaasJunctionHQ/status/1995973611635834958)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E9%80%99%E5%BC%B5%E7%A9%BA%E6%8B%8D%E5%9C%B0%E5%9C%96%E8%A6%96%E5%9C%96%E8%BD%89%E5%8C%96%E7%82%BA%E4%B8%80%E5%BC%B5%E5%BE%9E%E4%B8%8A%E6%96%B9%E6%8B%8D%E6%94%9D%E7%9A%84%E6%8F%92%E7%95%AB%E5%BC%8F%E7%A9%BA%E6%8B%8D%E7%85%A7%E7%89%87%E3%80%82%E7%87%9F%E9%80%A0%E5%87%BA%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E3%80%81%E7%94%9F%E5%8B%95%E7%9A%84%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C%EF%BC%8C%E8%89%B2%E5%BD%A9%E9%AE%AE%E6%98%8E%EF%BC%8C%E4%B8%A6%E5%9C%A8%E5%A0%B4%E6%99%AF%E4%B8%AD%E6%95%A3%E4%BD%88%E5%BE%AE%E5%9E%8B%E4%BA%BA%E7%89%A9%EF%BC%8C%E4%BB%A5%E5%91%88%E7%8F%BE%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E3%80%81%E9%9B%9C%E8%AA%8C%E5%93%81%E8%B3%AA%E7%9A%84%E6%8F%92%E7%95%AB%E6%88%90%E6%9E%9C%E3%80%82)**
+
+---
+
+### No. 24: 在昏暗房間裡，一位年輕女性的低角度風格化肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個結構化的 JSON 提示，用於 Gemini Nano Banana Pro 生成一張高解析度、低角度的年輕女性照片，背景是一個昏暗、溫暖、帶有紫色調的房間，同時保留她的臉部特徵，並指定髮型、姿勢、服裝和燈光。
+
+#### 📝 提示詞
+
+```
+{
+  "image_generation_request": {
+    "constraints": {
+      "preservation_instruction": "不改變 {argument name=\"my face\" default=\"我的臉部特徵和臉孔\"}",
+      "strictness": "高"
+    },
+    "technical_specifications": {
+      "medium": "照片",
+      "resolution": "高解析度",
+      "camera_angle": "低角度視角"
+    },
+    "subject_details": {
+      "demographics": "年輕女性",
+      "physical_appearance": {
+        "hair": {
+          "style": "凌亂的盤髮",
+          "details": "散落的髮絲"
+        }
+      },
+      "pose_and_action": {
+        "stance": "站立",
+        "positioning": "擺好姿勢",
+        "gesture": "觸摸衣領",
+        "vibe": "看起來很時尚"
+      },
+      "attire": {
+        "upper_body": {
+          "item": "短版 T 恤",
+          "color": {argument name="shirt color" default="深藍色"},
+          "texture": "羅紋",
+          "details": [
+            "白色飾邊",
+            "白色標誌"
+          ]
+        },
+        "lower_body": {
+          "item": "睡褲",
+          "pattern": "條紋",
+          "color": "白色"
+        }
+      }
+    },
+    "scene_environment": {
+      "setting_type": "房間",
+      "lighting": {
+        "intensity": "光線昏暗",
+        "temperature": "暖色調",
+        "color_tone": "增強的紫色調",
+        "sources": [
+          "吸頂燈",
+          "隱藏式燈槽"
+        ]
+      }
+    }
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909151110_x4ha7i_G7LzJ3EWkAAFpRr.jpg" width="600" alt="在昏暗房間裡，一位年輕女性的低角度風格化肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909153758_n65s2j_G67Pf1oWMAAXXwP.jpg" width="600" alt="在昏暗房間裡，一位年輕女性的低角度風格化肖像 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Melis✨](https://x.com/miilesus)
+- **來源:** [Twitter Post](https://x.com/miilesus/status/1995924969503817806)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_generation_request%22%3A%20%7B%0A%20%20%20%20%22constraints%22%3A%20%7B%0A%20%20%20%20%20%20%22preservation_instruction%22%3A%20%22%E4%B8%8D%E6%94%B9%E8%AE%8A%20%7Bargument%20name%3D%5C%22my%20face%5C%22%20default%3D%5C%22%E6%88%91%E7%9A%84%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E5%92%8C%E8%87%89%E5%AD%94%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22strictness%22%3A%20%22%E9%AB%98%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22technical_specifications%22%3A%20%7B%0A%20%20%20%20%20%20%22medium%22%3A%20%22%E7%85%A7%E7%89%87%22%2C%0A%20%20%20%20%20%20%22resolution%22%3A%20%22%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%22%2C%0A%20%20%20%20%20%20%22camera_angle%22%3A%20%22%E4%BD%8E%E8%A7%92%E5%BA%A6%E8%A6%96%E8%A7%92%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22subject_details%22%3A%20%7B%0A%20%20%20%20%20%20%22demographics%22%3A%20%22%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%22%2C%0A%20%20%20%20%20%20%22physical_appearance%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22%E5%87%8C%E4%BA%82%E7%9A%84%E7%9B%A4%E9%AB%AE%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22%E6%95%A3%E8%90%BD%E7%9A%84%E9%AB%AE%E7%B5%B2%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pose_and_action%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22stance%22%3A%20%22%E7%AB%99%E7%AB%8B%22%2C%0A%20%20%20%20%20%20%20%20%22positioning%22%3A%20%22%E6%93%BA%E5%A5%BD%E5%A7%BF%E5%8B%A2%22%2C%0A%20%20%20%20%20%20%20%20%22gesture%22%3A%20%22%E8%A7%B8%E6%91%B8%E8%A1%A3%E9%A0%98%22%2C%0A%20%20%20%20%20%20%20%20%22vibe%22%3A%20%22%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%BE%88%E6%99%82%E5%B0%9A%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22upper_body%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22item%22%3A%20%22%E7%9F%AD%E7%89%88%20T%20%E6%81%A4%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22color%22%3A%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22%E6%B7%B1%E8%97%8D%E8%89%B2%22%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%22texture%22%3A%20%22%E7%BE%85%E7%B4%8B%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22%E7%99%BD%E8%89%B2%E9%A3%BE%E9%82%8A%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22%E7%99%BD%E8%89%B2%E6%A8%99%E8%AA%8C%22%0A%20%20%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%22lower_body%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22item%22%3A%20%22%E7%9D%A1%E8%A4%B2%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22pattern%22%3A%20%22%E6%A2%9D%E7%B4%8B%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22color%22%3A%20%22%E7%99%BD%E8%89%B2%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22scene_environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting_type%22%3A%20%22%E6%88%BF%E9%96%93%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22intensity%22%3A%20%22%E5%85%89%E7%B7%9A%E6%98%8F%E6%9A%97%22%2C%0A%20%20%20%20%20%20%20%20%22temperature%22%3A%20%22%E6%9A%96%E8%89%B2%E8%AA%BF%22%2C%0A%20%20%20%20%20%20%20%20%22color_tone%22%3A%20%22%E5%A2%9E%E5%BC%B7%E7%9A%84%E7%B4%AB%E8%89%B2%E8%AA%BF%22%2C%0A%20%20%20%20%20%20%20%20%22sources%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22%E5%90%B8%E9%A0%82%E7%87%88%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%E9%9A%B1%E8%97%8F%E5%BC%8F%E7%87%88%E6%A7%BD%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 25: 一位在毯子上發呆的女孩的超逼真 16K 自拍照編輯
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個針對 Nano Banana Pro 的詳細編輯提示，將一張年輕女孩躺在毯子上的自拍照，轉換成超逼真的 16K iPhone 風格照片，同時指定她的頭髮、服裝、妝容、姿勢、光線和背景，並保留她的臉部特徵。
+
+#### 📝 提示詞
+
+```
+以超逼真的 16K 解析度編輯照片。一名 {argument name="subject age" default="年輕"} 女孩在房間裡自拍。她的頭髮是長而分層的 {argument name="hair color" default="灰棕色"}，頂部略顯凌亂，自然地向前垂落。她穿著一件 {argument name="dress description" default="黑色捲帶花卉洋裝"}。姿勢：她面朝下躺在毯子上，右手輕觸嘴唇，頭部側傾，向前看，似乎在做白日夢。她的妝容完美無瑕，韓式風格帶有現代感：眉毛整齊，柔和的蜜桃色眼影，細長的眼線強調眼睛，以及柔和的灰色隱形眼鏡，營造出迷人的眼神。她的臉頰有自然的蜜桃色腮紅，嘴唇豐潤，裸色唇彩漸變為紅色，營造出柔和而醒目的對比。背景是 {argument name="background material and color" default="奶油色大理石牆"}。照片以眼平視角近距離拍攝。燈光：電影級和編輯級，昏暗以使自拍看起來逼真，復古紫色對比增強皮膚光澤。照片使用 {argument name="camera model" default="iPhone 17 Pro Max"} 拍攝。請勿以任何方式改變她的臉部。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909316855_ztow9x_G7LdsTXXwAA0yoK.jpg" width="600" alt="一位在毯子上發呆的女孩的超逼真 16K 自拍照編輯 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Edward Lu](https://x.com/lujunneng)
+- **來源:** [Twitter Post](https://x.com/lujunneng/status/1995901350350090723)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BB%A5%E8%B6%85%E9%80%BC%E7%9C%9F%E7%9A%84%2016K%20%E8%A7%A3%E6%9E%90%E5%BA%A6%E7%B7%A8%E8%BC%AF%E7%85%A7%E7%89%87%E3%80%82%E4%B8%80%E5%90%8D%20%7Bargument%20name%3D%22subject%20age%22%20default%3D%22%E5%B9%B4%E8%BC%95%22%7D%20%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%88%BF%E9%96%93%E8%A3%A1%E8%87%AA%E6%8B%8D%E3%80%82%E5%A5%B9%E7%9A%84%E9%A0%AD%E9%AB%AE%E6%98%AF%E9%95%B7%E8%80%8C%E5%88%86%E5%B1%A4%E7%9A%84%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22%E7%81%B0%E6%A3%95%E8%89%B2%22%7D%EF%BC%8C%E9%A0%82%E9%83%A8%E7%95%A5%E9%A1%AF%E5%87%8C%E4%BA%82%EF%BC%8C%E8%87%AA%E7%84%B6%E5%9C%B0%E5%90%91%E5%89%8D%E5%9E%82%E8%90%BD%E3%80%82%E5%A5%B9%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%20%7Bargument%20name%3D%22dress%20description%22%20default%3D%22%E9%BB%91%E8%89%B2%E6%8D%B2%E5%B8%B6%E8%8A%B1%E5%8D%89%E6%B4%8B%E8%A3%9D%22%7D%E3%80%82%E5%A7%BF%E5%8B%A2%EF%BC%9A%E5%A5%B9%E9%9D%A2%E6%9C%9D%E4%B8%8B%E8%BA%BA%E5%9C%A8%E6%AF%AF%E5%AD%90%E4%B8%8A%EF%BC%8C%E5%8F%B3%E6%89%8B%E8%BC%95%E8%A7%B8%E5%98%B4%E5%94%87%EF%BC%8C%E9%A0%AD%E9%83%A8%E5%81%B4%E5%82%BE%EF%BC%8C%E5%90%91%E5%89%8D%E7%9C%8B%EF%BC%8C%E4%BC%BC%E4%B9%8E%E5%9C%A8%E5%81%9A%E7%99%BD%E6%97%A5%E5%A4%A2%E3%80%82%E5%A5%B9%E7%9A%84%E5%A6%9D%E5%AE%B9%E5%AE%8C%E7%BE%8E%E7%84%A1%E7%91%95%EF%BC%8C%E9%9F%93%E5%BC%8F%E9%A2%A8%E6%A0%BC%E5%B8%B6%E6%9C%89%E7%8F%BE%E4%BB%A3%E6%84%9F%EF%BC%9A%E7%9C%89%E6%AF%9B%E6%95%B4%E9%BD%8A%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%9C%9C%E6%A1%83%E8%89%B2%E7%9C%BC%E5%BD%B1%EF%BC%8C%E7%B4%B0%E9%95%B7%E7%9A%84%E7%9C%BC%E7%B7%9A%E5%BC%B7%E8%AA%BF%E7%9C%BC%E7%9D%9B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%9F%94%E5%92%8C%E7%9A%84%E7%81%B0%E8%89%B2%E9%9A%B1%E5%BD%A2%E7%9C%BC%E9%8F%A1%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E8%BF%B7%E4%BA%BA%E7%9A%84%E7%9C%BC%E7%A5%9E%E3%80%82%E5%A5%B9%E7%9A%84%E8%87%89%E9%A0%B0%E6%9C%89%E8%87%AA%E7%84%B6%E7%9A%84%E8%9C%9C%E6%A1%83%E8%89%B2%E8%85%AE%E7%B4%85%EF%BC%8C%E5%98%B4%E5%94%87%E8%B1%90%E6%BD%A4%EF%BC%8C%E8%A3%B8%E8%89%B2%E5%94%87%E5%BD%A9%E6%BC%B8%E8%AE%8A%E7%82%BA%E7%B4%85%E8%89%B2%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%9F%94%E5%92%8C%E8%80%8C%E9%86%92%E7%9B%AE%E7%9A%84%E5%B0%8D%E6%AF%94%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%20%7Bargument%20name%3D%22background%20material%20and%20color%22%20default%3D%22%E5%A5%B6%E6%B2%B9%E8%89%B2%E5%A4%A7%E7%90%86%E7%9F%B3%E7%89%86%22%7D%E3%80%82%E7%85%A7%E7%89%87%E4%BB%A5%E7%9C%BC%E5%B9%B3%E8%A6%96%E8%A7%92%E8%BF%91%E8%B7%9D%E9%9B%A2%E6%8B%8D%E6%94%9D%E3%80%82%E7%87%88%E5%85%89%EF%BC%9A%E9%9B%BB%E5%BD%B1%E7%B4%9A%E5%92%8C%E7%B7%A8%E8%BC%AF%E7%B4%9A%EF%BC%8C%E6%98%8F%E6%9A%97%E4%BB%A5%E4%BD%BF%E8%87%AA%E6%8B%8D%E7%9C%8B%E8%B5%B7%E4%BE%86%E9%80%BC%E7%9C%9F%EF%BC%8C%E5%BE%A9%E5%8F%A4%E7%B4%AB%E8%89%B2%E5%B0%8D%E6%AF%94%E5%A2%9E%E5%BC%B7%E7%9A%AE%E8%86%9A%E5%85%89%E6%BE%A4%E3%80%82%E7%85%A7%E7%89%87%E4%BD%BF%E7%94%A8%20%7Bargument%20name%3D%22camera%20model%22%20default%3D%22iPhone%2017%20Pro%20Max%22%7D%20%E6%8B%8D%E6%94%9D%E3%80%82%E8%AB%8B%E5%8B%BF%E4%BB%A5%E4%BB%BB%E4%BD%95%E6%96%B9%E5%BC%8F%E6%94%B9%E8%AE%8A%E5%A5%B9%E7%9A%84%E8%87%89%E9%83%A8%E3%80%82)**
+
+---
+
+### No. 26: 高度細緻的 8K 清晨靜物書桌場景提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個極其詳細的 Nano Banana Pro 提示，描述了一幅 8K 黃金時段靜物畫：在舊木桌上擺放著食物、筆記本、潑灑的葡萄酒、鋼筆、灰塵顆粒，並強調強烈的紋理，其中包含長寬比和風格化提示。
+
+#### 📝 提示詞
+
+```
+極近距離 8K 清晨靜物，置於一張舊木桌上，金色的陽光透過佈滿灰塵的窗戶灑落：
+- 精緻骨瓷盤中吃了一半的釉面草莓，黏稠的糖漿正在滴落
+- 帶有食物殘渣和微小刮痕的古董銀叉
+- 打開的 Moleskine 筆記本，真皮封面，邊緣磨損，紋理紙張顯示出纖維
+- 灑出的紅酒在木頭上形成圓環，滲入木紋
+- 黃銅鋼筆漏出深藍色墨水，積聚並反射光線
+- 揉皺的絲綢手帕，帶有精緻的刺繡線
+- 灰塵顆粒在陽光中飄浮，落在帶有微小刮痕的啞光黑色相機機身上
+- 一小灘水，漂浮著灰塵和鏡頭眩光
+- 物體之間捕捉到光線的微小蜘蛛網絲
+- 桌子上可見的木紋、木節和百年裂縫
+最大紋理細節、次表面散射、焦散、必要時的銳利鏡面高光、超寫實、使用 Phase One 中片幅相機拍攝，--ar 4:5 --v 3 --stylize 350
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909173095_1vi1np_G7LdTS9acAA1Uju.jpg" width="600" alt="高度細緻的 8K 清晨靜物書桌場景提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [ttmouse](https://x.com/ttmouse)
+- **來源:** [Twitter Post](https://x.com/ttmouse/status/1995900928487297160)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A5%B5%E8%BF%91%E8%B7%9D%E9%9B%A2%208K%20%E6%B8%85%E6%99%A8%E9%9D%9C%E7%89%A9%EF%BC%8C%E7%BD%AE%E6%96%BC%E4%B8%80%E5%BC%B5%E8%88%8A%E6%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E9%87%91%E8%89%B2%E7%9A%84%E9%99%BD%E5%85%89%E9%80%8F%E9%81%8E%E4%BD%88%E6%BB%BF%E7%81%B0%E5%A1%B5%E7%9A%84%E7%AA%97%E6%88%B6%E7%81%91%E8%90%BD%EF%BC%9A%0A-%20%E7%B2%BE%E7%B7%BB%E9%AA%A8%E7%93%B7%E7%9B%A4%E4%B8%AD%E5%90%83%E4%BA%86%E4%B8%80%E5%8D%8A%E7%9A%84%E9%87%89%E9%9D%A2%E8%8D%89%E8%8E%93%EF%BC%8C%E9%BB%8F%E7%A8%A0%E7%9A%84%E7%B3%96%E6%BC%BF%E6%AD%A3%E5%9C%A8%E6%BB%B4%E8%90%BD%0A-%20%E5%B8%B6%E6%9C%89%E9%A3%9F%E7%89%A9%E6%AE%98%E6%B8%A3%E5%92%8C%E5%BE%AE%E5%B0%8F%E5%88%AE%E7%97%95%E7%9A%84%E5%8F%A4%E8%91%A3%E9%8A%80%E5%8F%89%0A-%20%E6%89%93%E9%96%8B%E7%9A%84%20Moleskine%20%E7%AD%86%E8%A8%98%E6%9C%AC%EF%BC%8C%E7%9C%9F%E7%9A%AE%E5%B0%81%E9%9D%A2%EF%BC%8C%E9%82%8A%E7%B7%A3%E7%A3%A8%E6%90%8D%EF%BC%8C%E7%B4%8B%E7%90%86%E7%B4%99%E5%BC%B5%E9%A1%AF%E7%A4%BA%E5%87%BA%E7%BA%96%E7%B6%AD%0A-%20%E7%81%91%E5%87%BA%E7%9A%84%E7%B4%85%E9%85%92%E5%9C%A8%E6%9C%A8%E9%A0%AD%E4%B8%8A%E5%BD%A2%E6%88%90%E5%9C%93%E7%92%B0%EF%BC%8C%E6%BB%B2%E5%85%A5%E6%9C%A8%E7%B4%8B%0A-%20%E9%BB%83%E9%8A%85%E9%8B%BC%E7%AD%86%E6%BC%8F%E5%87%BA%E6%B7%B1%E8%97%8D%E8%89%B2%E5%A2%A8%E6%B0%B4%EF%BC%8C%E7%A9%8D%E8%81%9A%E4%B8%A6%E5%8F%8D%E5%B0%84%E5%85%89%E7%B7%9A%0A-%20%E6%8F%89%E7%9A%BA%E7%9A%84%E7%B5%B2%E7%B6%A2%E6%89%8B%E5%B8%95%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%B2%BE%E7%B7%BB%E7%9A%84%E5%88%BA%E7%B9%A1%E7%B7%9A%0A-%20%E7%81%B0%E5%A1%B5%E9%A1%86%E7%B2%92%E5%9C%A8%E9%99%BD%E5%85%89%E4%B8%AD%E9%A3%84%E6%B5%AE%EF%BC%8C%E8%90%BD%E5%9C%A8%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%B0%8F%E5%88%AE%E7%97%95%E7%9A%84%E5%95%9E%E5%85%89%E9%BB%91%E8%89%B2%E7%9B%B8%E6%A9%9F%E6%A9%9F%E8%BA%AB%E4%B8%8A%0A-%20%E4%B8%80%E5%B0%8F%E7%81%98%E6%B0%B4%EF%BC%8C%E6%BC%82%E6%B5%AE%E8%91%97%E7%81%B0%E5%A1%B5%E5%92%8C%E9%8F%A1%E9%A0%AD%E7%9C%A9%E5%85%89%0A-%20%E7%89%A9%E9%AB%94%E4%B9%8B%E9%96%93%E6%8D%95%E6%8D%89%E5%88%B0%E5%85%89%E7%B7%9A%E7%9A%84%E5%BE%AE%E5%B0%8F%E8%9C%98%E8%9B%9B%E7%B6%B2%E7%B5%B2%0A-%20%E6%A1%8C%E5%AD%90%E4%B8%8A%E5%8F%AF%E8%A6%8B%E7%9A%84%E6%9C%A8%E7%B4%8B%E3%80%81%E6%9C%A8%E7%AF%80%E5%92%8C%E7%99%BE%E5%B9%B4%E8%A3%82%E7%B8%AB%0A%E6%9C%80%E5%A4%A7%E7%B4%8B%E7%90%86%E7%B4%B0%E7%AF%80%E3%80%81%E6%AC%A1%E8%A1%A8%E9%9D%A2%E6%95%A3%E5%B0%84%E3%80%81%E7%84%A6%E6%95%A3%E3%80%81%E5%BF%85%E8%A6%81%E6%99%82%E7%9A%84%E9%8A%B3%E5%88%A9%E9%8F%A1%E9%9D%A2%E9%AB%98%E5%85%89%E3%80%81%E8%B6%85%E5%AF%AB%E5%AF%A6%E3%80%81%E4%BD%BF%E7%94%A8%20Phase%20One%20%E4%B8%AD%E7%89%87%E5%B9%85%E7%9B%B8%E6%A9%9F%E6%8B%8D%E6%94%9D%EF%BC%8C--ar%204%3A5%20--v%203%20--stylize%20350)**
+
+---
+
+### No. 27: 男性主體的攝影棚肖像參數風格提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個參數風格的提示，用於使用 Nano Banana Pro 配置時尚男性主體的極簡工作室肖像，指定背景顏色、燈光、姿勢、服裝和相機設定。
+
+#### 📝 提示詞
+
+```
+Scene studio = {argument name="studio enabled" default="true"}
+studio background color = "{argument name="studio background color" default="dark_blue"}"
+studio lighting = "{argument name="studio lighting" default="minimal_soft_spotlight"}"
+focus subject = "{argument name="focus subject" default="male_same_as_reference"}"
+focus style = "{argument name="focus style" default="sharp_primary_subject"}"
+depth background = "{argument name="background depth" default="smooth_blur"}"
+
+subject pose = "{argument name="subject pose" default="standing_pose_confident_casual"}"
+subject expression = "{argument name="subject expression" default="neutral_but_stylish"}"
+subject outfit type = "{argument name="subject outfit type" default="casual_fashionable"}"
+subject outfit details = {
+    top: "{argument name="top" default="minimalist_warm_layer"}",
+    bottom: "{argument name="bottom" default="clean_fitted_pants"}",
+    overall_vibe: "{argument name="overall vibe" default="modern_casual_aesthetic"}"
+}
+
+camera lens = "{argument name="camera lens" default="85mm_portrait"}"
+camera framing = "{argument name="camera framing" default="mid_shot"}"
+camera mood = "{argument name="camera mood" default="studio_cinematic_minimal"}"
+render quality = "{argument name="render quality" default="ultra_hd"}"
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909321700_ftxx6h_G7LTKRDbcAEyP_v.jpg" width="600" alt="男性主體的攝影棚肖像參數風格提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909323738_w6rge0_G7LTKZ4bkAAv7Ag.jpg" width="600" alt="男性主體的攝影棚肖像參數風格提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909326671_vcjru5_G7LTKaxa0AAmJIi.jpg" width="600" alt="男性主體的攝影棚肖像參數風格提示 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Johnn](https://x.com/john_my07)
+- **來源:** [Twitter Post](https://x.com/john_my07/status/1995889764311179734)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=Scene%20studio%20%3D%20%7Bargument%20name%3D%22studio%20enabled%22%20default%3D%22true%22%7D%0Astudio%20background%20color%20%3D%20%22%7Bargument%20name%3D%22studio%20background%20color%22%20default%3D%22dark_blue%22%7D%22%0Astudio%20lighting%20%3D%20%22%7Bargument%20name%3D%22studio%20lighting%22%20default%3D%22minimal_soft_spotlight%22%7D%22%0Afocus%20subject%20%3D%20%22%7Bargument%20name%3D%22focus%20subject%22%20default%3D%22male_same_as_reference%22%7D%22%0Afocus%20style%20%3D%20%22%7Bargument%20name%3D%22focus%20style%22%20default%3D%22sharp_primary_subject%22%7D%22%0Adepth%20background%20%3D%20%22%7Bargument%20name%3D%22background%20depth%22%20default%3D%22smooth_blur%22%7D%22%0A%0Asubject%20pose%20%3D%20%22%7Bargument%20name%3D%22subject%20pose%22%20default%3D%22standing_pose_confident_casual%22%7D%22%0Asubject%20expression%20%3D%20%22%7Bargument%20name%3D%22subject%20expression%22%20default%3D%22neutral_but_stylish%22%7D%22%0Asubject%20outfit%20type%20%3D%20%22%7Bargument%20name%3D%22subject%20outfit%20type%22%20default%3D%22casual_fashionable%22%7D%22%0Asubject%20outfit%20details%20%3D%20%7B%0A%20%20%20%20top%3A%20%22%7Bargument%20name%3D%22top%22%20default%3D%22minimalist_warm_layer%22%7D%22%2C%0A%20%20%20%20bottom%3A%20%22%7Bargument%20name%3D%22bottom%22%20default%3D%22clean_fitted_pants%22%7D%22%2C%0A%20%20%20%20overall_vibe%3A%20%22%7Bargument%20name%3D%22overall%20vibe%22%20default%3D%22modern_casual_aesthetic%22%7D%22%0A%7D%0A%0Acamera%20lens%20%3D%20%22%7Bargument%20name%3D%22camera%20lens%22%20default%3D%2285mm_portrait%22%7D%22%0Acamera%20framing%20%3D%20%22%7Bargument%20name%3D%22camera%20framing%22%20default%3D%22mid_shot%22%7D%22%0Acamera%20mood%20%3D%20%22%7Bargument%20name%3D%22camera%20mood%22%20default%3D%22studio_cinematic_minimal%22%7D%22%0Arender%20quality%20%3D%20%22%7Bargument%20name%3D%22render%20quality%22%20default%3D%22ultra_hd%22%7D%22)**
+
+---
+
+### No. 28: 東京快閃地圖場景的產品攝影提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個細節豐富的 Nano Banana Pro 提示，呈現一本精裝地圖集，內含東京的紙製立體微縮模型，並指定了關鍵地標、字體、燈光和攝影機角度，以打造高端產品風格的圖像。
+
+#### 📝 提示詞
+
+```
+一本攤開的精裝地圖集平放著，雷射切割的縫隙橫跨 {argument name="map region" default="Asia"} 地圖，一個精密的 {argument name="city" default="Tokyo"} 迷你立體模型從中升起。地標 {argument name="landmark 1" default="Shibuya Crossing"}、{argument name="landmark 2" default="Tokyo Tower"} 和 {argument name="landmark 3" default="Sensō-ji Temple"} 與折疊的紙支架相互交錯。白色 3D「{argument name="title text" default="TOKYO"}」浮雕/壓花融入立體平台。45 度和 120 度的柔光箱，偏振反射，動態低角度，刀鋒般銳利的折疊邊緣。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909311395_3ad1a7_3y5iIYs9-mBUdCHd.jpg" width="600" alt="東京快閃地圖場景的產品攝影提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **來源:** [Twitter Post](https://x.com/Gdgtify/status/1995886174058283387)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E6%9C%AC%E6%94%A4%E9%96%8B%E7%9A%84%E7%B2%BE%E8%A3%9D%E5%9C%B0%E5%9C%96%E9%9B%86%E5%B9%B3%E6%94%BE%E8%91%97%EF%BC%8C%E9%9B%B7%E5%B0%84%E5%88%87%E5%89%B2%E7%9A%84%E7%B8%AB%E9%9A%99%E6%A9%AB%E8%B7%A8%20%7Bargument%20name%3D%22map%20region%22%20default%3D%22Asia%22%7D%20%E5%9C%B0%E5%9C%96%EF%BC%8C%E4%B8%80%E5%80%8B%E7%B2%BE%E5%AF%86%E7%9A%84%20%7Bargument%20name%3D%22city%22%20default%3D%22Tokyo%22%7D%20%E8%BF%B7%E4%BD%A0%E7%AB%8B%E9%AB%94%E6%A8%A1%E5%9E%8B%E5%BE%9E%E4%B8%AD%E5%8D%87%E8%B5%B7%E3%80%82%E5%9C%B0%E6%A8%99%20%7Bargument%20name%3D%22landmark%201%22%20default%3D%22Shibuya%20Crossing%22%7D%E3%80%81%7Bargument%20name%3D%22landmark%202%22%20default%3D%22Tokyo%20Tower%22%7D%20%E5%92%8C%20%7Bargument%20name%3D%22landmark%203%22%20default%3D%22Sens%C5%8D-ji%20Temple%22%7D%20%E8%88%87%E6%8A%98%E7%96%8A%E7%9A%84%E7%B4%99%E6%94%AF%E6%9E%B6%E7%9B%B8%E4%BA%92%E4%BA%A4%E9%8C%AF%E3%80%82%E7%99%BD%E8%89%B2%203D%E3%80%8C%7Bargument%20name%3D%22title%20text%22%20default%3D%22TOKYO%22%7D%E3%80%8D%E6%B5%AE%E9%9B%95%2F%E5%A3%93%E8%8A%B1%E8%9E%8D%E5%85%A5%E7%AB%8B%E9%AB%94%E5%B9%B3%E5%8F%B0%E3%80%8245%20%E5%BA%A6%E5%92%8C%20120%20%E5%BA%A6%E7%9A%84%E6%9F%94%E5%85%89%E7%AE%B1%EF%BC%8C%E5%81%8F%E6%8C%AF%E5%8F%8D%E5%B0%84%EF%BC%8C%E5%8B%95%E6%85%8B%E4%BD%8E%E8%A7%92%E5%BA%A6%EF%BC%8C%E5%88%80%E9%8B%92%E8%88%AC%E9%8A%B3%E5%88%A9%E7%9A%84%E6%8A%98%E7%96%8A%E9%82%8A%E7%B7%A3%E3%80%82)**
+
+---
+
+### No. 29: 用於超逼真 iPhone 風格 AI 網紅的系統 JSON 提示範本
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個長篇的系統風格提示，定義了角色、認知原則、視覺美學和 JSON 結構，用於使用 Nano Banana Pro 生成超逼真的手機攝影網紅圖像。
+
+#### 📝 提示詞
+
+```
+<role>
+您專精於計算攝影，特別是 {argument name="phone model" default="iPhone 16/17 Pro Max"} 感測器系統的光學特性。您能將人類概念轉化為數學上精確的圖像生成提示。
+</role>
+
+<cognitive_framework>
+<principle name="Context Hunger">
+如果使用者提供模糊的概念（例如：「{argument name="example vague concept" default="咖啡館裡的女孩"}」），您必須明確地發明缺失的環境、光線和風格細節，以確保圖像的完整性。
+</principle>
+<principle name="The iPhone Aesthetic">
+所有輸出都必須嚴格模擬高階行動攝影。
+- 焦距： {argument name="main focal length" default="24mm"}（主鏡頭）、 {argument name="ultra wide focal length" default="13mm"}（超廣角）或 {argument name="telephoto focal length" default="77mm"}（望遠）。
+- 特性：「Apple ProRAW」色彩科學、銳利細節（深度融合）、計算景深（人像模式）和 Smart HDR 動態範圍。
+- 避免：變形鏡頭光暈、誇張的「電影」景深或復古底片顆粒（除非指定為濾鏡）。
+</principle>
+<principle name="Imperfection is Realism">
+為了實現「超現實主義」，您必須注入描述未經修飾現實的術語：數位雜訊（非底片顆粒）、皮膚紋理、輕微過曝的高光（行動裝置常見）以及自然的「快照」構圖。
+</principle>
+<principle name="JSON Precision">
+您的輸出是一個嚴格的 JSON 物件，專為程式化使用而設計。
+</principle>
+</cognitive_framework>
+
+<visual_analysis_reference>
+「網紅美學」的定義是：
+- 氛圍：「Plandid」（刻意營造的隨性）、不費力、嚮往的生活方式。
+- 光線：自然窗光、黃金時段，或夜間拍攝的「閃光燈攝影」（硬閃光）。
+- 構圖：垂直（9:16）的原生行動裝置長寬比，通常是自拍或第一人稱視角（POV）。
+</visual_analysis_reference>
+
+<instructions>
+1. 分析使用者對主題和氛圍的要求。
+2. 使用「iPhone 攝影」限制來豐富要求。
+3. 嚴格按照以下 JSON 結構輸出。
+</instructions>
+
+<json_schema>
+{
+  "meta_data": {
+    "style": "iPhone Pro Max Photography",
+    "aspect_ratio": "9:16"
+  },
+  "prompt_components": {
+    "subject": "Detailed description of person, styling, pose (mirror selfie, 0.5x angle, etc.)",
+    "environment": "Detailed background, location, social setting",
+    "lighting": "Smart HDR lighting, natural source, or direct flash",
+    "camera_gear": "iPhone 16 Pro Max, Main Camera 24mm f/1.78, or Ultra Wide 13mm",
+    "processing": "Apple ProRAW, Deep Fusion, Shot on iPhone",
+    "imperfections": "Digital noise, motion blur, authentic skin texture, screen reflection (if mirror)"
+  },
+  "full_prompt_string": "The combined, comma-separated string optimized for realistic mobile generation",
+  "negative_prompt": "Standard negatives + 'professional camera, DSLR, bokeh balls, anamorphic, cinema lighting, studio lighting'"
+}
+</json_schema>
+
+<task>
+等待使用者描述場景。立即生成 JSON 輸出。
+</task>
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909326383_8imgjp_G7LIIPgaEAAe5zr.jpg" width="600" alt="用於超逼真 iPhone 風格 AI 網紅的系統 JSON 提示範本 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909328610_93l1ke_G7LIIbtbkAA1Q0O.jpg" width="600" alt="用於超逼真 iPhone 風格 AI 網紅的系統 JSON 提示範本 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909330737_mwwqn3_G7LIIpDbgAcybU2.jpg" width="600" alt="用於超逼真 iPhone 風格 AI 網紅的系統 JSON 提示範本 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909332854_8p02z2_G7LII5oasAEQl5u.jpg" width="600" alt="用於超逼真 iPhone 風格 AI 網紅的系統 JSON 提示範本 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Machina](https://x.com/EXM7777)
+- **來源:** [Twitter Post](https://x.com/EXM7777/status/1995877647579316545)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%3Crole%3E%0A%E6%82%A8%E5%B0%88%E7%B2%BE%E6%96%BC%E8%A8%88%E7%AE%97%E6%94%9D%E5%BD%B1%EF%BC%8C%E7%89%B9%E5%88%A5%E6%98%AF%20%7Bargument%20name%3D%22phone%20model%22%20default%3D%22iPhone%2016%2F17%20Pro%20Max%22%7D%20%E6%84%9F%E6%B8%AC%E5%99%A8%E7%B3%BB%E7%B5%B1%E7%9A%84%E5%85%89%E5%AD%B8%E7%89%B9%E6%80%A7%E3%80%82%E6%82%A8%E8%83%BD%E5%B0%87%E4%BA%BA%E9%A1%9E%E6%A6%82%E5%BF%B5%E8%BD%89%E5%8C%96%E7%82%BA%E6%95%B8%E5%AD%B8%E4%B8%8A%E7%B2%BE%E7%A2%BA%E7%9A%84%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90%E6%8F%90%E7%A4%BA%E3%80%82%0A%3C%2Frole%3E%0A%0A%3Ccognitive_framework%3E%0A%3Cprinciple%20name%3D%22Context%20Hunger%22%3E%0A%E5%A6%82%E6%9E%9C%E4%BD%BF%E7%94%A8%E8%80%85%E6%8F%90%E4%BE%9B%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%A6%82%E5%BF%B5%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22example%20vague%20concept%22%20default%3D%22%E5%92%96%E5%95%A1%E9%A4%A8%E8%A3%A1%E7%9A%84%E5%A5%B3%E5%AD%A9%22%7D%E3%80%8D%EF%BC%89%EF%BC%8C%E6%82%A8%E5%BF%85%E9%A0%88%E6%98%8E%E7%A2%BA%E5%9C%B0%E7%99%BC%E6%98%8E%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%92%B0%E5%A2%83%E3%80%81%E5%85%89%E7%B7%9A%E5%92%8C%E9%A2%A8%E6%A0%BC%E7%B4%B0%E7%AF%80%EF%BC%8C%E4%BB%A5%E7%A2%BA%E4%BF%9D%E5%9C%96%E5%83%8F%E7%9A%84%E5%AE%8C%E6%95%B4%E6%80%A7%E3%80%82%0A%3C%2Fprinciple%3E%0A%3Cprinciple%20name%3D%22The%20iPhone%20Aesthetic%22%3E%0A%E6%89%80%E6%9C%89%E8%BC%B8%E5%87%BA%E9%83%BD%E5%BF%85%E9%A0%88%E5%9A%B4%E6%A0%BC%E6%A8%A1%E6%93%AC%E9%AB%98%E9%9A%8E%E8%A1%8C%E5%8B%95%E6%94%9D%E5%BD%B1%E3%80%82%0A-%20%E7%84%A6%E8%B7%9D%EF%BC%9A%20%7Bargument%20name%3D%22main%20focal%20length%22%20default%3D%2224mm%22%7D%EF%BC%88%E4%B8%BB%E9%8F%A1%E9%A0%AD%EF%BC%89%E3%80%81%20%7Bargument%20name%3D%22ultra%20wide%20focal%20length%22%20default%3D%2213mm%22%7D%EF%BC%88%E8%B6%85%E5%BB%A3%E8%A7%92%EF%BC%89%E6%88%96%20%7Bargument%20name%3D%22telephoto%20focal%20length%22%20default%3D%2277mm%22%7D%EF%BC%88%E6%9C%9B%E9%81%A0%EF%BC%89%E3%80%82%0A-%20%E7%89%B9%E6%80%A7%EF%BC%9A%E3%80%8CApple%20ProRAW%E3%80%8D%E8%89%B2%E5%BD%A9%E7%A7%91%E5%AD%B8%E3%80%81%E9%8A%B3%E5%88%A9%E7%B4%B0%E7%AF%80%EF%BC%88%E6%B7%B1%E5%BA%A6%E8%9E%8D%E5%90%88%EF%BC%89%E3%80%81%E8%A8%88%E7%AE%97%E6%99%AF%E6%B7%B1%EF%BC%88%E4%BA%BA%E5%83%8F%E6%A8%A1%E5%BC%8F%EF%BC%89%E5%92%8C%20Smart%20HDR%20%E5%8B%95%E6%85%8B%E7%AF%84%E5%9C%8D%E3%80%82%0A-%20%E9%81%BF%E5%85%8D%EF%BC%9A%E8%AE%8A%E5%BD%A2%E9%8F%A1%E9%A0%AD%E5%85%89%E6%9A%88%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E3%80%8C%E9%9B%BB%E5%BD%B1%E3%80%8D%E6%99%AF%E6%B7%B1%E6%88%96%E5%BE%A9%E5%8F%A4%E5%BA%95%E7%89%87%E9%A1%86%E7%B2%92%EF%BC%88%E9%99%A4%E9%9D%9E%E6%8C%87%E5%AE%9A%E7%82%BA%E6%BF%BE%E9%8F%A1%EF%BC%89%E3%80%82%0A%3C%2Fprinciple%3E%0A%3Cprinciple%20name%3D%22Imperfection%20is%20Realism%22%3E%0A%E7%82%BA%E4%BA%86%E5%AF%A6%E7%8F%BE%E3%80%8C%E8%B6%85%E7%8F%BE%E5%AF%A6%E4%B8%BB%E7%BE%A9%E3%80%8D%EF%BC%8C%E6%82%A8%E5%BF%85%E9%A0%88%E6%B3%A8%E5%85%A5%E6%8F%8F%E8%BF%B0%E6%9C%AA%E7%B6%93%E4%BF%AE%E9%A3%BE%E7%8F%BE%E5%AF%A6%E7%9A%84%E8%A1%93%E8%AA%9E%EF%BC%9A%E6%95%B8%E4%BD%8D%E9%9B%9C%E8%A8%8A%EF%BC%88%E9%9D%9E%E5%BA%95%E7%89%87%E9%A1%86%E7%B2%92%EF%BC%89%E3%80%81%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E3%80%81%E8%BC%95%E5%BE%AE%E9%81%8E%E6%9B%9D%E7%9A%84%E9%AB%98%E5%85%89%EF%BC%88%E8%A1%8C%E5%8B%95%E8%A3%9D%E7%BD%AE%E5%B8%B8%E8%A6%8B%EF%BC%89%E4%BB%A5%E5%8F%8A%E8%87%AA%E7%84%B6%E7%9A%84%E3%80%8C%E5%BF%AB%E7%85%A7%E3%80%8D%E6%A7%8B%E5%9C%96%E3%80%82%0A%3C%2Fprinciple%3E%0A%3Cprinciple%20name%3D%22JSON%20Precision%22%3E%0A%E6%82%A8%E7%9A%84%E8%BC%B8%E5%87%BA%E6%98%AF%E4%B8%80%E5%80%8B%E5%9A%B4%E6%A0%BC%E7%9A%84%20JSON%20%E7%89%A9%E4%BB%B6%EF%BC%8C%E5%B0%88%E7%82%BA%E7%A8%8B%E5%BC%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E8%80%8C%E8%A8%AD%E8%A8%88%E3%80%82%0A%3C%2Fprinciple%3E%0A%3C%2Fcognitive_framework%3E%0A%0A%3Cvisual_analysis_reference%3E%0A%E3%80%8C%E7%B6%B2%E7%B4%85%E7%BE%8E%E5%AD%B8%E3%80%8D%E7%9A%84%E5%AE%9A%E7%BE%A9%E6%98%AF%EF%BC%9A%0A-%20%E6%B0%9B%E5%9C%8D%EF%BC%9A%E3%80%8CPlandid%E3%80%8D%EF%BC%88%E5%88%BB%E6%84%8F%E7%87%9F%E9%80%A0%E7%9A%84%E9%9A%A8%E6%80%A7%EF%BC%89%E3%80%81%E4%B8%8D%E8%B2%BB%E5%8A%9B%E3%80%81%E5%9A%AE%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E3%80%82%0A-%20%E5%85%89%E7%B7%9A%EF%BC%9A%E8%87%AA%E7%84%B6%E7%AA%97%E5%85%89%E3%80%81%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%EF%BC%8C%E6%88%96%E5%A4%9C%E9%96%93%E6%8B%8D%E6%94%9D%E7%9A%84%E3%80%8C%E9%96%83%E5%85%89%E7%87%88%E6%94%9D%E5%BD%B1%E3%80%8D%EF%BC%88%E7%A1%AC%E9%96%83%E5%85%89%EF%BC%89%E3%80%82%0A-%20%E6%A7%8B%E5%9C%96%EF%BC%9A%E5%9E%82%E7%9B%B4%EF%BC%889%3A16%EF%BC%89%E7%9A%84%E5%8E%9F%E7%94%9F%E8%A1%8C%E5%8B%95%E8%A3%9D%E7%BD%AE%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E9%80%9A%E5%B8%B8%E6%98%AF%E8%87%AA%E6%8B%8D%E6%88%96%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A8%B1%E8%A6%96%E8%A7%92%EF%BC%88POV%EF%BC%89%E3%80%82%0A%3C%2Fvisual_analysis_reference%3E%0A%0A%3Cinstructions%3E%0A1.%20%E5%88%86%E6%9E%90%E4%BD%BF%E7%94%A8%E8%80%85%E5%B0%8D%E4%B8%BB%E9%A1%8C%E5%92%8C%E6%B0%9B%E5%9C%8D%E7%9A%84%E8%A6%81%E6%B1%82%E3%80%82%0A2.%20%E4%BD%BF%E7%94%A8%E3%80%8CiPhone%20%E6%94%9D%E5%BD%B1%E3%80%8D%E9%99%90%E5%88%B6%E4%BE%86%E8%B1%90%E5%AF%8C%E8%A6%81%E6%B1%82%E3%80%82%0A3.%20%E5%9A%B4%E6%A0%BC%E6%8C%89%E7%85%A7%E4%BB%A5%E4%B8%8B%20JSON%20%E7%B5%90%E6%A7%8B%E8%BC%B8%E5%87%BA%E3%80%82%0A%3C%2Finstructions%3E%0A%0A%3Cjson_schema%3E%0A%7B%0A%20%20%22meta_data%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22iPhone%20Pro%20Max%20Photography%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%229%3A16%22%0A%20%20%7D%2C%0A%20%20%22prompt_components%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%22Detailed%20description%20of%20person%2C%20styling%2C%20pose%20(mirror%20selfie%2C%200.5x%20angle%2C%20etc.)%22%2C%0A%20%20%20%20%22environment%22%3A%20%22Detailed%20background%2C%20location%2C%20social%20setting%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22Smart%20HDR%20lighting%2C%20natural%20source%2C%20or%20direct%20flash%22%2C%0A%20%20%20%20%22camera_gear%22%3A%20%22iPhone%2016%20Pro%20Max%2C%20Main%20Camera%2024mm%20f%2F1.78%2C%20or%20Ultra%20Wide%2013mm%22%2C%0A%20%20%20%20%22processing%22%3A%20%22Apple%20ProRAW%2C%20Deep%20Fusion%2C%20Shot%20on%20iPhone%22%2C%0A%20%20%20%20%22imperfections%22%3A%20%22Digital%20noise%2C%20motion%20blur%2C%20authentic%20skin%20texture%2C%20screen%20reflection%20(if%20mirror)%22%0A%20%20%7D%2C%0A%20%20%22full_prompt_string%22%3A%20%22The%20combined%2C%20comma-separated%20string%20optimized%20for%20realistic%20mobile%20generation%22%2C%0A%20%20%22negative_prompt%22%3A%20%22Standard%20negatives%20%2B%20'professional%20camera%2C%20DSLR%2C%20bokeh%20balls%2C%20anamorphic%2C%20cinema%20lighting%2C%20studio%20lighting'%22%0A%7D%0A%3C%2Fjson_schema%3E%0A%0A%3Ctask%3E%0A%E7%AD%89%E5%BE%85%E4%BD%BF%E7%94%A8%E8%80%85%E6%8F%8F%E8%BF%B0%E5%A0%B4%E6%99%AF%E3%80%82%E7%AB%8B%E5%8D%B3%E7%94%9F%E6%88%90%20JSON%20%E8%BC%B8%E5%87%BA%E3%80%82%0A%3C%2Ftask%3E)**
+
+---
+
+### No. 30: JSON Nano Banana Pro 提示，適用於蒸汽龐克植物學家工作台
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個豐富的 JSON 格式 Nano Banana Pro 提示，描述維多利亞時代蒸汽龐克植物學家工作檯的超寫實電影特寫鏡頭，其中包含一朵發光的蘭花、藥劑瓶，以及特定的相機和渲染參數。
+
+#### 📝 提示詞
+
+```
+{
+  "prompt": "維多利亞時代蒸汽龐克植物學家工作台的超寫實電影特寫。畫面中央，一個厚重、氧化黃銅邊緣的玻璃罩內，漂浮著一朵生物發光的蘭花，散發出脈動的電藍色光芒。花朵的光線照亮了空氣中飛舞的塵埃。玻璃罩旁是一本風化的皮革野外日誌，翻開到一頁複雜的解剖素描。一張骨柄放大鏡擱置在紅木桌上。背景中，架子上擺滿了琥珀色的藥劑瓶。場景捕捉了玻璃上的冷凝水珠、木材的紋理以及花瓣的次表面散射。使用 85mm 微距鏡頭拍攝，f/1.8 光圈，低調照明與高對比度。",
+  "parameters": {
+    "aspect_ratio": "21:9",
+    "output_resolution": "4K",
+    "guidance_scale": 8.0,
+    "style_preset": "Cinematic",
+    "seed": null
+  },
+  "advanced_config": {
+    "identity_locking": false,
+    "text_rendering_enabled": true,
+    "required_text": [
+      "SPECIMEN 004",
+      "CHRONO FLORA"
+    ]
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909172377_c7g5n1_G7LAWb9WUAEf5YH.jpg" width="600" alt="JSON Nano Banana Pro 提示，適用於蒸汽龐克植物學家工作台 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [DrSadek 🪶](https://x.com/DrSadek_)
+- **來源:** [Twitter Post](https://x.com/DrSadek_/status/1995869184748662846)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E6%99%82%E4%BB%A3%E8%92%B8%E6%B1%BD%E9%BE%90%E5%85%8B%E6%A4%8D%E7%89%A9%E5%AD%B8%E5%AE%B6%E5%B7%A5%E4%BD%9C%E5%8F%B0%E7%9A%84%E8%B6%85%E5%AF%AB%E5%AF%A6%E9%9B%BB%E5%BD%B1%E7%89%B9%E5%AF%AB%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%B8%80%E5%80%8B%E5%8E%9A%E9%87%8D%E3%80%81%E6%B0%A7%E5%8C%96%E9%BB%83%E9%8A%85%E9%82%8A%E7%B7%A3%E7%9A%84%E7%8E%BB%E7%92%83%E7%BD%A9%E5%85%A7%EF%BC%8C%E6%BC%82%E6%B5%AE%E8%91%97%E4%B8%80%E6%9C%B5%E7%94%9F%E7%89%A9%E7%99%BC%E5%85%89%E7%9A%84%E8%98%AD%E8%8A%B1%EF%BC%8C%E6%95%A3%E7%99%BC%E5%87%BA%E8%84%88%E5%8B%95%E7%9A%84%E9%9B%BB%E8%97%8D%E8%89%B2%E5%85%89%E8%8A%92%E3%80%82%E8%8A%B1%E6%9C%B5%E7%9A%84%E5%85%89%E7%B7%9A%E7%85%A7%E4%BA%AE%E4%BA%86%E7%A9%BA%E6%B0%A3%E4%B8%AD%E9%A3%9B%E8%88%9E%E7%9A%84%E5%A1%B5%E5%9F%83%E3%80%82%E7%8E%BB%E7%92%83%E7%BD%A9%E6%97%81%E6%98%AF%E4%B8%80%E6%9C%AC%E9%A2%A8%E5%8C%96%E7%9A%84%E7%9A%AE%E9%9D%A9%E9%87%8E%E5%A4%96%E6%97%A5%E8%AA%8C%EF%BC%8C%E7%BF%BB%E9%96%8B%E5%88%B0%E4%B8%80%E9%A0%81%E8%A4%87%E9%9B%9C%E7%9A%84%E8%A7%A3%E5%89%96%E7%B4%A0%E6%8F%8F%E3%80%82%E4%B8%80%E5%BC%B5%E9%AA%A8%E6%9F%84%E6%94%BE%E5%A4%A7%E9%8F%A1%E6%93%B1%E7%BD%AE%E5%9C%A8%E7%B4%85%E6%9C%A8%E6%A1%8C%E4%B8%8A%E3%80%82%E8%83%8C%E6%99%AF%E4%B8%AD%EF%BC%8C%E6%9E%B6%E5%AD%90%E4%B8%8A%E6%93%BA%E6%BB%BF%E4%BA%86%E7%90%A5%E7%8F%80%E8%89%B2%E7%9A%84%E8%97%A5%E5%8A%91%E7%93%B6%E3%80%82%E5%A0%B4%E6%99%AF%E6%8D%95%E6%8D%89%E4%BA%86%E7%8E%BB%E7%92%83%E4%B8%8A%E7%9A%84%E5%86%B7%E5%87%9D%E6%B0%B4%E7%8F%A0%E3%80%81%E6%9C%A8%E6%9D%90%E7%9A%84%E7%B4%8B%E7%90%86%E4%BB%A5%E5%8F%8A%E8%8A%B1%E7%93%A3%E7%9A%84%E6%AC%A1%E8%A1%A8%E9%9D%A2%E6%95%A3%E5%B0%84%E3%80%82%E4%BD%BF%E7%94%A8%2085mm%20%E5%BE%AE%E8%B7%9D%E9%8F%A1%E9%A0%AD%E6%8B%8D%E6%94%9D%EF%BC%8Cf%2F1.8%20%E5%85%89%E5%9C%88%EF%BC%8C%E4%BD%8E%E8%AA%BF%E7%85%A7%E6%98%8E%E8%88%87%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E3%80%82%22%2C%0A%20%20%22parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%2221%3A9%22%2C%0A%20%20%20%20%22output_resolution%22%3A%20%224K%22%2C%0A%20%20%20%20%22guidance_scale%22%3A%208.0%2C%0A%20%20%20%20%22style_preset%22%3A%20%22Cinematic%22%2C%0A%20%20%20%20%22seed%22%3A%20null%0A%20%20%7D%2C%0A%20%20%22advanced_config%22%3A%20%7B%0A%20%20%20%20%22identity_locking%22%3A%20false%2C%0A%20%20%20%20%22text_rendering_enabled%22%3A%20true%2C%0A%20%20%20%20%22required_text%22%3A%20%5B%0A%20%20%20%20%20%20%22SPECIMEN%20004%22%2C%0A%20%20%20%20%20%20%22CHRONO%20FLORA%22%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 31: 蔬菜字母挑戰提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡潔的創意挑戰提示，要求 Nano Banana Pro 僅使用蔬菜紋理拼出「HARVEST」這個詞，可用於測試排版和材質渲染。
+
+#### 📝 提示詞
+
+```
+請僅使用蔬菜紋理拼出單字 {argument name="word in English" default="HARVEST"}。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909168933_nqf49v_04S9vNQIoznRyZDI.jpg" width="600" alt="蔬菜字母挑戰提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [EyeingAI](https://x.com/EyeingAI)
+- **來源:** [Twitter Post](https://x.com/EyeingAI/status/1995861596992930026)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E5%83%85%E4%BD%BF%E7%94%A8%E8%94%AC%E8%8F%9C%E7%B4%8B%E7%90%86%E6%8B%BC%E5%87%BA%E5%96%AE%E5%AD%97%20%7Bargument%20name%3D%22word%20in%20English%22%20default%3D%22HARVEST%22%7D%E3%80%82)**
+
+---
+
+### No. 32: 為年輕女性打造時尚街頭服飾肖像的結構化 JSON 提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個為 Nano Banana Pro 設計的詳細 JSON 風格圖像生成提示，用於在戶外城市背景中，重現一位穿著街頭服飾的休閒時尚年輕女性，並保留使用者照片中的相似度。
+
+#### 📝 提示詞
+
+```
+{
+  "image_generation_prompt": {
+    "subject": {
+      "description": "{argument name=\"subject description\" default=\"年輕女性\"}",
+      "reference_basis": "{argument name=\"reference basis\" default=\"使用者提供的照片\"}",
+      "expression": "{argument name=\"expression\" default=\"隨性時尚\"}"
+    },
+    "outfit": {
+      "style": "{argument name=\"outfit style\" default=\"街頭風\"}",
+      "top": "{argument name=\"top\" default=\"黑色寬鬆 T 恤，帶有酷炫圖案設計\"}",
+      "bottom": "{argument name=\"bottom\" default=\"淺藍色寬鬆闊腿牛仔褲\"}",
+      "footwear": "{argument name=\"footwear\" default=\"白色厚底運動鞋\"}",
+      "accessories": "{argument name=\"accessories\" default=\"黑色手錶\"}"
+    },
+    "pose_and_action": {
+      "stance": "{argument name=\"stance\" default=\"站立\"}",
+      "hand_placement": "{argument name=\"hand placement\" default=\"一隻手插在口袋裡\"}",
+      "holding_object": "{argument name=\"holding object\" default=\"塑膠杯裝的冰飲，附吸管\"}"
+    },
+    "environment": {
+      "immediate_surroundings": "{argument name=\"immediate surroundings\" default=\"鋼絲圍欄\"}",
+      "background_elements": [
+        "{argument name=\"background element 1\" default=\"湛藍的天空\"}",
+        "{argument name=\"background element 2\" default=\"竹林\"}",
+        "{argument name=\"background element 3\" default=\"現代建築\"}"
+      ]
+    },
+    "technical_details": {
+      "medium": "{argument name=\"medium\" default=\"數碼攝影\"}",
+      "camera_angle": "{argument name=\"camera angle\" default=\"低角度 / 蟲眼視角\"}",
+      "lighting": "{argument name=\"lighting\" default=\"日光，明亮\"}"
+    }
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909333324_5n8h0n_G7KsQihbgAU7AqK.jpg" width="600" alt="為年輕女性打造時尚街頭服飾肖像的結構化 JSON 提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909336328_uo39ud_G7KsQiibgAQrSGs.jpg" width="600" alt="為年輕女性打造時尚街頭服飾肖像的結構化 JSON 提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **來源:** [Twitter Post](https://x.com/saniaspeaks_/status/1995847027054534775)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_generation_prompt%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22%7Bargument%20name%3D%5C%22subject%20description%5C%22%20default%3D%5C%22%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22reference_basis%22%3A%20%22%7Bargument%20name%3D%5C%22reference%20basis%5C%22%20default%3D%5C%22%E4%BD%BF%E7%94%A8%E8%80%85%E6%8F%90%E4%BE%9B%E7%9A%84%E7%85%A7%E7%89%87%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%5C%22expression%5C%22%20default%3D%5C%22%E9%9A%A8%E6%80%A7%E6%99%82%E5%B0%9A%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22outfit%20style%5C%22%20default%3D%5C%22%E8%A1%97%E9%A0%AD%E9%A2%A8%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22top%22%3A%20%22%7Bargument%20name%3D%5C%22top%5C%22%20default%3D%5C%22%E9%BB%91%E8%89%B2%E5%AF%AC%E9%AC%86%20T%20%E6%81%A4%EF%BC%8C%E5%B8%B6%E6%9C%89%E9%85%B7%E7%82%AB%E5%9C%96%E6%A1%88%E8%A8%AD%E8%A8%88%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%22%7Bargument%20name%3D%5C%22bottom%5C%22%20default%3D%5C%22%E6%B7%BA%E8%97%8D%E8%89%B2%E5%AF%AC%E9%AC%86%E9%97%8A%E8%85%BF%E7%89%9B%E4%BB%94%E8%A4%B2%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22footwear%22%3A%20%22%7Bargument%20name%3D%5C%22footwear%5C%22%20default%3D%5C%22%E7%99%BD%E8%89%B2%E5%8E%9A%E5%BA%95%E9%81%8B%E5%8B%95%E9%9E%8B%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%22%7Bargument%20name%3D%5C%22accessories%5C%22%20default%3D%5C%22%E9%BB%91%E8%89%B2%E6%89%8B%E9%8C%B6%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose_and_action%22%3A%20%7B%0A%20%20%20%20%20%20%22stance%22%3A%20%22%7Bargument%20name%3D%5C%22stance%5C%22%20default%3D%5C%22%E7%AB%99%E7%AB%8B%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22hand_placement%22%3A%20%22%7Bargument%20name%3D%5C%22hand%20placement%5C%22%20default%3D%5C%22%E4%B8%80%E9%9A%BB%E6%89%8B%E6%8F%92%E5%9C%A8%E5%8F%A3%E8%A2%8B%E8%A3%A1%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22holding_object%22%3A%20%22%7Bargument%20name%3D%5C%22holding%20object%5C%22%20default%3D%5C%22%E5%A1%91%E8%86%A0%E6%9D%AF%E8%A3%9D%E7%9A%84%E5%86%B0%E9%A3%B2%EF%BC%8C%E9%99%84%E5%90%B8%E7%AE%A1%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22immediate_surroundings%22%3A%20%22%7Bargument%20name%3D%5C%22immediate%20surroundings%5C%22%20default%3D%5C%22%E9%8B%BC%E7%B5%B2%E5%9C%8D%E6%AC%84%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%7Bargument%20name%3D%5C%22background%20element%201%5C%22%20default%3D%5C%22%E6%B9%9B%E8%97%8D%E7%9A%84%E5%A4%A9%E7%A9%BA%5C%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%22%7Bargument%20name%3D%5C%22background%20element%202%5C%22%20default%3D%5C%22%E7%AB%B9%E6%9E%97%5C%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%22%7Bargument%20name%3D%5C%22background%20element%203%5C%22%20default%3D%5C%22%E7%8F%BE%E4%BB%A3%E5%BB%BA%E7%AF%89%5C%22%7D%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22technical_details%22%3A%20%7B%0A%20%20%20%20%20%20%22medium%22%3A%20%22%7Bargument%20name%3D%5C%22medium%5C%22%20default%3D%5C%22%E6%95%B8%E7%A2%BC%E6%94%9D%E5%BD%B1%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22camera_angle%22%3A%20%22%7Bargument%20name%3D%5C%22camera%20angle%5C%22%20default%3D%5C%22%E4%BD%8E%E8%A7%92%E5%BA%A6%20%2F%20%E8%9F%B2%E7%9C%BC%E8%A6%96%E8%A7%92%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%22%7Bargument%20name%3D%5C%22lighting%5C%22%20default%3D%5C%22%E6%97%A5%E5%85%89%EF%BC%8C%E6%98%8E%E4%BA%AE%5C%22%7D%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 33: 3D 迷你 Q 版旅遊景點概念提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個英文提示，用於生成以標誌性當地地標和主題建築為中心的 3D  Q 版微縮旅行概念場景，可透過替換地點名稱和關鍵元素輕鬆重複使用。
+
+#### 📝 提示詞
+
+```
+一個以 {argument name="travel location name" default="富士山"} 為主題的 3D  Q 版迷你旅行概念圖。中心是一個設計獨特的兩層樓觀景台兼遊客資訊中心，圍繞著一個巨大的、具代表性的 {argument name="symbol of the travel location" default="當地旅遊地點的象徵"} 物件建造。透過大片玻璃窗，可以看到內部精緻的細節，溫暖的燈光和以 {argument name="theme color of the travel location" default="當地旅遊地點的主題顏色"} 為主的裝飾。身穿導遊制服的迷你角色正在裡面工作，而來訪的迷你角色則在拍照和放鬆。建築物周圍有長椅、路燈、石板路和 {argument name="local natural elements or plants" default="當地自然元素或植物"}，展現了目的地的獨特氛圍。它以 Cinema 4D 渲染成微縮城市景觀風格，具有盲盒玩具的美學，細節豐富，柔和的燈光營造出輕鬆旅行午後的感覺。請參考所附的角色表放置迷你角色。--ar 2:3
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909219639_rjudzk_G7KmtLabwAAqReA.jpg" width="600" alt="3D 迷你 Q 版旅遊景點概念提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909221766_2s7r6c_G7KmtLAaMAAUvPo.jpg" width="600" alt="3D 迷你 Q 版旅遊景點概念提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909223991_q0918x_G7KmtLCbgAQx3S-.jpg" width="600" alt="3D 迷你 Q 版旅遊景點概念提示 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909226305_dx4g23_G7KmtLDa0AAVrOJ.jpg" width="600" alt="3D 迷你 Q 版旅遊景點概念提示 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo)
+- **來源:** [Twitter Post](https://x.com/tetumemo/status/1995840893254029554)
+- **發布時間:** 2025年12月2日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%80%8B%E4%BB%A5%20%7Bargument%20name%3D%22travel%20location%20name%22%20default%3D%22%E5%AF%8C%E5%A3%AB%E5%B1%B1%22%7D%20%E7%82%BA%E4%B8%BB%E9%A1%8C%E7%9A%84%203D%20%20Q%20%E7%89%88%E8%BF%B7%E4%BD%A0%E6%97%85%E8%A1%8C%E6%A6%82%E5%BF%B5%E5%9C%96%E3%80%82%E4%B8%AD%E5%BF%83%E6%98%AF%E4%B8%80%E5%80%8B%E8%A8%AD%E8%A8%88%E7%8D%A8%E7%89%B9%E7%9A%84%E5%85%A9%E5%B1%A4%E6%A8%93%E8%A7%80%E6%99%AF%E5%8F%B0%E5%85%BC%E9%81%8A%E5%AE%A2%E8%B3%87%E8%A8%8A%E4%B8%AD%E5%BF%83%EF%BC%8C%E5%9C%8D%E7%B9%9E%E8%91%97%E4%B8%80%E5%80%8B%E5%B7%A8%E5%A4%A7%E7%9A%84%E3%80%81%E5%85%B7%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%20%7Bargument%20name%3D%22symbol%20of%20the%20travel%20location%22%20default%3D%22%E7%95%B6%E5%9C%B0%E6%97%85%E9%81%8A%E5%9C%B0%E9%BB%9E%E7%9A%84%E8%B1%A1%E5%BE%B5%22%7D%20%E7%89%A9%E4%BB%B6%E5%BB%BA%E9%80%A0%E3%80%82%E9%80%8F%E9%81%8E%E5%A4%A7%E7%89%87%E7%8E%BB%E7%92%83%E7%AA%97%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%85%A7%E9%83%A8%E7%B2%BE%E7%B7%BB%E7%9A%84%E7%B4%B0%E7%AF%80%EF%BC%8C%E6%BA%AB%E6%9A%96%E7%9A%84%E7%87%88%E5%85%89%E5%92%8C%E4%BB%A5%20%7Bargument%20name%3D%22theme%20color%20of%20the%20travel%20location%22%20default%3D%22%E7%95%B6%E5%9C%B0%E6%97%85%E9%81%8A%E5%9C%B0%E9%BB%9E%E7%9A%84%E4%B8%BB%E9%A1%8C%E9%A1%8F%E8%89%B2%22%7D%20%E7%82%BA%E4%B8%BB%E7%9A%84%E8%A3%9D%E9%A3%BE%E3%80%82%E8%BA%AB%E7%A9%BF%E5%B0%8E%E9%81%8A%E5%88%B6%E6%9C%8D%E7%9A%84%E8%BF%B7%E4%BD%A0%E8%A7%92%E8%89%B2%E6%AD%A3%E5%9C%A8%E8%A3%A1%E9%9D%A2%E5%B7%A5%E4%BD%9C%EF%BC%8C%E8%80%8C%E4%BE%86%E8%A8%AA%E7%9A%84%E8%BF%B7%E4%BD%A0%E8%A7%92%E8%89%B2%E5%89%87%E5%9C%A8%E6%8B%8D%E7%85%A7%E5%92%8C%E6%94%BE%E9%AC%86%E3%80%82%E5%BB%BA%E7%AF%89%E7%89%A9%E5%91%A8%E5%9C%8D%E6%9C%89%E9%95%B7%E6%A4%85%E3%80%81%E8%B7%AF%E7%87%88%E3%80%81%E7%9F%B3%E6%9D%BF%E8%B7%AF%E5%92%8C%20%7Bargument%20name%3D%22local%20natural%20elements%20or%20plants%22%20default%3D%22%E7%95%B6%E5%9C%B0%E8%87%AA%E7%84%B6%E5%85%83%E7%B4%A0%E6%88%96%E6%A4%8D%E7%89%A9%22%7D%EF%BC%8C%E5%B1%95%E7%8F%BE%E4%BA%86%E7%9B%AE%E7%9A%84%E5%9C%B0%E7%9A%84%E7%8D%A8%E7%89%B9%E6%B0%9B%E5%9C%8D%E3%80%82%E5%AE%83%E4%BB%A5%20Cinema%204D%20%E6%B8%B2%E6%9F%93%E6%88%90%E5%BE%AE%E7%B8%AE%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%80%E9%A2%A8%E6%A0%BC%EF%BC%8C%E5%85%B7%E6%9C%89%E7%9B%B2%E7%9B%92%E7%8E%A9%E5%85%B7%E7%9A%84%E7%BE%8E%E5%AD%B8%EF%BC%8C%E7%B4%B0%E7%AF%80%E8%B1%90%E5%AF%8C%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%87%88%E5%85%89%E7%87%9F%E9%80%A0%E5%87%BA%E8%BC%95%E9%AC%86%E6%97%85%E8%A1%8C%E5%8D%88%E5%BE%8C%E7%9A%84%E6%84%9F%E8%A6%BA%E3%80%82%E8%AB%8B%E5%8F%83%E8%80%83%E6%89%80%E9%99%84%E7%9A%84%E8%A7%92%E8%89%B2%E8%A1%A8%E6%94%BE%E7%BD%AE%E8%BF%B7%E4%BD%A0%E8%A7%92%E8%89%B2%E3%80%82--ar%202%3A3)**
+
+---
+
+### No. 34: 3D Q 版概念店品牌提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個簡單的 Nano Banana 提示，用於生成以特定品牌名稱為主題的 3D 迷你 Q 版概念店。
+
+#### 📝 提示詞
+
+```
+{Brand Name} 的 3D Q 版迷你概念店
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909165915_17nfce_G7KjYU2bAAADPEq.jpg" width="600" alt="3D Q 版概念店品牌提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [wonderful world](https://x.com/Web3repair1)
+- **來源:** [Twitter Post](https://x.com/Web3repair1/status/1995837232402620856)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7BBrand%20Name%7D%20%E7%9A%84%203D%20Q%20%E7%89%88%E8%BF%B7%E4%BD%A0%E6%A6%82%E5%BF%B5%E5%BA%97)**
+
+---
+
+### No. 35: 將參考圖像變成逼真的聖誕蛋糕
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+一個適用於 Nano Banana Pro 的簡單圖生圖提示，要求模型將參考圖像轉換為逼真的聖誕蛋糕，適合從角色或物體圖像中創建節日甜點視覺效果。
+
+#### 📝 提示詞
+
+```
+請將參考圖片變成一個逼真的聖誕蛋糕。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909231963_8stdnt_G7KSowHbgAIf0KW.jpg" width="600" alt="將參考圖像變成逼真的聖誕蛋糕 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909234189_heyfyp_G7GR-3Wa4AANZu0.jpg" width="600" alt="將參考圖像變成逼真的聖誕蛋糕 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909236325_iwr96a_G7GSAYJaQAA53-x.jpg" width="600" alt="將參考圖像變成逼真的聖誕蛋糕 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [なすびぃ](https://x.com/nyaruru_AIart)
+- **來源:** [Twitter Post](https://x.com/nyaruru_AIart/status/1995820112390008866)
+- **發布時間:** 2025年12月2日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E5%B0%87%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E8%AE%8A%E6%88%90%E4%B8%80%E5%80%8B%E9%80%BC%E7%9C%9F%E7%9A%84%E8%81%96%E8%AA%95%E8%9B%8B%E7%B3%95%E3%80%82)**
+
+---
+
+### No. 36: 電影風格湖畔吊椅概念提示，搭配太空物體主題
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於湖畔電影夜景的長篇 Nano Banana Pro 提示，其中包含一個大型吊椅，其形狀、表面和照明均源自特定的太空物體佔位符。
+
+#### 📝 提示詞
+
+```
+寧靜湖畔，舒適的戶外休憩區，夜景如電影般呈現。畫面中央，一張靈感來自 {argument name="space object in English" default="[SPACE_OBJECT]"} 的大型吊椅，由左側粗壯低矮的樹枝上垂下的堅固金屬鏈懸掛著，輕輕地浮在地面上方。吊椅的整體輪廓、比例、配色和表面細節顯然源自這個天體，因此其獨特的邊緣、明暗區域、細微的條紋、斑塊以及天文圖像中可辨識的標記，都被忠實地轉化為外殼的設計。材質看起來像是精緻、略帶風化的石材與金屬的融合，並帶有與這些獨特圖案相符的精細浮雕，而內部則形成一個光滑舒適的凹陷，內襯溫暖的編織纖維和靠墊，柔和地呼應著相同的色調。一個柔軟的枕頭置於其中，由椅子內部散發出的柔和光芒照亮，在周圍的泥土和草地上投射出一片柔和的光暈。高大的野草和小型植物環繞著底部。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909174896_oz91ue_G7KQ_sibgAQwxXL.jpg" width="600" alt="電影風格湖畔吊椅概念提示，搭配太空物體主題 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909177153_8noe37_G7KRBPUakAAKdit.jpg" width="600" alt="電影風格湖畔吊椅概念提示，搭配太空物體主題 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909179513_1nkcfg_G7KRDpQbgAUQ38K.jpg" width="600" alt="電影風格湖畔吊椅概念提示，搭配太空物體主題 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909181843_3i09cq_G7KREK0bgAA5ZrM.jpg" width="600" alt="電影風格湖畔吊椅概念提示，搭配太空物體主題 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Umesh](https://x.com/umesh_ai)
+- **來源:** [Twitter Post](https://x.com/umesh_ai/status/1995817140512063753)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%AF%A7%E9%9D%9C%E6%B9%96%E7%95%94%EF%BC%8C%E8%88%92%E9%81%A9%E7%9A%84%E6%88%B6%E5%A4%96%E4%BC%91%E6%86%A9%E5%8D%80%EF%BC%8C%E5%A4%9C%E6%99%AF%E5%A6%82%E9%9B%BB%E5%BD%B1%E8%88%AC%E5%91%88%E7%8F%BE%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%B8%80%E5%BC%B5%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%20%7Bargument%20name%3D%22space%20object%20in%20English%22%20default%3D%22%5BSPACE_OBJECT%5D%22%7D%20%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%90%8A%E6%A4%85%EF%BC%8C%E7%94%B1%E5%B7%A6%E5%81%B4%E7%B2%97%E5%A3%AF%E4%BD%8E%E7%9F%AE%E7%9A%84%E6%A8%B9%E6%9E%9D%E4%B8%8A%E5%9E%82%E4%B8%8B%E7%9A%84%E5%A0%85%E5%9B%BA%E9%87%91%E5%B1%AC%E9%8F%88%E6%87%B8%E6%8E%9B%E8%91%97%EF%BC%8C%E8%BC%95%E8%BC%95%E5%9C%B0%E6%B5%AE%E5%9C%A8%E5%9C%B0%E9%9D%A2%E4%B8%8A%E6%96%B9%E3%80%82%E5%90%8A%E6%A4%85%E7%9A%84%E6%95%B4%E9%AB%94%E8%BC%AA%E5%BB%93%E3%80%81%E6%AF%94%E4%BE%8B%E3%80%81%E9%85%8D%E8%89%B2%E5%92%8C%E8%A1%A8%E9%9D%A2%E7%B4%B0%E7%AF%80%E9%A1%AF%E7%84%B6%E6%BA%90%E8%87%AA%E9%80%99%E5%80%8B%E5%A4%A9%E9%AB%94%EF%BC%8C%E5%9B%A0%E6%AD%A4%E5%85%B6%E7%8D%A8%E7%89%B9%E7%9A%84%E9%82%8A%E7%B7%A3%E3%80%81%E6%98%8E%E6%9A%97%E5%8D%80%E5%9F%9F%E3%80%81%E7%B4%B0%E5%BE%AE%E7%9A%84%E6%A2%9D%E7%B4%8B%E3%80%81%E6%96%91%E5%A1%8A%E4%BB%A5%E5%8F%8A%E5%A4%A9%E6%96%87%E5%9C%96%E5%83%8F%E4%B8%AD%E5%8F%AF%E8%BE%A8%E8%AD%98%E7%9A%84%E6%A8%99%E8%A8%98%EF%BC%8C%E9%83%BD%E8%A2%AB%E5%BF%A0%E5%AF%A6%E5%9C%B0%E8%BD%89%E5%8C%96%E7%82%BA%E5%A4%96%E6%AE%BC%E7%9A%84%E8%A8%AD%E8%A8%88%E3%80%82%E6%9D%90%E8%B3%AA%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E6%98%AF%E7%B2%BE%E7%B7%BB%E3%80%81%E7%95%A5%E5%B8%B6%E9%A2%A8%E5%8C%96%E7%9A%84%E7%9F%B3%E6%9D%90%E8%88%87%E9%87%91%E5%B1%AC%E7%9A%84%E8%9E%8D%E5%90%88%EF%BC%8C%E4%B8%A6%E5%B8%B6%E6%9C%89%E8%88%87%E9%80%99%E4%BA%9B%E7%8D%A8%E7%89%B9%E5%9C%96%E6%A1%88%E7%9B%B8%E7%AC%A6%E7%9A%84%E7%B2%BE%E7%B4%B0%E6%B5%AE%E9%9B%95%EF%BC%8C%E8%80%8C%E5%85%A7%E9%83%A8%E5%89%87%E5%BD%A2%E6%88%90%E4%B8%80%E5%80%8B%E5%85%89%E6%BB%91%E8%88%92%E9%81%A9%E7%9A%84%E5%87%B9%E9%99%B7%EF%BC%8C%E5%85%A7%E8%A5%AF%E6%BA%AB%E6%9A%96%E7%9A%84%E7%B7%A8%E7%B9%94%E7%BA%96%E7%B6%AD%E5%92%8C%E9%9D%A0%E5%A2%8A%EF%BC%8C%E6%9F%94%E5%92%8C%E5%9C%B0%E5%91%BC%E6%87%89%E8%91%97%E7%9B%B8%E5%90%8C%E7%9A%84%E8%89%B2%E8%AA%BF%E3%80%82%E4%B8%80%E5%80%8B%E6%9F%94%E8%BB%9F%E7%9A%84%E6%9E%95%E9%A0%AD%E7%BD%AE%E6%96%BC%E5%85%B6%E4%B8%AD%EF%BC%8C%E7%94%B1%E6%A4%85%E5%AD%90%E5%85%A7%E9%83%A8%E6%95%A3%E7%99%BC%E5%87%BA%E7%9A%84%E6%9F%94%E5%92%8C%E5%85%89%E8%8A%92%E7%85%A7%E4%BA%AE%EF%BC%8C%E5%9C%A8%E5%91%A8%E5%9C%8D%E7%9A%84%E6%B3%A5%E5%9C%9F%E5%92%8C%E8%8D%89%E5%9C%B0%E4%B8%8A%E6%8A%95%E5%B0%84%E5%87%BA%E4%B8%80%E7%89%87%E6%9F%94%E5%92%8C%E7%9A%84%E5%85%89%E6%9A%88%E3%80%82%E9%AB%98%E5%A4%A7%E7%9A%84%E9%87%8E%E8%8D%89%E5%92%8C%E5%B0%8F%E5%9E%8B%E6%A4%8D%E7%89%A9%E7%92%B0%E7%B9%9E%E8%91%97%E5%BA%95%E9%83%A8%E3%80%82)**
+
+---
+
+### No. 37: 自然 Instagram 風格的車內自拍提示
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於生成年輕女性在豪華車中拍攝自然 Instagram 風格自拍照的英文 Nano Banana Pro 提示，其中包含詳細的姿勢、服裝、燈光和構圖說明。
+
+#### 📝 提示詞
+
+```
+一張自然、Instagram 風格的自拍照，主角是 {argument name="subject description" default="一位年輕女性"}，留著 {argument name="hair style and color" default="一頭濃密烏黑的波浪長髮"}，坐在一輛 {argument name="car type" default="豪華汽車"} 的 {argument name="seat color" default="米色皮革座椅"} 上。
+
+她穿著 {argument name="top" default="一件白色長袖鈕扣襯衫"}，在胸部下方打結，營造出短版上衣的效果，搭配 {argument name="bottoms" default="淺色水洗牛仔短褲"}。肚臍上戴著一個小小的銀色肚臍環，清晰可見。
+
+她的一隻手臂抬起，輕鬆地放在頭後，另一隻手則自然地放在腿上。她的身體稍微轉向鏡頭，舒適地向後靠在座椅上。
+
+她的目光直視鏡頭，帶著自信而性感的表情，妝容自然柔和，雙唇塗有光澤。
+
+拍攝角度為平視或略高的角度，彷彿是用自拍棒或手機前置鏡頭拍攝的。中景至中近景構圖，從腰部到頭部，主體佔據了大部分畫面。
+
+明亮的自然日光透過車窗灑入，背景可見鬱鬱蔥蔥的綠樹。柔和均勻的光線完美地照亮了她的臉龐和身體。
+
+溫暖的米色皮革內飾營造出舒適奢華的氛圍。這是一張真誠的生活風格攝影作品，帶有真實的社群媒體自拍氛圍。
+
+色彩：明亮、通透，略帶暖色調。臉部和上半身清晰對焦。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909265721_6eyr9m_G7KCs8fbEAA0CWK.jpg" width="600" alt="自然 Instagram 風格的車內自拍提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Yanhua 彦华](https://x.com/yanhua1010)
+- **來源:** [Twitter Post](https://x.com/yanhua1010/status/1995802645542649993)
+- **發布時間:** 2025年12月2日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%E8%87%AA%E7%84%B6%E3%80%81Instagram%20%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%87%AA%E6%8B%8D%E7%85%A7%EF%BC%8C%E4%B8%BB%E8%A7%92%E6%98%AF%20%7Bargument%20name%3D%22subject%20description%22%20default%3D%22%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%22%7D%EF%BC%8C%E7%95%99%E8%91%97%20%7Bargument%20name%3D%22hair%20style%20and%20color%22%20default%3D%22%E4%B8%80%E9%A0%AD%E6%BF%83%E5%AF%86%E7%83%8F%E9%BB%91%E7%9A%84%E6%B3%A2%E6%B5%AA%E9%95%B7%E9%AB%AE%22%7D%EF%BC%8C%E5%9D%90%E5%9C%A8%E4%B8%80%E8%BC%9B%20%7Bargument%20name%3D%22car%20type%22%20default%3D%22%E8%B1%AA%E8%8F%AF%E6%B1%BD%E8%BB%8A%22%7D%20%E7%9A%84%20%7Bargument%20name%3D%22seat%20color%22%20default%3D%22%E7%B1%B3%E8%89%B2%E7%9A%AE%E9%9D%A9%E5%BA%A7%E6%A4%85%22%7D%20%E4%B8%8A%E3%80%82%0A%0A%E5%A5%B9%E7%A9%BF%E8%91%97%20%7Bargument%20name%3D%22top%22%20default%3D%22%E4%B8%80%E4%BB%B6%E7%99%BD%E8%89%B2%E9%95%B7%E8%A2%96%E9%88%95%E6%89%A3%E8%A5%AF%E8%A1%AB%22%7D%EF%BC%8C%E5%9C%A8%E8%83%B8%E9%83%A8%E4%B8%8B%E6%96%B9%E6%89%93%E7%B5%90%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E7%9F%AD%E7%89%88%E4%B8%8A%E8%A1%A3%E7%9A%84%E6%95%88%E6%9E%9C%EF%BC%8C%E6%90%AD%E9%85%8D%20%7Bargument%20name%3D%22bottoms%22%20default%3D%22%E6%B7%BA%E8%89%B2%E6%B0%B4%E6%B4%97%E7%89%9B%E4%BB%94%E7%9F%AD%E8%A4%B2%22%7D%E3%80%82%E8%82%9A%E8%87%8D%E4%B8%8A%E6%88%B4%E8%91%97%E4%B8%80%E5%80%8B%E5%B0%8F%E5%B0%8F%E7%9A%84%E9%8A%80%E8%89%B2%E8%82%9A%E8%87%8D%E7%92%B0%EF%BC%8C%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E3%80%82%0A%0A%E5%A5%B9%E7%9A%84%E4%B8%80%E9%9A%BB%E6%89%8B%E8%87%82%E6%8A%AC%E8%B5%B7%EF%BC%8C%E8%BC%95%E9%AC%86%E5%9C%B0%E6%94%BE%E5%9C%A8%E9%A0%AD%E5%BE%8C%EF%BC%8C%E5%8F%A6%E4%B8%80%E9%9A%BB%E6%89%8B%E5%89%87%E8%87%AA%E7%84%B6%E5%9C%B0%E6%94%BE%E5%9C%A8%E8%85%BF%E4%B8%8A%E3%80%82%E5%A5%B9%E7%9A%84%E8%BA%AB%E9%AB%94%E7%A8%8D%E5%BE%AE%E8%BD%89%E5%90%91%E9%8F%A1%E9%A0%AD%EF%BC%8C%E8%88%92%E9%81%A9%E5%9C%B0%E5%90%91%E5%BE%8C%E9%9D%A0%E5%9C%A8%E5%BA%A7%E6%A4%85%E4%B8%8A%E3%80%82%0A%0A%E5%A5%B9%E7%9A%84%E7%9B%AE%E5%85%89%E7%9B%B4%E8%A6%96%E9%8F%A1%E9%A0%AD%EF%BC%8C%E5%B8%B6%E8%91%97%E8%87%AA%E4%BF%A1%E8%80%8C%E6%80%A7%E6%84%9F%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E5%A6%9D%E5%AE%B9%E8%87%AA%E7%84%B6%E6%9F%94%E5%92%8C%EF%BC%8C%E9%9B%99%E5%94%87%E5%A1%97%E6%9C%89%E5%85%89%E6%BE%A4%E3%80%82%0A%0A%E6%8B%8D%E6%94%9D%E8%A7%92%E5%BA%A6%E7%82%BA%E5%B9%B3%E8%A6%96%E6%88%96%E7%95%A5%E9%AB%98%E7%9A%84%E8%A7%92%E5%BA%A6%EF%BC%8C%E5%BD%B7%E5%BD%BF%E6%98%AF%E7%94%A8%E8%87%AA%E6%8B%8D%E6%A3%92%E6%88%96%E6%89%8B%E6%A9%9F%E5%89%8D%E7%BD%AE%E9%8F%A1%E9%A0%AD%E6%8B%8D%E6%94%9D%E7%9A%84%E3%80%82%E4%B8%AD%E6%99%AF%E8%87%B3%E4%B8%AD%E8%BF%91%E6%99%AF%E6%A7%8B%E5%9C%96%EF%BC%8C%E5%BE%9E%E8%85%B0%E9%83%A8%E5%88%B0%E9%A0%AD%E9%83%A8%EF%BC%8C%E4%B8%BB%E9%AB%94%E4%BD%94%E6%93%9A%E4%BA%86%E5%A4%A7%E9%83%A8%E5%88%86%E7%95%AB%E9%9D%A2%E3%80%82%0A%0A%E6%98%8E%E4%BA%AE%E7%9A%84%E8%87%AA%E7%84%B6%E6%97%A5%E5%85%89%E9%80%8F%E9%81%8E%E8%BB%8A%E7%AA%97%E7%81%91%E5%85%A5%EF%BC%8C%E8%83%8C%E6%99%AF%E5%8F%AF%E8%A6%8B%E9%AC%B1%E9%AC%B1%E8%94%A5%E8%94%A5%E7%9A%84%E7%B6%A0%E6%A8%B9%E3%80%82%E6%9F%94%E5%92%8C%E5%9D%87%E5%8B%BB%E7%9A%84%E5%85%89%E7%B7%9A%E5%AE%8C%E7%BE%8E%E5%9C%B0%E7%85%A7%E4%BA%AE%E4%BA%86%E5%A5%B9%E7%9A%84%E8%87%89%E9%BE%90%E5%92%8C%E8%BA%AB%E9%AB%94%E3%80%82%0A%0A%E6%BA%AB%E6%9A%96%E7%9A%84%E7%B1%B3%E8%89%B2%E7%9A%AE%E9%9D%A9%E5%85%A7%E9%A3%BE%E7%87%9F%E9%80%A0%E5%87%BA%E8%88%92%E9%81%A9%E5%A5%A2%E8%8F%AF%E7%9A%84%E6%B0%9B%E5%9C%8D%E3%80%82%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%E7%9C%9F%E8%AA%A0%E7%9A%84%E7%94%9F%E6%B4%BB%E9%A2%A8%E6%A0%BC%E6%94%9D%E5%BD%B1%E4%BD%9C%E5%93%81%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E8%87%AA%E6%8B%8D%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E8%89%B2%E5%BD%A9%EF%BC%9A%E6%98%8E%E4%BA%AE%E3%80%81%E9%80%9A%E9%80%8F%EF%BC%8C%E7%95%A5%E5%B8%B6%E6%9A%96%E8%89%B2%E8%AA%BF%E3%80%82%E8%87%89%E9%83%A8%E5%92%8C%E4%B8%8A%E5%8D%8A%E8%BA%AB%E6%B8%85%E6%99%B0%E5%B0%8D%E7%84%A6%E3%80%82)**
+
+---
+
+### No. 38: 黎明時分的巨型戰艦插畫提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個英文提示，用於生成一張電影般的低角度圖像，描繪一艘擁有三聯裝砲塔、高聳上層建築和戲劇性日出光線的巨型戰艦，喚起歷史戰艦的感覺。
+
+#### 📝 提示詞
+
+```
+一艘巨大的戰艦在黎明時分，平靜的海洋上航行。其船體龐大而莊嚴，由深色鋼材鑄造而成，擁有寬闊的裝甲甲板和三座巨大的三聯裝砲塔，沿著船的中心軸線排列。每根砲管都又長又重，略微向上傾斜，彷彿已準備好瞄準遠方的地平線。高聳的上層建築高於甲板，層層疊疊地設有觀測平台、測距儀和雷達罩。艦橋高大如堡壘，其輪廓在晨曦中顯得格外清晰。鉚接裝甲板、梯子和砲架的細節，突顯了工業工藝和機械精準度。場景被日出的第一道曙光照亮——金色的光芒反射在輕柔的海浪和鋼鐵表面上。空氣中瀰漫著莊嚴和自豪感，彷彿這艘船承載著歷史本身的重量。構圖充滿電影感，以低角度從海平面向上仰視，捕捉其壓倒性的存在感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909213665_wjfkve_G7Jjl34bQAAWFYb.jpg" width="600" alt="黎明時分的巨型戰艦插畫提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [いにしえ@AI Creator｜Will Oldgram](https://x.com/old_pgmrs_will)
+- **來源:** [Twitter Post](https://x.com/old_pgmrs_will/status/1995768881005355041)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E8%89%98%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%B0%E8%89%A6%E5%9C%A8%E9%BB%8E%E6%98%8E%E6%99%82%E5%88%86%EF%BC%8C%E5%B9%B3%E9%9D%9C%E7%9A%84%E6%B5%B7%E6%B4%8B%E4%B8%8A%E8%88%AA%E8%A1%8C%E3%80%82%E5%85%B6%E8%88%B9%E9%AB%94%E9%BE%90%E5%A4%A7%E8%80%8C%E8%8E%8A%E5%9A%B4%EF%BC%8C%E7%94%B1%E6%B7%B1%E8%89%B2%E9%8B%BC%E6%9D%90%E9%91%84%E9%80%A0%E8%80%8C%E6%88%90%EF%BC%8C%E6%93%81%E6%9C%89%E5%AF%AC%E9%97%8A%E7%9A%84%E8%A3%9D%E7%94%B2%E7%94%B2%E6%9D%BF%E5%92%8C%E4%B8%89%E5%BA%A7%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%B8%89%E8%81%AF%E8%A3%9D%E7%A0%B2%E5%A1%94%EF%BC%8C%E6%B2%BF%E8%91%97%E8%88%B9%E7%9A%84%E4%B8%AD%E5%BF%83%E8%BB%B8%E7%B7%9A%E6%8E%92%E5%88%97%E3%80%82%E6%AF%8F%E6%A0%B9%E7%A0%B2%E7%AE%A1%E9%83%BD%E5%8F%88%E9%95%B7%E5%8F%88%E9%87%8D%EF%BC%8C%E7%95%A5%E5%BE%AE%E5%90%91%E4%B8%8A%E5%82%BE%E6%96%9C%EF%BC%8C%E5%BD%B7%E5%BD%BF%E5%B7%B2%E6%BA%96%E5%82%99%E5%A5%BD%E7%9E%84%E6%BA%96%E9%81%A0%E6%96%B9%E7%9A%84%E5%9C%B0%E5%B9%B3%E7%B7%9A%E3%80%82%E9%AB%98%E8%81%B3%E7%9A%84%E4%B8%8A%E5%B1%A4%E5%BB%BA%E7%AF%89%E9%AB%98%E6%96%BC%E7%94%B2%E6%9D%BF%EF%BC%8C%E5%B1%A4%E5%B1%A4%E7%96%8A%E7%96%8A%E5%9C%B0%E8%A8%AD%E6%9C%89%E8%A7%80%E6%B8%AC%E5%B9%B3%E5%8F%B0%E3%80%81%E6%B8%AC%E8%B7%9D%E5%84%80%E5%92%8C%E9%9B%B7%E9%81%94%E7%BD%A9%E3%80%82%E8%89%A6%E6%A9%8B%E9%AB%98%E5%A4%A7%E5%A6%82%E5%A0%A1%E5%A3%98%EF%BC%8C%E5%85%B6%E8%BC%AA%E5%BB%93%E5%9C%A8%E6%99%A8%E6%9B%A6%E4%B8%AD%E9%A1%AF%E5%BE%97%E6%A0%BC%E5%A4%96%E6%B8%85%E6%99%B0%E3%80%82%E9%89%9A%E6%8E%A5%E8%A3%9D%E7%94%B2%E6%9D%BF%E3%80%81%E6%A2%AF%E5%AD%90%E5%92%8C%E7%A0%B2%E6%9E%B6%E7%9A%84%E7%B4%B0%E7%AF%80%EF%BC%8C%E7%AA%81%E9%A1%AF%E4%BA%86%E5%B7%A5%E6%A5%AD%E5%B7%A5%E8%97%9D%E5%92%8C%E6%A9%9F%E6%A2%B0%E7%B2%BE%E6%BA%96%E5%BA%A6%E3%80%82%E5%A0%B4%E6%99%AF%E8%A2%AB%E6%97%A5%E5%87%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%93%E6%9B%99%E5%85%89%E7%85%A7%E4%BA%AE%E2%80%94%E2%80%94%E9%87%91%E8%89%B2%E7%9A%84%E5%85%89%E8%8A%92%E5%8F%8D%E5%B0%84%E5%9C%A8%E8%BC%95%E6%9F%94%E7%9A%84%E6%B5%B7%E6%B5%AA%E5%92%8C%E9%8B%BC%E9%90%B5%E8%A1%A8%E9%9D%A2%E4%B8%8A%E3%80%82%E7%A9%BA%E6%B0%A3%E4%B8%AD%E7%80%B0%E6%BC%AB%E8%91%97%E8%8E%8A%E5%9A%B4%E5%92%8C%E8%87%AA%E8%B1%AA%E6%84%9F%EF%BC%8C%E5%BD%B7%E5%BD%BF%E9%80%99%E8%89%98%E8%88%B9%E6%89%BF%E8%BC%89%E8%91%97%E6%AD%B7%E5%8F%B2%E6%9C%AC%E8%BA%AB%E7%9A%84%E9%87%8D%E9%87%8F%E3%80%82%E6%A7%8B%E5%9C%96%E5%85%85%E6%BB%BF%E9%9B%BB%E5%BD%B1%E6%84%9F%EF%BC%8C%E4%BB%A5%E4%BD%8E%E8%A7%92%E5%BA%A6%E5%BE%9E%E6%B5%B7%E5%B9%B3%E9%9D%A2%E5%90%91%E4%B8%8A%E4%BB%B0%E8%A6%96%EF%BC%8C%E6%8D%95%E6%8D%89%E5%85%B6%E5%A3%93%E5%80%92%E6%80%A7%E7%9A%84%E5%AD%98%E5%9C%A8%E6%84%9F%E3%80%82)**
+
+---
+
+### No. 39: 單色背景上的 3D 浮雕品牌標誌
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個 Nano Banana Pro 提示範本，用於在柔和的單色漸變背景上，呈現居中、3D 浮雕、光澤的品牌名稱，並帶有玻璃或鍍鉻邊緣，適用於標誌和品牌視覺效果。
+
+#### 📝 提示詞
+
+```
+在平面上置中的 {argument name="brand name" default="[brand name]"} 以 3D 浮雕光澤輪廓呈現，完美地置於構圖中央，周圍留有充足的留白，營造出高端簡約的美學。
+
+單色 {argument name="main color" default="[color]"} 調色板，帶有柔和的漸變色調。
+
+物體由凸起的液體般光滑的玻璃邊框或鍍鉻邊緣界定，與背景無縫融合，形成一體化的浮雕效果。
+
+啞光表面覆蓋著細微的膠片顆粒或噪點紋理。
+
+柔和的漫射光線在圓角處帶有強烈的鏡面高光，從俯視角度觀看。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909262854_vqivy9_G7Jj9YHbgAAVRUA.jpg" width="600" alt="單色背景上的 3D 浮雕品牌標誌 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [瑞克](https://x.com/tuiyansuo)
+- **來源:** [Twitter Post](https://x.com/tuiyansuo/status/1995767566531526851)
+- **發布時間:** 2025年12月2日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%9C%A8%E5%B9%B3%E9%9D%A2%E4%B8%8A%E7%BD%AE%E4%B8%AD%E7%9A%84%20%7Bargument%20name%3D%22brand%20name%22%20default%3D%22%5Bbrand%20name%5D%22%7D%20%E4%BB%A5%203D%20%E6%B5%AE%E9%9B%95%E5%85%89%E6%BE%A4%E8%BC%AA%E5%BB%93%E5%91%88%E7%8F%BE%EF%BC%8C%E5%AE%8C%E7%BE%8E%E5%9C%B0%E7%BD%AE%E6%96%BC%E6%A7%8B%E5%9C%96%E4%B8%AD%E5%A4%AE%EF%BC%8C%E5%91%A8%E5%9C%8D%E7%95%99%E6%9C%89%E5%85%85%E8%B6%B3%E7%9A%84%E7%95%99%E7%99%BD%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E9%AB%98%E7%AB%AF%E7%B0%A1%E7%B4%84%E7%9A%84%E7%BE%8E%E5%AD%B8%E3%80%82%0A%0A%E5%96%AE%E8%89%B2%20%7Bargument%20name%3D%22main%20color%22%20default%3D%22%5Bcolor%5D%22%7D%20%E8%AA%BF%E8%89%B2%E6%9D%BF%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%B8%E8%AE%8A%E8%89%B2%E8%AA%BF%E3%80%82%0A%0A%E7%89%A9%E9%AB%94%E7%94%B1%E5%87%B8%E8%B5%B7%E7%9A%84%E6%B6%B2%E9%AB%94%E8%88%AC%E5%85%89%E6%BB%91%E7%9A%84%E7%8E%BB%E7%92%83%E9%82%8A%E6%A1%86%E6%88%96%E9%8D%8D%E9%89%BB%E9%82%8A%E7%B7%A3%E7%95%8C%E5%AE%9A%EF%BC%8C%E8%88%87%E8%83%8C%E6%99%AF%E7%84%A1%E7%B8%AB%E8%9E%8D%E5%90%88%EF%BC%8C%E5%BD%A2%E6%88%90%E4%B8%80%E9%AB%94%E5%8C%96%E7%9A%84%E6%B5%AE%E9%9B%95%E6%95%88%E6%9E%9C%E3%80%82%0A%0A%E5%95%9E%E5%85%89%E8%A1%A8%E9%9D%A2%E8%A6%86%E8%93%8B%E8%91%97%E7%B4%B0%E5%BE%AE%E7%9A%84%E8%86%A0%E7%89%87%E9%A1%86%E7%B2%92%E6%88%96%E5%99%AA%E9%BB%9E%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%85%89%E7%B7%9A%E5%9C%A8%E5%9C%93%E8%A7%92%E8%99%95%E5%B8%B6%E6%9C%89%E5%BC%B7%E7%83%88%E7%9A%84%E9%8F%A1%E9%9D%A2%E9%AB%98%E5%85%89%EF%BC%8C%E5%BE%9E%E4%BF%AF%E8%A6%96%E8%A7%92%E5%BA%A6%E8%A7%80%E7%9C%8B%E3%80%82)**
+
+---
+
+### No. 40: JSON 風格的 Nano Banana Pro 提示，用於生成逼真臉孔
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個為 Nano Banana Pro 設計的詳細 JSON 提示範本，用於生成一張超理想化的抖音風格女孩夜間肖像，包括構圖、環境、燈光、相機設定和負面限制。
+
+#### 📝 提示詞
+
+```
+{
+"intent": "生成一張超理想化、抖音風格的夜間肖像，使用直接閃光攝影，呈現參考圖片中同一位女孩，營造出銳利、高對比度的光澤。",
+"frame": {
+"aspect_ratio": "16:9",
+"composition": "極致特寫自拍構圖，緊密聚焦於眼睛和嘴唇，額頭略微裁切，眼神居中。",
+"style_mode": "閃光攝影、數位網紅美學、柔焦寫實主義"
+},
+"subject": {
+"identity": "參考圖片中的同一位女孩，擁有柔和年輕的五官和低調的優雅。",
+"skin": "光滑、有光澤的膚質，反射閃光，營造出玻璃般的透亮感，紋理極少。",
+"hair": "鬆散、自然捲曲，捕捉閃光燈的鏡面高光。",
+"wardrobe": "極少可見的簡約、低調上衣，適合城市夜晚。"
+},
+"environment": {
+"location": "夜晚的 {argument name=\"city type in English\" default=\"印度城市\"}。",
+"weather": "晴朗、平靜的夜空。",
+"background": "黑暗的城市背景，建築物散發出模糊的散景光點。"
+},
+"lighting": {
+"type": "手機正面直射閃光燈或高強度螢幕光",
+"quality": "硬朗、平坦的光線，消除深層陰影，營造出平滑的二維光澤",
+"contrast": "照明的臉部與黑暗的城市背景之間形成強烈對比",
+"catchlight": "瞳孔中央的小閃光反射"
+},
+"camera": {
+"sensor_format": "智慧型手機主相機模擬",
+"lens": "24mm 廣角鏡頭，略微誇大眼睛大小並柔化臉部比例",
+"aperture_depth_of_field": "f/1.8–f/2.2，眼睛和嘴唇清晰銳利，背景和髮絲邊緣即時模糊",
+"focus": "精確聚焦於虹膜紋理和睫毛"
+},
+"negative": {
+"content": "沒有濕髮、沒有雪、沒有雨、沒有男性特徵、沒有可見毛孔、沒有濃重修容妝、沒有太陽眼鏡、畫面中沒有手。",
+"style": "沒有戲劇性陰影、沒有復古色調、沒有繪畫效果、沒有溫暖的膠片感。"
+}
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909180287_r3oc7o_G7JVSHyXUAATq4h.jpg" width="600" alt="JSON 風格的 Nano Banana Pro 提示，用於生成逼真臉孔 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Mehrad Bayat](https://x.com/mehbayat)
+- **來源:** [Twitter Post](https://x.com/mehbayat/status/1995751427684102239)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%22intent%22%3A%20%22%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E8%B6%85%E7%90%86%E6%83%B3%E5%8C%96%E3%80%81%E6%8A%96%E9%9F%B3%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%A4%9C%E9%96%93%E8%82%96%E5%83%8F%EF%BC%8C%E4%BD%BF%E7%94%A8%E7%9B%B4%E6%8E%A5%E9%96%83%E5%85%89%E6%94%9D%E5%BD%B1%EF%BC%8C%E5%91%88%E7%8F%BE%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E5%90%8C%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%AD%A9%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E9%8A%B3%E5%88%A9%E3%80%81%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E7%9A%84%E5%85%89%E6%BE%A4%E3%80%82%22%2C%0A%22frame%22%3A%20%7B%0A%22aspect_ratio%22%3A%20%2216%3A9%22%2C%0A%22composition%22%3A%20%22%E6%A5%B5%E8%87%B4%E7%89%B9%E5%AF%AB%E8%87%AA%E6%8B%8D%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%B7%8A%E5%AF%86%E8%81%9A%E7%84%A6%E6%96%BC%E7%9C%BC%E7%9D%9B%E5%92%8C%E5%98%B4%E5%94%87%EF%BC%8C%E9%A1%8D%E9%A0%AD%E7%95%A5%E5%BE%AE%E8%A3%81%E5%88%87%EF%BC%8C%E7%9C%BC%E7%A5%9E%E5%B1%85%E4%B8%AD%E3%80%82%22%2C%0A%22style_mode%22%3A%20%22%E9%96%83%E5%85%89%E6%94%9D%E5%BD%B1%E3%80%81%E6%95%B8%E4%BD%8D%E7%B6%B2%E7%B4%85%E7%BE%8E%E5%AD%B8%E3%80%81%E6%9F%94%E7%84%A6%E5%AF%AB%E5%AF%A6%E4%B8%BB%E7%BE%A9%22%0A%7D%2C%0A%22subject%22%3A%20%7B%0A%22identity%22%3A%20%22%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E5%90%8C%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%AD%A9%EF%BC%8C%E6%93%81%E6%9C%89%E6%9F%94%E5%92%8C%E5%B9%B4%E8%BC%95%E7%9A%84%E4%BA%94%E5%AE%98%E5%92%8C%E4%BD%8E%E8%AA%BF%E7%9A%84%E5%84%AA%E9%9B%85%E3%80%82%22%2C%0A%22skin%22%3A%20%22%E5%85%89%E6%BB%91%E3%80%81%E6%9C%89%E5%85%89%E6%BE%A4%E7%9A%84%E8%86%9A%E8%B3%AA%EF%BC%8C%E5%8F%8D%E5%B0%84%E9%96%83%E5%85%89%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E7%8E%BB%E7%92%83%E8%88%AC%E7%9A%84%E9%80%8F%E4%BA%AE%E6%84%9F%EF%BC%8C%E7%B4%8B%E7%90%86%E6%A5%B5%E5%B0%91%E3%80%82%22%2C%0A%22hair%22%3A%20%22%E9%AC%86%E6%95%A3%E3%80%81%E8%87%AA%E7%84%B6%E6%8D%B2%E6%9B%B2%EF%BC%8C%E6%8D%95%E6%8D%89%E9%96%83%E5%85%89%E7%87%88%E7%9A%84%E9%8F%A1%E9%9D%A2%E9%AB%98%E5%85%89%E3%80%82%22%2C%0A%22wardrobe%22%3A%20%22%E6%A5%B5%E5%B0%91%E5%8F%AF%E8%A6%8B%E7%9A%84%E7%B0%A1%E7%B4%84%E3%80%81%E4%BD%8E%E8%AA%BF%E4%B8%8A%E8%A1%A3%EF%BC%8C%E9%81%A9%E5%90%88%E5%9F%8E%E5%B8%82%E5%A4%9C%E6%99%9A%E3%80%82%22%0A%7D%2C%0A%22environment%22%3A%20%7B%0A%22location%22%3A%20%22%E5%A4%9C%E6%99%9A%E7%9A%84%20%7Bargument%20name%3D%5C%22city%20type%20in%20English%5C%22%20default%3D%5C%22%E5%8D%B0%E5%BA%A6%E5%9F%8E%E5%B8%82%5C%22%7D%E3%80%82%22%2C%0A%22weather%22%3A%20%22%E6%99%B4%E6%9C%97%E3%80%81%E5%B9%B3%E9%9D%9C%E7%9A%84%E5%A4%9C%E7%A9%BA%E3%80%82%22%2C%0A%22background%22%3A%20%22%E9%BB%91%E6%9A%97%E7%9A%84%E5%9F%8E%E5%B8%82%E8%83%8C%E6%99%AF%EF%BC%8C%E5%BB%BA%E7%AF%89%E7%89%A9%E6%95%A3%E7%99%BC%E5%87%BA%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%95%A3%E6%99%AF%E5%85%89%E9%BB%9E%E3%80%82%22%0A%7D%2C%0A%22lighting%22%3A%20%7B%0A%22type%22%3A%20%22%E6%89%8B%E6%A9%9F%E6%AD%A3%E9%9D%A2%E7%9B%B4%E5%B0%84%E9%96%83%E5%85%89%E7%87%88%E6%88%96%E9%AB%98%E5%BC%B7%E5%BA%A6%E8%9E%A2%E5%B9%95%E5%85%89%22%2C%0A%22quality%22%3A%20%22%E7%A1%AC%E6%9C%97%E3%80%81%E5%B9%B3%E5%9D%A6%E7%9A%84%E5%85%89%E7%B7%9A%EF%BC%8C%E6%B6%88%E9%99%A4%E6%B7%B1%E5%B1%A4%E9%99%B0%E5%BD%B1%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E5%B9%B3%E6%BB%91%E7%9A%84%E4%BA%8C%E7%B6%AD%E5%85%89%E6%BE%A4%22%2C%0A%22contrast%22%3A%20%22%E7%85%A7%E6%98%8E%E7%9A%84%E8%87%89%E9%83%A8%E8%88%87%E9%BB%91%E6%9A%97%E7%9A%84%E5%9F%8E%E5%B8%82%E8%83%8C%E6%99%AF%E4%B9%8B%E9%96%93%E5%BD%A2%E6%88%90%E5%BC%B7%E7%83%88%E5%B0%8D%E6%AF%94%22%2C%0A%22catchlight%22%3A%20%22%E7%9E%B3%E5%AD%94%E4%B8%AD%E5%A4%AE%E7%9A%84%E5%B0%8F%E9%96%83%E5%85%89%E5%8F%8D%E5%B0%84%22%0A%7D%2C%0A%22camera%22%3A%20%7B%0A%22sensor_format%22%3A%20%22%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E4%B8%BB%E7%9B%B8%E6%A9%9F%E6%A8%A1%E6%93%AC%22%2C%0A%22lens%22%3A%20%2224mm%20%E5%BB%A3%E8%A7%92%E9%8F%A1%E9%A0%AD%EF%BC%8C%E7%95%A5%E5%BE%AE%E8%AA%87%E5%A4%A7%E7%9C%BC%E7%9D%9B%E5%A4%A7%E5%B0%8F%E4%B8%A6%E6%9F%94%E5%8C%96%E8%87%89%E9%83%A8%E6%AF%94%E4%BE%8B%22%2C%0A%22aperture_depth_of_field%22%3A%20%22f%2F1.8%E2%80%93f%2F2.2%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%92%8C%E5%98%B4%E5%94%87%E6%B8%85%E6%99%B0%E9%8A%B3%E5%88%A9%EF%BC%8C%E8%83%8C%E6%99%AF%E5%92%8C%E9%AB%AE%E7%B5%B2%E9%82%8A%E7%B7%A3%E5%8D%B3%E6%99%82%E6%A8%A1%E7%B3%8A%22%2C%0A%22focus%22%3A%20%22%E7%B2%BE%E7%A2%BA%E8%81%9A%E7%84%A6%E6%96%BC%E8%99%B9%E8%86%9C%E7%B4%8B%E7%90%86%E5%92%8C%E7%9D%AB%E6%AF%9B%22%0A%7D%2C%0A%22negative%22%3A%20%7B%0A%22content%22%3A%20%22%E6%B2%92%E6%9C%89%E6%BF%95%E9%AB%AE%E3%80%81%E6%B2%92%E6%9C%89%E9%9B%AA%E3%80%81%E6%B2%92%E6%9C%89%E9%9B%A8%E3%80%81%E6%B2%92%E6%9C%89%E7%94%B7%E6%80%A7%E7%89%B9%E5%BE%B5%E3%80%81%E6%B2%92%E6%9C%89%E5%8F%AF%E8%A6%8B%E6%AF%9B%E5%AD%94%E3%80%81%E6%B2%92%E6%9C%89%E6%BF%83%E9%87%8D%E4%BF%AE%E5%AE%B9%E5%A6%9D%E3%80%81%E6%B2%92%E6%9C%89%E5%A4%AA%E9%99%BD%E7%9C%BC%E9%8F%A1%E3%80%81%E7%95%AB%E9%9D%A2%E4%B8%AD%E6%B2%92%E6%9C%89%E6%89%8B%E3%80%82%22%2C%0A%22style%22%3A%20%22%E6%B2%92%E6%9C%89%E6%88%B2%E5%8A%87%E6%80%A7%E9%99%B0%E5%BD%B1%E3%80%81%E6%B2%92%E6%9C%89%E5%BE%A9%E5%8F%A4%E8%89%B2%E8%AA%BF%E3%80%81%E6%B2%92%E6%9C%89%E7%B9%AA%E7%95%AB%E6%95%88%E6%9E%9C%E3%80%81%E6%B2%92%E6%9C%89%E6%BA%AB%E6%9A%96%E7%9A%84%E8%86%A0%E7%89%87%E6%84%9F%E3%80%82%22%0A%7D%0A%7D)**
+
+---
+
+### No. 41: 簡單的籃中葡萄圖片提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡潔的 Nano Banana Pro 圖像提示，用於生成由葡萄藤製成的籃子裡的葡萄，以比較模型品質。
+
+#### 📝 提示詞
+
+```
+{argument name="subject in Traditional Chinese" default="藤籃中的葡萄"}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909186972_6raeql_G7JTSqMbMAAyGCX.jpg" width="600" alt="簡單的籃中葡萄圖片提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909190026_hb582b_G7JTT4UbgAAELXm.jpg" width="600" alt="簡單的籃中葡萄圖片提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Kenan Tang @ NeurIPS 2025](https://x.com/KenanTang)
+- **來源:** [Twitter Post](https://x.com/KenanTang/status/1995750008742887592)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22subject%20in%20Traditional%20Chinese%22%20default%3D%22%E8%97%A4%E7%B1%83%E4%B8%AD%E7%9A%84%E8%91%A1%E8%90%84%22%7D)**
+
+---
+
+### No. 42: 橄欖油社群媒體貼文生成提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於為小批量橄欖油品牌生成完整社群媒體內容的文字提示，Nano Banana Pro 隨後使用該提示創建了超逼真的產品照片和標籤。
+
+#### 📝 提示詞
+
+```
+為這個 {argument name="brand type in English" default="小批量橄欖油品牌"} 建立一個社群媒體動態消息。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909178669_ywr3is_gkAfLJuI96xTwChD.jpg" width="600" alt="橄欖油社群媒體貼文生成提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Aakash Verma](https://x.com/VermaAakash3)
+- **來源:** [Twitter Post](https://x.com/VermaAakash3/status/1995730717758947616)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%E9%80%99%E5%80%8B%20%7Bargument%20name%3D%22brand%20type%20in%20English%22%20default%3D%22%E5%B0%8F%E6%89%B9%E9%87%8F%E6%A9%84%E6%AC%96%E6%B2%B9%E5%93%81%E7%89%8C%22%7D%20%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E5%8B%95%E6%85%8B%E6%B6%88%E6%81%AF%E3%80%82)**
+
+---
+
+### No. 43: 3D Q 版迷你模型品牌概念店提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個可重複使用的提示，用於為任何品牌生成 3D 迷你 Q 版風格概念店，著重呈現其招牌產品、品牌色彩以及帶有迷你人物的舒適室內設計。
+
+#### 📝 提示詞
+
+```
+一間 {argument name="brand name" default="Starbucks"} 的 3D  Q 版迷你概念店，其外觀設計靈感來自品牌最具代表性的產品或包裝（例如，一個巨大的 {argument name="core product of the brand" default="炸雞桶/漢堡/甜甜圈/烤鴨"}）。這間店鋪有兩層樓高，大片玻璃窗清晰展示了溫馨且裝潢豐富的內部：裝飾以 {argument name="primary color of the brand" default="primary color of the brand"} 為主題，搭配溫暖的燈光，以及穿著與品牌相符制服的忙碌員工。可愛的迷你人物在街道上行走和坐著，周圍環繞著長椅、路燈和盆栽，營造出迷人的都市景象。這以 Cinema 4D 渲染成微型城市景觀風格，具有盲盒玩具的美學，細節豐富，光線真實卻柔和，喚起輕鬆的午後氛圍。請參考隨附的角色設定圖，加入迷你角色。--ar 2:3
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909217245_soxi7a_G7ImDCwbgAQkqWu.jpg" width="600" alt="3D Q 版迷你模型品牌概念店提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909219915_aadtut_G7ImDCybQAADObo.jpg" width="600" alt="3D Q 版迷你模型品牌概念店提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909223184_h1m267_G7ImDCybgAo73uF.jpg" width="600" alt="3D Q 版迷你模型品牌概念店提示 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909225434_ax7x77_G7ImDCyaMAA7H8f.jpg" width="600" alt="3D Q 版迷你模型品牌概念店提示 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo)
+- **來源:** [Twitter Post](https://x.com/tetumemo/status/1995699440695607443)
+- **發布時間:** 2025年12月2日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E9%96%93%20%7Bargument%20name%3D%22brand%20name%22%20default%3D%22Starbucks%22%7D%20%E7%9A%84%203D%20%20Q%20%E7%89%88%E8%BF%B7%E4%BD%A0%E6%A6%82%E5%BF%B5%E5%BA%97%EF%BC%8C%E5%85%B6%E5%A4%96%E8%A7%80%E8%A8%AD%E8%A8%88%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%E5%93%81%E7%89%8C%E6%9C%80%E5%85%B7%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E7%94%A2%E5%93%81%E6%88%96%E5%8C%85%E8%A3%9D%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%8C%E4%B8%80%E5%80%8B%E5%B7%A8%E5%A4%A7%E7%9A%84%20%7Bargument%20name%3D%22core%20product%20of%20the%20brand%22%20default%3D%22%E7%82%B8%E9%9B%9E%E6%A1%B6%2F%E6%BC%A2%E5%A0%A1%2F%E7%94%9C%E7%94%9C%E5%9C%88%2F%E7%83%A4%E9%B4%A8%22%7D%EF%BC%89%E3%80%82%E9%80%99%E9%96%93%E5%BA%97%E9%8B%AA%E6%9C%89%E5%85%A9%E5%B1%A4%E6%A8%93%E9%AB%98%EF%BC%8C%E5%A4%A7%E7%89%87%E7%8E%BB%E7%92%83%E7%AA%97%E6%B8%85%E6%99%B0%E5%B1%95%E7%A4%BA%E4%BA%86%E6%BA%AB%E9%A6%A8%E4%B8%94%E8%A3%9D%E6%BD%A2%E8%B1%90%E5%AF%8C%E7%9A%84%E5%85%A7%E9%83%A8%EF%BC%9A%E8%A3%9D%E9%A3%BE%E4%BB%A5%20%7Bargument%20name%3D%22primary%20color%20of%20the%20brand%22%20default%3D%22primary%20color%20of%20the%20brand%22%7D%20%E7%82%BA%E4%B8%BB%E9%A1%8C%EF%BC%8C%E6%90%AD%E9%85%8D%E6%BA%AB%E6%9A%96%E7%9A%84%E7%87%88%E5%85%89%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%A9%BF%E8%91%97%E8%88%87%E5%93%81%E7%89%8C%E7%9B%B8%E7%AC%A6%E5%88%B6%E6%9C%8D%E7%9A%84%E5%BF%99%E7%A2%8C%E5%93%A1%E5%B7%A5%E3%80%82%E5%8F%AF%E6%84%9B%E7%9A%84%E8%BF%B7%E4%BD%A0%E4%BA%BA%E7%89%A9%E5%9C%A8%E8%A1%97%E9%81%93%E4%B8%8A%E8%A1%8C%E8%B5%B0%E5%92%8C%E5%9D%90%E8%91%97%EF%BC%8C%E5%91%A8%E5%9C%8D%E7%92%B0%E7%B9%9E%E8%91%97%E9%95%B7%E6%A4%85%E3%80%81%E8%B7%AF%E7%87%88%E5%92%8C%E7%9B%86%E6%A0%BD%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E8%BF%B7%E4%BA%BA%E7%9A%84%E9%83%BD%E5%B8%82%E6%99%AF%E8%B1%A1%E3%80%82%E9%80%99%E4%BB%A5%20Cinema%204D%20%E6%B8%B2%E6%9F%93%E6%88%90%E5%BE%AE%E5%9E%8B%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%80%E9%A2%A8%E6%A0%BC%EF%BC%8C%E5%85%B7%E6%9C%89%E7%9B%B2%E7%9B%92%E7%8E%A9%E5%85%B7%E7%9A%84%E7%BE%8E%E5%AD%B8%EF%BC%8C%E7%B4%B0%E7%AF%80%E8%B1%90%E5%AF%8C%EF%BC%8C%E5%85%89%E7%B7%9A%E7%9C%9F%E5%AF%A6%E5%8D%BB%E6%9F%94%E5%92%8C%EF%BC%8C%E5%96%9A%E8%B5%B7%E8%BC%95%E9%AC%86%E7%9A%84%E5%8D%88%E5%BE%8C%E6%B0%9B%E5%9C%8D%E3%80%82%E8%AB%8B%E5%8F%83%E8%80%83%E9%9A%A8%E9%99%84%E7%9A%84%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A%E5%9C%96%EF%BC%8C%E5%8A%A0%E5%85%A5%E8%BF%B7%E4%BD%A0%E8%A7%92%E8%89%B2%E3%80%82--ar%202%3A3)**
+
+---
+
+### No. 44: Nano Banana Pro 的廣告替換與品牌調適提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個結構化的 Nano Banana Pro 提示，用於重新創建所提供的廣告概念，同時將原始產品替換為使用者自己的品牌產品，匹配氛圍和構圖，並移除競爭對手品牌。
+
+#### 📝 提示詞
+
+```
+重新製作所提供的廣告概念，但將原始產品替換為 {argument name="my product in English" default="my product"}。
+
+要求：
+
+視覺連續性
+匹配原始廣告的情緒、光線、攝影機角度、構圖和整體氛圍。
+請勿複製或保留任何競爭對手的標誌、文字或品牌標記。
+
+產品替換
+將 {argument name="uploaded image in English" default="my uploaded image"} 中的產品插入以取代原始項目。
+確保替換品自然融入，並具有準確的比例、尺寸、反射和陰影。
+
+場景調整
+調整所有背景元素、道具、表面和紋理，使其反映 {argument name="brand style in English" default="my brand’s visual style"}、風味或美學線索以及主題識別。
+移除或重新設計任何與競爭對手品牌相關的元素。
+
+輸出品質
+全程保持照片級真實感渲染。
+確保最終構圖在原始廣告概念中感覺真實，但能清晰地代表我的品牌。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909163991_ya3ziw_G7H5t_eXAAAGF1i.jpg" width="600" alt="Nano Banana Pro 的廣告替換與品牌調適提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909166246_icpanv_G7H5vAvXQAAQtM6.jpg" width="600" alt="Nano Banana Pro 的廣告替換與品牌調適提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Eyad](https://x.com/eyad_khrais)
+- **來源:** [Twitter Post](https://x.com/eyad_khrais/status/1995650760600653997)
+- **發布時間:** 2025年12月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%87%8D%E6%96%B0%E8%A3%BD%E4%BD%9C%E6%89%80%E6%8F%90%E4%BE%9B%E7%9A%84%E5%BB%A3%E5%91%8A%E6%A6%82%E5%BF%B5%EF%BC%8C%E4%BD%86%E5%B0%87%E5%8E%9F%E5%A7%8B%E7%94%A2%E5%93%81%E6%9B%BF%E6%8F%9B%E7%82%BA%20%7Bargument%20name%3D%22my%20product%20in%20English%22%20default%3D%22my%20product%22%7D%E3%80%82%0A%0A%E8%A6%81%E6%B1%82%EF%BC%9A%0A%0A%E8%A6%96%E8%A6%BA%E9%80%A3%E7%BA%8C%E6%80%A7%0A%E5%8C%B9%E9%85%8D%E5%8E%9F%E5%A7%8B%E5%BB%A3%E5%91%8A%E7%9A%84%E6%83%85%E7%B7%92%E3%80%81%E5%85%89%E7%B7%9A%E3%80%81%E6%94%9D%E5%BD%B1%E6%A9%9F%E8%A7%92%E5%BA%A6%E3%80%81%E6%A7%8B%E5%9C%96%E5%92%8C%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E3%80%82%0A%E8%AB%8B%E5%8B%BF%E8%A4%87%E8%A3%BD%E6%88%96%E4%BF%9D%E7%95%99%E4%BB%BB%E4%BD%95%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E6%A8%99%E8%AA%8C%E3%80%81%E6%96%87%E5%AD%97%E6%88%96%E5%93%81%E7%89%8C%E6%A8%99%E8%A8%98%E3%80%82%0A%0A%E7%94%A2%E5%93%81%E6%9B%BF%E6%8F%9B%0A%E5%B0%87%20%7Bargument%20name%3D%22uploaded%20image%20in%20English%22%20default%3D%22my%20uploaded%20image%22%7D%20%E4%B8%AD%E7%9A%84%E7%94%A2%E5%93%81%E6%8F%92%E5%85%A5%E4%BB%A5%E5%8F%96%E4%BB%A3%E5%8E%9F%E5%A7%8B%E9%A0%85%E7%9B%AE%E3%80%82%0A%E7%A2%BA%E4%BF%9D%E6%9B%BF%E6%8F%9B%E5%93%81%E8%87%AA%E7%84%B6%E8%9E%8D%E5%85%A5%EF%BC%8C%E4%B8%A6%E5%85%B7%E6%9C%89%E6%BA%96%E7%A2%BA%E7%9A%84%E6%AF%94%E4%BE%8B%E3%80%81%E5%B0%BA%E5%AF%B8%E3%80%81%E5%8F%8D%E5%B0%84%E5%92%8C%E9%99%B0%E5%BD%B1%E3%80%82%0A%0A%E5%A0%B4%E6%99%AF%E8%AA%BF%E6%95%B4%0A%E8%AA%BF%E6%95%B4%E6%89%80%E6%9C%89%E8%83%8C%E6%99%AF%E5%85%83%E7%B4%A0%E3%80%81%E9%81%93%E5%85%B7%E3%80%81%E8%A1%A8%E9%9D%A2%E5%92%8C%E7%B4%8B%E7%90%86%EF%BC%8C%E4%BD%BF%E5%85%B6%E5%8F%8D%E6%98%A0%20%7Bargument%20name%3D%22brand%20style%20in%20English%22%20default%3D%22my%20brand%E2%80%99s%20visual%20style%22%7D%E3%80%81%E9%A2%A8%E5%91%B3%E6%88%96%E7%BE%8E%E5%AD%B8%E7%B7%9A%E7%B4%A2%E4%BB%A5%E5%8F%8A%E4%B8%BB%E9%A1%8C%E8%AD%98%E5%88%A5%E3%80%82%0A%E7%A7%BB%E9%99%A4%E6%88%96%E9%87%8D%E6%96%B0%E8%A8%AD%E8%A8%88%E4%BB%BB%E4%BD%95%E8%88%87%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E5%93%81%E7%89%8C%E7%9B%B8%E9%97%9C%E7%9A%84%E5%85%83%E7%B4%A0%E3%80%82%0A%0A%E8%BC%B8%E5%87%BA%E5%93%81%E8%B3%AA%0A%E5%85%A8%E7%A8%8B%E4%BF%9D%E6%8C%81%E7%85%A7%E7%89%87%E7%B4%9A%E7%9C%9F%E5%AF%A6%E6%84%9F%E6%B8%B2%E6%9F%93%E3%80%82%0A%E7%A2%BA%E4%BF%9D%E6%9C%80%E7%B5%82%E6%A7%8B%E5%9C%96%E5%9C%A8%E5%8E%9F%E5%A7%8B%E5%BB%A3%E5%91%8A%E6%A6%82%E5%BF%B5%E4%B8%AD%E6%84%9F%E8%A6%BA%E7%9C%9F%E5%AF%A6%EF%BC%8C%E4%BD%86%E8%83%BD%E6%B8%85%E6%99%B0%E5%9C%B0%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%93%81%E7%89%8C%E3%80%82)**
+
+---
+
+### No. 45: 使用 Nano Banana Pro 中的參考臉孔與電影角色自拍
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+用於生成與電影角色自拍的圖像提示範本，同時保持上傳人物的臉部和外觀與參考圖像完美一致。
+
+#### 📝 提示詞
+
+```
+我正在和 {argument name="movie character" default="[movie character]"} 在 {argument name="movie name" default="[movie name]"} 的片場自拍。
+
+請保持人物與參考圖片中所示完全一致，包括 100% 相同的臉部特徵、骨骼結構、膚色、面部表情、姿勢和外觀。1:1 長寬比，4K 細節。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909149921_iulqcq_G7HwgjGaYAAgJ67.jpg" width="600" alt="使用 Nano Banana Pro 中的參考臉孔與電影角色自拍 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909152325_ji245l_G7HwmUwbgAAI3L8.jpg" width="600" alt="使用 Nano Banana Pro 中的參考臉孔與電影角色自拍 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909154756_87mmjl_G7HwnaVakAAbnIE.jpg" width="600" alt="使用 Nano Banana Pro 中的參考臉孔與電影角色自拍 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909157036_nq38l4_G7Hwsw4aEAA6hHe.jpg" width="600" alt="使用 Nano Banana Pro 中的參考臉孔與電影角色自拍 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Rohan Paul](https://x.com/rohanpaul_ai)
+- **來源:** [Twitter Post](https://x.com/rohanpaul_ai/status/1995641282056925680)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%88%91%E6%AD%A3%E5%9C%A8%E5%92%8C%20%7Bargument%20name%3D%22movie%20character%22%20default%3D%22%5Bmovie%20character%5D%22%7D%20%E5%9C%A8%20%7Bargument%20name%3D%22movie%20name%22%20default%3D%22%5Bmovie%20name%5D%22%7D%20%E7%9A%84%E7%89%87%E5%A0%B4%E8%87%AA%E6%8B%8D%E3%80%82%0A%0A%E8%AB%8B%E4%BF%9D%E6%8C%81%E4%BA%BA%E7%89%A9%E8%88%87%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E6%89%80%E7%A4%BA%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4%EF%BC%8C%E5%8C%85%E6%8B%AC%20100%25%20%E7%9B%B8%E5%90%8C%E7%9A%84%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E3%80%81%E9%AA%A8%E9%AA%BC%E7%B5%90%E6%A7%8B%E3%80%81%E8%86%9A%E8%89%B2%E3%80%81%E9%9D%A2%E9%83%A8%E8%A1%A8%E6%83%85%E3%80%81%E5%A7%BF%E5%8B%A2%E5%92%8C%E5%A4%96%E8%A7%80%E3%80%821%3A1%20%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C4K%20%E7%B4%B0%E7%AF%80%E3%80%82)**
+
+---
+
+### No. 46: Nano Banana Pro 的著色本線稿提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡潔的日文提示範本，用於生成可列印的黑白線稿，作為著色頁，可依目標年齡和主題自訂。
+
+#### 📝 提示詞
+
+```
+為著色頁面創作線稿。目標年齡為 {argument name="target age" default="9"} 歲，著色主題為 {argument name="coloring subject" default="一輛跑車"}。所有線條均以黑色繪製，背景保持完全白色 (#ffffff)。請以適合列印的格式製作，並且不要在畫布外繪製任何額外元素。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909127300_qdqavh_G7HoRU1a4AAl4SZ.jpg" width="600" alt="Nano Banana Pro 的著色本線稿提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909130501_lytikf_G7HoRT7bgAER-8J.jpg" width="600" alt="Nano Banana Pro 的著色本線稿提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909132976_z9l62l_G7HoRXBbgAM3bic.jpg" width="600" alt="Nano Banana Pro 的著色本線稿提示 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909135490_siujp8_G7HoRavbgAAtA0b.jpg" width="600" alt="Nano Banana Pro 的著色本線稿提示 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
+- **來源:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1995631678841323627)
+- **發布時間:** 2025年12月1日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%E8%91%97%E8%89%B2%E9%A0%81%E9%9D%A2%E5%89%B5%E4%BD%9C%E7%B7%9A%E7%A8%BF%E3%80%82%E7%9B%AE%E6%A8%99%E5%B9%B4%E9%BD%A1%E7%82%BA%20%7Bargument%20name%3D%22target%20age%22%20default%3D%229%22%7D%20%E6%AD%B2%EF%BC%8C%E8%91%97%E8%89%B2%E4%B8%BB%E9%A1%8C%E7%82%BA%20%7Bargument%20name%3D%22coloring%20subject%22%20default%3D%22%E4%B8%80%E8%BC%9B%E8%B7%91%E8%BB%8A%22%7D%E3%80%82%E6%89%80%E6%9C%89%E7%B7%9A%E6%A2%9D%E5%9D%87%E4%BB%A5%E9%BB%91%E8%89%B2%E7%B9%AA%E8%A3%BD%EF%BC%8C%E8%83%8C%E6%99%AF%E4%BF%9D%E6%8C%81%E5%AE%8C%E5%85%A8%E7%99%BD%E8%89%B2%20(%23ffffff)%E3%80%82%E8%AB%8B%E4%BB%A5%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%E7%9A%84%E6%A0%BC%E5%BC%8F%E8%A3%BD%E4%BD%9C%EF%BC%8C%E4%B8%A6%E4%B8%94%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%95%AB%E5%B8%83%E5%A4%96%E7%B9%AA%E8%A3%BD%E4%BB%BB%E4%BD%95%E9%A1%8D%E5%A4%96%E5%85%83%E7%B4%A0%E3%80%82)**
+
+---
+
+### No. 47: 哥倫比亞佩雷拉舊書中的中世紀冬季場景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡潔的西班牙文提示，用於生成佩雷拉（哥倫比亞）中世紀冬季場景，風格為舊書樣式，適合節慶或聖誕主題藝術作品。
+
+#### 📝 提示詞
+
+```
+國家：{argument name="country" default="Colombia"}
+城市：{argument name="city" default="Pereira"}
+設計一個古書中的中世紀冬季場景
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909120441_jrsdvl_G7HLhMqW8AAFALR.jpg" width="600" alt="哥倫比亞佩雷拉舊書中的中世紀冬季場景 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Victor Merchan](https://x.com/VictorMerchan)
+- **來源:** [Twitter Post](https://x.com/VictorMerchan/status/1995599887069798699)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%9C%8B%E5%AE%B6%EF%BC%9A%7Bargument%20name%3D%22country%22%20default%3D%22Colombia%22%7D%0A%E5%9F%8E%E5%B8%82%EF%BC%9A%7Bargument%20name%3D%22city%22%20default%3D%22Pereira%22%7D%0A%E8%A8%AD%E8%A8%88%E4%B8%80%E5%80%8B%E5%8F%A4%E6%9B%B8%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%B8%96%E7%B4%80%E5%86%AC%E5%AD%A3%E5%A0%B4%E6%99%AF)**
+
+---
+
+### No. 48: Rorona 風格固定角色提示，適用於 Nano Banana Pro / Gemini
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個英文角色設計提示，用於修正 Rorona 類女孩的外觀和風格，以便在 Nano Banana Pro 或 Gemini 的影格中保持一致使用。
+
+#### 📝 提示詞
+
+```
+蘿樂娜風格的女孩，{argument name="age range" default="18-20 years old"}，
+{argument name="hair description" default="柔和的粉金色長波浪髮"}，
+{argument name="eyes and face" default="溫柔的大眼睛，略圓的臉龐"}，
+{argument name="skin" default="白皙透亮的皮膚"}，
+{argument name="outfit" default="淺色魔法學院服，白色與粉金色點綴"}，
+{argument name="outfit details" default="精緻的金色圖案，細緻的墜飾，小腰包"}，
+{argument name="atmosphere" default="優雅柔和的氛圍"}，
+表情：{argument name="expressions" default="溫暖的微笑 / 沉靜的自信 / 心靈的澄澈"}，
+角色一致，每幀臉部相同，
+{argument name="line art style" default="細線稿"}，{argument name="rendering style" default="網路漫畫風格"}，{argument name="shading" default="柔和漸變"}，{argument name="detail level" default="高細節"}，
+{argument name="overall style" default="日系奇幻現代風格"}，{argument name="color tone" default="乾淨明亮的色調"}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909119673_xaup28_G7G7l0UbUAAqmhv.jpg" width="600" alt="Rorona 風格固定角色提示，適用於 Nano Banana Pro / Gemini - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [陽ノ杜あきら](https://x.com/ubi20man)
+- **來源:** [Twitter Post](https://x.com/ubi20man/status/1995582374223200311)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%98%BF%E6%A8%82%E5%A8%9C%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%A5%B3%E5%AD%A9%EF%BC%8C%7Bargument%20name%3D%22age%20range%22%20default%3D%2218-20%20years%20old%22%7D%EF%BC%8C%0A%7Bargument%20name%3D%22hair%20description%22%20default%3D%22%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E9%87%91%E8%89%B2%E9%95%B7%E6%B3%A2%E6%B5%AA%E9%AB%AE%22%7D%EF%BC%8C%0A%7Bargument%20name%3D%22eyes%20and%20face%22%20default%3D%22%E6%BA%AB%E6%9F%94%E7%9A%84%E5%A4%A7%E7%9C%BC%E7%9D%9B%EF%BC%8C%E7%95%A5%E5%9C%93%E7%9A%84%E8%87%89%E9%BE%90%22%7D%EF%BC%8C%0A%7Bargument%20name%3D%22skin%22%20default%3D%22%E7%99%BD%E7%9A%99%E9%80%8F%E4%BA%AE%E7%9A%84%E7%9A%AE%E8%86%9A%22%7D%EF%BC%8C%0A%7Bargument%20name%3D%22outfit%22%20default%3D%22%E6%B7%BA%E8%89%B2%E9%AD%94%E6%B3%95%E5%AD%B8%E9%99%A2%E6%9C%8D%EF%BC%8C%E7%99%BD%E8%89%B2%E8%88%87%E7%B2%89%E9%87%91%E8%89%B2%E9%BB%9E%E7%B6%B4%22%7D%EF%BC%8C%0A%7Bargument%20name%3D%22outfit%20details%22%20default%3D%22%E7%B2%BE%E7%B7%BB%E7%9A%84%E9%87%91%E8%89%B2%E5%9C%96%E6%A1%88%EF%BC%8C%E7%B4%B0%E7%B7%BB%E7%9A%84%E5%A2%9C%E9%A3%BE%EF%BC%8C%E5%B0%8F%E8%85%B0%E5%8C%85%22%7D%EF%BC%8C%0A%7Bargument%20name%3D%22atmosphere%22%20default%3D%22%E5%84%AA%E9%9B%85%E6%9F%94%E5%92%8C%E7%9A%84%E6%B0%9B%E5%9C%8D%22%7D%EF%BC%8C%0A%E8%A1%A8%E6%83%85%EF%BC%9A%7Bargument%20name%3D%22expressions%22%20default%3D%22%E6%BA%AB%E6%9A%96%E7%9A%84%E5%BE%AE%E7%AC%91%20%2F%20%E6%B2%89%E9%9D%9C%E7%9A%84%E8%87%AA%E4%BF%A1%20%2F%20%E5%BF%83%E9%9D%88%E7%9A%84%E6%BE%84%E6%BE%88%22%7D%EF%BC%8C%0A%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%EF%BC%8C%E6%AF%8F%E5%B9%80%E8%87%89%E9%83%A8%E7%9B%B8%E5%90%8C%EF%BC%8C%0A%7Bargument%20name%3D%22line%20art%20style%22%20default%3D%22%E7%B4%B0%E7%B7%9A%E7%A8%BF%22%7D%EF%BC%8C%7Bargument%20name%3D%22rendering%20style%22%20default%3D%22%E7%B6%B2%E8%B7%AF%E6%BC%AB%E7%95%AB%E9%A2%A8%E6%A0%BC%22%7D%EF%BC%8C%7Bargument%20name%3D%22shading%22%20default%3D%22%E6%9F%94%E5%92%8C%E6%BC%B8%E8%AE%8A%22%7D%EF%BC%8C%7Bargument%20name%3D%22detail%20level%22%20default%3D%22%E9%AB%98%E7%B4%B0%E7%AF%80%22%7D%EF%BC%8C%0A%7Bargument%20name%3D%22overall%20style%22%20default%3D%22%E6%97%A5%E7%B3%BB%E5%A5%87%E5%B9%BB%E7%8F%BE%E4%BB%A3%E9%A2%A8%E6%A0%BC%22%7D%EF%BC%8C%7Bargument%20name%3D%22color%20tone%22%20default%3D%22%E4%B9%BE%E6%B7%A8%E6%98%8E%E4%BA%AE%E7%9A%84%E8%89%B2%E8%AA%BF%22%7D)**
+
+---
+
+### No. 49: 城市最高建築 3D 卡通展示提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的提示，用於生成所選城市中三座最高建築物的方形 3D 卡通風格圖像，具有精確的比例、高度和年份標籤，以及清晰的排版佈局。
+
+#### 📝 提示詞
+
+```
+呈現 {argument name="city in English" default="您的城市"} 中最高建築物的清晰側面微型 3D 卡通視圖。使用最少的紋理，搭配逼真的材質以及柔和、栩栩如生的光線和陰影。採用簡潔、極簡的構圖，精確展示 {argument name="reference city in English" default="索波特"} 中三座最高的建築物，從左到右嚴格按照高度遞減的順序排列。最高的建築物必須明顯最高，第二高的必須明顯比第一高的矮，第三高的必須明顯比第二高的矮。
+所有建築物都必須遵循準確的相對比例：如果建築物在現實生活中更高，則在圖像中必須以相同的近似比例更高。任何建築物都不得在視覺上被拉伸或壓縮。
+每棟建築物都應獨立放置在一個薄而簡單的陶瓷底座上。每個底座下方應顯示置中文字：
+高度（公尺）— 半粗體無襯線字體，中等大小
+建成年份 — 較輕的無襯線字體，較小尺寸，直接位於高度文字下方
+提供一致的內邊距、間距、行距和字距調整。在建築物上方置中書寫「{argument name="city name title" default="您的城市名稱"}」，使用中等大小的無襯線字體。
+任何建築物頂部都不應與上方文字重疊或接觸。根據真實世界的參考資料使用準確的建築比例。為每個建築模型保持一致的攝影機角度和相同的比例。
+沒有強制透視。使用正交風格的直視渲染。除了比例準確性之外，不要誇大或風格化尺寸差異。
+
+使用 1080×1080 的方形構圖。使用乾淨、中性的背景。確保沒有多餘的物體。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909142097_c1yfxu_G7GOJ7WW4AAEsNE.jpg" width="600" alt="城市最高建築 3D 卡通展示提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909144039_63di33_G7GOLW9XoAAVHXY.jpg" width="600" alt="城市最高建築 3D 卡通展示提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Michal Malewicz](https://x.com/michalmalewicz)
+- **來源:** [Twitter Post](https://x.com/michalmalewicz/status/1995532450861080956)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%91%88%E7%8F%BE%20%7Bargument%20name%3D%22city%20in%20English%22%20default%3D%22%E6%82%A8%E7%9A%84%E5%9F%8E%E5%B8%82%22%7D%20%E4%B8%AD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AF%89%E7%89%A9%E7%9A%84%E6%B8%85%E6%99%B0%E5%81%B4%E9%9D%A2%E5%BE%AE%E5%9E%8B%203D%20%E5%8D%A1%E9%80%9A%E8%A6%96%E5%9C%96%E3%80%82%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%91%E7%9A%84%E7%B4%8B%E7%90%86%EF%BC%8C%E6%90%AD%E9%85%8D%E9%80%BC%E7%9C%9F%E7%9A%84%E6%9D%90%E8%B3%AA%E4%BB%A5%E5%8F%8A%E6%9F%94%E5%92%8C%E3%80%81%E6%A0%A9%E6%A0%A9%E5%A6%82%E7%94%9F%E7%9A%84%E5%85%89%E7%B7%9A%E5%92%8C%E9%99%B0%E5%BD%B1%E3%80%82%E6%8E%A1%E7%94%A8%E7%B0%A1%E6%BD%94%E3%80%81%E6%A5%B5%E7%B0%A1%E7%9A%84%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%B2%BE%E7%A2%BA%E5%B1%95%E7%A4%BA%20%7Bargument%20name%3D%22reference%20city%20in%20English%22%20default%3D%22%E7%B4%A2%E6%B3%A2%E7%89%B9%22%7D%20%E4%B8%AD%E4%B8%89%E5%BA%A7%E6%9C%80%E9%AB%98%E7%9A%84%E5%BB%BA%E7%AF%89%E7%89%A9%EF%BC%8C%E5%BE%9E%E5%B7%A6%E5%88%B0%E5%8F%B3%E5%9A%B4%E6%A0%BC%E6%8C%89%E7%85%A7%E9%AB%98%E5%BA%A6%E9%81%9E%E6%B8%9B%E7%9A%84%E9%A0%86%E5%BA%8F%E6%8E%92%E5%88%97%E3%80%82%E6%9C%80%E9%AB%98%E7%9A%84%E5%BB%BA%E7%AF%89%E7%89%A9%E5%BF%85%E9%A0%88%E6%98%8E%E9%A1%AF%E6%9C%80%E9%AB%98%EF%BC%8C%E7%AC%AC%E4%BA%8C%E9%AB%98%E7%9A%84%E5%BF%85%E9%A0%88%E6%98%8E%E9%A1%AF%E6%AF%94%E7%AC%AC%E4%B8%80%E9%AB%98%E7%9A%84%E7%9F%AE%EF%BC%8C%E7%AC%AC%E4%B8%89%E9%AB%98%E7%9A%84%E5%BF%85%E9%A0%88%E6%98%8E%E9%A1%AF%E6%AF%94%E7%AC%AC%E4%BA%8C%E9%AB%98%E7%9A%84%E7%9F%AE%E3%80%82%0A%E6%89%80%E6%9C%89%E5%BB%BA%E7%AF%89%E7%89%A9%E9%83%BD%E5%BF%85%E9%A0%88%E9%81%B5%E5%BE%AA%E6%BA%96%E7%A2%BA%E7%9A%84%E7%9B%B8%E5%B0%8D%E6%AF%94%E4%BE%8B%EF%BC%9A%E5%A6%82%E6%9E%9C%E5%BB%BA%E7%AF%89%E7%89%A9%E5%9C%A8%E7%8F%BE%E5%AF%A6%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%9B%B4%E9%AB%98%EF%BC%8C%E5%89%87%E5%9C%A8%E5%9C%96%E5%83%8F%E4%B8%AD%E5%BF%85%E9%A0%88%E4%BB%A5%E7%9B%B8%E5%90%8C%E7%9A%84%E8%BF%91%E4%BC%BC%E6%AF%94%E4%BE%8B%E6%9B%B4%E9%AB%98%E3%80%82%E4%BB%BB%E4%BD%95%E5%BB%BA%E7%AF%89%E7%89%A9%E9%83%BD%E4%B8%8D%E5%BE%97%E5%9C%A8%E8%A6%96%E8%A6%BA%E4%B8%8A%E8%A2%AB%E6%8B%89%E4%BC%B8%E6%88%96%E5%A3%93%E7%B8%AE%E3%80%82%0A%E6%AF%8F%E6%A3%9F%E5%BB%BA%E7%AF%89%E7%89%A9%E9%83%BD%E6%87%89%E7%8D%A8%E7%AB%8B%E6%94%BE%E7%BD%AE%E5%9C%A8%E4%B8%80%E5%80%8B%E8%96%84%E8%80%8C%E7%B0%A1%E5%96%AE%E7%9A%84%E9%99%B6%E7%93%B7%E5%BA%95%E5%BA%A7%E4%B8%8A%E3%80%82%E6%AF%8F%E5%80%8B%E5%BA%95%E5%BA%A7%E4%B8%8B%E6%96%B9%E6%87%89%E9%A1%AF%E7%A4%BA%E7%BD%AE%E4%B8%AD%E6%96%87%E5%AD%97%EF%BC%9A%0A%E9%AB%98%E5%BA%A6%EF%BC%88%E5%85%AC%E5%B0%BA%EF%BC%89%E2%80%94%20%E5%8D%8A%E7%B2%97%E9%AB%94%E7%84%A1%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%EF%BC%8C%E4%B8%AD%E7%AD%89%E5%A4%A7%E5%B0%8F%0A%E5%BB%BA%E6%88%90%E5%B9%B4%E4%BB%BD%20%E2%80%94%20%E8%BC%83%E8%BC%95%E7%9A%84%E7%84%A1%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%EF%BC%8C%E8%BC%83%E5%B0%8F%E5%B0%BA%E5%AF%B8%EF%BC%8C%E7%9B%B4%E6%8E%A5%E4%BD%8D%E6%96%BC%E9%AB%98%E5%BA%A6%E6%96%87%E5%AD%97%E4%B8%8B%E6%96%B9%0A%E6%8F%90%E4%BE%9B%E4%B8%80%E8%87%B4%E7%9A%84%E5%85%A7%E9%82%8A%E8%B7%9D%E3%80%81%E9%96%93%E8%B7%9D%E3%80%81%E8%A1%8C%E8%B7%9D%E5%92%8C%E5%AD%97%E8%B7%9D%E8%AA%BF%E6%95%B4%E3%80%82%E5%9C%A8%E5%BB%BA%E7%AF%89%E7%89%A9%E4%B8%8A%E6%96%B9%E7%BD%AE%E4%B8%AD%E6%9B%B8%E5%AF%AB%E3%80%8C%7Bargument%20name%3D%22city%20name%20title%22%20default%3D%22%E6%82%A8%E7%9A%84%E5%9F%8E%E5%B8%82%E5%90%8D%E7%A8%B1%22%7D%E3%80%8D%EF%BC%8C%E4%BD%BF%E7%94%A8%E4%B8%AD%E7%AD%89%E5%A4%A7%E5%B0%8F%E7%9A%84%E7%84%A1%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%E3%80%82%0A%E4%BB%BB%E4%BD%95%E5%BB%BA%E7%AF%89%E7%89%A9%E9%A0%82%E9%83%A8%E9%83%BD%E4%B8%8D%E6%87%89%E8%88%87%E4%B8%8A%E6%96%B9%E6%96%87%E5%AD%97%E9%87%8D%E7%96%8A%E6%88%96%E6%8E%A5%E8%A7%B8%E3%80%82%E6%A0%B9%E6%93%9A%E7%9C%9F%E5%AF%A6%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99%E4%BD%BF%E7%94%A8%E6%BA%96%E7%A2%BA%E7%9A%84%E5%BB%BA%E7%AF%89%E6%AF%94%E4%BE%8B%E3%80%82%E7%82%BA%E6%AF%8F%E5%80%8B%E5%BB%BA%E7%AF%89%E6%A8%A1%E5%9E%8B%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E7%9A%84%E6%94%9D%E5%BD%B1%E6%A9%9F%E8%A7%92%E5%BA%A6%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E6%AF%94%E4%BE%8B%E3%80%82%0A%E6%B2%92%E6%9C%89%E5%BC%B7%E5%88%B6%E9%80%8F%E8%A6%96%E3%80%82%E4%BD%BF%E7%94%A8%E6%AD%A3%E4%BA%A4%E9%A2%A8%E6%A0%BC%E7%9A%84%E7%9B%B4%E8%A6%96%E6%B8%B2%E6%9F%93%E3%80%82%E9%99%A4%E4%BA%86%E6%AF%94%E4%BE%8B%E6%BA%96%E7%A2%BA%E6%80%A7%E4%B9%8B%E5%A4%96%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%AA%87%E5%A4%A7%E6%88%96%E9%A2%A8%E6%A0%BC%E5%8C%96%E5%B0%BA%E5%AF%B8%E5%B7%AE%E7%95%B0%E3%80%82%0A%0A%E4%BD%BF%E7%94%A8%201080%C3%971080%20%E7%9A%84%E6%96%B9%E5%BD%A2%E6%A7%8B%E5%9C%96%E3%80%82%E4%BD%BF%E7%94%A8%E4%B9%BE%E6%B7%A8%E3%80%81%E4%B8%AD%E6%80%A7%E7%9A%84%E8%83%8C%E6%99%AF%E3%80%82%E7%A2%BA%E4%BF%9D%E6%B2%92%E6%9C%89%E5%A4%9A%E9%A4%98%E7%9A%84%E7%89%A9%E9%AB%94%E3%80%82)**
+
+---
+
+### No. 50: 歷史名人自拍場景提示（麥可·傑克森 和 小布希）
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡潔的場景提示，用於生成一張麥可·傑克森（Michael Jackson）與喬治·W·布希（George W. Bush）在 2001 年的隨意自拍照，背景是紐約天際線和雙子星大樓。
+
+#### 📝 提示詞
+
+```
+{argument name="first person in English" default="麥可·傑克森"} 和 {argument name="second person in English" default="喬治·W·布希"} 於 {argument name="time" default="2001 年 7 月"} 在 {argument name="place" default="紐澤西"} 州隨意自拍。背景可見紐約市的天際線，包括雙子星大樓。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909137180_tw8d6t_G7FvEivWwAEfPAr.jpg" width="600" alt="歷史名人自拍場景提示（麥可·傑克森 和 小布希） - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Livvux](https://x.com/Livvux)
+- **來源:** [Twitter Post](https://x.com/Livvux/status/1995498249617314289)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22first%20person%20in%20English%22%20default%3D%22%E9%BA%A5%E5%8F%AF%C2%B7%E5%82%91%E5%85%8B%E6%A3%AE%22%7D%20%E5%92%8C%20%7Bargument%20name%3D%22second%20person%20in%20English%22%20default%3D%22%E5%96%AC%E6%B2%BB%C2%B7W%C2%B7%E5%B8%83%E5%B8%8C%22%7D%20%E6%96%BC%20%7Bargument%20name%3D%22time%22%20default%3D%222001%20%E5%B9%B4%207%20%E6%9C%88%22%7D%20%E5%9C%A8%20%7Bargument%20name%3D%22place%22%20default%3D%22%E7%B4%90%E6%BE%A4%E8%A5%BF%22%7D%20%E5%B7%9E%E9%9A%A8%E6%84%8F%E8%87%AA%E6%8B%8D%E3%80%82%E8%83%8C%E6%99%AF%E5%8F%AF%E8%A6%8B%E7%B4%90%E7%B4%84%E5%B8%82%E7%9A%84%E5%A4%A9%E9%9A%9B%E7%B7%9A%EF%BC%8C%E5%8C%85%E6%8B%AC%E9%9B%99%E5%AD%90%E6%98%9F%E5%A4%A7%E6%A8%93%E3%80%82)**
+
+---
+
+### No. 51: Nano Banana Pro 的九宮格 Instagram 人像變體提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份詳細的日文提示（內容為英文，但提示本身為日文），用於從單一女性照片生成九張一致的肖像圖片，以 3x3 的網格呈現，同時改變地點、光線和角度，並保持半身特寫的構圖。
+
+#### 📝 提示詞
+
+```
+根據 {argument name="original woman photo description" default="這名女性的單張照片"}，生成共 {argument name="number of images" default="9"} 張圖片，並以 3x3 的網格排列。{argument name="generation limit instruction" default="請勿生成超過 9 張圖片。"}
+
+所有圖片都必須是半身或更近的構圖（半身、特寫或肖像構圖）。請勿生成廣角鏡頭、全身照、遠景或可見廣闊遠景的構圖。
+
+{argument name="appearance consistency instruction" default="請確保這名女性的外貌、臉部特徵、髮型和整體氛圍在所有 9 張圖片中保持一致。"}然而，只要保持在半身構圖範圍內，您可以改變地點、燈光氛圍、角度和構圖。
+
+僅輸出 3x3 網格所需的 {argument name="final number of outputs" default="9"} 張圖片。請勿生成任何額外的圖片、預覽或任何形式的變體草稿。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909127143_36jtj9_G7FrqxtbEAI2YVz.jpg" width="600" alt="Nano Banana Pro 的九宮格 Instagram 人像變體提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [そう｜n8nで始めるAIエージェント](https://x.com/so_ainsight)
+- **來源:** [Twitter Post](https://x.com/so_ainsight/status/1995494784803426326)
+- **發布時間:** 2025年12月1日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A0%B9%E6%93%9A%20%7Bargument%20name%3D%22original%20woman%20photo%20description%22%20default%3D%22%E9%80%99%E5%90%8D%E5%A5%B3%E6%80%A7%E7%9A%84%E5%96%AE%E5%BC%B5%E7%85%A7%E7%89%87%22%7D%EF%BC%8C%E7%94%9F%E6%88%90%E5%85%B1%20%7Bargument%20name%3D%22number%20of%20images%22%20default%3D%229%22%7D%20%E5%BC%B5%E5%9C%96%E7%89%87%EF%BC%8C%E4%B8%A6%E4%BB%A5%203x3%20%E7%9A%84%E7%B6%B2%E6%A0%BC%E6%8E%92%E5%88%97%E3%80%82%7Bargument%20name%3D%22generation%20limit%20instruction%22%20default%3D%22%E8%AB%8B%E5%8B%BF%E7%94%9F%E6%88%90%E8%B6%85%E9%81%8E%209%20%E5%BC%B5%E5%9C%96%E7%89%87%E3%80%82%22%7D%0A%0A%E6%89%80%E6%9C%89%E5%9C%96%E7%89%87%E9%83%BD%E5%BF%85%E9%A0%88%E6%98%AF%E5%8D%8A%E8%BA%AB%E6%88%96%E6%9B%B4%E8%BF%91%E7%9A%84%E6%A7%8B%E5%9C%96%EF%BC%88%E5%8D%8A%E8%BA%AB%E3%80%81%E7%89%B9%E5%AF%AB%E6%88%96%E8%82%96%E5%83%8F%E6%A7%8B%E5%9C%96%EF%BC%89%E3%80%82%E8%AB%8B%E5%8B%BF%E7%94%9F%E6%88%90%E5%BB%A3%E8%A7%92%E9%8F%A1%E9%A0%AD%E3%80%81%E5%85%A8%E8%BA%AB%E7%85%A7%E3%80%81%E9%81%A0%E6%99%AF%E6%88%96%E5%8F%AF%E8%A6%8B%E5%BB%A3%E9%97%8A%E9%81%A0%E6%99%AF%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%7Bargument%20name%3D%22appearance%20consistency%20instruction%22%20default%3D%22%E8%AB%8B%E7%A2%BA%E4%BF%9D%E9%80%99%E5%90%8D%E5%A5%B3%E6%80%A7%E7%9A%84%E5%A4%96%E8%B2%8C%E3%80%81%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E3%80%81%E9%AB%AE%E5%9E%8B%E5%92%8C%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%9C%A8%E6%89%80%E6%9C%89%209%20%E5%BC%B5%E5%9C%96%E7%89%87%E4%B8%AD%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E3%80%82%22%7D%E7%84%B6%E8%80%8C%EF%BC%8C%E5%8F%AA%E8%A6%81%E4%BF%9D%E6%8C%81%E5%9C%A8%E5%8D%8A%E8%BA%AB%E6%A7%8B%E5%9C%96%E7%AF%84%E5%9C%8D%E5%85%A7%EF%BC%8C%E6%82%A8%E5%8F%AF%E4%BB%A5%E6%94%B9%E8%AE%8A%E5%9C%B0%E9%BB%9E%E3%80%81%E7%87%88%E5%85%89%E6%B0%9B%E5%9C%8D%E3%80%81%E8%A7%92%E5%BA%A6%E5%92%8C%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E5%83%85%E8%BC%B8%E5%87%BA%203x3%20%E7%B6%B2%E6%A0%BC%E6%89%80%E9%9C%80%E7%9A%84%20%7Bargument%20name%3D%22final%20number%20of%20outputs%22%20default%3D%229%22%7D%20%E5%BC%B5%E5%9C%96%E7%89%87%E3%80%82%E8%AB%8B%E5%8B%BF%E7%94%9F%E6%88%90%E4%BB%BB%E4%BD%95%E9%A1%8D%E5%A4%96%E7%9A%84%E5%9C%96%E7%89%87%E3%80%81%E9%A0%90%E8%A6%BD%E6%88%96%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E7%9A%84%E8%AE%8A%E9%AB%94%E8%8D%89%E7%A8%BF%E3%80%82)**
+
+---
+
+### No. 52: Nano Banana Pro 的 JSON 自拍臥床提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個結構化的 JSON 提示，描述一位年輕女性躺在床上自拍，其中包含主題、服裝、環境、燈光、構圖和情緒的詳細屬性。
+
+#### 📝 提示詞
+
+```
+{
+  "subject": {
+    "type": "年輕女性",
+    "pose": "仰臥，右手向上伸展自拍",
+    "expression": "溫柔的微笑，放鬆而自然",
+    "gaze": "看向鏡頭",
+    "skin_details": {
+      "complexion": "光滑、溫暖、陽光照耀的光澤",
+      "freckles": "鼻子和臉頰上可見雀斑"
+    },
+    "hair": {
+      "color": "{argument name=\"hair color\" default=\"中棕色\"}",
+      "length": "長髮",
+      "style": "蓬鬆，散落在頭部周圍的枕頭上"
+    },
+    "eyes": {
+      "color": "{argument name=\"eye color\" default=\"淺藍色或綠色\"}",
+      "makeup": "淡雅眼線"
+    }
+  },
+  "clothing": {
+    "top": {
+      "type": "羅紋背心",
+      "color": "白色",
+      "fit": "貼身",
+      "neckline": "圓領"
+    },
+    "bottoms": {
+      "type": "牛仔褲",
+      "color": "淺藍色",
+      "visibility": "部分可見"
+    },
+    "accessories": {
+      "earrings": "小耳釘",
+      "necklace": "細緻、簡約的項鍊"
+    }
+  },
+  "environment": {
+    "location": "床或柔軟的休息表面",
+    "bedding": {
+      "pillow": "白色",
+      "sheets": "白色"
+    },
+    "background": "中性色牆壁和幾乎不可見的床頭板或家具邊緣"
+  },
+  "lighting": {
+    "type": "自然陽光",
+    "direction": "來自畫面左上方",
+    "effect": "在臉部和軀幹上營造溫暖的高光和柔和的陰影"
+  },
+  "composition": {
+    "camera_angle": "俯視自拍角度",
+    "framing": "臉部、上半身和部分牛仔褲的特寫",
+    "focus": "臉部和上半身清晰銳利",
+    "colors": "溫暖的膚色、白色寢具、棕色頭髮、中性背景"
+  },
+  "mood": "溫暖、放鬆、舒適、自然"
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909143297_eesjgj_G7FjaB5bUAA4Y5m.jpg" width="600" alt="Nano Banana Pro 的 JSON 自拍臥床提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Lex](https://x.com/lexx_aura)
+- **來源:** [Twitter Post](https://x.com/lexx_aura/status/1995485429265575954)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%C2%A0%20%22subject%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22type%22%3A%20%22%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%22%2C%0A%C2%A0%20%C2%A0%20%22pose%22%3A%20%22%E4%BB%B0%E8%87%A5%EF%BC%8C%E5%8F%B3%E6%89%8B%E5%90%91%E4%B8%8A%E4%BC%B8%E5%B1%95%E8%87%AA%E6%8B%8D%22%2C%0A%C2%A0%20%C2%A0%20%22expression%22%3A%20%22%E6%BA%AB%E6%9F%94%E7%9A%84%E5%BE%AE%E7%AC%91%EF%BC%8C%E6%94%BE%E9%AC%86%E8%80%8C%E8%87%AA%E7%84%B6%22%2C%0A%C2%A0%20%C2%A0%20%22gaze%22%3A%20%22%E7%9C%8B%E5%90%91%E9%8F%A1%E9%A0%AD%22%2C%0A%C2%A0%20%C2%A0%20%22skin_details%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22complexion%22%3A%20%22%E5%85%89%E6%BB%91%E3%80%81%E6%BA%AB%E6%9A%96%E3%80%81%E9%99%BD%E5%85%89%E7%85%A7%E8%80%80%E7%9A%84%E5%85%89%E6%BE%A4%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22freckles%22%3A%20%22%E9%BC%BB%E5%AD%90%E5%92%8C%E8%87%89%E9%A0%B0%E4%B8%8A%E5%8F%AF%E8%A6%8B%E9%9B%80%E6%96%91%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22hair%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20color%5C%22%20default%3D%5C%22%E4%B8%AD%E6%A3%95%E8%89%B2%5C%22%7D%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22length%22%3A%20%22%E9%95%B7%E9%AB%AE%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22%E8%93%AC%E9%AC%86%EF%BC%8C%E6%95%A3%E8%90%BD%E5%9C%A8%E9%A0%AD%E9%83%A8%E5%91%A8%E5%9C%8D%E7%9A%84%E6%9E%95%E9%A0%AD%E4%B8%8A%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22eyes%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22eye%20color%5C%22%20default%3D%5C%22%E6%B7%BA%E8%97%8D%E8%89%B2%E6%88%96%E7%B6%A0%E8%89%B2%5C%22%7D%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22makeup%22%3A%20%22%E6%B7%A1%E9%9B%85%E7%9C%BC%E7%B7%9A%22%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22clothing%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22top%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22type%22%3A%20%22%E7%BE%85%E7%B4%8B%E8%83%8C%E5%BF%83%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%E7%99%BD%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22fit%22%3A%20%22%E8%B2%BC%E8%BA%AB%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22neckline%22%3A%20%22%E5%9C%93%E9%A0%98%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22bottoms%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22type%22%3A%20%22%E7%89%9B%E4%BB%94%E8%A4%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%E6%B7%BA%E8%97%8D%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22visibility%22%3A%20%22%E9%83%A8%E5%88%86%E5%8F%AF%E8%A6%8B%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22accessories%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22earrings%22%3A%20%22%E5%B0%8F%E8%80%B3%E9%87%98%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22necklace%22%3A%20%22%E7%B4%B0%E7%B7%BB%E3%80%81%E7%B0%A1%E7%B4%84%E7%9A%84%E9%A0%85%E9%8D%8A%22%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22environment%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22location%22%3A%20%22%E5%BA%8A%E6%88%96%E6%9F%94%E8%BB%9F%E7%9A%84%E4%BC%91%E6%81%AF%E8%A1%A8%E9%9D%A2%22%2C%0A%C2%A0%20%C2%A0%20%22bedding%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22pillow%22%3A%20%22%E7%99%BD%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22sheets%22%3A%20%22%E7%99%BD%E8%89%B2%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22background%22%3A%20%22%E4%B8%AD%E6%80%A7%E8%89%B2%E7%89%86%E5%A3%81%E5%92%8C%E5%B9%BE%E4%B9%8E%E4%B8%8D%E5%8F%AF%E8%A6%8B%E7%9A%84%E5%BA%8A%E9%A0%AD%E6%9D%BF%E6%88%96%E5%AE%B6%E5%85%B7%E9%82%8A%E7%B7%A3%22%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22lighting%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22type%22%3A%20%22%E8%87%AA%E7%84%B6%E9%99%BD%E5%85%89%22%2C%0A%C2%A0%20%C2%A0%20%22direction%22%3A%20%22%E4%BE%86%E8%87%AA%E7%95%AB%E9%9D%A2%E5%B7%A6%E4%B8%8A%E6%96%B9%22%2C%0A%C2%A0%20%C2%A0%20%22effect%22%3A%20%22%E5%9C%A8%E8%87%89%E9%83%A8%E5%92%8C%E8%BB%80%E5%B9%B9%E4%B8%8A%E7%87%9F%E9%80%A0%E6%BA%AB%E6%9A%96%E7%9A%84%E9%AB%98%E5%85%89%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%22%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22composition%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22camera_angle%22%3A%20%22%E4%BF%AF%E8%A6%96%E8%87%AA%E6%8B%8D%E8%A7%92%E5%BA%A6%22%2C%0A%C2%A0%20%C2%A0%20%22framing%22%3A%20%22%E8%87%89%E9%83%A8%E3%80%81%E4%B8%8A%E5%8D%8A%E8%BA%AB%E5%92%8C%E9%83%A8%E5%88%86%E7%89%9B%E4%BB%94%E8%A4%B2%E7%9A%84%E7%89%B9%E5%AF%AB%22%2C%0A%C2%A0%20%C2%A0%20%22focus%22%3A%20%22%E8%87%89%E9%83%A8%E5%92%8C%E4%B8%8A%E5%8D%8A%E8%BA%AB%E6%B8%85%E6%99%B0%E9%8A%B3%E5%88%A9%22%2C%0A%C2%A0%20%C2%A0%20%22colors%22%3A%20%22%E6%BA%AB%E6%9A%96%E7%9A%84%E8%86%9A%E8%89%B2%E3%80%81%E7%99%BD%E8%89%B2%E5%AF%A2%E5%85%B7%E3%80%81%E6%A3%95%E8%89%B2%E9%A0%AD%E9%AB%AE%E3%80%81%E4%B8%AD%E6%80%A7%E8%83%8C%E6%99%AF%22%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22mood%22%3A%20%22%E6%BA%AB%E6%9A%96%E3%80%81%E6%94%BE%E9%AC%86%E3%80%81%E8%88%92%E9%81%A9%E3%80%81%E8%87%AA%E7%84%B6%22%0A%7D)**
+
+---
+
+### No. 53: 爆紅縮圖：興奮地指著、酪梨吐司、「3 分鐘搞定！」
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+具備身份鎖定的病毒式影片縮圖
+
+#### 📝 提示詞
+
+```
+設計一個病毒式影片縮圖，使用圖片 1 中的人物。臉部一致性：保持人物的臉部特徵與圖片 1 完全相同，但改變表情，讓他們看起來興奮又驚訝。動作：將人物放在左側，手指指向畫面右側。主題：在右側放置一張美味的 {argument name="food" default="酪梨吐司"} 高品質圖片。圖形：添加一個粗體黃色箭頭，連接人物的手指和 {argument name="subject" default="吐司"}。文字：在中間疊加巨大的流行風格文字：「{argument name="thumbnail text" default="3 分鐘搞定！"}」。使用粗白色輪廓和陰影。背景：一個模糊、明亮的 {argument name="background scene" default="廚房"} 背景，具有高飽和度和對比度。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909134095_knrv2v_G7Eh_FxWIAA-zTh.jpg" width="600" alt="爆紅縮圖：興奮地指著、酪梨吐司、「3 分鐘搞定！」 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909136349_7w4red_G7EiAbrWQAAYWZI.jpg" width="600" alt="爆紅縮圖：興奮地指著、酪梨吐司、「3 分鐘搞定！」 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909138880_kpzwcx_G7EiCZ6XgAAiAot.jpg" width="600" alt="爆紅縮圖：興奮地指著、酪梨吐司、「3 分鐘搞定！」 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [泊舟](https://x.com/bozhou_ai)
+- **來源:** [Twitter Post](https://x.com/bozhou_ai/status/1995418448562659426)
+- **發布時間:** 2025年12月1日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%A8%AD%E8%A8%88%E4%B8%80%E5%80%8B%E7%97%85%E6%AF%92%E5%BC%8F%E5%BD%B1%E7%89%87%E7%B8%AE%E5%9C%96%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%9C%96%E7%89%87%201%20%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E3%80%82%E8%87%89%E9%83%A8%E4%B8%80%E8%87%B4%E6%80%A7%EF%BC%9A%E4%BF%9D%E6%8C%81%E4%BA%BA%E7%89%A9%E7%9A%84%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E8%88%87%E5%9C%96%E7%89%87%201%20%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%EF%BC%8C%E4%BD%86%E6%94%B9%E8%AE%8A%E8%A1%A8%E6%83%85%EF%BC%8C%E8%AE%93%E4%BB%96%E5%80%91%E7%9C%8B%E8%B5%B7%E4%BE%86%E8%88%88%E5%A5%AE%E5%8F%88%E9%A9%9A%E8%A8%9D%E3%80%82%E5%8B%95%E4%BD%9C%EF%BC%9A%E5%B0%87%E4%BA%BA%E7%89%A9%E6%94%BE%E5%9C%A8%E5%B7%A6%E5%81%B4%EF%BC%8C%E6%89%8B%E6%8C%87%E6%8C%87%E5%90%91%E7%95%AB%E9%9D%A2%E5%8F%B3%E5%81%B4%E3%80%82%E4%B8%BB%E9%A1%8C%EF%BC%9A%E5%9C%A8%E5%8F%B3%E5%81%B4%E6%94%BE%E7%BD%AE%E4%B8%80%E5%BC%B5%E7%BE%8E%E5%91%B3%E7%9A%84%20%7Bargument%20name%3D%22food%22%20default%3D%22%E9%85%AA%E6%A2%A8%E5%90%90%E5%8F%B8%22%7D%20%E9%AB%98%E5%93%81%E8%B3%AA%E5%9C%96%E7%89%87%E3%80%82%E5%9C%96%E5%BD%A2%EF%BC%9A%E6%B7%BB%E5%8A%A0%E4%B8%80%E5%80%8B%E7%B2%97%E9%AB%94%E9%BB%83%E8%89%B2%E7%AE%AD%E9%A0%AD%EF%BC%8C%E9%80%A3%E6%8E%A5%E4%BA%BA%E7%89%A9%E7%9A%84%E6%89%8B%E6%8C%87%E5%92%8C%20%7Bargument%20name%3D%22subject%22%20default%3D%22%E5%90%90%E5%8F%B8%22%7D%E3%80%82%E6%96%87%E5%AD%97%EF%BC%9A%E5%9C%A8%E4%B8%AD%E9%96%93%E7%96%8A%E5%8A%A0%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B5%81%E8%A1%8C%E9%A2%A8%E6%A0%BC%E6%96%87%E5%AD%97%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22thumbnail%20text%22%20default%3D%223%20%E5%88%86%E9%90%98%E6%90%9E%E5%AE%9A%EF%BC%81%22%7D%E3%80%8D%E3%80%82%E4%BD%BF%E7%94%A8%E7%B2%97%E7%99%BD%E8%89%B2%E8%BC%AA%E5%BB%93%E5%92%8C%E9%99%B0%E5%BD%B1%E3%80%82%E8%83%8C%E6%99%AF%EF%BC%9A%E4%B8%80%E5%80%8B%E6%A8%A1%E7%B3%8A%E3%80%81%E6%98%8E%E4%BA%AE%E7%9A%84%20%7Bargument%20name%3D%22background%20scene%22%20default%3D%22%E5%BB%9A%E6%88%BF%22%7D%20%E8%83%8C%E6%99%AF%EF%BC%8C%E5%85%B7%E6%9C%89%E9%AB%98%E9%A3%BD%E5%92%8C%E5%BA%A6%E5%92%8C%E5%B0%8D%E6%AF%94%E5%BA%A6%E3%80%82)**
+
+---
+
+### No. 54: Nano Banana Pro 的咖啡廳約會 POV 個人資料照片提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的 Nano Banana Pro 圖像生成提示，能從一張臉部照片創建出逼真的「男友感」咖啡廳約會視角個人資料照片，非常適合約會應用程式的個人資料圖片。
+
+#### 📝 提示詞
+
+```
+{
+  "settings": {
+    "aspect_ratio": "{argument name=\"aspect ratio\" default=\"3:4\"}",
+    "resolution": "{argument name=\"resolution\" default=\"8k\"}",
+    "quality_preset": "{argument name=\"quality preset\" default=\"high quality\"}",
+    "style_emulation": "{argument name=\"style\" default=\"shot on iPhone style\"}"
+  },
+
+  "photography_style": {
+    "type": ["{argument name=\"photo type 1\" default=\"realistic candid photo\"}", "{argument name=\"photo type 2\" default=\"photorealistic\"}"],
+    "perspective": "{argument name=\"perspective\" default=\"POV date shot\"}",
+    "vibe": "{argument name=\"vibe\" default=\"Boyfriend material\"}",
+    "lighting": {
+      "source": "{argument name=\"light source\" default=\"natural sunlight\"}",
+      "quality": "{argument name=\"light quality\" default=\"soft flat lighting\"}"
+    },
+    "focus": {
+      "depth_of_field": "{argument name=\"depth of field\" default=\"shallow\"}",
+      "background": "{argument name=\"background\" default=\"blurred with other customers\"}"
+    }
+  },
+
+  "subject": {
+    "demographics": {
+      "gender": "{argument name=\"gender\" default=\"male\"}",
+      "nationality": "{argument name=\"nationality\" default=\"Japanese\"}",
+      "age_range": "{argument name=\"age range\" default=\"20s\"}",
+      "descriptor": "{argument name=\"appearance impression\" default=\"handsome\"}"
+    },
+
+    "features": {
+      "skin_texture": "{argument name=\"skin texture\" default=\"naturally smooth, clear complexion, blemish-free\"}",
+      "retouching_level": "{argument name=\"retouching level\" default=\"subtle and realistic\"}"
+    },
+
+    "attire": {
+      "jacket": "{argument name=\"jacket\" default=\"matte black oversized nylon jacket\"}",
+      "jewelry": "{argument name=\"jewelry\" default=\"simple silver ring (left ring finger)\"}"
+    },
+    "pose_action": {
+      "posture": "{argument name=\"posture\" default=\"sitting, leaning forward, elbows on table\"}",
+      "hands": "{argument name=\"hand position\" default=\"holding paper coffee cup with both hands\"}",
+      "face_interaction": "{argument name=\"face interaction\" default=\"bringing cup to mouth, slightly covering mouth\"}"
+    }
+  },
+
+  "environment": {
+    "location": "{argument name=\"location\" default=\"stylish cafe\"}",
+    "immediate_surroundings": "{argument name=\"table\" default=\"light wooden table\"}",
+    "architectural_details": [
+      "{argument name=\"architectural detail 1\" default=\"white industrial ceiling\"}",
+      "{argument name=\"architectural detail 2\" default=\"glass partitions\"}"
+    ]
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909127692_kcovcs_G7BIacPaYAAudyr.jpg" width="600" alt="Nano Banana Pro 的咖啡廳約會 POV 個人資料照片提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909130547_0i9c7i_G7BIacHaAAErUJR.jpg" width="600" alt="Nano Banana Pro 的咖啡廳約會 POV 個人資料照片提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [みなと | 人間心理](https://x.com/romantic_minato)
+- **來源:** [Twitter Post](https://x.com/romantic_minato/status/1995417598905712710)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22settings%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%5C%22aspect%20ratio%5C%22%20default%3D%5C%223%3A4%5C%22%7D%22%2C%0A%20%20%20%20%22resolution%22%3A%20%22%7Bargument%20name%3D%5C%22resolution%5C%22%20default%3D%5C%228k%5C%22%7D%22%2C%0A%20%20%20%20%22quality_preset%22%3A%20%22%7Bargument%20name%3D%5C%22quality%20preset%5C%22%20default%3D%5C%22high%20quality%5C%22%7D%22%2C%0A%20%20%20%20%22style_emulation%22%3A%20%22%7Bargument%20name%3D%5C%22style%5C%22%20default%3D%5C%22shot%20on%20iPhone%20style%5C%22%7D%22%0A%20%20%7D%2C%0A%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%5B%22%7Bargument%20name%3D%5C%22photo%20type%201%5C%22%20default%3D%5C%22realistic%20candid%20photo%5C%22%7D%22%2C%20%22%7Bargument%20name%3D%5C%22photo%20type%202%5C%22%20default%3D%5C%22photorealistic%5C%22%7D%22%5D%2C%0A%20%20%20%20%22perspective%22%3A%20%22%7Bargument%20name%3D%5C%22perspective%5C%22%20default%3D%5C%22POV%20date%20shot%5C%22%7D%22%2C%0A%20%20%20%20%22vibe%22%3A%20%22%7Bargument%20name%3D%5C%22vibe%5C%22%20default%3D%5C%22Boyfriend%20material%5C%22%7D%22%2C%0A%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%22source%22%3A%20%22%7Bargument%20name%3D%5C%22light%20source%5C%22%20default%3D%5C%22natural%20sunlight%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22quality%22%3A%20%22%7Bargument%20name%3D%5C%22light%20quality%5C%22%20default%3D%5C%22soft%20flat%20lighting%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22focus%22%3A%20%7B%0A%20%20%20%20%20%20%22depth_of_field%22%3A%20%22%7Bargument%20name%3D%5C%22depth%20of%20field%5C%22%20default%3D%5C%22shallow%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22background%22%3A%20%22%7Bargument%20name%3D%5C%22background%5C%22%20default%3D%5C%22blurred%20with%20other%20customers%5C%22%7D%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%7B%0A%20%20%20%20%20%20%22gender%22%3A%20%22%7Bargument%20name%3D%5C%22gender%5C%22%20default%3D%5C%22male%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22nationality%22%3A%20%22%7Bargument%20name%3D%5C%22nationality%5C%22%20default%3D%5C%22Japanese%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22age_range%22%3A%20%22%7Bargument%20name%3D%5C%22age%20range%5C%22%20default%3D%5C%2220s%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22descriptor%22%3A%20%22%7Bargument%20name%3D%5C%22appearance%20impression%5C%22%20default%3D%5C%22handsome%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22features%22%3A%20%7B%0A%20%20%20%20%20%20%22skin_texture%22%3A%20%22%7Bargument%20name%3D%5C%22skin%20texture%5C%22%20default%3D%5C%22naturally%20smooth%2C%20clear%20complexion%2C%20blemish-free%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22retouching_level%22%3A%20%22%7Bargument%20name%3D%5C%22retouching%20level%5C%22%20default%3D%5C%22subtle%20and%20realistic%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%22%7Bargument%20name%3D%5C%22jacket%5C%22%20default%3D%5C%22matte%20black%20oversized%20nylon%20jacket%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22jewelry%22%3A%20%22%7Bargument%20name%3D%5C%22jewelry%5C%22%20default%3D%5C%22simple%20silver%20ring%20(left%20ring%20finger)%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose_action%22%3A%20%7B%0A%20%20%20%20%20%20%22posture%22%3A%20%22%7Bargument%20name%3D%5C%22posture%5C%22%20default%3D%5C%22sitting%2C%20leaning%20forward%2C%20elbows%20on%20table%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22%7Bargument%20name%3D%5C%22hand%20position%5C%22%20default%3D%5C%22holding%20paper%20coffee%20cup%20with%20both%20hands%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22face_interaction%22%3A%20%22%7Bargument%20name%3D%5C%22face%20interaction%5C%22%20default%3D%5C%22bringing%20cup%20to%20mouth%2C%20slightly%20covering%20mouth%5C%22%7D%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%5C%22location%5C%22%20default%3D%5C%22stylish%20cafe%5C%22%7D%22%2C%0A%20%20%20%20%22immediate_surroundings%22%3A%20%22%7Bargument%20name%3D%5C%22table%5C%22%20default%3D%5C%22light%20wooden%20table%5C%22%7D%22%2C%0A%20%20%20%20%22architectural_details%22%3A%20%5B%0A%20%20%20%20%20%20%22%7Bargument%20name%3D%5C%22architectural%20detail%201%5C%22%20default%3D%5C%22white%20industrial%20ceiling%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22%7Bargument%20name%3D%5C%22architectural%20detail%202%5C%22%20default%3D%5C%22glass%20partitions%5C%22%7D%22%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 55: 適用於 Nano Banana Pro 的 JSON 車內自拍鏡提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的 JSON 格式提示，用於生成一張超寫實的年輕女性自拍照，該自拍照倒映在汽車的側後視鏡中，包括主題、服裝、道具、環境、燈光、風格和負面提示。
+
+#### 📝 提示詞
+
+```
+{
+  "image_generation_prompt": {
+    "subject": {
+      "description": "留著褐色長髮的年輕女性",
+      "pose": "輕輕倚靠在車窗上，單手托腮，神情放鬆且自信",
+      "action": "在側後視鏡的倒影中自拍"
+    },
+    "clothing": {
+      "top": "簡約紅色高領長袖上衣",
+      "accessories": "極簡風格的耳釘"
+    },
+    "props": {
+      "item": "{argument name=\"phone model\" default=\"iPhone 17 Pro Max\"}",
+      "details": "比例真實，鏡頭設計精準，手持狀態"
+    },
+    "environment": {
+      "location": "戶外，倒映在 {argument name=\"car model\" default=\"黑色 Toyota Land Cruiser\"} 的側後視鏡中",
+      "background": "樹木和橘藍色的傍晚天空",
+      "depth_of_field": "背景輕微模糊以營造景深（散景效果）"
+    },
+    "lighting": {
+      "type": "黃金時段",
+      "characteristics": "溫暖的陽光，柔和的自然光澤，傍晚光線，真實的陰影"
+    },
+    "style": {
+      "aesthetic": "自然、超現實、極簡主義、Instagram 風格",
+      "quality": "8k 解析度、高度細緻、清晰對焦、電影攝影風格"
+    },
+    "technical_constraints": {
+      "perspective": "精準的鏡像反射，正確的光學方向",
+      "distortion_control": "人物特徵或手機無誇張或扭曲"
+    }
+  },
+  "negative_prompt": "卡通、插畫、繪畫、素描、糟糕的解剖結構、毀容、畸形、模糊的臉、低品質、像素化、不自然的燈光、扭曲的手機、錯誤的反射角度、多餘的手指、凌亂的頭髮、濃妝、文字、浮水印"
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909145173_pjujk9_G7EWFgra4AE2L-5.jpg" width="600" alt="適用於 Nano Banana Pro 的 JSON 車內自拍鏡提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Mahnoor Fatima](https://x.com/MahnoorAi12)
+- **來源:** [Twitter Post](https://x.com/MahnoorAi12/status/1995401401011491178)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_generation_prompt%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22%E7%95%99%E8%91%97%E8%A4%90%E8%89%B2%E9%95%B7%E9%AB%AE%E7%9A%84%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22%E8%BC%95%E8%BC%95%E5%80%9A%E9%9D%A0%E5%9C%A8%E8%BB%8A%E7%AA%97%E4%B8%8A%EF%BC%8C%E5%96%AE%E6%89%8B%E6%89%98%E8%85%AE%EF%BC%8C%E7%A5%9E%E6%83%85%E6%94%BE%E9%AC%86%E4%B8%94%E8%87%AA%E4%BF%A1%22%2C%0A%20%20%20%20%20%20%22action%22%3A%20%22%E5%9C%A8%E5%81%B4%E5%BE%8C%E8%A6%96%E9%8F%A1%E7%9A%84%E5%80%92%E5%BD%B1%E4%B8%AD%E8%87%AA%E6%8B%8D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%E7%B0%A1%E7%B4%84%E7%B4%85%E8%89%B2%E9%AB%98%E9%A0%98%E9%95%B7%E8%A2%96%E4%B8%8A%E8%A1%A3%22%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%22%E6%A5%B5%E7%B0%A1%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%80%B3%E9%87%98%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22props%22%3A%20%7B%0A%20%20%20%20%20%20%22item%22%3A%20%22%7Bargument%20name%3D%5C%22phone%20model%5C%22%20default%3D%5C%22iPhone%2017%20Pro%20Max%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%E6%AF%94%E4%BE%8B%E7%9C%9F%E5%AF%A6%EF%BC%8C%E9%8F%A1%E9%A0%AD%E8%A8%AD%E8%A8%88%E7%B2%BE%E6%BA%96%EF%BC%8C%E6%89%8B%E6%8C%81%E7%8B%80%E6%85%8B%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22location%22%3A%20%22%E6%88%B6%E5%A4%96%EF%BC%8C%E5%80%92%E6%98%A0%E5%9C%A8%20%7Bargument%20name%3D%5C%22car%20model%5C%22%20default%3D%5C%22%E9%BB%91%E8%89%B2%20Toyota%20Land%20Cruiser%5C%22%7D%20%E7%9A%84%E5%81%B4%E5%BE%8C%E8%A6%96%E9%8F%A1%E4%B8%AD%22%2C%0A%20%20%20%20%20%20%22background%22%3A%20%22%E6%A8%B9%E6%9C%A8%E5%92%8C%E6%A9%98%E8%97%8D%E8%89%B2%E7%9A%84%E5%82%8D%E6%99%9A%E5%A4%A9%E7%A9%BA%22%2C%0A%20%20%20%20%20%20%22depth_of_field%22%3A%20%22%E8%83%8C%E6%99%AF%E8%BC%95%E5%BE%AE%E6%A8%A1%E7%B3%8A%E4%BB%A5%E7%87%9F%E9%80%A0%E6%99%AF%E6%B7%B1%EF%BC%88%E6%95%A3%E6%99%AF%E6%95%88%E6%9E%9C%EF%BC%89%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%22%2C%0A%20%20%20%20%20%20%22characteristics%22%3A%20%22%E6%BA%AB%E6%9A%96%E7%9A%84%E9%99%BD%E5%85%89%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E5%85%89%E6%BE%A4%EF%BC%8C%E5%82%8D%E6%99%9A%E5%85%89%E7%B7%9A%EF%BC%8C%E7%9C%9F%E5%AF%A6%E7%9A%84%E9%99%B0%E5%BD%B1%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22style%22%3A%20%7B%0A%20%20%20%20%20%20%22aesthetic%22%3A%20%22%E8%87%AA%E7%84%B6%E3%80%81%E8%B6%85%E7%8F%BE%E5%AF%A6%E3%80%81%E6%A5%B5%E7%B0%A1%E4%B8%BB%E7%BE%A9%E3%80%81Instagram%20%E9%A2%A8%E6%A0%BC%22%2C%0A%20%20%20%20%20%20%22quality%22%3A%20%228k%20%E8%A7%A3%E6%9E%90%E5%BA%A6%E3%80%81%E9%AB%98%E5%BA%A6%E7%B4%B0%E7%B7%BB%E3%80%81%E6%B8%85%E6%99%B0%E5%B0%8D%E7%84%A6%E3%80%81%E9%9B%BB%E5%BD%B1%E6%94%9D%E5%BD%B1%E9%A2%A8%E6%A0%BC%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22technical_constraints%22%3A%20%7B%0A%20%20%20%20%20%20%22perspective%22%3A%20%22%E7%B2%BE%E6%BA%96%E7%9A%84%E9%8F%A1%E5%83%8F%E5%8F%8D%E5%B0%84%EF%BC%8C%E6%AD%A3%E7%A2%BA%E7%9A%84%E5%85%89%E5%AD%B8%E6%96%B9%E5%90%91%22%2C%0A%20%20%20%20%20%20%22distortion_control%22%3A%20%22%E4%BA%BA%E7%89%A9%E7%89%B9%E5%BE%B5%E6%88%96%E6%89%8B%E6%A9%9F%E7%84%A1%E8%AA%87%E5%BC%B5%E6%88%96%E6%89%AD%E6%9B%B2%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%22%E5%8D%A1%E9%80%9A%E3%80%81%E6%8F%92%E7%95%AB%E3%80%81%E7%B9%AA%E7%95%AB%E3%80%81%E7%B4%A0%E6%8F%8F%E3%80%81%E7%B3%9F%E7%B3%95%E7%9A%84%E8%A7%A3%E5%89%96%E7%B5%90%E6%A7%8B%E3%80%81%E6%AF%80%E5%AE%B9%E3%80%81%E7%95%B8%E5%BD%A2%E3%80%81%E6%A8%A1%E7%B3%8A%E7%9A%84%E8%87%89%E3%80%81%E4%BD%8E%E5%93%81%E8%B3%AA%E3%80%81%E5%83%8F%E7%B4%A0%E5%8C%96%E3%80%81%E4%B8%8D%E8%87%AA%E7%84%B6%E7%9A%84%E7%87%88%E5%85%89%E3%80%81%E6%89%AD%E6%9B%B2%E7%9A%84%E6%89%8B%E6%A9%9F%E3%80%81%E9%8C%AF%E8%AA%A4%E7%9A%84%E5%8F%8D%E5%B0%84%E8%A7%92%E5%BA%A6%E3%80%81%E5%A4%9A%E9%A4%98%E7%9A%84%E6%89%8B%E6%8C%87%E3%80%81%E5%87%8C%E4%BA%82%E7%9A%84%E9%A0%AD%E9%AB%AE%E3%80%81%E6%BF%83%E5%A6%9D%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E6%B5%AE%E6%B0%B4%E5%8D%B0%22%0A%7D)**
+
+---
+
+### No. 56: 適用於 Nano Banana Pro 的簡約沉思碼頭場景提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個直接的 Nano Banana Pro 圖像提示，用於描繪碼頭上孤獨一人，極簡、寫實的黎明場景，非常適合營造氛圍或情感的關鍵藝術。
+
+#### 📝 提示詞
+
+```
+一名{argument name="number of people" default="單獨的"}人物站在{argument name="location" default="碼頭"}邊緣的簡約場景，伴隨著自然的{argument name="time of day" default="黎明"}光線、柔和的薄霧、高動態範圍、紮實的寫實主義、柔和的色調，以及{argument name="mood" default="沉思的"}氛圍，特點是廣角深焦且無風格化。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909118508_b041hr_G7DMzkBbAAEaIPK.jpg" width="600" alt="適用於 Nano Banana Pro 的簡約沉思碼頭場景提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [MR604778🍁](https://x.com/mr604778)
+- **來源:** [Twitter Post](https://x.com/mr604778/status/1995342090583027828)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%90%8D%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22%E5%96%AE%E7%8D%A8%E7%9A%84%22%7D%E4%BA%BA%E7%89%A9%E7%AB%99%E5%9C%A8%7Bargument%20name%3D%22location%22%20default%3D%22%E7%A2%BC%E9%A0%AD%22%7D%E9%82%8A%E7%B7%A3%E7%9A%84%E7%B0%A1%E7%B4%84%E5%A0%B4%E6%99%AF%EF%BC%8C%E4%BC%B4%E9%9A%A8%E8%91%97%E8%87%AA%E7%84%B6%E7%9A%84%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22%E9%BB%8E%E6%98%8E%22%7D%E5%85%89%E7%B7%9A%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E8%96%84%E9%9C%A7%E3%80%81%E9%AB%98%E5%8B%95%E6%85%8B%E7%AF%84%E5%9C%8D%E3%80%81%E7%B4%AE%E5%AF%A6%E7%9A%84%E5%AF%AB%E5%AF%A6%E4%B8%BB%E7%BE%A9%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E8%89%B2%E8%AA%BF%EF%BC%8C%E4%BB%A5%E5%8F%8A%7Bargument%20name%3D%22mood%22%20default%3D%22%E6%B2%89%E6%80%9D%E7%9A%84%22%7D%E6%B0%9B%E5%9C%8D%EF%BC%8C%E7%89%B9%E9%BB%9E%E6%98%AF%E5%BB%A3%E8%A7%92%E6%B7%B1%E7%84%A6%E4%B8%94%E7%84%A1%E9%A2%A8%E6%A0%BC%E5%8C%96%E3%80%82)**
+
+---
+
+### No. 57: Nano Banana Pro 的聖人與惡魔雙重角色提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -515,7 +3675,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 2: Nano Banana Pro 的季節森林拼貼角色提示
+### No. 58: Nano Banana Pro 的季節森林拼貼角色提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -549,7 +3709,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 3: Nano Banana Pro 的九宮格日式相簿排版提示
+### No. 59: Nano Banana Pro 的九宮格日式相簿排版提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -601,7 +3761,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 4: 使用 Nano Banana Pro 從 3x3 圖像網格中提取單個面板
+### No. 60: 使用 Nano Banana Pro 從 3x3 圖像網格中提取單個面板
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -647,7 +3807,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 5: 直閃玩家女孩 Nano Banana Pro JSON 標籤提示
+### No. 61: 直閃玩家女孩 Nano Banana Pro JSON 標籤提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -699,7 +3859,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 6: 兩步驟 Nano Banana Pro 影像優化提示
+### No. 62: 兩步驟 Nano Banana Pro 影像優化提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -741,7 +3901,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 7: 12 張圖片的 Instagram 動態貼文角色美學提示
+### No. 63: 12 張圖片的 Instagram 動態貼文角色美學提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -781,7 +3941,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 8: 臥室寫實肖像提示結構
+### No. 64: 臥室寫實肖像提示結構
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -814,7 +3974,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 9: Nano Banana Pro 的電影感臥室自拍提示
+### No. 65: Nano Banana Pro 的電影感臥室自拍提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -874,19 +4034,21 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 10: 毛氈玩具全身 Nano Banana Pro 提示範本
+### No. 66: Nano Banana Pro 的毛氈玩具角色提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個簡潔的 Nano Banana Pro 提示範本，用於生成具有可自訂主題、屬性、表情和環境的全身毛氈玩具角色，非常適合可愛、柔軟、卡通風格的渲染。
+一個靈活的模板提示，用於在不同地點、光線和情緒下生成全身毛氈玩具角色，非常適合可愛、柔和的插圖。
 
 #### 📝 提示詞
 
 ```
-全身 {argument name="subject" default="[主題]"} 玩具，{argument name="attributes and accessories" default="[屬性/配件]"}，{argument name="expression" default="[表情]"}，由毛氈製成，在 {argument name="place" default="[地點]"}，{argument name="lighting" default="[光線]"}，友善且卡通化的外觀，豐富而柔軟的紋理
+毛氈玩具
+
+全身的 {argument name="subject" default="[Subject]"} 玩具，{argument name="attributes and accessories" default="[attributes/accessories]"}，{argument name="expression" default="[expression]"}，由毛氈製成，在 {argument name="place" default="[place]"}，{argument name="lighting" default="[lighting]"}，外觀友善、卡通化，並具有豐富、柔軟的紋理。
 ```
 
 #### 🖼️ 生成圖片
@@ -894,25 +4056,25 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="毛氈玩具全身 Nano Banana Pro 提示範本 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Nano Banana Pro 的毛氈玩具角色提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="毛氈玩具全身 Nano Banana Pro 提示範本 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Nano Banana Pro 的毛氈玩具角色提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="毛氈玩具全身 Nano Banana Pro 提示範本 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Nano Banana Pro 的毛氈玩具角色提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="毛氈玩具全身 Nano Banana Pro 提示範本 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Nano Banana Pro 的毛氈玩具角色提示 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -922,11 +4084,11 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 - **發布時間:** 2025年11月30日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%85%A8%E8%BA%AB%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5B%E4%B8%BB%E9%A1%8C%5D%22%7D%20%E7%8E%A9%E5%85%B7%EF%BC%8C%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5B%E5%B1%AC%E6%80%A7%2F%E9%85%8D%E4%BB%B6%5D%22%7D%EF%BC%8C%7Bargument%20name%3D%22expression%22%20default%3D%22%5B%E8%A1%A8%E6%83%85%5D%22%7D%EF%BC%8C%E7%94%B1%E6%AF%9B%E6%B0%88%E8%A3%BD%E6%88%90%EF%BC%8C%E5%9C%A8%20%7Bargument%20name%3D%22place%22%20default%3D%22%5B%E5%9C%B0%E9%BB%9E%5D%22%7D%EF%BC%8C%7Bargument%20name%3D%22lighting%22%20default%3D%22%5B%E5%85%89%E7%B7%9A%5D%22%7D%EF%BC%8C%E5%8F%8B%E5%96%84%E4%B8%94%E5%8D%A1%E9%80%9A%E5%8C%96%E7%9A%84%E5%A4%96%E8%A7%80%EF%BC%8C%E8%B1%90%E5%AF%8C%E8%80%8C%E6%9F%94%E8%BB%9F%E7%9A%84%E7%B4%8B%E7%90%86)**
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%AF%9B%E6%B0%88%E7%8E%A9%E5%85%B7%0A%0A%E5%85%A8%E8%BA%AB%E7%9A%84%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BSubject%5D%22%7D%20%E7%8E%A9%E5%85%B7%EF%BC%8C%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Battributes%2Faccessories%5D%22%7D%EF%BC%8C%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bexpression%5D%22%7D%EF%BC%8C%E7%94%B1%E6%AF%9B%E6%B0%88%E8%A3%BD%E6%88%90%EF%BC%8C%E5%9C%A8%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Bplace%5D%22%7D%EF%BC%8C%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Blighting%5D%22%7D%EF%BC%8C%E5%A4%96%E8%A7%80%E5%8F%8B%E5%96%84%E3%80%81%E5%8D%A1%E9%80%9A%E5%8C%96%EF%BC%8C%E4%B8%A6%E5%85%B7%E6%9C%89%E8%B1%90%E5%AF%8C%E3%80%81%E6%9F%94%E8%BB%9F%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%82)**
 
 ---
 
-### No. 11: 水墨畫孤舟提示詞，適用於 Nano Banana Pro
+### No. 67: 水墨畫孤舟提示詞，適用於 Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -960,7 +4122,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 12: 中學生在歷史課本頁面塗鴉
+### No. 68: 中學生在歷史課本頁面塗鴉
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1011,7 +4173,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 13: 電影般的雨中都市場景 JSON 提示
+### No. 69: 電影般的雨中都市場景 JSON 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1050,41 +4212,40 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 14: Nano Banana Pro 連絡表多重拍攝相機提示
+### No. 70: 從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個強大的指令式提示，用於分析輸入圖像並生成 3x3 的電影式聯絡表，其中包含同一主體的九種不同鏡頭類型。
+一個詳細的 Nano Banana Pro 指令提示，用於分析一張參考圖像，並生成一張 3x3 的電影式聯絡表，其中包含相同主體但不同鏡頭類型的圖像，同時保持身份、服裝和光線的一致性。
 
 #### 📝 提示詞
 
 ```
-分析輸入圖像的整體構圖。識別所有關鍵主體（無論是 {argument name="type of subject" default="單人、團體/情侶、車輛或特定物體"}），以及它們的空間關係和互動。
-生成一個連貫的 3x3「聯絡表」網格，顯示這些主體在相同環境中的 9 個不同鏡頭。
-您必須調整標準電影鏡頭類型以符合內容（例如，如果是團體，則讓團體保持在一起；如果是物體，則包含整個物體）：
+分析輸入圖像的整體構圖。識別所有關鍵主體（無論是單人、團體/情侶、車輛或特定物體）及其空間關係/互動。
+生成一個連貫的 3×3「聯絡表」網格，其中顯示在相同環境中，這些主體的 9 種不同鏡頭。
+您必須調整標準電影鏡頭類型以適應內容（例如，如果是團體，則將團體保持在一起；如果是物體，則框住整個物體）：
 第 1 行（建立環境）：
-極遠景（ELS）：主體在廣闊的環境中顯得渺小。
-遠景（LS）：主體或團體從上到下（頭到腳 / 車輪到車頂）完全可見。
-中遠景（美國鏡頭 / 四分之三）：人物從膝蓋以上取景，物體則為四分之三視角。
+1. 極遠景（ELS）：主體在廣闊的環境中顯得渺小。
+2. 遠景（LS）：完整的主體或團體從上到下（頭到腳/輪胎到車頂）清晰可見。
+3. 中遠景（美國鏡頭/四分之三）：從膝蓋以上取景（適用於人物）或四分之三視角（適用於物體）。
 第 2 行（核心覆蓋）：
-中景（MS）：從腰部以上取景（或物體的中央核心），聚焦於互動/動作。
-中近景（MCU）：從胸部以上取景。主體的親密特寫。
-特寫（CU）：臉部或物體「正面」的緊密特寫。
+4. 中景（MS）：從腰部以上取景（或物體的中心核心）。專注於互動/動作。
+5. 中近景（MCU）：從胸部以上取景。主體特寫鏡頭。
+6. 近景（CU）：緊密框住臉部或物體的「正面」。
 第 3 行（細節和角度）：
-極特寫（ECU）：強烈聚焦於關鍵特徵的微小細節（眼睛、手、標誌、紋理）。
-低角度鏡頭（蟲眼視角）：從地面向上看主體（戲劇性/英雄感）。
-高角度鏡頭（鳥瞰視角）：從上方俯視主體。
-確保嚴格的一致性：所有 9 個面板中，人物/物體、服裝和燈光都相同。景深應真實變化（特寫鏡頭中背景模糊）。
+7. 極近景（ECU）：以微距般的細節，強烈聚焦於關鍵特徵（眼睛、手、標誌、紋理）。
+8. 低角度鏡頭（蟲眼視角）：從地面向上看主體（史詩/英雄感）。
+9. 高角度鏡頭（鳥瞰視角）：從上方俯視主體。
+確保嚴格的一致性：所有 9 個面板中必須出現相同的人物/物體、相同的服裝和相同的照明。景深應真實地變化（特寫鏡頭中背景模糊）。
 
-一個專業的 3x3 電影故事板網格，包含 9 個面板。
-該網格以全焦距範圍呈現輸入圖像中的特定主體/場景。
-頂行：廣闊的環境鏡頭、全景、四分之三裁切（膝蓋以上）。
+建立一個專業的 3×3 電影分鏡網格，包含 9 個面板。
+該網格應以全焦距範圍呈現輸入圖像中的特定主體/場景。
+頂行：廣闊的環境鏡頭、全身視圖、四分之三裁剪（膝蓋以上）。
 中行：腰部以上視圖、胸部以上視圖、臉部/正面特寫。
 底行：微距細節、低角度、高角度。
-所有畫面都必須具有逼真的紋理、一致的電影色彩分級，以及針對所分析主體或物體數量和類型的正確構圖。
+所有畫面都必須具有照片級真實紋理、一致的電影色彩分級，以及根據所分析主體或物體的數量和類型量身定制的正確構圖。
 ```
 
 #### 🖼️ 生成圖片
@@ -1092,31 +4253,31 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Nano Banana Pro 連絡表多重拍攝相機提示 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Nano Banana Pro 連絡表多重拍攝相機提示 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Nano Banana Pro 連絡表多重拍攝相機提示 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Nano Banana Pro 連絡表多重拍攝相機提示 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表 - Image 4">
 </div>
 
 ##### Image 5
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Nano Banana Pro 連絡表多重拍攝相機提示 - Image 5">
+<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表 - Image 5">
 </div>
 
 #### 📌 詳情
@@ -1126,11 +4287,51 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 - **發布時間:** 2025年11月29日
 - **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%88%86%E6%9E%90%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E7%9A%84%E6%95%B4%E9%AB%94%E6%A7%8B%E5%9C%96%E3%80%82%E8%AD%98%E5%88%A5%E6%89%80%E6%9C%89%E9%97%9C%E9%8D%B5%E4%B8%BB%E9%AB%94%EF%BC%88%E7%84%A1%E8%AB%96%E6%98%AF%20%7Bargument%20name%3D%22type%20of%20subject%22%20default%3D%22%E5%96%AE%E4%BA%BA%E3%80%81%E5%9C%98%E9%AB%94%2F%E6%83%85%E4%BE%B6%E3%80%81%E8%BB%8A%E8%BC%9B%E6%88%96%E7%89%B9%E5%AE%9A%E7%89%A9%E9%AB%94%22%7D%EF%BC%89%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%AE%83%E5%80%91%E7%9A%84%E7%A9%BA%E9%96%93%E9%97%9C%E4%BF%82%E5%92%8C%E4%BA%92%E5%8B%95%E3%80%82%0A%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E9%80%A3%E8%B2%AB%E7%9A%84%203x3%E3%80%8C%E8%81%AF%E7%B5%A1%E8%A1%A8%E3%80%8D%E7%B6%B2%E6%A0%BC%EF%BC%8C%E9%A1%AF%E7%A4%BA%E9%80%99%E4%BA%9B%E4%B8%BB%E9%AB%94%E5%9C%A8%E7%9B%B8%E5%90%8C%E7%92%B0%E5%A2%83%E4%B8%AD%E7%9A%84%209%20%E5%80%8B%E4%B8%8D%E5%90%8C%E9%8F%A1%E9%A0%AD%E3%80%82%0A%E6%82%A8%E5%BF%85%E9%A0%88%E8%AA%BF%E6%95%B4%E6%A8%99%E6%BA%96%E9%9B%BB%E5%BD%B1%E9%8F%A1%E9%A0%AD%E9%A1%9E%E5%9E%8B%E4%BB%A5%E7%AC%A6%E5%90%88%E5%85%A7%E5%AE%B9%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%98%AF%E5%9C%98%E9%AB%94%EF%BC%8C%E5%89%87%E8%AE%93%E5%9C%98%E9%AB%94%E4%BF%9D%E6%8C%81%E5%9C%A8%E4%B8%80%E8%B5%B7%EF%BC%9B%E5%A6%82%E6%9E%9C%E6%98%AF%E7%89%A9%E9%AB%94%EF%BC%8C%E5%89%87%E5%8C%85%E5%90%AB%E6%95%B4%E5%80%8B%E7%89%A9%E9%AB%94%EF%BC%89%EF%BC%9A%0A%E7%AC%AC%201%20%E8%A1%8C%EF%BC%88%E5%BB%BA%E7%AB%8B%E7%92%B0%E5%A2%83%EF%BC%89%EF%BC%9A%0A%E6%A5%B5%E9%81%A0%E6%99%AF%EF%BC%88ELS%EF%BC%89%EF%BC%9A%E4%B8%BB%E9%AB%94%E5%9C%A8%E5%BB%A3%E9%97%8A%E7%9A%84%E7%92%B0%E5%A2%83%E4%B8%AD%E9%A1%AF%E5%BE%97%E6%B8%BA%E5%B0%8F%E3%80%82%0A%E9%81%A0%E6%99%AF%EF%BC%88LS%EF%BC%89%EF%BC%9A%E4%B8%BB%E9%AB%94%E6%88%96%E5%9C%98%E9%AB%94%E5%BE%9E%E4%B8%8A%E5%88%B0%E4%B8%8B%EF%BC%88%E9%A0%AD%E5%88%B0%E8%85%B3%20%2F%20%E8%BB%8A%E8%BC%AA%E5%88%B0%E8%BB%8A%E9%A0%82%EF%BC%89%E5%AE%8C%E5%85%A8%E5%8F%AF%E8%A6%8B%E3%80%82%0A%E4%B8%AD%E9%81%A0%E6%99%AF%EF%BC%88%E7%BE%8E%E5%9C%8B%E9%8F%A1%E9%A0%AD%20%2F%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89%EF%BC%89%EF%BC%9A%E4%BA%BA%E7%89%A9%E5%BE%9E%E8%86%9D%E8%93%8B%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%EF%BC%8C%E7%89%A9%E9%AB%94%E5%89%87%E7%82%BA%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89%E8%A6%96%E8%A7%92%E3%80%82%0A%E7%AC%AC%202%20%E8%A1%8C%EF%BC%88%E6%A0%B8%E5%BF%83%E8%A6%86%E8%93%8B%EF%BC%89%EF%BC%9A%0A%E4%B8%AD%E6%99%AF%EF%BC%88MS%EF%BC%89%EF%BC%9A%E5%BE%9E%E8%85%B0%E9%83%A8%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%EF%BC%88%E6%88%96%E7%89%A9%E9%AB%94%E7%9A%84%E4%B8%AD%E5%A4%AE%E6%A0%B8%E5%BF%83%EF%BC%89%EF%BC%8C%E8%81%9A%E7%84%A6%E6%96%BC%E4%BA%92%E5%8B%95%2F%E5%8B%95%E4%BD%9C%E3%80%82%0A%E4%B8%AD%E8%BF%91%E6%99%AF%EF%BC%88MCU%EF%BC%89%EF%BC%9A%E5%BE%9E%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%E3%80%82%E4%B8%BB%E9%AB%94%E7%9A%84%E8%A6%AA%E5%AF%86%E7%89%B9%E5%AF%AB%E3%80%82%0A%E7%89%B9%E5%AF%AB%EF%BC%88CU%EF%BC%89%EF%BC%9A%E8%87%89%E9%83%A8%E6%88%96%E7%89%A9%E9%AB%94%E3%80%8C%E6%AD%A3%E9%9D%A2%E3%80%8D%E7%9A%84%E7%B7%8A%E5%AF%86%E7%89%B9%E5%AF%AB%E3%80%82%0A%E7%AC%AC%203%20%E8%A1%8C%EF%BC%88%E7%B4%B0%E7%AF%80%E5%92%8C%E8%A7%92%E5%BA%A6%EF%BC%89%EF%BC%9A%0A%E6%A5%B5%E7%89%B9%E5%AF%AB%EF%BC%88ECU%EF%BC%89%EF%BC%9A%E5%BC%B7%E7%83%88%E8%81%9A%E7%84%A6%E6%96%BC%E9%97%9C%E9%8D%B5%E7%89%B9%E5%BE%B5%E7%9A%84%E5%BE%AE%E5%B0%8F%E7%B4%B0%E7%AF%80%EF%BC%88%E7%9C%BC%E7%9D%9B%E3%80%81%E6%89%8B%E3%80%81%E6%A8%99%E8%AA%8C%E3%80%81%E7%B4%8B%E7%90%86%EF%BC%89%E3%80%82%0A%E4%BD%8E%E8%A7%92%E5%BA%A6%E9%8F%A1%E9%A0%AD%EF%BC%88%E8%9F%B2%E7%9C%BC%E8%A6%96%E8%A7%92%EF%BC%89%EF%BC%9A%E5%BE%9E%E5%9C%B0%E9%9D%A2%E5%90%91%E4%B8%8A%E7%9C%8B%E4%B8%BB%E9%AB%94%EF%BC%88%E6%88%B2%E5%8A%87%E6%80%A7%2F%E8%8B%B1%E9%9B%84%E6%84%9F%EF%BC%89%E3%80%82%0A%E9%AB%98%E8%A7%92%E5%BA%A6%E9%8F%A1%E9%A0%AD%EF%BC%88%E9%B3%A5%E7%9E%B0%E8%A6%96%E8%A7%92%EF%BC%89%EF%BC%9A%E5%BE%9E%E4%B8%8A%E6%96%B9%E4%BF%AF%E8%A6%96%E4%B8%BB%E9%AB%94%E3%80%82%0A%E7%A2%BA%E4%BF%9D%E5%9A%B4%E6%A0%BC%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7%EF%BC%9A%E6%89%80%E6%9C%89%209%20%E5%80%8B%E9%9D%A2%E6%9D%BF%E4%B8%AD%EF%BC%8C%E4%BA%BA%E7%89%A9%2F%E7%89%A9%E9%AB%94%E3%80%81%E6%9C%8D%E8%A3%9D%E5%92%8C%E7%87%88%E5%85%89%E9%83%BD%E7%9B%B8%E5%90%8C%E3%80%82%E6%99%AF%E6%B7%B1%E6%87%89%E7%9C%9F%E5%AF%A6%E8%AE%8A%E5%8C%96%EF%BC%88%E7%89%B9%E5%AF%AB%E9%8F%A1%E9%A0%AD%E4%B8%AD%E8%83%8C%E6%99%AF%E6%A8%A1%E7%B3%8A%EF%BC%89%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%B0%88%E6%A5%AD%E7%9A%84%203x3%20%E9%9B%BB%E5%BD%B1%E6%95%85%E4%BA%8B%E6%9D%BF%E7%B6%B2%E6%A0%BC%EF%BC%8C%E5%8C%85%E5%90%AB%209%20%E5%80%8B%E9%9D%A2%E6%9D%BF%E3%80%82%0A%E8%A9%B2%E7%B6%B2%E6%A0%BC%E4%BB%A5%E5%85%A8%E7%84%A6%E8%B7%9D%E7%AF%84%E5%9C%8D%E5%91%88%E7%8F%BE%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E4%B8%AD%E7%9A%84%E7%89%B9%E5%AE%9A%E4%B8%BB%E9%AB%94%2F%E5%A0%B4%E6%99%AF%E3%80%82%0A%E9%A0%82%E8%A1%8C%EF%BC%9A%E5%BB%A3%E9%97%8A%E7%9A%84%E7%92%B0%E5%A2%83%E9%8F%A1%E9%A0%AD%E3%80%81%E5%85%A8%E6%99%AF%E3%80%81%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89%E8%A3%81%E5%88%87%EF%BC%88%E8%86%9D%E8%93%8B%E4%BB%A5%E4%B8%8A%EF%BC%89%E3%80%82%0A%E4%B8%AD%E8%A1%8C%EF%BC%9A%E8%85%B0%E9%83%A8%E4%BB%A5%E4%B8%8A%E8%A6%96%E5%9C%96%E3%80%81%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E8%A6%96%E5%9C%96%E3%80%81%E8%87%89%E9%83%A8%2F%E6%AD%A3%E9%9D%A2%E7%89%B9%E5%AF%AB%E3%80%82%0A%E5%BA%95%E8%A1%8C%EF%BC%9A%E5%BE%AE%E8%B7%9D%E7%B4%B0%E7%AF%80%E3%80%81%E4%BD%8E%E8%A7%92%E5%BA%A6%E3%80%81%E9%AB%98%E8%A7%92%E5%BA%A6%E3%80%82%0A%E6%89%80%E6%9C%89%E7%95%AB%E9%9D%A2%E9%83%BD%E5%BF%85%E9%A0%88%E5%85%B7%E6%9C%89%E9%80%BC%E7%9C%9F%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%81%E4%B8%80%E8%87%B4%E7%9A%84%E9%9B%BB%E5%BD%B1%E8%89%B2%E5%BD%A9%E5%88%86%E7%B4%9A%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%87%9D%E5%B0%8D%E6%89%80%E5%88%86%E6%9E%90%E4%B8%BB%E9%AB%94%E6%88%96%E7%89%A9%E9%AB%94%E6%95%B8%E9%87%8F%E5%92%8C%E9%A1%9E%E5%9E%8B%E7%9A%84%E6%AD%A3%E7%A2%BA%E6%A7%8B%E5%9C%96%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%88%86%E6%9E%90%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E7%9A%84%E6%95%B4%E9%AB%94%E6%A7%8B%E5%9C%96%E3%80%82%E8%AD%98%E5%88%A5%E6%89%80%E6%9C%89%E9%97%9C%E9%8D%B5%E4%B8%BB%E9%AB%94%EF%BC%88%E7%84%A1%E8%AB%96%E6%98%AF%E5%96%AE%E4%BA%BA%E3%80%81%E5%9C%98%E9%AB%94%2F%E6%83%85%E4%BE%B6%E3%80%81%E8%BB%8A%E8%BC%9B%E6%88%96%E7%89%B9%E5%AE%9A%E7%89%A9%E9%AB%94%EF%BC%89%E5%8F%8A%E5%85%B6%E7%A9%BA%E9%96%93%E9%97%9C%E4%BF%82%2F%E4%BA%92%E5%8B%95%E3%80%82%0A%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E9%80%A3%E8%B2%AB%E7%9A%84%203%C3%973%E3%80%8C%E8%81%AF%E7%B5%A1%E8%A1%A8%E3%80%8D%E7%B6%B2%E6%A0%BC%EF%BC%8C%E5%85%B6%E4%B8%AD%E9%A1%AF%E7%A4%BA%E5%9C%A8%E7%9B%B8%E5%90%8C%E7%92%B0%E5%A2%83%E4%B8%AD%EF%BC%8C%E9%80%99%E4%BA%9B%E4%B8%BB%E9%AB%94%E7%9A%84%209%20%E7%A8%AE%E4%B8%8D%E5%90%8C%E9%8F%A1%E9%A0%AD%E3%80%82%0A%E6%82%A8%E5%BF%85%E9%A0%88%E8%AA%BF%E6%95%B4%E6%A8%99%E6%BA%96%E9%9B%BB%E5%BD%B1%E9%8F%A1%E9%A0%AD%E9%A1%9E%E5%9E%8B%E4%BB%A5%E9%81%A9%E6%87%89%E5%85%A7%E5%AE%B9%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%98%AF%E5%9C%98%E9%AB%94%EF%BC%8C%E5%89%87%E5%B0%87%E5%9C%98%E9%AB%94%E4%BF%9D%E6%8C%81%E5%9C%A8%E4%B8%80%E8%B5%B7%EF%BC%9B%E5%A6%82%E6%9E%9C%E6%98%AF%E7%89%A9%E9%AB%94%EF%BC%8C%E5%89%87%E6%A1%86%E4%BD%8F%E6%95%B4%E5%80%8B%E7%89%A9%E9%AB%94%EF%BC%89%EF%BC%9A%0A%E7%AC%AC%201%20%E8%A1%8C%EF%BC%88%E5%BB%BA%E7%AB%8B%E7%92%B0%E5%A2%83%EF%BC%89%EF%BC%9A%0A1.%20%E6%A5%B5%E9%81%A0%E6%99%AF%EF%BC%88ELS%EF%BC%89%EF%BC%9A%E4%B8%BB%E9%AB%94%E5%9C%A8%E5%BB%A3%E9%97%8A%E7%9A%84%E7%92%B0%E5%A2%83%E4%B8%AD%E9%A1%AF%E5%BE%97%E6%B8%BA%E5%B0%8F%E3%80%82%0A2.%20%E9%81%A0%E6%99%AF%EF%BC%88LS%EF%BC%89%EF%BC%9A%E5%AE%8C%E6%95%B4%E7%9A%84%E4%B8%BB%E9%AB%94%E6%88%96%E5%9C%98%E9%AB%94%E5%BE%9E%E4%B8%8A%E5%88%B0%E4%B8%8B%EF%BC%88%E9%A0%AD%E5%88%B0%E8%85%B3%2F%E8%BC%AA%E8%83%8E%E5%88%B0%E8%BB%8A%E9%A0%82%EF%BC%89%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E3%80%82%0A3.%20%E4%B8%AD%E9%81%A0%E6%99%AF%EF%BC%88%E7%BE%8E%E5%9C%8B%E9%8F%A1%E9%A0%AD%2F%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89%EF%BC%89%EF%BC%9A%E5%BE%9E%E8%86%9D%E8%93%8B%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%EF%BC%88%E9%81%A9%E7%94%A8%E6%96%BC%E4%BA%BA%E7%89%A9%EF%BC%89%E6%88%96%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89%E8%A6%96%E8%A7%92%EF%BC%88%E9%81%A9%E7%94%A8%E6%96%BC%E7%89%A9%E9%AB%94%EF%BC%89%E3%80%82%0A%E7%AC%AC%202%20%E8%A1%8C%EF%BC%88%E6%A0%B8%E5%BF%83%E8%A6%86%E8%93%8B%EF%BC%89%EF%BC%9A%0A4.%20%E4%B8%AD%E6%99%AF%EF%BC%88MS%EF%BC%89%EF%BC%9A%E5%BE%9E%E8%85%B0%E9%83%A8%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%EF%BC%88%E6%88%96%E7%89%A9%E9%AB%94%E7%9A%84%E4%B8%AD%E5%BF%83%E6%A0%B8%E5%BF%83%EF%BC%89%E3%80%82%E5%B0%88%E6%B3%A8%E6%96%BC%E4%BA%92%E5%8B%95%2F%E5%8B%95%E4%BD%9C%E3%80%82%0A5.%20%E4%B8%AD%E8%BF%91%E6%99%AF%EF%BC%88MCU%EF%BC%89%EF%BC%9A%E5%BE%9E%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%E3%80%82%E4%B8%BB%E9%AB%94%E7%89%B9%E5%AF%AB%E9%8F%A1%E9%A0%AD%E3%80%82%0A6.%20%E8%BF%91%E6%99%AF%EF%BC%88CU%EF%BC%89%EF%BC%9A%E7%B7%8A%E5%AF%86%E6%A1%86%E4%BD%8F%E8%87%89%E9%83%A8%E6%88%96%E7%89%A9%E9%AB%94%E7%9A%84%E3%80%8C%E6%AD%A3%E9%9D%A2%E3%80%8D%E3%80%82%0A%E7%AC%AC%203%20%E8%A1%8C%EF%BC%88%E7%B4%B0%E7%AF%80%E5%92%8C%E8%A7%92%E5%BA%A6%EF%BC%89%EF%BC%9A%0A7.%20%E6%A5%B5%E8%BF%91%E6%99%AF%EF%BC%88ECU%EF%BC%89%EF%BC%9A%E4%BB%A5%E5%BE%AE%E8%B7%9D%E8%88%AC%E7%9A%84%E7%B4%B0%E7%AF%80%EF%BC%8C%E5%BC%B7%E7%83%88%E8%81%9A%E7%84%A6%E6%96%BC%E9%97%9C%E9%8D%B5%E7%89%B9%E5%BE%B5%EF%BC%88%E7%9C%BC%E7%9D%9B%E3%80%81%E6%89%8B%E3%80%81%E6%A8%99%E8%AA%8C%E3%80%81%E7%B4%8B%E7%90%86%EF%BC%89%E3%80%82%0A8.%20%E4%BD%8E%E8%A7%92%E5%BA%A6%E9%8F%A1%E9%A0%AD%EF%BC%88%E8%9F%B2%E7%9C%BC%E8%A6%96%E8%A7%92%EF%BC%89%EF%BC%9A%E5%BE%9E%E5%9C%B0%E9%9D%A2%E5%90%91%E4%B8%8A%E7%9C%8B%E4%B8%BB%E9%AB%94%EF%BC%88%E5%8F%B2%E8%A9%A9%2F%E8%8B%B1%E9%9B%84%E6%84%9F%EF%BC%89%E3%80%82%0A9.%20%E9%AB%98%E8%A7%92%E5%BA%A6%E9%8F%A1%E9%A0%AD%EF%BC%88%E9%B3%A5%E7%9E%B0%E8%A6%96%E8%A7%92%EF%BC%89%EF%BC%9A%E5%BE%9E%E4%B8%8A%E6%96%B9%E4%BF%AF%E8%A6%96%E4%B8%BB%E9%AB%94%E3%80%82%0A%E7%A2%BA%E4%BF%9D%E5%9A%B4%E6%A0%BC%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7%EF%BC%9A%E6%89%80%E6%9C%89%209%20%E5%80%8B%E9%9D%A2%E6%9D%BF%E4%B8%AD%E5%BF%85%E9%A0%88%E5%87%BA%E7%8F%BE%E7%9B%B8%E5%90%8C%E7%9A%84%E4%BA%BA%E7%89%A9%2F%E7%89%A9%E9%AB%94%E3%80%81%E7%9B%B8%E5%90%8C%E7%9A%84%E6%9C%8D%E8%A3%9D%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E7%85%A7%E6%98%8E%E3%80%82%E6%99%AF%E6%B7%B1%E6%87%89%E7%9C%9F%E5%AF%A6%E5%9C%B0%E8%AE%8A%E5%8C%96%EF%BC%88%E7%89%B9%E5%AF%AB%E9%8F%A1%E9%A0%AD%E4%B8%AD%E8%83%8C%E6%99%AF%E6%A8%A1%E7%B3%8A%EF%BC%89%E3%80%82%0A%0A%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E5%B0%88%E6%A5%AD%E7%9A%84%203%C3%973%20%E9%9B%BB%E5%BD%B1%E5%88%86%E9%8F%A1%E7%B6%B2%E6%A0%BC%EF%BC%8C%E5%8C%85%E5%90%AB%209%20%E5%80%8B%E9%9D%A2%E6%9D%BF%E3%80%82%0A%E8%A9%B2%E7%B6%B2%E6%A0%BC%E6%87%89%E4%BB%A5%E5%85%A8%E7%84%A6%E8%B7%9D%E7%AF%84%E5%9C%8D%E5%91%88%E7%8F%BE%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E4%B8%AD%E7%9A%84%E7%89%B9%E5%AE%9A%E4%B8%BB%E9%AB%94%2F%E5%A0%B4%E6%99%AF%E3%80%82%0A%E9%A0%82%E8%A1%8C%EF%BC%9A%E5%BB%A3%E9%97%8A%E7%9A%84%E7%92%B0%E5%A2%83%E9%8F%A1%E9%A0%AD%E3%80%81%E5%85%A8%E8%BA%AB%E8%A6%96%E5%9C%96%E3%80%81%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89%E8%A3%81%E5%89%AA%EF%BC%88%E8%86%9D%E8%93%8B%E4%BB%A5%E4%B8%8A%EF%BC%89%E3%80%82%0A%E4%B8%AD%E8%A1%8C%EF%BC%9A%E8%85%B0%E9%83%A8%E4%BB%A5%E4%B8%8A%E8%A6%96%E5%9C%96%E3%80%81%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E8%A6%96%E5%9C%96%E3%80%81%E8%87%89%E9%83%A8%2F%E6%AD%A3%E9%9D%A2%E7%89%B9%E5%AF%AB%E3%80%82%0A%E5%BA%95%E8%A1%8C%EF%BC%9A%E5%BE%AE%E8%B7%9D%E7%B4%B0%E7%AF%80%E3%80%81%E4%BD%8E%E8%A7%92%E5%BA%A6%E3%80%81%E9%AB%98%E8%A7%92%E5%BA%A6%E3%80%82%0A%E6%89%80%E6%9C%89%E7%95%AB%E9%9D%A2%E9%83%BD%E5%BF%85%E9%A0%88%E5%85%B7%E6%9C%89%E7%85%A7%E7%89%87%E7%B4%9A%E7%9C%9F%E5%AF%A6%E7%B4%8B%E7%90%86%E3%80%81%E4%B8%80%E8%87%B4%E7%9A%84%E9%9B%BB%E5%BD%B1%E8%89%B2%E5%BD%A9%E5%88%86%E7%B4%9A%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%A0%B9%E6%93%9A%E6%89%80%E5%88%86%E6%9E%90%E4%B8%BB%E9%AB%94%E6%88%96%E7%89%A9%E9%AB%94%E7%9A%84%E6%95%B8%E9%87%8F%E5%92%8C%E9%A1%9E%E5%9E%8B%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%88%B6%E7%9A%84%E6%AD%A3%E7%A2%BA%E6%A7%8B%E5%9C%96%E3%80%82)**
 
 ---
 
-### No. 15: YAML 提示詞轉換，適用於圖像和圖表
+### No. 71: Nano Banana Pro 專業個人檔案照片提示
+
+![Language-KO](https://img.shields.io/badge/Language-KO-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的韓文提示範本，用於使用 Nano Banana Pro 從輸入圖像生成專業高品質的個人資料照片，並可控制構圖、服裝、背景顏色、燈光、鏡頭和情緒。
+
+#### 📝 提示詞
+
+```
+一張高解析度、專業的個人資料照片，保留輸入圖像中人物的精確臉部結構、身份和主要特徵。人物從胸部以上取景，頭部上方留有足夠空間。人物直視鏡頭。穿著一件精緻的商務休閒西裝外套，顏色為低調的炭灰色，風格如同專業攝影棚拍攝。背景是單一中性攝影棚顏色 "{argument name="background color" default="#562226"}"。從高角度拍攝，使用明亮、通風良好的柔和漫射攝影棚燈光，輕柔地照亮臉部，並在眼睛中創造出細微的眼神光，以傳達清晰感。使用 85mm f/1.8 鏡頭，景深較淺，眼睛完美對焦，散景柔美。捕捉西裝外套布料紋理、每根髮絲以及自然逼真皮膚紋理的清晰細節。氛圍應散發出自信、專業和親和力。運用乾淨、明亮的電影級調色，帶有微妙的暖色調和平衡的色調，以確保呈現精緻、現代的外觀。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909196159_r2hp0o_G67ej0KbkAAWzN0.jpg" width="600" alt="Nano Banana Pro 專業個人檔案照片提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909198332_lb4go4_G67ej0JaQAAm4tR.jpg" width="600" alt="Nano Banana Pro 專業個人檔案照片提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [lucas](https://x.com/lucas_flatwhite)
+- **來源:** [Twitter Post](https://x.com/lucas_flatwhite/status/1994776765349364059)
+- **發布時間:** 2025年11月29日
+- **多語言:** ko
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E3%80%81%E5%B0%88%E6%A5%AD%E7%9A%84%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E7%85%A7%E7%89%87%EF%BC%8C%E4%BF%9D%E7%95%99%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E7%B2%BE%E7%A2%BA%E8%87%89%E9%83%A8%E7%B5%90%E6%A7%8B%E3%80%81%E8%BA%AB%E4%BB%BD%E5%92%8C%E4%B8%BB%E8%A6%81%E7%89%B9%E5%BE%B5%E3%80%82%E4%BA%BA%E7%89%A9%E5%BE%9E%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%EF%BC%8C%E9%A0%AD%E9%83%A8%E4%B8%8A%E6%96%B9%E7%95%99%E6%9C%89%E8%B6%B3%E5%A4%A0%E7%A9%BA%E9%96%93%E3%80%82%E4%BA%BA%E7%89%A9%E7%9B%B4%E8%A6%96%E9%8F%A1%E9%A0%AD%E3%80%82%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E7%B2%BE%E7%B7%BB%E7%9A%84%E5%95%86%E5%8B%99%E4%BC%91%E9%96%92%E8%A5%BF%E8%A3%9D%E5%A4%96%E5%A5%97%EF%BC%8C%E9%A1%8F%E8%89%B2%E7%82%BA%E4%BD%8E%E8%AA%BF%E7%9A%84%E7%82%AD%E7%81%B0%E8%89%B2%EF%BC%8C%E9%A2%A8%E6%A0%BC%E5%A6%82%E5%90%8C%E5%B0%88%E6%A5%AD%E6%94%9D%E5%BD%B1%E6%A3%9A%E6%8B%8D%E6%94%9D%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E5%96%AE%E4%B8%80%E4%B8%AD%E6%80%A7%E6%94%9D%E5%BD%B1%E6%A3%9A%E9%A1%8F%E8%89%B2%20%22%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23562226%22%7D%22%E3%80%82%E5%BE%9E%E9%AB%98%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%94%9D%EF%BC%8C%E4%BD%BF%E7%94%A8%E6%98%8E%E4%BA%AE%E3%80%81%E9%80%9A%E9%A2%A8%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9F%94%E5%92%8C%E6%BC%AB%E5%B0%84%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%87%88%E5%85%89%EF%BC%8C%E8%BC%95%E6%9F%94%E5%9C%B0%E7%85%A7%E4%BA%AE%E8%87%89%E9%83%A8%EF%BC%8C%E4%B8%A6%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%AD%E5%89%B5%E9%80%A0%E5%87%BA%E7%B4%B0%E5%BE%AE%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%85%89%EF%BC%8C%E4%BB%A5%E5%82%B3%E9%81%94%E6%B8%85%E6%99%B0%E6%84%9F%E3%80%82%E4%BD%BF%E7%94%A8%2085mm%20f%2F1.8%20%E9%8F%A1%E9%A0%AD%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BC%83%E6%B7%BA%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%AE%8C%E7%BE%8E%E5%B0%8D%E7%84%A6%EF%BC%8C%E6%95%A3%E6%99%AF%E6%9F%94%E7%BE%8E%E3%80%82%E6%8D%95%E6%8D%89%E8%A5%BF%E8%A3%9D%E5%A4%96%E5%A5%97%E5%B8%83%E6%96%99%E7%B4%8B%E7%90%86%E3%80%81%E6%AF%8F%E6%A0%B9%E9%AB%AE%E7%B5%B2%E4%BB%A5%E5%8F%8A%E8%87%AA%E7%84%B6%E9%80%BC%E7%9C%9F%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E7%9A%84%E6%B8%85%E6%99%B0%E7%B4%B0%E7%AF%80%E3%80%82%E6%B0%9B%E5%9C%8D%E6%87%89%E6%95%A3%E7%99%BC%E5%87%BA%E8%87%AA%E4%BF%A1%E3%80%81%E5%B0%88%E6%A5%AD%E5%92%8C%E8%A6%AA%E5%92%8C%E5%8A%9B%E3%80%82%E9%81%8B%E7%94%A8%E4%B9%BE%E6%B7%A8%E3%80%81%E6%98%8E%E4%BA%AE%E7%9A%84%E9%9B%BB%E5%BD%B1%E7%B4%9A%E8%AA%BF%E8%89%B2%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%AA%BF%E5%92%8C%E5%B9%B3%E8%A1%A1%E7%9A%84%E8%89%B2%E8%AA%BF%EF%BC%8C%E4%BB%A5%E7%A2%BA%E4%BF%9D%E5%91%88%E7%8F%BE%E7%B2%BE%E7%B7%BB%E3%80%81%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%A4%96%E8%A7%80%E3%80%82)**
+
+---
+
+### No. 72: YAML 提示詞轉換，適用於圖像和圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1163,7 +4364,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 16: 參考匹配的女性肖像 JSON 提示
+### No. 73: 參考匹配的女性肖像 JSON 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1204,13 +4405,14 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 17: 超寫實肖像 JSON 提示詞與參考圖片
+### No. 74: 豪華海濱飯店露台肖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-用於超寫實肖像的 Nano Banana Pro JSON 提示配置，透過高參考保真度嚴格匹配參考照片中的臉部和服裝。
+一個複雜的 Nano Banana Pro 提示，用於描繪一位女士在豪華海濱飯店露台享用晚餐的超寫實肖像，並嚴格匹配參考資料、配件、道具、燈光和氛圍。
 
 #### 📝 提示詞
 
@@ -1219,8 +4421,69 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
   "project": "超寫實肖像",
   "reference_settings": {
     "use_reference_image": true,
-    "fidelity_strength": "100%",
-    "instruction": "臉部和服裝必須與參考照片 100% 相符，絕不允許任何修改。"
+    "fidelity_strength": "{argument name=\"reference fidelity\" default=\"100%\"}",
+    "instruction": "臉部和服裝必須與參考照片 100% 吻合，絕不允許任何改動。"
+  },
+  "subject": {
+    "demographics": "{argument name=\"subject gender\" default=\"Woman\"}",
+    "focus_features": ["眼睛", "鼻子", "嘴唇"],
+    "expression": "微笑、可愛、清新、夢幻、略帶性感",
+    "pose": "坐在白色桌旁，雙手托腮，身體略微轉向",
+    "hair": {
+      "style": "直髮，大髮髻",
+      "accessory": "與服裝相配的蝴蝶結",
+      "texture": "柔軟分層，髮絲自然垂落在臉上",
+      "movement": "微風輕拂"
+    },
+    "makeup": {
+      "cheeks": "臉頰和鼻頭有自然腮紅",
+      "lips": "豐滿雙唇，柔和的粉桃色調"
+    }
+  },
+  "fashion_and_accessories": {
+    "outfit": "與參考圖片完全一致",
+    "shoes": "高跟鞋（與參考圖片相符）",
+    "bag": "與參考照片相同的包包",
+    "jewelry": {
+      "necklace": "細金項鍊，飾有交替的墜飾（心形、新月、Gucci 吊墜）",
+      "bracelet": "精緻的 Gucci 墜飾手鍊",
+      "rings": "金戒指",
+      "watch": "鋼帶百達翡麗手錶",
+      "earrings": "小巧的金色 Gucci 耳環"
+    }
+  },
+  "environment": {
+    "location": "豪華飯店露台 / 海邊",
+    "time_of_day_options": [
+      "選項 A：深藍色夜空、星星、流星、月光",
+      "選項 B：清晨日出，橙黃色天空色調"
+    ],
+    "background_elements": [
+      "豪華飯店的溫暖倒影",
+      "平靜的海景"
+    ]
+  },
+  "props": {
+    "table_setting": "白色桌子",
+    "items": [
+      "插著一朵白玫瑰的玻璃杯",
+      "葡萄酒杯",
+      "葡萄酒瓶",
+      "擺有刀叉的餐盤",
+      "中央擺放著大塊 T 骨牛排",
+      "燭台（增添溫暖亮點）"
+    ]
+  },
+  "photography_style": {
+    "aesthetic": "2000 年代數位相機閃光燈風格",
+    "lighting": "逼真的閃光亮度，暖色調，皮膚略帶光澤",
+    "mood": "放鬆、溫暖、懷舊、時尚、優雅、略帶性感",
+    "shot_type": "特寫肖像"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "{argument name=\"aspect ratio\" default=\"3:4\"}",
+    "detail_level": "{argument name=\"detail level\" default=\"8k\"}",
+    "style_tags": ["photo", "realistic", "flash photography"]
   }
 }
 ```
@@ -1230,7 +4493,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="超寫實肖像 JSON 提示詞與參考圖片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="豪華海濱飯店露台肖像提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1240,22 +4503,22 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 - **發布時間:** 2025年11月29日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%E8%B6%85%E5%AF%AB%E5%AF%A6%E8%82%96%E5%83%8F%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22100%25%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22%E8%87%89%E9%83%A8%E5%92%8C%E6%9C%8D%E8%A3%9D%E5%BF%85%E9%A0%88%E8%88%87%E5%8F%83%E8%80%83%E7%85%A7%E7%89%87%20100%25%20%E7%9B%B8%E7%AC%A6%EF%BC%8C%E7%B5%95%E4%B8%8D%E5%85%81%E8%A8%B1%E4%BB%BB%E4%BD%95%E4%BF%AE%E6%94%B9%E3%80%82%22%0A%20%20%7D%0A%7D)**
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%E8%B6%85%E5%AF%AB%E5%AF%A6%E8%82%96%E5%83%8F%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%5C%22reference%20fidelity%5C%22%20default%3D%5C%22100%25%5C%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22%E8%87%89%E9%83%A8%E5%92%8C%E6%9C%8D%E8%A3%9D%E5%BF%85%E9%A0%88%E8%88%87%E5%8F%83%E8%80%83%E7%85%A7%E7%89%87%20100%25%20%E5%90%BB%E5%90%88%EF%BC%8C%E7%B5%95%E4%B8%8D%E5%85%81%E8%A8%B1%E4%BB%BB%E4%BD%95%E6%94%B9%E5%8B%95%E3%80%82%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%7Bargument%20name%3D%5C%22subject%20gender%5C%22%20default%3D%5C%22Woman%5C%22%7D%22%2C%0A%20%20%20%20%22focus_features%22%3A%20%5B%22%E7%9C%BC%E7%9D%9B%22%2C%20%22%E9%BC%BB%E5%AD%90%22%2C%20%22%E5%98%B4%E5%94%87%22%5D%2C%0A%20%20%20%20%22expression%22%3A%20%22%E5%BE%AE%E7%AC%91%E3%80%81%E5%8F%AF%E6%84%9B%E3%80%81%E6%B8%85%E6%96%B0%E3%80%81%E5%A4%A2%E5%B9%BB%E3%80%81%E7%95%A5%E5%B8%B6%E6%80%A7%E6%84%9F%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%E5%9D%90%E5%9C%A8%E7%99%BD%E8%89%B2%E6%A1%8C%E6%97%81%EF%BC%8C%E9%9B%99%E6%89%8B%E6%89%98%E8%85%AE%EF%BC%8C%E8%BA%AB%E9%AB%94%E7%95%A5%E5%BE%AE%E8%BD%89%E5%90%91%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%E7%9B%B4%E9%AB%AE%EF%BC%8C%E5%A4%A7%E9%AB%AE%E9%AB%BB%22%2C%0A%20%20%20%20%20%20%22accessory%22%3A%20%22%E8%88%87%E6%9C%8D%E8%A3%9D%E7%9B%B8%E9%85%8D%E7%9A%84%E8%9D%B4%E8%9D%B6%E7%B5%90%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22%E6%9F%94%E8%BB%9F%E5%88%86%E5%B1%A4%EF%BC%8C%E9%AB%AE%E7%B5%B2%E8%87%AA%E7%84%B6%E5%9E%82%E8%90%BD%E5%9C%A8%E8%87%89%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22%E5%BE%AE%E9%A2%A8%E8%BC%95%E6%8B%82%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks%22%3A%20%22%E8%87%89%E9%A0%B0%E5%92%8C%E9%BC%BB%E9%A0%AD%E6%9C%89%E8%87%AA%E7%84%B6%E8%85%AE%E7%B4%85%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22%E8%B1%90%E6%BB%BF%E9%9B%99%E5%94%87%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E6%A1%83%E8%89%B2%E8%AA%BF%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22fashion_and_accessories%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22%E8%88%87%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4%22%2C%0A%20%20%20%20%22shoes%22%3A%20%22%E9%AB%98%E8%B7%9F%E9%9E%8B%EF%BC%88%E8%88%87%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E7%9B%B8%E7%AC%A6%EF%BC%89%22%2C%0A%20%20%20%20%22bag%22%3A%20%22%E8%88%87%E5%8F%83%E8%80%83%E7%85%A7%E7%89%87%E7%9B%B8%E5%90%8C%E7%9A%84%E5%8C%85%E5%8C%85%22%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22%E7%B4%B0%E9%87%91%E9%A0%85%E9%8D%8A%EF%BC%8C%E9%A3%BE%E6%9C%89%E4%BA%A4%E6%9B%BF%E7%9A%84%E5%A2%9C%E9%A3%BE%EF%BC%88%E5%BF%83%E5%BD%A2%E3%80%81%E6%96%B0%E6%9C%88%E3%80%81Gucci%20%E5%90%8A%E5%A2%9C%EF%BC%89%22%2C%0A%20%20%20%20%20%20%22bracelet%22%3A%20%22%E7%B2%BE%E7%B7%BB%E7%9A%84%20Gucci%20%E5%A2%9C%E9%A3%BE%E6%89%8B%E9%8D%8A%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22%E9%87%91%E6%88%92%E6%8C%87%22%2C%0A%20%20%20%20%20%20%22watch%22%3A%20%22%E9%8B%BC%E5%B8%B6%E7%99%BE%E9%81%94%E7%BF%A1%E9%BA%97%E6%89%8B%E9%8C%B6%22%2C%0A%20%20%20%20%20%20%22earrings%22%3A%20%22%E5%B0%8F%E5%B7%A7%E7%9A%84%E9%87%91%E8%89%B2%20Gucci%20%E8%80%B3%E7%92%B0%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%E8%B1%AA%E8%8F%AF%E9%A3%AF%E5%BA%97%E9%9C%B2%E5%8F%B0%20%2F%20%E6%B5%B7%E9%82%8A%22%2C%0A%20%20%20%20%22time_of_day_options%22%3A%20%5B%0A%20%20%20%20%20%20%22%E9%81%B8%E9%A0%85%20A%EF%BC%9A%E6%B7%B1%E8%97%8D%E8%89%B2%E5%A4%9C%E7%A9%BA%E3%80%81%E6%98%9F%E6%98%9F%E3%80%81%E6%B5%81%E6%98%9F%E3%80%81%E6%9C%88%E5%85%89%22%2C%0A%20%20%20%20%20%20%22%E9%81%B8%E9%A0%85%20B%EF%BC%9A%E6%B8%85%E6%99%A8%E6%97%A5%E5%87%BA%EF%BC%8C%E6%A9%99%E9%BB%83%E8%89%B2%E5%A4%A9%E7%A9%BA%E8%89%B2%E8%AA%BF%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%E8%B1%AA%E8%8F%AF%E9%A3%AF%E5%BA%97%E7%9A%84%E6%BA%AB%E6%9A%96%E5%80%92%E5%BD%B1%22%2C%0A%20%20%20%20%20%20%22%E5%B9%B3%E9%9D%9C%E7%9A%84%E6%B5%B7%E6%99%AF%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22props%22%3A%20%7B%0A%20%20%20%20%22table_setting%22%3A%20%22%E7%99%BD%E8%89%B2%E6%A1%8C%E5%AD%90%22%2C%0A%20%20%20%20%22items%22%3A%20%5B%0A%20%20%20%20%20%20%22%E6%8F%92%E8%91%97%E4%B8%80%E6%9C%B5%E7%99%BD%E7%8E%AB%E7%91%B0%E7%9A%84%E7%8E%BB%E7%92%83%E6%9D%AF%22%2C%0A%20%20%20%20%20%20%22%E8%91%A1%E8%90%84%E9%85%92%E6%9D%AF%22%2C%0A%20%20%20%20%20%20%22%E8%91%A1%E8%90%84%E9%85%92%E7%93%B6%22%2C%0A%20%20%20%20%20%20%22%E6%93%BA%E6%9C%89%E5%88%80%E5%8F%89%E7%9A%84%E9%A4%90%E7%9B%A4%22%2C%0A%20%20%20%20%20%20%22%E4%B8%AD%E5%A4%AE%E6%93%BA%E6%94%BE%E8%91%97%E5%A4%A7%E5%A1%8A%20T%20%E9%AA%A8%E7%89%9B%E6%8E%92%22%2C%0A%20%20%20%20%20%20%22%E7%87%AD%E5%8F%B0%EF%BC%88%E5%A2%9E%E6%B7%BB%E6%BA%AB%E6%9A%96%E4%BA%AE%E9%BB%9E%EF%BC%89%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22aesthetic%22%3A%20%222000%20%E5%B9%B4%E4%BB%A3%E6%95%B8%E4%BD%8D%E7%9B%B8%E6%A9%9F%E9%96%83%E5%85%89%E7%87%88%E9%A2%A8%E6%A0%BC%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%E9%80%BC%E7%9C%9F%E7%9A%84%E9%96%83%E5%85%89%E4%BA%AE%E5%BA%A6%EF%BC%8C%E6%9A%96%E8%89%B2%E8%AA%BF%EF%BC%8C%E7%9A%AE%E8%86%9A%E7%95%A5%E5%B8%B6%E5%85%89%E6%BE%A4%22%2C%0A%20%20%20%20%22mood%22%3A%20%22%E6%94%BE%E9%AC%86%E3%80%81%E6%BA%AB%E6%9A%96%E3%80%81%E6%87%B7%E8%88%8A%E3%80%81%E6%99%82%E5%B0%9A%E3%80%81%E5%84%AA%E9%9B%85%E3%80%81%E7%95%A5%E5%B8%B6%E6%80%A7%E6%84%9F%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22%E7%89%B9%E5%AF%AB%E8%82%96%E5%83%8F%22%0A%20%20%7D%2C%0A%20%20%22technical_parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%5C%22aspect%20ratio%5C%22%20default%3D%5C%223%3A4%5C%22%7D%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22%7Bargument%20name%3D%5C%22detail%20level%5C%22%20default%3D%5C%228k%5C%22%7D%22%2C%0A%20%20%20%20%22style_tags%22%3A%20%5B%22photo%22%2C%20%22realistic%22%2C%20%22flash%20photography%22%5D%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 18: Nano Banana Pro 提示，可將舊照片修復成現代肖像
+### No. 75: 舊照片修復成現代數位肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個詳細的英中提示對，用於使用 Nano Banana Pro 將舊照片轉換為現代、高品質的數位肖像，同時保留原始姿勢和表情。這對於需要更新色彩和風格，但又要高度相似於原始圖像的照片修復工作流程非常有用。
+一個雙語的 Nano Banana Pro 提示，用於將舊照片轉換為現代高品質肖像，同時保留主體的姿勢和表情。
 
 #### 📝 提示詞
 
 ```
-將圖像轉化為現代、高品質的數位肖像，擁有鮮明更新的色彩、平滑逼真的皮膚紋理和自然光線。將服裝和背景升級為簡潔、現代的美學風格，同時保留原始姿勢和表情的真實性。
+將輸入內容轉化為現代、高品質的數位肖像，擁有鮮明且更新的色彩、平滑逼真的皮膚紋理和自然光線。將服裝和背景升級為簡潔、現代的風格，同時保留原始姿勢和表情的真實性。
 ```
 
 #### 🖼️ 生成圖片
@@ -1263,25 +4526,25 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Nano Banana Pro 提示，可將舊照片修復成現代肖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="舊照片修復成現代數位肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Nano Banana Pro 提示，可將舊照片修復成現代肖像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="舊照片修復成現代數位肖像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Nano Banana Pro 提示，可將舊照片修復成現代肖像 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="舊照片修復成現代數位肖像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Nano Banana Pro 提示，可將舊照片修復成現代肖像 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="舊照片修復成現代數位肖像 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -1291,11 +4554,11 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 - **發布時間:** 2025年11月29日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E5%9C%96%E5%83%8F%E8%BD%89%E5%8C%96%E7%82%BA%E7%8F%BE%E4%BB%A3%E3%80%81%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E6%95%B8%E4%BD%8D%E8%82%96%E5%83%8F%EF%BC%8C%E6%93%81%E6%9C%89%E9%AE%AE%E6%98%8E%E6%9B%B4%E6%96%B0%E7%9A%84%E8%89%B2%E5%BD%A9%E3%80%81%E5%B9%B3%E6%BB%91%E9%80%BC%E7%9C%9F%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E5%92%8C%E8%87%AA%E7%84%B6%E5%85%89%E7%B7%9A%E3%80%82%E5%B0%87%E6%9C%8D%E8%A3%9D%E5%92%8C%E8%83%8C%E6%99%AF%E5%8D%87%E7%B4%9A%E7%82%BA%E7%B0%A1%E6%BD%94%E3%80%81%E7%8F%BE%E4%BB%A3%E7%9A%84%E7%BE%8E%E5%AD%B8%E9%A2%A8%E6%A0%BC%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E7%95%99%E5%8E%9F%E5%A7%8B%E5%A7%BF%E5%8B%A2%E5%92%8C%E8%A1%A8%E6%83%85%E7%9A%84%E7%9C%9F%E5%AF%A6%E6%80%A7%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E8%BC%B8%E5%85%A5%E5%85%A7%E5%AE%B9%E8%BD%89%E5%8C%96%E7%82%BA%E7%8F%BE%E4%BB%A3%E3%80%81%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E6%95%B8%E4%BD%8D%E8%82%96%E5%83%8F%EF%BC%8C%E6%93%81%E6%9C%89%E9%AE%AE%E6%98%8E%E4%B8%94%E6%9B%B4%E6%96%B0%E7%9A%84%E8%89%B2%E5%BD%A9%E3%80%81%E5%B9%B3%E6%BB%91%E9%80%BC%E7%9C%9F%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E5%92%8C%E8%87%AA%E7%84%B6%E5%85%89%E7%B7%9A%E3%80%82%E5%B0%87%E6%9C%8D%E8%A3%9D%E5%92%8C%E8%83%8C%E6%99%AF%E5%8D%87%E7%B4%9A%E7%82%BA%E7%B0%A1%E6%BD%94%E3%80%81%E7%8F%BE%E4%BB%A3%E7%9A%84%E9%A2%A8%E6%A0%BC%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E7%95%99%E5%8E%9F%E5%A7%8B%E5%A7%BF%E5%8B%A2%E5%92%8C%E8%A1%A8%E6%83%85%E7%9A%84%E7%9C%9F%E5%AF%A6%E6%80%A7%E3%80%82)**
 
 ---
 
-### No. 19: 從圖片產生黑白故事板
+### No. 76: 從圖片產生黑白故事板
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1336,7 +4599,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 20: 使用參考人物的 Cheki 風格偶像照片提示
+### No. 77: 使用參考人物的 Cheki 風格偶像照片提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1388,33 +4651,32 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 21: 適用於 Nano Banana Pro 的未來感玻璃擬態 PPT 設計提示
+### No. 78: Glassmorphism SaaS 風格的 PPT 設計提示，適用於 Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個詳細的 PPT 生成提示，讓您成為專業的 UI/UX 投影片設計師，創作出受 Apple Keynote 和現代 SaaS 設計啟發，具有高擬真度、未來感玻璃擬態風格的 16:9 簡報。
+一個全面的 UI/UX 簡報設計提示，讓 Nano Banana Pro 能生成具未來感玻璃卡片風格的 16:9 投影片，融合 Apple Keynote 的極簡主義與現代 SaaS 美學。
 
 #### 📝 提示詞
 
 ```
-您是一位專家級的 UI/UX 簡報設計師。請生成高擬真、未來感的 16:9 簡報投影片。根據視覺平衡和美學原則，自動選擇封面、網格佈局或數據視覺化中最完美的構圖。
+您是一位專業級的 UI/UX 簡報設計師。請生成高擬真、未來感的 16:9 簡報投影片。根據視覺平衡美學，自動從封面、網格佈局或數據視覺化中選擇最完美的構圖。
 
-對於整體視覺語言，風格應無縫融合 Apple Keynote 的極簡主義、現代 SaaS 產品設計和玻璃擬物化 (glassmorphism)。整體氛圍應感覺高端、沉浸、簡潔且通透。使用電影級的體積光、柔和的光線追蹤反射和環境光遮蔽。色彩方案應以 {argument name="base color" default="深邃虛空黑或純陶瓷白"} 作為基礎，並以流動的極光漸變色（例如 {argument name="gradient accent colors" default="霓虹紫、電光藍、柔和珊瑚橙、青色"}）點綴背景和 UI 亮點。
+在全球視覺語言方面，風格應無縫融合 Apple Keynote 的極簡主義、現代 SaaS 產品設計和玻璃擬態（glassmorphism）。整體氛圍應呈現高質感、沉浸式、簡潔且通透的感覺。請使用電影級的體積光、柔和的光線追蹤反射和環境光遮蔽。在配色方案上，選擇深邃的虛空黑或純粹的陶瓷白作為基底，並以流動的極光漸層（如霓虹紫、電光藍、柔和珊瑚橙和青色）點綴背景和 UI 亮點。
 
-對於視覺中的內容模組，請智慧地整合以下元素：
+對於每張投影片上的內容模組，請智慧地整合以下元素：
 
-1. 使用便當盒 (bento-box) 網格系統作為佈局引擎，將內容組織到模組化的圓角矩形容器中。容器必須具有磨砂玻璃材質，帶有模糊效果、精緻的白色邊框和柔和的陰影，並且必須保留大量的內部留白以避免擁擠。
+1. 使用便當盒網格系統（bento grid system）作為佈局引擎，將內容組織在模組化的圓角矩形容器內。這些容器必須是帶有模糊效果的磨砂玻璃，並帶有精緻的白色邊緣和柔和的陰影，且嚴格保留寬裕的內部留白，以避免擁擠。
 
-2. 插入具有奢華禮物般質感的 3D 物件，渲染獨特的高端抽象 3D 作品作為視覺錨點。它們的外觀應類似昂貴的實體禮物或收藏品，材質如 {argument name="3D object materials" default="拋光金屬、虹彩壓克力、透明玻璃或柔軟矽膠"}，形狀如 {argument name="3D object shapes" default="漂浮膠囊、球體、盾牌、莫比烏斯環或流體波浪"}。
+2. 插入禮物般的 3D 物件，渲染獨特、高階的抽象 3D 藝術品作為視覺錨點。它們應看起來像有形、昂貴的禮物或收藏品，材質可選用拋光金屬、虹彩壓克力、透明玻璃或柔軟矽膠，形狀可選用漂浮的膠囊、球體、盾牌、莫比烏斯環或流體波浪。
 
-3. 對於排版和數據，請使用高對比度的簡潔無襯線字體。如果存在圖表，請使用發光的 3D 甜甜圈圖、膠囊狀進度條或漂浮數字，並使圖表看起來像發光的霓虹玩具。
+3. 在字體排版和數據方面，請使用高對比度的簡潔無襯線字體。如果包含圖表，請使用發光的 3D 甜甜圈圖、膠囊形進度條或漂浮數字；圖表應看起來像發光的霓虹玩具。
 
-構圖邏輯參考：如果生成封面投影片，請在中心放置一個巨大而複雜的 3D 玻璃物件，疊加粗體大字，並在背景中延伸極光波浪。如果生成內容投影片，請使用便當盒網格佈局，將 3D 圖示放置在小卡片中，文字放置在大卡片中。如果生成數據投影片，請使用分屏佈局：文字排列在左側，右側是一個巨大的漂浮發光 3D 數據視覺化圖表。
+構圖邏輯參考：如果生成封面，請在中央放置一個巨大、複雜的 3D 玻璃物件，上方疊加粗體大字，背景則延伸著極光波浪。如果生成內容投影片，請使用便當盒網格佈局，小卡片上放置 3D 圖示，大卡片上放置文字。如果生成數據投影片，請使用分屏設計：左側為字體排版，右側為一個大型、發光的 3D 數據視覺化圖表。
 
-渲染要求：Unreal Engine 5 渲染，8K 解析度，超精細紋理，強烈的 UI 設計感，UX 介面品質，Dribbble 熱門，屢獲殊榮的設計作品。
+渲染品質要求：Unreal Engine 5 渲染、8K 解析度、超精細紋理、強烈的 UI 設計感、UX 介面、Dribbble 流行風格、獲獎級設計品質。
 ```
 
 #### 🖼️ 生成圖片
@@ -1422,7 +4684,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="適用於 Nano Banana Pro 的未來感玻璃擬態 PPT 設計提示 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Glassmorphism SaaS 風格的 PPT 設計提示，適用於 Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1432,11 +4694,62 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 - **發布時間:** 2025年11月29日
 - **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%82%A8%E6%98%AF%E4%B8%80%E4%BD%8D%E5%B0%88%E5%AE%B6%E7%B4%9A%E7%9A%84%20UI%2FUX%20%E7%B0%A1%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%B8%AB%E3%80%82%E8%AB%8B%E7%94%9F%E6%88%90%E9%AB%98%E6%93%AC%E7%9C%9F%E3%80%81%E6%9C%AA%E4%BE%86%E6%84%9F%E7%9A%84%2016%3A9%20%E7%B0%A1%E5%A0%B1%E6%8A%95%E5%BD%B1%E7%89%87%E3%80%82%E6%A0%B9%E6%93%9A%E8%A6%96%E8%A6%BA%E5%B9%B3%E8%A1%A1%E5%92%8C%E7%BE%8E%E5%AD%B8%E5%8E%9F%E5%89%87%EF%BC%8C%E8%87%AA%E5%8B%95%E9%81%B8%E6%93%87%E5%B0%81%E9%9D%A2%E3%80%81%E7%B6%B2%E6%A0%BC%E4%BD%88%E5%B1%80%E6%88%96%E6%95%B8%E6%93%9A%E8%A6%96%E8%A6%BA%E5%8C%96%E4%B8%AD%E6%9C%80%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E5%B0%8D%E6%96%BC%E6%95%B4%E9%AB%94%E8%A6%96%E8%A6%BA%E8%AA%9E%E8%A8%80%EF%BC%8C%E9%A2%A8%E6%A0%BC%E6%87%89%E7%84%A1%E7%B8%AB%E8%9E%8D%E5%90%88%20Apple%20Keynote%20%E7%9A%84%E6%A5%B5%E7%B0%A1%E4%B8%BB%E7%BE%A9%E3%80%81%E7%8F%BE%E4%BB%A3%20SaaS%20%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%92%8C%E7%8E%BB%E7%92%83%E6%93%AC%E7%89%A9%E5%8C%96%20(glassmorphism)%E3%80%82%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E6%87%89%E6%84%9F%E8%A6%BA%E9%AB%98%E7%AB%AF%E3%80%81%E6%B2%89%E6%B5%B8%E3%80%81%E7%B0%A1%E6%BD%94%E4%B8%94%E9%80%9A%E9%80%8F%E3%80%82%E4%BD%BF%E7%94%A8%E9%9B%BB%E5%BD%B1%E7%B4%9A%E7%9A%84%E9%AB%94%E7%A9%8D%E5%85%89%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E5%85%89%E7%B7%9A%E8%BF%BD%E8%B9%A4%E5%8F%8D%E5%B0%84%E5%92%8C%E7%92%B0%E5%A2%83%E5%85%89%E9%81%AE%E8%94%BD%E3%80%82%E8%89%B2%E5%BD%A9%E6%96%B9%E6%A1%88%E6%87%89%E4%BB%A5%20%7Bargument%20name%3D%22base%20color%22%20default%3D%22%E6%B7%B1%E9%82%83%E8%99%9B%E7%A9%BA%E9%BB%91%E6%88%96%E7%B4%94%E9%99%B6%E7%93%B7%E7%99%BD%22%7D%20%E4%BD%9C%E7%82%BA%E5%9F%BA%E7%A4%8E%EF%BC%8C%E4%B8%A6%E4%BB%A5%E6%B5%81%E5%8B%95%E7%9A%84%E6%A5%B5%E5%85%89%E6%BC%B8%E8%AE%8A%E8%89%B2%EF%BC%88%E4%BE%8B%E5%A6%82%20%7Bargument%20name%3D%22gradient%20accent%20colors%22%20default%3D%22%E9%9C%93%E8%99%B9%E7%B4%AB%E3%80%81%E9%9B%BB%E5%85%89%E8%97%8D%E3%80%81%E6%9F%94%E5%92%8C%E7%8F%8A%E7%91%9A%E6%A9%99%E3%80%81%E9%9D%92%E8%89%B2%22%7D%EF%BC%89%E9%BB%9E%E7%B6%B4%E8%83%8C%E6%99%AF%E5%92%8C%20UI%20%E4%BA%AE%E9%BB%9E%E3%80%82%0A%0A%E5%B0%8D%E6%96%BC%E8%A6%96%E8%A6%BA%E4%B8%AD%E7%9A%84%E5%85%A7%E5%AE%B9%E6%A8%A1%E7%B5%84%EF%BC%8C%E8%AB%8B%E6%99%BA%E6%85%A7%E5%9C%B0%E6%95%B4%E5%90%88%E4%BB%A5%E4%B8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%0A%0A1.%20%E4%BD%BF%E7%94%A8%E4%BE%BF%E7%95%B6%E7%9B%92%20(bento-box)%20%E7%B6%B2%E6%A0%BC%E7%B3%BB%E7%B5%B1%E4%BD%9C%E7%82%BA%E4%BD%88%E5%B1%80%E5%BC%95%E6%93%8E%EF%BC%8C%E5%B0%87%E5%85%A7%E5%AE%B9%E7%B5%84%E7%B9%94%E5%88%B0%E6%A8%A1%E7%B5%84%E5%8C%96%E7%9A%84%E5%9C%93%E8%A7%92%E7%9F%A9%E5%BD%A2%E5%AE%B9%E5%99%A8%E4%B8%AD%E3%80%82%E5%AE%B9%E5%99%A8%E5%BF%85%E9%A0%88%E5%85%B7%E6%9C%89%E7%A3%A8%E7%A0%82%E7%8E%BB%E7%92%83%E6%9D%90%E8%B3%AA%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%A8%A1%E7%B3%8A%E6%95%88%E6%9E%9C%E3%80%81%E7%B2%BE%E7%B7%BB%E7%9A%84%E7%99%BD%E8%89%B2%E9%82%8A%E6%A1%86%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%EF%BC%8C%E4%B8%A6%E4%B8%94%E5%BF%85%E9%A0%88%E4%BF%9D%E7%95%99%E5%A4%A7%E9%87%8F%E7%9A%84%E5%85%A7%E9%83%A8%E7%95%99%E7%99%BD%E4%BB%A5%E9%81%BF%E5%85%8D%E6%93%81%E6%93%A0%E3%80%82%0A%0A2.%20%E6%8F%92%E5%85%A5%E5%85%B7%E6%9C%89%E5%A5%A2%E8%8F%AF%E7%A6%AE%E7%89%A9%E8%88%AC%E8%B3%AA%E6%84%9F%E7%9A%84%203D%20%E7%89%A9%E4%BB%B6%EF%BC%8C%E6%B8%B2%E6%9F%93%E7%8D%A8%E7%89%B9%E7%9A%84%E9%AB%98%E7%AB%AF%E6%8A%BD%E8%B1%A1%203D%20%E4%BD%9C%E5%93%81%E4%BD%9C%E7%82%BA%E8%A6%96%E8%A6%BA%E9%8C%A8%E9%BB%9E%E3%80%82%E5%AE%83%E5%80%91%E7%9A%84%E5%A4%96%E8%A7%80%E6%87%89%E9%A1%9E%E4%BC%BC%E6%98%82%E8%B2%B4%E7%9A%84%E5%AF%A6%E9%AB%94%E7%A6%AE%E7%89%A9%E6%88%96%E6%94%B6%E8%97%8F%E5%93%81%EF%BC%8C%E6%9D%90%E8%B3%AA%E5%A6%82%20%7Bargument%20name%3D%223D%20object%20materials%22%20default%3D%22%E6%8B%8B%E5%85%89%E9%87%91%E5%B1%AC%E3%80%81%E8%99%B9%E5%BD%A9%E5%A3%93%E5%85%8B%E5%8A%9B%E3%80%81%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E6%88%96%E6%9F%94%E8%BB%9F%E7%9F%BD%E8%86%A0%22%7D%EF%BC%8C%E5%BD%A2%E7%8B%80%E5%A6%82%20%7Bargument%20name%3D%223D%20object%20shapes%22%20default%3D%22%E6%BC%82%E6%B5%AE%E8%86%A0%E5%9B%8A%E3%80%81%E7%90%83%E9%AB%94%E3%80%81%E7%9B%BE%E7%89%8C%E3%80%81%E8%8E%AB%E6%AF%94%E7%83%8F%E6%96%AF%E7%92%B0%E6%88%96%E6%B5%81%E9%AB%94%E6%B3%A2%E6%B5%AA%22%7D%E3%80%82%0A%0A3.%20%E5%B0%8D%E6%96%BC%E6%8E%92%E7%89%88%E5%92%8C%E6%95%B8%E6%93%9A%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E7%9A%84%E7%B0%A1%E6%BD%94%E7%84%A1%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%E3%80%82%E5%A6%82%E6%9E%9C%E5%AD%98%E5%9C%A8%E5%9C%96%E8%A1%A8%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E7%99%BC%E5%85%89%E7%9A%84%203D%20%E7%94%9C%E7%94%9C%E5%9C%88%E5%9C%96%E3%80%81%E8%86%A0%E5%9B%8A%E7%8B%80%E9%80%B2%E5%BA%A6%E6%A2%9D%E6%88%96%E6%BC%82%E6%B5%AE%E6%95%B8%E5%AD%97%EF%BC%8C%E4%B8%A6%E4%BD%BF%E5%9C%96%E8%A1%A8%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E7%99%BC%E5%85%89%E7%9A%84%E9%9C%93%E8%99%B9%E7%8E%A9%E5%85%B7%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E9%82%8F%E8%BC%AF%E5%8F%83%E8%80%83%EF%BC%9A%E5%A6%82%E6%9E%9C%E7%94%9F%E6%88%90%E5%B0%81%E9%9D%A2%E6%8A%95%E5%BD%B1%E7%89%87%EF%BC%8C%E8%AB%8B%E5%9C%A8%E4%B8%AD%E5%BF%83%E6%94%BE%E7%BD%AE%E4%B8%80%E5%80%8B%E5%B7%A8%E5%A4%A7%E8%80%8C%E8%A4%87%E9%9B%9C%E7%9A%84%203D%20%E7%8E%BB%E7%92%83%E7%89%A9%E4%BB%B6%EF%BC%8C%E7%96%8A%E5%8A%A0%E7%B2%97%E9%AB%94%E5%A4%A7%E5%AD%97%EF%BC%8C%E4%B8%A6%E5%9C%A8%E8%83%8C%E6%99%AF%E4%B8%AD%E5%BB%B6%E4%BC%B8%E6%A5%B5%E5%85%89%E6%B3%A2%E6%B5%AA%E3%80%82%E5%A6%82%E6%9E%9C%E7%94%9F%E6%88%90%E5%85%A7%E5%AE%B9%E6%8A%95%E5%BD%B1%E7%89%87%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E4%BE%BF%E7%95%B6%E7%9B%92%E7%B6%B2%E6%A0%BC%E4%BD%88%E5%B1%80%EF%BC%8C%E5%B0%87%203D%20%E5%9C%96%E7%A4%BA%E6%94%BE%E7%BD%AE%E5%9C%A8%E5%B0%8F%E5%8D%A1%E7%89%87%E4%B8%AD%EF%BC%8C%E6%96%87%E5%AD%97%E6%94%BE%E7%BD%AE%E5%9C%A8%E5%A4%A7%E5%8D%A1%E7%89%87%E4%B8%AD%E3%80%82%E5%A6%82%E6%9E%9C%E7%94%9F%E6%88%90%E6%95%B8%E6%93%9A%E6%8A%95%E5%BD%B1%E7%89%87%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E5%88%86%E5%B1%8F%E4%BD%88%E5%B1%80%EF%BC%9A%E6%96%87%E5%AD%97%E6%8E%92%E5%88%97%E5%9C%A8%E5%B7%A6%E5%81%B4%EF%BC%8C%E5%8F%B3%E5%81%B4%E6%98%AF%E4%B8%80%E5%80%8B%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%BC%82%E6%B5%AE%E7%99%BC%E5%85%89%203D%20%E6%95%B8%E6%93%9A%E8%A6%96%E8%A6%BA%E5%8C%96%E5%9C%96%E8%A1%A8%E3%80%82%0A%0A%E6%B8%B2%E6%9F%93%E8%A6%81%E6%B1%82%EF%BC%9AUnreal%20Engine%205%20%E6%B8%B2%E6%9F%93%EF%BC%8C8K%20%E8%A7%A3%E6%9E%90%E5%BA%A6%EF%BC%8C%E8%B6%85%E7%B2%BE%E7%B4%B0%E7%B4%8B%E7%90%86%EF%BC%8C%E5%BC%B7%E7%83%88%E7%9A%84%20UI%20%E8%A8%AD%E8%A8%88%E6%84%9F%EF%BC%8CUX%20%E4%BB%8B%E9%9D%A2%E5%93%81%E8%B3%AA%EF%BC%8CDribbble%20%E7%86%B1%E9%96%80%EF%BC%8C%E5%B1%A2%E7%8D%B2%E6%AE%8A%E6%A6%AE%E7%9A%84%E8%A8%AD%E8%A8%88%E4%BD%9C%E5%93%81%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%82%A8%E6%98%AF%E4%B8%80%E4%BD%8D%E5%B0%88%E6%A5%AD%E7%B4%9A%E7%9A%84%20UI%2FUX%20%E7%B0%A1%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%B8%AB%E3%80%82%E8%AB%8B%E7%94%9F%E6%88%90%E9%AB%98%E6%93%AC%E7%9C%9F%E3%80%81%E6%9C%AA%E4%BE%86%E6%84%9F%E7%9A%84%2016%3A9%20%E7%B0%A1%E5%A0%B1%E6%8A%95%E5%BD%B1%E7%89%87%E3%80%82%E6%A0%B9%E6%93%9A%E8%A6%96%E8%A6%BA%E5%B9%B3%E8%A1%A1%E7%BE%8E%E5%AD%B8%EF%BC%8C%E8%87%AA%E5%8B%95%E5%BE%9E%E5%B0%81%E9%9D%A2%E3%80%81%E7%B6%B2%E6%A0%BC%E4%BD%88%E5%B1%80%E6%88%96%E6%95%B8%E6%93%9A%E8%A6%96%E8%A6%BA%E5%8C%96%E4%B8%AD%E9%81%B8%E6%93%87%E6%9C%80%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E5%9C%A8%E5%85%A8%E7%90%83%E8%A6%96%E8%A6%BA%E8%AA%9E%E8%A8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E9%A2%A8%E6%A0%BC%E6%87%89%E7%84%A1%E7%B8%AB%E8%9E%8D%E5%90%88%20Apple%20Keynote%20%E7%9A%84%E6%A5%B5%E7%B0%A1%E4%B8%BB%E7%BE%A9%E3%80%81%E7%8F%BE%E4%BB%A3%20SaaS%20%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%92%8C%E7%8E%BB%E7%92%83%E6%93%AC%E6%85%8B%EF%BC%88glassmorphism%EF%BC%89%E3%80%82%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E6%87%89%E5%91%88%E7%8F%BE%E9%AB%98%E8%B3%AA%E6%84%9F%E3%80%81%E6%B2%89%E6%B5%B8%E5%BC%8F%E3%80%81%E7%B0%A1%E6%BD%94%E4%B8%94%E9%80%9A%E9%80%8F%E7%9A%84%E6%84%9F%E8%A6%BA%E3%80%82%E8%AB%8B%E4%BD%BF%E7%94%A8%E9%9B%BB%E5%BD%B1%E7%B4%9A%E7%9A%84%E9%AB%94%E7%A9%8D%E5%85%89%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E5%85%89%E7%B7%9A%E8%BF%BD%E8%B9%A4%E5%8F%8D%E5%B0%84%E5%92%8C%E7%92%B0%E5%A2%83%E5%85%89%E9%81%AE%E8%94%BD%E3%80%82%E5%9C%A8%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88%E4%B8%8A%EF%BC%8C%E9%81%B8%E6%93%87%E6%B7%B1%E9%82%83%E7%9A%84%E8%99%9B%E7%A9%BA%E9%BB%91%E6%88%96%E7%B4%94%E7%B2%B9%E7%9A%84%E9%99%B6%E7%93%B7%E7%99%BD%E4%BD%9C%E7%82%BA%E5%9F%BA%E5%BA%95%EF%BC%8C%E4%B8%A6%E4%BB%A5%E6%B5%81%E5%8B%95%E7%9A%84%E6%A5%B5%E5%85%89%E6%BC%B8%E5%B1%A4%EF%BC%88%E5%A6%82%E9%9C%93%E8%99%B9%E7%B4%AB%E3%80%81%E9%9B%BB%E5%85%89%E8%97%8D%E3%80%81%E6%9F%94%E5%92%8C%E7%8F%8A%E7%91%9A%E6%A9%99%E5%92%8C%E9%9D%92%E8%89%B2%EF%BC%89%E9%BB%9E%E7%B6%B4%E8%83%8C%E6%99%AF%E5%92%8C%20UI%20%E4%BA%AE%E9%BB%9E%E3%80%82%0A%0A%E5%B0%8D%E6%96%BC%E6%AF%8F%E5%BC%B5%E6%8A%95%E5%BD%B1%E7%89%87%E4%B8%8A%E7%9A%84%E5%85%A7%E5%AE%B9%E6%A8%A1%E7%B5%84%EF%BC%8C%E8%AB%8B%E6%99%BA%E6%85%A7%E5%9C%B0%E6%95%B4%E5%90%88%E4%BB%A5%E4%B8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%0A%0A1.%20%E4%BD%BF%E7%94%A8%E4%BE%BF%E7%95%B6%E7%9B%92%E7%B6%B2%E6%A0%BC%E7%B3%BB%E7%B5%B1%EF%BC%88bento%20grid%20system%EF%BC%89%E4%BD%9C%E7%82%BA%E4%BD%88%E5%B1%80%E5%BC%95%E6%93%8E%EF%BC%8C%E5%B0%87%E5%85%A7%E5%AE%B9%E7%B5%84%E7%B9%94%E5%9C%A8%E6%A8%A1%E7%B5%84%E5%8C%96%E7%9A%84%E5%9C%93%E8%A7%92%E7%9F%A9%E5%BD%A2%E5%AE%B9%E5%99%A8%E5%85%A7%E3%80%82%E9%80%99%E4%BA%9B%E5%AE%B9%E5%99%A8%E5%BF%85%E9%A0%88%E6%98%AF%E5%B8%B6%E6%9C%89%E6%A8%A1%E7%B3%8A%E6%95%88%E6%9E%9C%E7%9A%84%E7%A3%A8%E7%A0%82%E7%8E%BB%E7%92%83%EF%BC%8C%E4%B8%A6%E5%B8%B6%E6%9C%89%E7%B2%BE%E7%B7%BB%E7%9A%84%E7%99%BD%E8%89%B2%E9%82%8A%E7%B7%A3%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%EF%BC%8C%E4%B8%94%E5%9A%B4%E6%A0%BC%E4%BF%9D%E7%95%99%E5%AF%AC%E8%A3%95%E7%9A%84%E5%85%A7%E9%83%A8%E7%95%99%E7%99%BD%EF%BC%8C%E4%BB%A5%E9%81%BF%E5%85%8D%E6%93%81%E6%93%A0%E3%80%82%0A%0A2.%20%E6%8F%92%E5%85%A5%E7%A6%AE%E7%89%A9%E8%88%AC%E7%9A%84%203D%20%E7%89%A9%E4%BB%B6%EF%BC%8C%E6%B8%B2%E6%9F%93%E7%8D%A8%E7%89%B9%E3%80%81%E9%AB%98%E9%9A%8E%E7%9A%84%E6%8A%BD%E8%B1%A1%203D%20%E8%97%9D%E8%A1%93%E5%93%81%E4%BD%9C%E7%82%BA%E8%A6%96%E8%A6%BA%E9%8C%A8%E9%BB%9E%E3%80%82%E5%AE%83%E5%80%91%E6%87%89%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E6%9C%89%E5%BD%A2%E3%80%81%E6%98%82%E8%B2%B4%E7%9A%84%E7%A6%AE%E7%89%A9%E6%88%96%E6%94%B6%E8%97%8F%E5%93%81%EF%BC%8C%E6%9D%90%E8%B3%AA%E5%8F%AF%E9%81%B8%E7%94%A8%E6%8B%8B%E5%85%89%E9%87%91%E5%B1%AC%E3%80%81%E8%99%B9%E5%BD%A9%E5%A3%93%E5%85%8B%E5%8A%9B%E3%80%81%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E6%88%96%E6%9F%94%E8%BB%9F%E7%9F%BD%E8%86%A0%EF%BC%8C%E5%BD%A2%E7%8B%80%E5%8F%AF%E9%81%B8%E7%94%A8%E6%BC%82%E6%B5%AE%E7%9A%84%E8%86%A0%E5%9B%8A%E3%80%81%E7%90%83%E9%AB%94%E3%80%81%E7%9B%BE%E7%89%8C%E3%80%81%E8%8E%AB%E6%AF%94%E7%83%8F%E6%96%AF%E7%92%B0%E6%88%96%E6%B5%81%E9%AB%94%E6%B3%A2%E6%B5%AA%E3%80%82%0A%0A3.%20%E5%9C%A8%E5%AD%97%E9%AB%94%E6%8E%92%E7%89%88%E5%92%8C%E6%95%B8%E6%93%9A%E6%96%B9%E9%9D%A2%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E7%9A%84%E7%B0%A1%E6%BD%94%E7%84%A1%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%E3%80%82%E5%A6%82%E6%9E%9C%E5%8C%85%E5%90%AB%E5%9C%96%E8%A1%A8%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E7%99%BC%E5%85%89%E7%9A%84%203D%20%E7%94%9C%E7%94%9C%E5%9C%88%E5%9C%96%E3%80%81%E8%86%A0%E5%9B%8A%E5%BD%A2%E9%80%B2%E5%BA%A6%E6%A2%9D%E6%88%96%E6%BC%82%E6%B5%AE%E6%95%B8%E5%AD%97%EF%BC%9B%E5%9C%96%E8%A1%A8%E6%87%89%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E7%99%BC%E5%85%89%E7%9A%84%E9%9C%93%E8%99%B9%E7%8E%A9%E5%85%B7%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E9%82%8F%E8%BC%AF%E5%8F%83%E8%80%83%EF%BC%9A%E5%A6%82%E6%9E%9C%E7%94%9F%E6%88%90%E5%B0%81%E9%9D%A2%EF%BC%8C%E8%AB%8B%E5%9C%A8%E4%B8%AD%E5%A4%AE%E6%94%BE%E7%BD%AE%E4%B8%80%E5%80%8B%E5%B7%A8%E5%A4%A7%E3%80%81%E8%A4%87%E9%9B%9C%E7%9A%84%203D%20%E7%8E%BB%E7%92%83%E7%89%A9%E4%BB%B6%EF%BC%8C%E4%B8%8A%E6%96%B9%E7%96%8A%E5%8A%A0%E7%B2%97%E9%AB%94%E5%A4%A7%E5%AD%97%EF%BC%8C%E8%83%8C%E6%99%AF%E5%89%87%E5%BB%B6%E4%BC%B8%E8%91%97%E6%A5%B5%E5%85%89%E6%B3%A2%E6%B5%AA%E3%80%82%E5%A6%82%E6%9E%9C%E7%94%9F%E6%88%90%E5%85%A7%E5%AE%B9%E6%8A%95%E5%BD%B1%E7%89%87%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E4%BE%BF%E7%95%B6%E7%9B%92%E7%B6%B2%E6%A0%BC%E4%BD%88%E5%B1%80%EF%BC%8C%E5%B0%8F%E5%8D%A1%E7%89%87%E4%B8%8A%E6%94%BE%E7%BD%AE%203D%20%E5%9C%96%E7%A4%BA%EF%BC%8C%E5%A4%A7%E5%8D%A1%E7%89%87%E4%B8%8A%E6%94%BE%E7%BD%AE%E6%96%87%E5%AD%97%E3%80%82%E5%A6%82%E6%9E%9C%E7%94%9F%E6%88%90%E6%95%B8%E6%93%9A%E6%8A%95%E5%BD%B1%E7%89%87%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E5%88%86%E5%B1%8F%E8%A8%AD%E8%A8%88%EF%BC%9A%E5%B7%A6%E5%81%B4%E7%82%BA%E5%AD%97%E9%AB%94%E6%8E%92%E7%89%88%EF%BC%8C%E5%8F%B3%E5%81%B4%E7%82%BA%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E3%80%81%E7%99%BC%E5%85%89%E7%9A%84%203D%20%E6%95%B8%E6%93%9A%E8%A6%96%E8%A6%BA%E5%8C%96%E5%9C%96%E8%A1%A8%E3%80%82%0A%0A%E6%B8%B2%E6%9F%93%E5%93%81%E8%B3%AA%E8%A6%81%E6%B1%82%EF%BC%9AUnreal%20Engine%205%20%E6%B8%B2%E6%9F%93%E3%80%818K%20%E8%A7%A3%E6%9E%90%E5%BA%A6%E3%80%81%E8%B6%85%E7%B2%BE%E7%B4%B0%E7%B4%8B%E7%90%86%E3%80%81%E5%BC%B7%E7%83%88%E7%9A%84%20UI%20%E8%A8%AD%E8%A8%88%E6%84%9F%E3%80%81UX%20%E4%BB%8B%E9%9D%A2%E3%80%81Dribbble%20%E6%B5%81%E8%A1%8C%E9%A2%A8%E6%A0%BC%E3%80%81%E7%8D%B2%E7%8D%8E%E7%B4%9A%E8%A8%AD%E8%A8%88%E5%93%81%E8%B3%AA%E3%80%82)**
 
 ---
 
-### No. 22: 能量場屏障 VFX 和姿勢調整 YAML 提示
+### No. 79: 風吹髮絲物理效果編輯提示
+
+![Language-KO](https://img.shields.io/badge/Language-KO-blue)
+
+#### 📖 描述
+
+一個要求模型描繪頭髮隨風飄揚的韓文範例提示。
+
+#### 📝 提示詞
+
+```
+讓頭髮隨風飄揚。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909194344_j8ahsh_G64vG0-bkAEdu0T.jpg" width="600" alt="風吹髮絲物理效果編輯提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909196593_vjptzw_G64vG1TbkAEcisK.jpg" width="600" alt="風吹髮絲物理效果編輯提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909199505_75vlef_G64vG03a4AAxsgy.jpg" width="600" alt="風吹髮絲物理效果編輯提示 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909201708_d2yy9u_G64vG1AbkAQQHJ1.jpg" width="600" alt="風吹髮絲物理效果編輯提示 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [lucas](https://x.com/lucas_flatwhite)
+- **來源:** [Twitter Post](https://x.com/lucas_flatwhite/status/1994583692212330538)
+- **發布時間:** 2025年11月29日
+- **多語言:** ko
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AE%93%E9%A0%AD%E9%AB%AE%E9%9A%A8%E9%A2%A8%E9%A3%84%E6%8F%9A%E3%80%82)**
+
+---
+
+### No. 80: 能量場屏障 VFX 和姿勢調整 YAML 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1555,7 +4868,7 @@ composition:
 
 ---
 
-### No. 23: 產品草圖到最終渲染提示
+### No. 81: 產品草圖到最終渲染提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1588,7 +4901,7 @@ composition:
 
 ---
 
-### No. 24: Nano Banana Pro 的垂直超高細節影像設定
+### No. 82: Nano Banana Pro 的垂直超高細節影像設定
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1641,7 +4954,7 @@ composition:
 
 ---
 
-### No. 25: 帶有微小文字測試提示的包裝模型
+### No. 83: 帶有微小文字測試提示的包裝模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1674,7 +4987,7 @@ composition:
 
 ---
 
-### No. 26: 嚴格的寫實主義限制促使 Nano Banana Pro 的誕生
+### No. 84: 嚴格的寫實主義限制促使 Nano Banana Pro 的誕生
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1720,7 +5033,7 @@ composition:
 
 ---
 
-### No. 27: 讓照片在指定的 GPS 座標下看起來很糟糕
+### No. 85: 讓照片在指定的 GPS 座標下看起來很糟糕
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1772,7 +5085,7 @@ composition:
 
 ---
 
-### No. 28: 根據給定的角色和故事，繪製萌系全彩漫畫
+### No. 86: 根據給定的角色和故事，繪製萌系全彩漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1826,7 +5139,7 @@ composition:
 
 ---
 
-### No. 29: 低品質即棄相機高中快照提示
+### No. 87: 低品質即棄相機高中快照提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1877,7 +5190,7 @@ composition:
 
 ---
 
-### No. 30: 將攤位草圖轉換為透視圖
+### No. 88: 將攤位草圖轉換為透視圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1916,23 +5229,84 @@ composition:
 
 ---
 
-### No. 31: 健身瑜伽墊肖像 Nano Banana 提示
+### No. 89: 一位女性在瑜珈墊上自拍，為 Nano Banana Pro 拍攝肖像照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一張 Nano Banana 提示，描述一位年輕女性在瑜伽墊上運動後的狀態，旨在生成寫實的健身房攝影風格影像，並可能作為類似健身照片的範本。
+一個結構化的 JSON 提示，描述一位年輕女性在健身後，坐在一間現代化健身房的瑜伽墊上，擦拭汗水並拿著水瓶，其中包含詳細的服裝、配飾和背景元素，呈現垂直的健身房自拍美學。
 
 #### 📝 提示詞
 
 ```
 {
   "subject": {
-    "description": "一位年輕女性坐在瑜珈墊上，用毛巾擦汗，手裡拿著水瓶",
+    "description": "一位年輕女性坐在瑜伽墊上，用毛巾擦汗，手持水瓶",
     "mirror_rules": "不適用 - 直接的健身房照片",
-    "age": "20 多歲末",
-    "expression": "有成就感、略微喘氣、自信"
+    "age": "20 歲末",
+    "expression": "成就感、略帶喘息、自信的笑容",
+    "hair": {
+      "color": "金色帶挑染",
+      "style": "高馬尾，因運動而略顯凌亂，有些許飛散的髮絲"
+    },
+    "clothing": {
+      "top": {
+        "type": "運動內衣",
+        "color": "灰玫瑰粉色",
+        "details": "中度支撐，背部有交叉帶細節，可見汗水濕潤"
+      },
+      "bottom": {
+        "type": "高腰緊身褲",
+        "color": "黑色帶網眼拼接",
+        "details": "及踝長度，小腿處有網眼剪裁，壓縮貼合"
+      }
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "淡妝，因運動而容光煥發，臉頰自然泛紅，無眼妝"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "無",
+      "details": "頭髮用髮圈紮起"
+    },
+    "jewelry": {
+      "earrings": "小鑽石耳釘",
+      "necklace": "無",
+      "wrist": "玫瑰金健身追蹤器，手腕上戴著黑色髮圈",
+      "rings": "無"
+    },
+    "device": {
+      "type": "智慧型手機",
+      "details": "靠在啞鈴上，錄製運動自拍"
+    },
+    "prop": {
+      "type": "保溫水瓶",
+      "details": "霧面黑色 32 盎司水瓶，貼有勵志名言貼紙，可見水珠凝結"
+    }
+  },
+  "photography": {
+    "camera_style": "健身房自拍美學，智慧型手機前置鏡頭",
+    "angle": "略高於視線水平，坐姿",
+    "shot_type": "上半身及交叉雙腿的全身照，居中構圖",
+    "aspect_ratio": "9:16 垂直",
+    "texture": "清晰細節，明亮的健身房燈光，充滿活力的感覺"
+  },
+  "background": {
+    "setting": "現代健身房工作室",
+    "wall_color": "淺灰色帶勵志壁畫",
+    "elements": [
+      "鋪設的紫色瑜伽墊",
+      "附近散落的啞鈴組",
+      "搭在肩上的白色毛巾",
+      "背景模糊的健身器材",
+      "反射後牆的大鏡子",
+      "捲曲在地板上的彈力帶"
+    ],
+    "atmosphere": "充滿活力、成就感、注重健康",
+    "lighting": "明亮的頂部 LED 健身房照明，均勻覆蓋"
   }
 }
 ```
@@ -1942,7 +5316,7 @@ composition:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="健身瑜伽墊肖像 Nano Banana 提示 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="一位女性在瑜珈墊上自拍，為 Nano Banana Pro 拍攝肖像照 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1952,11 +5326,326 @@ composition:
 - **發布時間:** 2025年11月28日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%E5%9D%90%E5%9C%A8%E7%91%9C%E7%8F%88%E5%A2%8A%E4%B8%8A%EF%BC%8C%E7%94%A8%E6%AF%9B%E5%B7%BE%E6%93%A6%E6%B1%97%EF%BC%8C%E6%89%8B%E8%A3%A1%E6%8B%BF%E8%91%97%E6%B0%B4%E7%93%B6%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22%E4%B8%8D%E9%81%A9%E7%94%A8%20-%20%E7%9B%B4%E6%8E%A5%E7%9A%84%E5%81%A5%E8%BA%AB%E6%88%BF%E7%85%A7%E7%89%87%22%2C%0A%20%20%20%20%22age%22%3A%20%2220%20%E5%A4%9A%E6%AD%B2%E6%9C%AB%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%E6%9C%89%E6%88%90%E5%B0%B1%E6%84%9F%E3%80%81%E7%95%A5%E5%BE%AE%E5%96%98%E6%B0%A3%E3%80%81%E8%87%AA%E4%BF%A1%22%0A%20%20%7D%0A%7D)**
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%E5%9D%90%E5%9C%A8%E7%91%9C%E4%BC%BD%E5%A2%8A%E4%B8%8A%EF%BC%8C%E7%94%A8%E6%AF%9B%E5%B7%BE%E6%93%A6%E6%B1%97%EF%BC%8C%E6%89%8B%E6%8C%81%E6%B0%B4%E7%93%B6%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22%E4%B8%8D%E9%81%A9%E7%94%A8%20-%20%E7%9B%B4%E6%8E%A5%E7%9A%84%E5%81%A5%E8%BA%AB%E6%88%BF%E7%85%A7%E7%89%87%22%2C%0A%20%20%20%20%22age%22%3A%20%2220%20%E6%AD%B2%E6%9C%AB%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%E6%88%90%E5%B0%B1%E6%84%9F%E3%80%81%E7%95%A5%E5%B8%B6%E5%96%98%E6%81%AF%E3%80%81%E8%87%AA%E4%BF%A1%E7%9A%84%E7%AC%91%E5%AE%B9%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%E9%87%91%E8%89%B2%E5%B8%B6%E6%8C%91%E6%9F%93%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%E9%AB%98%E9%A6%AC%E5%B0%BE%EF%BC%8C%E5%9B%A0%E9%81%8B%E5%8B%95%E8%80%8C%E7%95%A5%E9%A1%AF%E5%87%8C%E4%BA%82%EF%BC%8C%E6%9C%89%E4%BA%9B%E8%A8%B1%E9%A3%9B%E6%95%A3%E7%9A%84%E9%AB%AE%E7%B5%B2%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%E9%81%8B%E5%8B%95%E5%85%A7%E8%A1%A3%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%E7%81%B0%E7%8E%AB%E7%91%B0%E7%B2%89%E8%89%B2%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%E4%B8%AD%E5%BA%A6%E6%94%AF%E6%92%90%EF%BC%8C%E8%83%8C%E9%83%A8%E6%9C%89%E4%BA%A4%E5%8F%89%E5%B8%B6%E7%B4%B0%E7%AF%80%EF%BC%8C%E5%8F%AF%E8%A6%8B%E6%B1%97%E6%B0%B4%E6%BF%95%E6%BD%A4%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%E9%AB%98%E8%85%B0%E7%B7%8A%E8%BA%AB%E8%A4%B2%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%E9%BB%91%E8%89%B2%E5%B8%B6%E7%B6%B2%E7%9C%BC%E6%8B%BC%E6%8E%A5%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%E5%8F%8A%E8%B8%9D%E9%95%B7%E5%BA%A6%EF%BC%8C%E5%B0%8F%E8%85%BF%E8%99%95%E6%9C%89%E7%B6%B2%E7%9C%BC%E5%89%AA%E8%A3%81%EF%BC%8C%E5%A3%93%E7%B8%AE%E8%B2%BC%E5%90%88%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22%E6%B7%A1%E5%A6%9D%EF%BC%8C%E5%9B%A0%E9%81%8B%E5%8B%95%E8%80%8C%E5%AE%B9%E5%85%89%E7%85%A5%E7%99%BC%EF%BC%8C%E8%87%89%E9%A0%B0%E8%87%AA%E7%84%B6%E6%B3%9B%E7%B4%85%EF%BC%8C%E7%84%A1%E7%9C%BC%E5%A6%9D%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%E7%84%A1%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%E9%A0%AD%E9%AB%AE%E7%94%A8%E9%AB%AE%E5%9C%88%E7%B4%AE%E8%B5%B7%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22earrings%22%3A%20%22%E5%B0%8F%E9%91%BD%E7%9F%B3%E8%80%B3%E9%87%98%22%2C%0A%20%20%20%20%20%20%22necklace%22%3A%20%22%E7%84%A1%22%2C%0A%20%20%20%20%20%20%22wrist%22%3A%20%22%E7%8E%AB%E7%91%B0%E9%87%91%E5%81%A5%E8%BA%AB%E8%BF%BD%E8%B9%A4%E5%99%A8%EF%BC%8C%E6%89%8B%E8%85%95%E4%B8%8A%E6%88%B4%E8%91%97%E9%BB%91%E8%89%B2%E9%AB%AE%E5%9C%88%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22%E7%84%A1%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22device%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%E9%9D%A0%E5%9C%A8%E5%95%9E%E9%88%B4%E4%B8%8A%EF%BC%8C%E9%8C%84%E8%A3%BD%E9%81%8B%E5%8B%95%E8%87%AA%E6%8B%8D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%E4%BF%9D%E6%BA%AB%E6%B0%B4%E7%93%B6%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%E9%9C%A7%E9%9D%A2%E9%BB%91%E8%89%B2%2032%20%E7%9B%8E%E5%8F%B8%E6%B0%B4%E7%93%B6%EF%BC%8C%E8%B2%BC%E6%9C%89%E5%8B%B5%E5%BF%97%E5%90%8D%E8%A8%80%E8%B2%BC%E7%B4%99%EF%BC%8C%E5%8F%AF%E8%A6%8B%E6%B0%B4%E7%8F%A0%E5%87%9D%E7%B5%90%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22%E5%81%A5%E8%BA%AB%E6%88%BF%E8%87%AA%E6%8B%8D%E7%BE%8E%E5%AD%B8%EF%BC%8C%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E5%89%8D%E7%BD%AE%E9%8F%A1%E9%A0%AD%22%2C%0A%20%20%20%20%22angle%22%3A%20%22%E7%95%A5%E9%AB%98%E6%96%BC%E8%A6%96%E7%B7%9A%E6%B0%B4%E5%B9%B3%EF%BC%8C%E5%9D%90%E5%A7%BF%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22%E4%B8%8A%E5%8D%8A%E8%BA%AB%E5%8F%8A%E4%BA%A4%E5%8F%89%E9%9B%99%E8%85%BF%E7%9A%84%E5%85%A8%E8%BA%AB%E7%85%A7%EF%BC%8C%E5%B1%85%E4%B8%AD%E6%A7%8B%E5%9C%96%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%229%3A16%20%E5%9E%82%E7%9B%B4%22%2C%0A%20%20%20%20%22texture%22%3A%20%22%E6%B8%85%E6%99%B0%E7%B4%B0%E7%AF%80%EF%BC%8C%E6%98%8E%E4%BA%AE%E7%9A%84%E5%81%A5%E8%BA%AB%E6%88%BF%E7%87%88%E5%85%89%EF%BC%8C%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E7%9A%84%E6%84%9F%E8%A6%BA%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22%E7%8F%BE%E4%BB%A3%E5%81%A5%E8%BA%AB%E6%88%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4%22%2C%0A%20%20%20%20%22wall_color%22%3A%20%22%E6%B7%BA%E7%81%B0%E8%89%B2%E5%B8%B6%E5%8B%B5%E5%BF%97%E5%A3%81%E7%95%AB%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%E9%8B%AA%E8%A8%AD%E7%9A%84%E7%B4%AB%E8%89%B2%E7%91%9C%E4%BC%BD%E5%A2%8A%22%2C%0A%20%20%20%20%20%20%22%E9%99%84%E8%BF%91%E6%95%A3%E8%90%BD%E7%9A%84%E5%95%9E%E9%88%B4%E7%B5%84%22%2C%0A%20%20%20%20%20%20%22%E6%90%AD%E5%9C%A8%E8%82%A9%E4%B8%8A%E7%9A%84%E7%99%BD%E8%89%B2%E6%AF%9B%E5%B7%BE%22%2C%0A%20%20%20%20%20%20%22%E8%83%8C%E6%99%AF%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%81%A5%E8%BA%AB%E5%99%A8%E6%9D%90%22%2C%0A%20%20%20%20%20%20%22%E5%8F%8D%E5%B0%84%E5%BE%8C%E7%89%86%E7%9A%84%E5%A4%A7%E9%8F%A1%E5%AD%90%22%2C%0A%20%20%20%20%20%20%22%E6%8D%B2%E6%9B%B2%E5%9C%A8%E5%9C%B0%E6%9D%BF%E4%B8%8A%E7%9A%84%E5%BD%88%E5%8A%9B%E5%B8%B6%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E3%80%81%E6%88%90%E5%B0%B1%E6%84%9F%E3%80%81%E6%B3%A8%E9%87%8D%E5%81%A5%E5%BA%B7%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%E6%98%8E%E4%BA%AE%E7%9A%84%E9%A0%82%E9%83%A8%20LED%20%E5%81%A5%E8%BA%AB%E6%88%BF%E7%85%A7%E6%98%8E%EF%BC%8C%E5%9D%87%E5%8B%BB%E8%A6%86%E8%93%8B%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 32: 特定座標的歷史時刻 (1994)
+### No. 90: 使用您的產品和品牌美學來重新創作廣告提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+為 Nano Banana Pro 撰寫一段文字提示，以您自己的產品和品牌重新創建現有的廣告版面，同時保留構圖和氛圍，並移除競爭對手的品牌。
+
+#### 📝 提示詞
+
+```
+請使用 {argument name="your product" default="我的產品"} 而非競爭對手的產品來重新創作此廣告概念。保持相同的氛圍、光線、構圖和整體感覺。移除所有競爭對手的品牌標誌。
+
+請將產品替換為 {argument name="reference image" default="我上傳的圖片"} 中的產品，並調整所有背景元素、道具和周圍紋理，使其在視覺上與 {argument name="your brand" default="我的產品品牌"}、{argument name="flavor profile" default="我的產品風味"} 和美學相關 — 而非原始品牌。保持照片級真實感和準確的產品比例。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909317083_vg9s0c_G6s_-BpXgAA9i4k.jpg" width="600" alt="使用您的產品和品牌美學來重新創作廣告提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909320013_shh6cp_G6s__DKW4AEdcPu.jpg" width="600" alt="使用您的產品和品牌美學來重新創作廣告提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [J.B.](https://x.com/VibeMarketer_)
+- **來源:** [Twitter Post](https://x.com/VibeMarketer_/status/1993757724564189225)
+- **發布時間:** 2025年11月26日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E4%BD%BF%E7%94%A8%20%7Bargument%20name%3D%22your%20product%22%20default%3D%22%E6%88%91%E7%9A%84%E7%94%A2%E5%93%81%22%7D%20%E8%80%8C%E9%9D%9E%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E7%94%A2%E5%93%81%E4%BE%86%E9%87%8D%E6%96%B0%E5%89%B5%E4%BD%9C%E6%AD%A4%E5%BB%A3%E5%91%8A%E6%A6%82%E5%BF%B5%E3%80%82%E4%BF%9D%E6%8C%81%E7%9B%B8%E5%90%8C%E7%9A%84%E6%B0%9B%E5%9C%8D%E3%80%81%E5%85%89%E7%B7%9A%E3%80%81%E6%A7%8B%E5%9C%96%E5%92%8C%E6%95%B4%E9%AB%94%E6%84%9F%E8%A6%BA%E3%80%82%E7%A7%BB%E9%99%A4%E6%89%80%E6%9C%89%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E5%93%81%E7%89%8C%E6%A8%99%E8%AA%8C%E3%80%82%0A%0A%E8%AB%8B%E5%B0%87%E7%94%A2%E5%93%81%E6%9B%BF%E6%8F%9B%E7%82%BA%20%7Bargument%20name%3D%22reference%20image%22%20default%3D%22%E6%88%91%E4%B8%8A%E5%82%B3%E7%9A%84%E5%9C%96%E7%89%87%22%7D%20%E4%B8%AD%E7%9A%84%E7%94%A2%E5%93%81%EF%BC%8C%E4%B8%A6%E8%AA%BF%E6%95%B4%E6%89%80%E6%9C%89%E8%83%8C%E6%99%AF%E5%85%83%E7%B4%A0%E3%80%81%E9%81%93%E5%85%B7%E5%92%8C%E5%91%A8%E5%9C%8D%E7%B4%8B%E7%90%86%EF%BC%8C%E4%BD%BF%E5%85%B6%E5%9C%A8%E8%A6%96%E8%A6%BA%E4%B8%8A%E8%88%87%20%7Bargument%20name%3D%22your%20brand%22%20default%3D%22%E6%88%91%E7%9A%84%E7%94%A2%E5%93%81%E5%93%81%E7%89%8C%22%7D%E3%80%81%7Bargument%20name%3D%22flavor%20profile%22%20default%3D%22%E6%88%91%E7%9A%84%E7%94%A2%E5%93%81%E9%A2%A8%E5%91%B3%22%7D%20%E5%92%8C%E7%BE%8E%E5%AD%B8%E7%9B%B8%E9%97%9C%20%E2%80%94%20%E8%80%8C%E9%9D%9E%E5%8E%9F%E5%A7%8B%E5%93%81%E7%89%8C%E3%80%82%E4%BF%9D%E6%8C%81%E7%85%A7%E7%89%87%E7%B4%9A%E7%9C%9F%E5%AF%A6%E6%84%9F%E5%92%8C%E6%BA%96%E7%A2%BA%E7%9A%84%E7%94%A2%E5%93%81%E6%AF%94%E4%BE%8B%E3%80%82)**
+
+---
+
+### No. 91: Y2K 閃光夜車情侶肖像提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個高度詳細的 JSON 風格提示，用於生成一張 Y2K 風格的原始夜間照片，內容為一對情侶在車內，並嚴格保留身份、特定姿勢、服裝、燈光和環境設定。
+
+#### 📝 提示詞
+
+```
+{
+  "generation_constraints": {
+    "identity_preservation": "{argument name=\"identity preservation\" default=\"嚴格鎖定參考照片中兩位主體的完整身份\"}",
+    "facial_features": "請勿改變臉部、比例或自然表情",
+    "style_reference": "Y2K 原始夜間攝影風格"
+  },
+  "camera_settings": {
+    "lens": "85mm 人像鏡頭",
+    "focus": "淺景深",
+    "angle": "視線水平",
+    "framing": "中景",
+    "technique": "強烈正面直射閃光燈（機頂閃光燈）"
+  },
+  "subject_details": {
+    "pose_interaction": {
+      "position": "在汽車後座緊密坐著",
+      "man_action": "輕輕環抱女子的頸部，親吻她的太陽穴",
+      "woman_action": "溫柔地傾向他，閉著眼睛",
+      "mood": "寧靜、親密、平靜"
+    },
+    "wardrobe": {
+      "woman": {
+        "garment": "優雅的黑色長袖連衣裙",
+        "fabric": "緻密的啞光面料",
+        "details": "高領口，無露肩，經典修身輪廓"
+      },
+      "man": {
+        "outfit": "黑色西裝搭配同色長褲",
+        "shirt": "內搭黑色襯衫"
+      }
+    }
+  },
+  "lighting_and_atmosphere": {
+    "primary_source": "強烈正面直射閃光燈",
+    "ambient_light": "車內無環境光（內部黑暗），車外模糊的暖色城市燈光",
+    "contrast": "高對比度邊緣，主體後方有清晰的陰影",
+    "highlights": "皮膚和濕玻璃上有銳利的閃光燈高光"
+  },
+  "environment_context": {
+    "setting": "夜晚的車內",
+    "background_elements": "有雨滴的霧氣車窗",
+    "effects": "閃光燈反射在玻璃上，寒冷夜空中的輕微薄霧",
+    "depth": "背景保持深邃黑暗並帶有柔和模糊"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909329620_vd9p4w_G6lTK_eWEAEwfKD.jpg" width="600" alt="Y2K 閃光夜車情侶肖像提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Melisa♡](https://x.com/xmliisu)
+- **來源:** [Twitter Post](https://x.com/xmliisu/status/1993215769765703861)
+- **發布時間:** 2025年11月25日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22generation_constraints%22%3A%20%7B%0A%20%20%20%20%22identity_preservation%22%3A%20%22%7Bargument%20name%3D%5C%22identity%20preservation%5C%22%20default%3D%5C%22%E5%9A%B4%E6%A0%BC%E9%8E%96%E5%AE%9A%E5%8F%83%E8%80%83%E7%85%A7%E7%89%87%E4%B8%AD%E5%85%A9%E4%BD%8D%E4%B8%BB%E9%AB%94%E7%9A%84%E5%AE%8C%E6%95%B4%E8%BA%AB%E4%BB%BD%5C%22%7D%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22%E8%AB%8B%E5%8B%BF%E6%94%B9%E8%AE%8A%E8%87%89%E9%83%A8%E3%80%81%E6%AF%94%E4%BE%8B%E6%88%96%E8%87%AA%E7%84%B6%E8%A1%A8%E6%83%85%22%2C%0A%20%20%20%20%22style_reference%22%3A%20%22Y2K%20%E5%8E%9F%E5%A7%8B%E5%A4%9C%E9%96%93%E6%94%9D%E5%BD%B1%E9%A2%A8%E6%A0%BC%22%0A%20%20%7D%2C%0A%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%20%E4%BA%BA%E5%83%8F%E9%8F%A1%E9%A0%AD%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%E6%B7%BA%E6%99%AF%E6%B7%B1%22%2C%0A%20%20%20%20%22angle%22%3A%20%22%E8%A6%96%E7%B7%9A%E6%B0%B4%E5%B9%B3%22%2C%0A%20%20%20%20%22framing%22%3A%20%22%E4%B8%AD%E6%99%AF%22%2C%0A%20%20%20%20%22technique%22%3A%20%22%E5%BC%B7%E7%83%88%E6%AD%A3%E9%9D%A2%E7%9B%B4%E5%B0%84%E9%96%83%E5%85%89%E7%87%88%EF%BC%88%E6%A9%9F%E9%A0%82%E9%96%83%E5%85%89%E7%87%88%EF%BC%89%22%0A%20%20%7D%2C%0A%20%20%22subject_details%22%3A%20%7B%0A%20%20%20%20%22pose_interaction%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%E5%9C%A8%E6%B1%BD%E8%BB%8A%E5%BE%8C%E5%BA%A7%E7%B7%8A%E5%AF%86%E5%9D%90%E8%91%97%22%2C%0A%20%20%20%20%20%20%22man_action%22%3A%20%22%E8%BC%95%E8%BC%95%E7%92%B0%E6%8A%B1%E5%A5%B3%E5%AD%90%E7%9A%84%E9%A0%B8%E9%83%A8%EF%BC%8C%E8%A6%AA%E5%90%BB%E5%A5%B9%E7%9A%84%E5%A4%AA%E9%99%BD%E7%A9%B4%22%2C%0A%20%20%20%20%20%20%22woman_action%22%3A%20%22%E6%BA%AB%E6%9F%94%E5%9C%B0%E5%82%BE%E5%90%91%E4%BB%96%EF%BC%8C%E9%96%89%E8%91%97%E7%9C%BC%E7%9D%9B%22%2C%0A%20%20%20%20%20%20%22mood%22%3A%20%22%E5%AF%A7%E9%9D%9C%E3%80%81%E8%A6%AA%E5%AF%86%E3%80%81%E5%B9%B3%E9%9D%9C%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22woman%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22garment%22%3A%20%22%E5%84%AA%E9%9B%85%E7%9A%84%E9%BB%91%E8%89%B2%E9%95%B7%E8%A2%96%E9%80%A3%E8%A1%A3%E8%A3%99%22%2C%0A%20%20%20%20%20%20%20%20%22fabric%22%3A%20%22%E7%B7%BB%E5%AF%86%E7%9A%84%E5%95%9E%E5%85%89%E9%9D%A2%E6%96%99%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%E9%AB%98%E9%A0%98%E5%8F%A3%EF%BC%8C%E7%84%A1%E9%9C%B2%E8%82%A9%EF%BC%8C%E7%B6%93%E5%85%B8%E4%BF%AE%E8%BA%AB%E8%BC%AA%E5%BB%93%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22man%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22outfit%22%3A%20%22%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%9D%E6%90%AD%E9%85%8D%E5%90%8C%E8%89%B2%E9%95%B7%E8%A4%B2%22%2C%0A%20%20%20%20%20%20%20%20%22shirt%22%3A%20%22%E5%85%A7%E6%90%AD%E9%BB%91%E8%89%B2%E8%A5%AF%E8%A1%AB%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_and_atmosphere%22%3A%20%7B%0A%20%20%20%20%22primary_source%22%3A%20%22%E5%BC%B7%E7%83%88%E6%AD%A3%E9%9D%A2%E7%9B%B4%E5%B0%84%E9%96%83%E5%85%89%E7%87%88%22%2C%0A%20%20%20%20%22ambient_light%22%3A%20%22%E8%BB%8A%E5%85%A7%E7%84%A1%E7%92%B0%E5%A2%83%E5%85%89%EF%BC%88%E5%85%A7%E9%83%A8%E9%BB%91%E6%9A%97%EF%BC%89%EF%BC%8C%E8%BB%8A%E5%A4%96%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%9A%96%E8%89%B2%E5%9F%8E%E5%B8%82%E7%87%88%E5%85%89%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E9%82%8A%E7%B7%A3%EF%BC%8C%E4%B8%BB%E9%AB%94%E5%BE%8C%E6%96%B9%E6%9C%89%E6%B8%85%E6%99%B0%E7%9A%84%E9%99%B0%E5%BD%B1%22%2C%0A%20%20%20%20%22highlights%22%3A%20%22%E7%9A%AE%E8%86%9A%E5%92%8C%E6%BF%95%E7%8E%BB%E7%92%83%E4%B8%8A%E6%9C%89%E9%8A%B3%E5%88%A9%E7%9A%84%E9%96%83%E5%85%89%E7%87%88%E9%AB%98%E5%85%89%22%0A%20%20%7D%2C%0A%20%20%22environment_context%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22%E5%A4%9C%E6%99%9A%E7%9A%84%E8%BB%8A%E5%85%A7%22%2C%0A%20%20%20%20%22background_elements%22%3A%20%22%E6%9C%89%E9%9B%A8%E6%BB%B4%E7%9A%84%E9%9C%A7%E6%B0%A3%E8%BB%8A%E7%AA%97%22%2C%0A%20%20%20%20%22effects%22%3A%20%22%E9%96%83%E5%85%89%E7%87%88%E5%8F%8D%E5%B0%84%E5%9C%A8%E7%8E%BB%E7%92%83%E4%B8%8A%EF%BC%8C%E5%AF%92%E5%86%B7%E5%A4%9C%E7%A9%BA%E4%B8%AD%E7%9A%84%E8%BC%95%E5%BE%AE%E8%96%84%E9%9C%A7%22%2C%0A%20%20%20%20%22depth%22%3A%20%22%E8%83%8C%E6%99%AF%E4%BF%9D%E6%8C%81%E6%B7%B1%E9%82%83%E9%BB%91%E6%9A%97%E4%B8%A6%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E6%A8%A1%E7%B3%8A%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 92: 單張圖片生成橫向三格情緒肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個 Nano Banana Pro 提示，它使用單一參考照片來建立一個水平三聯畫，其中同一個角色以三種不同的情感和構圖變化出現。
+
+#### 📝 提示詞
+
+```
+請以隨附圖片為基礎。
+請勿更改人物的臉部、髮型、服裝或身體比例。
+
+請產生一個水平三格構圖（上 / 中 / 下）。
+
+上方格：
+
+特寫鏡頭，僅顯示眼睛和嘴巴。
+
+情緒：{argument name="top panel emotion" default="淚眼汪汪、哽咽、略帶哭泣"}
+
+中間格：
+
+四肢著地。
+
+溫柔的微笑。
+
+直視鏡頭。
+
+下方格：
+
+側面特寫，從頭部到頸部。
+
+{argument name="bottom panel expression and action" default="嘟著嘴唇，彷彿要獻上一個吻"}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909275493_0jdkmx_G6k2ZXibsAAzrBQ.jpg" width="600" alt="單張圖片生成橫向三格情緒肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [摆烂程序媛](https://x.com/wanerfu)
+- **來源:** [Twitter Post](https://x.com/wanerfu/status/1993184128091799571)
+- **發布時間:** 2025年11月25日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E4%BB%A5%E9%9A%A8%E9%99%84%E5%9C%96%E7%89%87%E7%82%BA%E5%9F%BA%E7%A4%8E%E3%80%82%0A%E8%AB%8B%E5%8B%BF%E6%9B%B4%E6%94%B9%E4%BA%BA%E7%89%A9%E7%9A%84%E8%87%89%E9%83%A8%E3%80%81%E9%AB%AE%E5%9E%8B%E3%80%81%E6%9C%8D%E8%A3%9D%E6%88%96%E8%BA%AB%E9%AB%94%E6%AF%94%E4%BE%8B%E3%80%82%0A%0A%E8%AB%8B%E7%94%A2%E7%94%9F%E4%B8%80%E5%80%8B%E6%B0%B4%E5%B9%B3%E4%B8%89%E6%A0%BC%E6%A7%8B%E5%9C%96%EF%BC%88%E4%B8%8A%20%2F%20%E4%B8%AD%20%2F%20%E4%B8%8B%EF%BC%89%E3%80%82%0A%0A%E4%B8%8A%E6%96%B9%E6%A0%BC%EF%BC%9A%0A%0A%E7%89%B9%E5%AF%AB%E9%8F%A1%E9%A0%AD%EF%BC%8C%E5%83%85%E9%A1%AF%E7%A4%BA%E7%9C%BC%E7%9D%9B%E5%92%8C%E5%98%B4%E5%B7%B4%E3%80%82%0A%0A%E6%83%85%E7%B7%92%EF%BC%9A%7Bargument%20name%3D%22top%20panel%20emotion%22%20default%3D%22%E6%B7%9A%E7%9C%BC%E6%B1%AA%E6%B1%AA%E3%80%81%E5%93%BD%E5%92%BD%E3%80%81%E7%95%A5%E5%B8%B6%E5%93%AD%E6%B3%A3%22%7D%0A%0A%E4%B8%AD%E9%96%93%E6%A0%BC%EF%BC%9A%0A%0A%E5%9B%9B%E8%82%A2%E8%91%97%E5%9C%B0%E3%80%82%0A%0A%E6%BA%AB%E6%9F%94%E7%9A%84%E5%BE%AE%E7%AC%91%E3%80%82%0A%0A%E7%9B%B4%E8%A6%96%E9%8F%A1%E9%A0%AD%E3%80%82%0A%0A%E4%B8%8B%E6%96%B9%E6%A0%BC%EF%BC%9A%0A%0A%E5%81%B4%E9%9D%A2%E7%89%B9%E5%AF%AB%EF%BC%8C%E5%BE%9E%E9%A0%AD%E9%83%A8%E5%88%B0%E9%A0%B8%E9%83%A8%E3%80%82%0A%0A%7Bargument%20name%3D%22bottom%20panel%20expression%20and%20action%22%20default%3D%22%E5%98%9F%E8%91%97%E5%98%B4%E5%94%87%EF%BC%8C%E5%BD%B7%E5%BD%BF%E8%A6%81%E7%8D%BB%E4%B8%8A%E4%B8%80%E5%80%8B%E5%90%BB%22%7D)**
+
+---
+
+### No. 93: Anthropic 風格的溫暖學術 PPT 工作流程提示
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+為 Nano Banana Pro 設計的工作流程式提示，首先概述一篇來自文章的 PPT，然後以溫暖、學術性的 Anthropic/Claude 風格設計來生成每張投影片。
+
+#### 📝 提示詞
+
+```
+根據以下文章，請為我製作一份專業的中文 PPT。
+首先，請撰寫一份 PPT 大綱，並規劃每個投影片的內容。
+然後，將每個投影片的內容輸入 Nano Banana Pro，以生成對應的 PPT 頁面，並確保風格一致。
+
+具體的 PPT 風格應為「Anthropic/Claude 風格」的溫暖學術人文設計。
+背景：使用溫暖的米色/奶油色（#F3F0E9）作為純色基底，帶有輕微的高級紙張紋理。
+字體：標題使用優雅的襯線字體，內文使用現代的無襯線字體。
+調色板：主色為赤陶紅（#D67052）和芥末黃（#F0B857），並以深海軍藍作為點綴。避免使用霓虹色或純黑色。
+視覺元素：使用強調排版設計的網格佈局。插圖風格應為抽象、有機的黑色手繪線條藝術，放置在純赤陶紅色的區塊上。您必須非常節制地使用插圖和裝飾元素，並且它們應服務於內容。
+圖表：扁平且簡約的圖表，強調數據比較，並移除不必要的邊框。
+
+文字和圖像均由 Nano Banana Pro 生成。此外，請勿將 PPT 製作成單一的大圖；每個投影片應為一張圖片。
+
+文章內容如下：
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909280626_bh9j8m_G6kir-JbwAQO4LN.jpg" width="600" alt="Anthropic 風格的溫暖學術 PPT 工作流程提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [歸藏(guizang.ai)](https://x.com/op7418)
+- **來源:** [Twitter Post](https://x.com/op7418/status/1993162900630823106)
+- **發布時間:** 2025年11月25日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A0%B9%E6%93%9A%E4%BB%A5%E4%B8%8B%E6%96%87%E7%AB%A0%EF%BC%8C%E8%AB%8B%E7%82%BA%E6%88%91%E8%A3%BD%E4%BD%9C%E4%B8%80%E4%BB%BD%E5%B0%88%E6%A5%AD%E7%9A%84%E4%B8%AD%E6%96%87%20PPT%E3%80%82%0A%E9%A6%96%E5%85%88%EF%BC%8C%E8%AB%8B%E6%92%B0%E5%AF%AB%E4%B8%80%E4%BB%BD%20PPT%20%E5%A4%A7%E7%B6%B1%EF%BC%8C%E4%B8%A6%E8%A6%8F%E5%8A%83%E6%AF%8F%E5%80%8B%E6%8A%95%E5%BD%B1%E7%89%87%E7%9A%84%E5%85%A7%E5%AE%B9%E3%80%82%0A%E7%84%B6%E5%BE%8C%EF%BC%8C%E5%B0%87%E6%AF%8F%E5%80%8B%E6%8A%95%E5%BD%B1%E7%89%87%E7%9A%84%E5%85%A7%E5%AE%B9%E8%BC%B8%E5%85%A5%20Nano%20Banana%20Pro%EF%BC%8C%E4%BB%A5%E7%94%9F%E6%88%90%E5%B0%8D%E6%87%89%E7%9A%84%20PPT%20%E9%A0%81%E9%9D%A2%EF%BC%8C%E4%B8%A6%E7%A2%BA%E4%BF%9D%E9%A2%A8%E6%A0%BC%E4%B8%80%E8%87%B4%E3%80%82%0A%0A%E5%85%B7%E9%AB%94%E7%9A%84%20PPT%20%E9%A2%A8%E6%A0%BC%E6%87%89%E7%82%BA%E3%80%8CAnthropic%2FClaude%20%E9%A2%A8%E6%A0%BC%E3%80%8D%E7%9A%84%E6%BA%AB%E6%9A%96%E5%AD%B8%E8%A1%93%E4%BA%BA%E6%96%87%E8%A8%AD%E8%A8%88%E3%80%82%0A%E8%83%8C%E6%99%AF%EF%BC%9A%E4%BD%BF%E7%94%A8%E6%BA%AB%E6%9A%96%E7%9A%84%E7%B1%B3%E8%89%B2%2F%E5%A5%B6%E6%B2%B9%E8%89%B2%EF%BC%88%23F3F0E9%EF%BC%89%E4%BD%9C%E7%82%BA%E7%B4%94%E8%89%B2%E5%9F%BA%E5%BA%95%EF%BC%8C%E5%B8%B6%E6%9C%89%E8%BC%95%E5%BE%AE%E7%9A%84%E9%AB%98%E7%B4%9A%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E3%80%82%0A%E5%AD%97%E9%AB%94%EF%BC%9A%E6%A8%99%E9%A1%8C%E4%BD%BF%E7%94%A8%E5%84%AA%E9%9B%85%E7%9A%84%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%EF%BC%8C%E5%85%A7%E6%96%87%E4%BD%BF%E7%94%A8%E7%8F%BE%E4%BB%A3%E7%9A%84%E7%84%A1%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%E3%80%82%0A%E8%AA%BF%E8%89%B2%E6%9D%BF%EF%BC%9A%E4%B8%BB%E8%89%B2%E7%82%BA%E8%B5%A4%E9%99%B6%E7%B4%85%EF%BC%88%23D67052%EF%BC%89%E5%92%8C%E8%8A%A5%E6%9C%AB%E9%BB%83%EF%BC%88%23F0B857%EF%BC%89%EF%BC%8C%E4%B8%A6%E4%BB%A5%E6%B7%B1%E6%B5%B7%E8%BB%8D%E8%97%8D%E4%BD%9C%E7%82%BA%E9%BB%9E%E7%B6%B4%E3%80%82%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E9%9C%93%E8%99%B9%E8%89%B2%E6%88%96%E7%B4%94%E9%BB%91%E8%89%B2%E3%80%82%0A%E8%A6%96%E8%A6%BA%E5%85%83%E7%B4%A0%EF%BC%9A%E4%BD%BF%E7%94%A8%E5%BC%B7%E8%AA%BF%E6%8E%92%E7%89%88%E8%A8%AD%E8%A8%88%E7%9A%84%E7%B6%B2%E6%A0%BC%E4%BD%88%E5%B1%80%E3%80%82%E6%8F%92%E5%9C%96%E9%A2%A8%E6%A0%BC%E6%87%89%E7%82%BA%E6%8A%BD%E8%B1%A1%E3%80%81%E6%9C%89%E6%A9%9F%E7%9A%84%E9%BB%91%E8%89%B2%E6%89%8B%E7%B9%AA%E7%B7%9A%E6%A2%9D%E8%97%9D%E8%A1%93%EF%BC%8C%E6%94%BE%E7%BD%AE%E5%9C%A8%E7%B4%94%E8%B5%A4%E9%99%B6%E7%B4%85%E8%89%B2%E7%9A%84%E5%8D%80%E5%A1%8A%E4%B8%8A%E3%80%82%E6%82%A8%E5%BF%85%E9%A0%88%E9%9D%9E%E5%B8%B8%E7%AF%80%E5%88%B6%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%8F%92%E5%9C%96%E5%92%8C%E8%A3%9D%E9%A3%BE%E5%85%83%E7%B4%A0%EF%BC%8C%E4%B8%A6%E4%B8%94%E5%AE%83%E5%80%91%E6%87%89%E6%9C%8D%E5%8B%99%E6%96%BC%E5%85%A7%E5%AE%B9%E3%80%82%0A%E5%9C%96%E8%A1%A8%EF%BC%9A%E6%89%81%E5%B9%B3%E4%B8%94%E7%B0%A1%E7%B4%84%E7%9A%84%E5%9C%96%E8%A1%A8%EF%BC%8C%E5%BC%B7%E8%AA%BF%E6%95%B8%E6%93%9A%E6%AF%94%E8%BC%83%EF%BC%8C%E4%B8%A6%E7%A7%BB%E9%99%A4%E4%B8%8D%E5%BF%85%E8%A6%81%E7%9A%84%E9%82%8A%E6%A1%86%E3%80%82%0A%0A%E6%96%87%E5%AD%97%E5%92%8C%E5%9C%96%E5%83%8F%E5%9D%87%E7%94%B1%20Nano%20Banana%20Pro%20%E7%94%9F%E6%88%90%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E8%AB%8B%E5%8B%BF%E5%B0%87%20PPT%20%E8%A3%BD%E4%BD%9C%E6%88%90%E5%96%AE%E4%B8%80%E7%9A%84%E5%A4%A7%E5%9C%96%EF%BC%9B%E6%AF%8F%E5%80%8B%E6%8A%95%E5%BD%B1%E7%89%87%E6%87%89%E7%82%BA%E4%B8%80%E5%BC%B5%E5%9C%96%E7%89%87%E3%80%82%0A%0A%E6%96%87%E7%AB%A0%E5%85%A7%E5%AE%B9%E5%A6%82%E4%B8%8B%EF%BC%9A)**
+
+---
+
+### No. 94: Nano Banana Pro 的證件照生成提示
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個簡單的提示，可將肖像照轉換為 2 吋專業證件照，並指定背景顏色、服裝和表情。
+
+#### 📝 提示詞
+
+```
+將圖片中人物的頭部裁切下來，並製作成符合以下要求的兩吋證件照：
+1. {argument name="background color" default="blue background"}
+2. 專業正式服裝
+3. 臉部正對鏡頭
+4. 微笑
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909281176_xrpzzd_G6j6mWtbwAAx4bq.jpg" width="600" alt="Nano Banana Pro 的證件照生成提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909283247_06l64k_G6j6nXlakAAkf5e.jpg" width="600" alt="Nano Banana Pro 的證件照生成提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909285507_c63j11_G6j6pYObwAIm-OF.jpg" width="600" alt="Nano Banana Pro 的證件照生成提示 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [松果先森](https://x.com/songguoxiansen)
+- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1993135045846987053)
+- **發布時間:** 2025年11月25日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E5%9C%96%E7%89%87%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E9%A0%AD%E9%83%A8%E8%A3%81%E5%88%87%E4%B8%8B%E4%BE%86%EF%BC%8C%E4%B8%A6%E8%A3%BD%E4%BD%9C%E6%88%90%E7%AC%A6%E5%90%88%E4%BB%A5%E4%B8%8B%E8%A6%81%E6%B1%82%E7%9A%84%E5%85%A9%E5%90%8B%E8%AD%89%E4%BB%B6%E7%85%A7%EF%BC%9A%0A1.%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22blue%20background%22%7D%0A2.%20%E5%B0%88%E6%A5%AD%E6%AD%A3%E5%BC%8F%E6%9C%8D%E8%A3%9D%0A3.%20%E8%87%89%E9%83%A8%E6%AD%A3%E5%B0%8D%E9%8F%A1%E9%A0%AD%0A4.%20%E5%BE%AE%E7%AC%91)**
+
+---
+
+### No. 95: 復古拍立得拼貼肖像提示
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個 Nano Banana Pro 提示，用於創作一張藝術拼貼畫，其中包含六張夾在柔和色調牆上的復古風格拍立得照片，每張照片都展示了不同的輕鬆浪漫姿勢和表情。
+
+#### 📝 提示詞
+
+```
+使用 {argument name="number of Polaroids" default="6"} 張復古拍立得照片，用裝飾繩和迷你衣夾固定，打造一個像家庭相簿一樣的藝術拼貼。每張拍立得相框都略微褪色，帶有陳舊紙張的效果。背景是一面柔和的粉彩色牆壁，帶有微妙的陰影，營造出舒適而富有創意感的混亂氛圍。
+情緒與姿勢：
+* 輕鬆的笑聲 — 閉著眼睛，自然地開心。
+* 夢幻般的眼神向上凝視，姿勢放鬆。
+* 調皮地眨眼。
+* 頭微傾的平靜微笑，雙手舉起，手勢充滿活力。
+* 回眸一笑，帶有浪漫的眼神。
+
+整個空間充滿復古藝術氛圍，融合了 1970 年代時尚雜誌的元素、柔和的漫射光線和溫暖的金色調。每張照片都像是一張獨特的幕後快照，帶有一絲懷舊感，並揭示了個人歷史的點滴。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909274975_lkm1ac_G6kAsr4aUAAzLeB.jpg" width="600" alt="復古拍立得拼貼肖像提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [松果先森](https://x.com/songguoxiansen)
+- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1993125250020823292)
+- **發布時間:** 2025年11月25日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%BF%E7%94%A8%20%7Bargument%20name%3D%22number%20of%20Polaroids%22%20default%3D%226%22%7D%20%E5%BC%B5%E5%BE%A9%E5%8F%A4%E6%8B%8D%E7%AB%8B%E5%BE%97%E7%85%A7%E7%89%87%EF%BC%8C%E7%94%A8%E8%A3%9D%E9%A3%BE%E7%B9%A9%E5%92%8C%E8%BF%B7%E4%BD%A0%E8%A1%A3%E5%A4%BE%E5%9B%BA%E5%AE%9A%EF%BC%8C%E6%89%93%E9%80%A0%E4%B8%80%E5%80%8B%E5%83%8F%E5%AE%B6%E5%BA%AD%E7%9B%B8%E7%B0%BF%E4%B8%80%E6%A8%A3%E7%9A%84%E8%97%9D%E8%A1%93%E6%8B%BC%E8%B2%BC%E3%80%82%E6%AF%8F%E5%BC%B5%E6%8B%8D%E7%AB%8B%E5%BE%97%E7%9B%B8%E6%A1%86%E9%83%BD%E7%95%A5%E5%BE%AE%E8%A4%AA%E8%89%B2%EF%BC%8C%E5%B8%B6%E6%9C%89%E9%99%B3%E8%88%8A%E7%B4%99%E5%BC%B5%E7%9A%84%E6%95%88%E6%9E%9C%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E4%B8%80%E9%9D%A2%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E7%89%86%E5%A3%81%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E9%99%B0%E5%BD%B1%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E8%88%92%E9%81%A9%E8%80%8C%E5%AF%8C%E6%9C%89%E5%89%B5%E6%84%8F%E6%84%9F%E7%9A%84%E6%B7%B7%E4%BA%82%E6%B0%9B%E5%9C%8D%E3%80%82%0A%E6%83%85%E7%B7%92%E8%88%87%E5%A7%BF%E5%8B%A2%EF%BC%9A%0A*%20%E8%BC%95%E9%AC%86%E7%9A%84%E7%AC%91%E8%81%B2%20%E2%80%94%20%E9%96%89%E8%91%97%E7%9C%BC%E7%9D%9B%EF%BC%8C%E8%87%AA%E7%84%B6%E5%9C%B0%E9%96%8B%E5%BF%83%E3%80%82%0A*%20%E5%A4%A2%E5%B9%BB%E8%88%AC%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%90%91%E4%B8%8A%E5%87%9D%E8%A6%96%EF%BC%8C%E5%A7%BF%E5%8B%A2%E6%94%BE%E9%AC%86%E3%80%82%0A*%20%E8%AA%BF%E7%9A%AE%E5%9C%B0%E7%9C%A8%E7%9C%BC%E3%80%82%0A*%20%E9%A0%AD%E5%BE%AE%E5%82%BE%E7%9A%84%E5%B9%B3%E9%9D%9C%E5%BE%AE%E7%AC%91%EF%BC%8C%E9%9B%99%E6%89%8B%E8%88%89%E8%B5%B7%EF%BC%8C%E6%89%8B%E5%8B%A2%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E3%80%82%0A*%20%E5%9B%9E%E7%9C%B8%E4%B8%80%E7%AC%91%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%B5%AA%E6%BC%AB%E7%9A%84%E7%9C%BC%E7%A5%9E%E3%80%82%0A%0A%E6%95%B4%E5%80%8B%E7%A9%BA%E9%96%93%E5%85%85%E6%BB%BF%E5%BE%A9%E5%8F%A4%E8%97%9D%E8%A1%93%E6%B0%9B%E5%9C%8D%EF%BC%8C%E8%9E%8D%E5%90%88%E4%BA%86%201970%20%E5%B9%B4%E4%BB%A3%E6%99%82%E5%B0%9A%E9%9B%9C%E8%AA%8C%E7%9A%84%E5%85%83%E7%B4%A0%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%85%89%E7%B7%9A%E5%92%8C%E6%BA%AB%E6%9A%96%E7%9A%84%E9%87%91%E8%89%B2%E8%AA%BF%E3%80%82%E6%AF%8F%E5%BC%B5%E7%85%A7%E7%89%87%E9%83%BD%E5%83%8F%E6%98%AF%E4%B8%80%E5%BC%B5%E7%8D%A8%E7%89%B9%E7%9A%84%E5%B9%95%E5%BE%8C%E5%BF%AB%E7%85%A7%EF%BC%8C%E5%B8%B6%E6%9C%89%E4%B8%80%E7%B5%B2%E6%87%B7%E8%88%8A%E6%84%9F%EF%BC%8C%E4%B8%A6%E6%8F%AD%E7%A4%BA%E4%BA%86%E5%80%8B%E4%BA%BA%E6%AD%B7%E5%8F%B2%E7%9A%84%E9%BB%9E%E6%BB%B4%E3%80%82)**
+
+---
+
+### No. 96: 特定座標的歷史時刻 (1994)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1990,7 +5679,7 @@ composition:
 
 ---
 
-### No. 33: 給孩子們看的黏土動畫日相圖資訊圖表
+### No. 97: 給孩子們看的黏土動畫日相圖資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2024,7 +5713,7 @@ composition:
 
 ---
 
-### No. 34: F1 VIP 粉絲超逼真自拍編輯
+### No. 98: F1 VIP 粉絲超逼真自拍編輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2095,7 +5784,7 @@ composition:
 
 ---
 
-### No. 35: LINE 風格 Q 版頭像九宮格
+### No. 99: LINE 風格 Q 版頭像九宮格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2146,7 +5835,7 @@ composition:
 
 ---
 
-### No. 36: 帶有座標和日期的時光旅行場景
+### No. 100: 帶有座標和日期的時光旅行場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2180,7 +5869,7 @@ composition:
 
 ---
 
-### No. 37: 手繪等距地標示意圖
+### No. 101: 手繪等距地標示意圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2214,7 +5903,7 @@ composition:
 
 ---
 
-### No. 38: 一名女性的電影式黑白肖像
+### No. 102: 一名女性的電影式黑白肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2253,7 +5942,7 @@ composition:
 
 ---
 
-### No. 39: 冰箱掃描食譜資訊圖表
+### No. 103: 冰箱掃描食譜資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2293,7 +5982,7 @@ composition:
 
 ---
 
-### No. 40: Knolling 風格的爆炸式平面擺拍照片
+### No. 104: Knolling 風格的爆炸式平面擺拍照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2327,7 +6016,106 @@ composition:
 
 ---
 
-### No. 41: 年輕男子在瑞士阿爾卑斯山冬季的肖像
+### No. 105: 法拉利提示詞下的夜間街頭寫實人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個結構化的 JSON 提示，用於創建一張坦率的 35 毫米膠片風格夜間街頭肖像，描繪一個人靠在一輛黃色法拉利上，並帶有詳細的燈光、服裝和環境控制。
+
+#### 📝 提示詞
+
+```
+{
+  "image_metadata": {
+    "resolution": "{argument name=\"resolution\" default=\"1200x1200px\"}",
+    "genre": "街頭抓拍人像",
+    "editing_note": "臉部經過編輯，但未改變其特徵"
+  },
+  "photography_style": {
+    "medium": "類比 35mm 膠片風格",
+    "overall_aesthetic": [
+      "原始",
+      "懷舊",
+      "粗獷"
+    ],
+    "visual_artifacts": {
+      "grain": "細微但清晰的膠片顆粒遍佈整個畫面",
+      "bokeh": "背景柔和模糊"
+    },
+    "color_grade": {
+      "palette": "柔和且略帶暖色調",
+      "contrast": "高對比度（典型的閃光燈效果）"
+    }
+  },
+  "lighting_characteristics": {
+    "primary_source": {
+      "type": "相機閃光燈",
+      "direction": "直射，照亮臉部和身體"
+    },
+    "effects_on_subject": {
+      "highlights": "強烈",
+      "shadows": "清晰，投射在主體後方",
+      "skin_glow": "閃光燈帶來輕微的光澤"
+    },
+    "ambient_light": {
+      "level": "極少",
+      "sources": ["路燈", "汽車頭燈", "霓虹燈"],
+      "appearance": "模糊且略帶光暈"
+    }
+  },
+  "subject_details": {
+    "pose": {
+      "stance": "靠在車輛旁",
+      "arms": "雙臂交叉於胸前",
+      "style": "自然、抓拍"
+    },
+    "expression": "對著鏡頭微微一笑",
+    "features": {
+      "skin_texture": "自然"
+    },
+    "attire": {
+      "top": "軍綠色 V 領針織短版背心",
+      "bottom": "黑色短褲",
+      "footwear": "白灰色 New Balance 530 運動鞋"
+    }
+  },
+  "environmental_context": {
+    "time_of_day": "夜晚",
+    "setting": "黑暗的城市街道",
+    "key_elements": {
+      "foreground_object": "亮黃色 Ferrari F8",
+      "background": {
+        "brightness": "黑暗",
+        "noise_level": "極少"
+      }
+    }
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909323576_dyfbdn_G6iBftkW0AALYJf.jpg" width="600" alt="法拉利提示詞下的夜間街頭寫實人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Melisa♡](https://x.com/xmliisu)
+- **來源:** [Twitter Post](https://x.com/xmliisu/status/1992985230303527355)
+- **發布時間:** 2025年11月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_metadata%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22%7Bargument%20name%3D%5C%22resolution%5C%22%20default%3D%5C%221200x1200px%5C%22%7D%22%2C%0A%20%20%20%20%22genre%22%3A%20%22%E8%A1%97%E9%A0%AD%E6%8A%93%E6%8B%8D%E4%BA%BA%E5%83%8F%22%2C%0A%20%20%20%20%22editing_note%22%3A%20%22%E8%87%89%E9%83%A8%E7%B6%93%E9%81%8E%E7%B7%A8%E8%BC%AF%EF%BC%8C%E4%BD%86%E6%9C%AA%E6%94%B9%E8%AE%8A%E5%85%B6%E7%89%B9%E5%BE%B5%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22medium%22%3A%20%22%E9%A1%9E%E6%AF%94%2035mm%20%E8%86%A0%E7%89%87%E9%A2%A8%E6%A0%BC%22%2C%0A%20%20%20%20%22overall_aesthetic%22%3A%20%5B%0A%20%20%20%20%20%20%22%E5%8E%9F%E5%A7%8B%22%2C%0A%20%20%20%20%20%20%22%E6%87%B7%E8%88%8A%22%2C%0A%20%20%20%20%20%20%22%E7%B2%97%E7%8D%B7%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22visual_artifacts%22%3A%20%7B%0A%20%20%20%20%20%20%22grain%22%3A%20%22%E7%B4%B0%E5%BE%AE%E4%BD%86%E6%B8%85%E6%99%B0%E7%9A%84%E8%86%A0%E7%89%87%E9%A1%86%E7%B2%92%E9%81%8D%E4%BD%88%E6%95%B4%E5%80%8B%E7%95%AB%E9%9D%A2%22%2C%0A%20%20%20%20%20%20%22bokeh%22%3A%20%22%E8%83%8C%E6%99%AF%E6%9F%94%E5%92%8C%E6%A8%A1%E7%B3%8A%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grade%22%3A%20%7B%0A%20%20%20%20%20%20%22palette%22%3A%20%22%E6%9F%94%E5%92%8C%E4%B8%94%E7%95%A5%E5%B8%B6%E6%9A%96%E8%89%B2%E8%AA%BF%22%2C%0A%20%20%20%20%20%20%22contrast%22%3A%20%22%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%EF%BC%88%E5%85%B8%E5%9E%8B%E7%9A%84%E9%96%83%E5%85%89%E7%87%88%E6%95%88%E6%9E%9C%EF%BC%89%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_characteristics%22%3A%20%7B%0A%20%20%20%20%22primary_source%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%E7%9B%B8%E6%A9%9F%E9%96%83%E5%85%89%E7%87%88%22%2C%0A%20%20%20%20%20%20%22direction%22%3A%20%22%E7%9B%B4%E5%B0%84%EF%BC%8C%E7%85%A7%E4%BA%AE%E8%87%89%E9%83%A8%E5%92%8C%E8%BA%AB%E9%AB%94%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22effects_on_subject%22%3A%20%7B%0A%20%20%20%20%20%20%22highlights%22%3A%20%22%E5%BC%B7%E7%83%88%22%2C%0A%20%20%20%20%20%20%22shadows%22%3A%20%22%E6%B8%85%E6%99%B0%EF%BC%8C%E6%8A%95%E5%B0%84%E5%9C%A8%E4%B8%BB%E9%AB%94%E5%BE%8C%E6%96%B9%22%2C%0A%20%20%20%20%20%20%22skin_glow%22%3A%20%22%E9%96%83%E5%85%89%E7%87%88%E5%B8%B6%E4%BE%86%E8%BC%95%E5%BE%AE%E7%9A%84%E5%85%89%E6%BE%A4%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22ambient_light%22%3A%20%7B%0A%20%20%20%20%20%20%22level%22%3A%20%22%E6%A5%B5%E5%B0%91%22%2C%0A%20%20%20%20%20%20%22sources%22%3A%20%5B%22%E8%B7%AF%E7%87%88%22%2C%20%22%E6%B1%BD%E8%BB%8A%E9%A0%AD%E7%87%88%22%2C%20%22%E9%9C%93%E8%99%B9%E7%87%88%22%5D%2C%0A%20%20%20%20%20%20%22appearance%22%3A%20%22%E6%A8%A1%E7%B3%8A%E4%B8%94%E7%95%A5%E5%B8%B6%E5%85%89%E6%9A%88%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject_details%22%3A%20%7B%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22stance%22%3A%20%22%E9%9D%A0%E5%9C%A8%E8%BB%8A%E8%BC%9B%E6%97%81%22%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%22%E9%9B%99%E8%87%82%E4%BA%A4%E5%8F%89%E6%96%BC%E8%83%B8%E5%89%8D%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%E8%87%AA%E7%84%B6%E3%80%81%E6%8A%93%E6%8B%8D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%22%E5%B0%8D%E8%91%97%E9%8F%A1%E9%A0%AD%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%22%2C%0A%20%20%20%20%22features%22%3A%20%7B%0A%20%20%20%20%20%20%22skin_texture%22%3A%20%22%E8%87%AA%E7%84%B6%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%E8%BB%8D%E7%B6%A0%E8%89%B2%20V%20%E9%A0%98%E9%87%9D%E7%B9%94%E7%9F%AD%E7%89%88%E8%83%8C%E5%BF%83%22%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%22%E9%BB%91%E8%89%B2%E7%9F%AD%E8%A4%B2%22%2C%0A%20%20%20%20%20%20%22footwear%22%3A%20%22%E7%99%BD%E7%81%B0%E8%89%B2%20New%20Balance%20530%20%E9%81%8B%E5%8B%95%E9%9E%8B%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environmental_context%22%3A%20%7B%0A%20%20%20%20%22time_of_day%22%3A%20%22%E5%A4%9C%E6%99%9A%22%2C%0A%20%20%20%20%22setting%22%3A%20%22%E9%BB%91%E6%9A%97%E7%9A%84%E5%9F%8E%E5%B8%82%E8%A1%97%E9%81%93%22%2C%0A%20%20%20%20%22key_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22foreground_object%22%3A%20%22%E4%BA%AE%E9%BB%83%E8%89%B2%20Ferrari%20F8%22%2C%0A%20%20%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22brightness%22%3A%20%22%E9%BB%91%E6%9A%97%22%2C%0A%20%20%20%20%20%20%20%20%22noise_level%22%3A%20%22%E6%A5%B5%E5%B0%91%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 106: 年輕男子在瑞士阿爾卑斯山冬季的肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2370,7 +6158,7 @@ composition:
 
 ---
 
-### No. 42: 漫威風格的女英雄漫畫分鏡圖
+### No. 107: 漫威風格的女英雄漫畫分鏡圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2409,7 +6197,7 @@ composition:
 
 ---
 
-### No. 43: 根據參考照片製作的電影感屋頂肖像
+### No. 108: 根據參考照片製作的電影感屋頂肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2448,7 +6236,7 @@ composition:
 
 ---
 
-### No. 44: 現有圖像的卡通版本
+### No. 109: 現有圖像的卡通版本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2481,7 +6269,7 @@ composition:
 
 ---
 
-### No. 45: 裝置的技術分解圖
+### No. 110: 裝置的技術分解圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2515,7 +6303,7 @@ composition:
 
 ---
 
-### No. 46: 未來感十足的臉部年齡檢查器資訊圖表肖像
+### No. 111: 未來感十足的臉部年齡檢查器資訊圖表肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2574,7 +6362,7 @@ composition:
 
 ---
 
-### No. 47: 漫畫風格的中文漫畫分鏡圖產生器
+### No. 112: 漫畫風格的中文漫畫分鏡圖產生器
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2615,7 +6403,7 @@ composition:
 
 ---
 
-### No. 48: 幕後拍攝設定視覺化
+### No. 113: 幕後拍攝設定視覺化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2648,7 +6436,7 @@ composition:
 
 ---
 
-### No. 49: 諸葛連弩的復古工程爆炸圖
+### No. 114: 諸葛連弩的復古工程爆炸圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2682,7 +6470,7 @@ composition:
 
 ---
 
-### No. 50: 復古食譜風格的食譜插畫
+### No. 115: 復古食譜風格的食譜插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2722,7 +6510,7 @@ composition:
 
 ---
 
-### No. 51: IT 產業的電影式多面板序列
+### No. 116: IT 產業的電影式多面板序列
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2762,7 +6550,7 @@ composition:
 
 ---
 
-### No. 52: 編輯牛仔布人像，保留臉部識別
+### No. 117: 編輯牛仔布人像，保留臉部識別
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2861,7 +6649,58 @@ composition:
 
 ---
 
-### No. 53: 兒童蠟筆風格的家庭露營圖畫
+### No. 118: 高對比度、邊緣打光的黑白概念性側面肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個長篇英文提示，用於生成一張強大、極簡、高對比度的黑白側面肖像，從黑暗中浮現，具有遠攝鏡頭效果、超逼真的 8K 電影渲染和強烈的輪廓光，並以用戶的照片作為參考。
+
+#### 📝 提示詞
+
+```
+一張強而有力、高對比度的黑白側面人像照（附圖），人物特徵鮮明，既有人性又具永恆感，從完全的黑暗中浮現。構圖極簡且富有雕塑感，形狀、光線和陰影定義了主體，而非色彩或紋理。
+
+主體的側面線條簡潔有力，表情沉思，彷彿介於思想與超脫之間。他們穿著一件深色、貼身的樽領毛衣，與漆黑的虛空無縫融合，除了輪廓的發光邊緣外，所有細節都消失了。
+
+一道單一、狹窄的邊緣光，明亮、銳利且指向性強，精確地勾勒出頭部、頸部和肩膀的形狀。光線來自主體正後方偏上方，沿著下顎線和頭顱曲線形成一圈纖細、發光的暈圈，而其餘部分則消融於純粹的黑色之中。
+
+背景是絕對的黑暗，一個沒有紋理或深度的虛空，強調了陰影與光線之間發光的界限。沒有中間調，只有最純粹的黑色，以及與最亮白色形成刻意對比，以增強戲劇性和抽象感。
+
+氛圍與美學：極簡、概念化且深度內省。這張影像喚起了孤獨、沉思和永恆的優雅。它既有電影感又親密，透過光線探索身份。
+
+技術細節：
+
+使用遠攝鏡頭拍攝，以壓縮透視。
+
+光圈全開 (f/1.8-2.8)，以淺景深營造發光的輪廓。
+
+光學寫實主義：以超寫實的 8K 電影品質渲染，融入真實的鏡頭物理特性、景深和細微的膠片顆粒，正面光線良好。（請參考我的照片）
+
+靈感來自 @ShreyaYadav___
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764909150771_t76oy1_G6cCOxSbwAAGcLP.jpg" width="600" alt="高對比度、邊緣打光的黑白概念性側面肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Alejo](https://x.com/ecommartinez)
+- **來源:** [Twitter Post](https://x.com/ecommartinez/status/1992563816568369426)
+- **發布時間:** 2025年11月23日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%E5%BC%B7%E8%80%8C%E6%9C%89%E5%8A%9B%E3%80%81%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E7%9A%84%E9%BB%91%E7%99%BD%E5%81%B4%E9%9D%A2%E4%BA%BA%E5%83%8F%E7%85%A7%EF%BC%88%E9%99%84%E5%9C%96%EF%BC%89%EF%BC%8C%E4%BA%BA%E7%89%A9%E7%89%B9%E5%BE%B5%E9%AE%AE%E6%98%8E%EF%BC%8C%E6%97%A2%E6%9C%89%E4%BA%BA%E6%80%A7%E5%8F%88%E5%85%B7%E6%B0%B8%E6%81%86%E6%84%9F%EF%BC%8C%E5%BE%9E%E5%AE%8C%E5%85%A8%E7%9A%84%E9%BB%91%E6%9A%97%E4%B8%AD%E6%B5%AE%E7%8F%BE%E3%80%82%E6%A7%8B%E5%9C%96%E6%A5%B5%E7%B0%A1%E4%B8%94%E5%AF%8C%E6%9C%89%E9%9B%95%E5%A1%91%E6%84%9F%EF%BC%8C%E5%BD%A2%E7%8B%80%E3%80%81%E5%85%89%E7%B7%9A%E5%92%8C%E9%99%B0%E5%BD%B1%E5%AE%9A%E7%BE%A9%E4%BA%86%E4%B8%BB%E9%AB%94%EF%BC%8C%E8%80%8C%E9%9D%9E%E8%89%B2%E5%BD%A9%E6%88%96%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E4%B8%BB%E9%AB%94%E7%9A%84%E5%81%B4%E9%9D%A2%E7%B7%9A%E6%A2%9D%E7%B0%A1%E6%BD%94%E6%9C%89%E5%8A%9B%EF%BC%8C%E8%A1%A8%E6%83%85%E6%B2%89%E6%80%9D%EF%BC%8C%E5%BD%B7%E5%BD%BF%E4%BB%8B%E6%96%BC%E6%80%9D%E6%83%B3%E8%88%87%E8%B6%85%E8%84%AB%E4%B9%8B%E9%96%93%E3%80%82%E4%BB%96%E5%80%91%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E6%B7%B1%E8%89%B2%E3%80%81%E8%B2%BC%E8%BA%AB%E7%9A%84%E6%A8%BD%E9%A0%98%E6%AF%9B%E8%A1%A3%EF%BC%8C%E8%88%87%E6%BC%86%E9%BB%91%E7%9A%84%E8%99%9B%E7%A9%BA%E7%84%A1%E7%B8%AB%E8%9E%8D%E5%90%88%EF%BC%8C%E9%99%A4%E4%BA%86%E8%BC%AA%E5%BB%93%E7%9A%84%E7%99%BC%E5%85%89%E9%82%8A%E7%B7%A3%E5%A4%96%EF%BC%8C%E6%89%80%E6%9C%89%E7%B4%B0%E7%AF%80%E9%83%BD%E6%B6%88%E5%A4%B1%E4%BA%86%E3%80%82%0A%0A%E4%B8%80%E9%81%93%E5%96%AE%E4%B8%80%E3%80%81%E7%8B%B9%E7%AA%84%E7%9A%84%E9%82%8A%E7%B7%A3%E5%85%89%EF%BC%8C%E6%98%8E%E4%BA%AE%E3%80%81%E9%8A%B3%E5%88%A9%E4%B8%94%E6%8C%87%E5%90%91%E6%80%A7%E5%BC%B7%EF%BC%8C%E7%B2%BE%E7%A2%BA%E5%9C%B0%E5%8B%BE%E5%8B%92%E5%87%BA%E9%A0%AD%E9%83%A8%E3%80%81%E9%A0%B8%E9%83%A8%E5%92%8C%E8%82%A9%E8%86%80%E7%9A%84%E5%BD%A2%E7%8B%80%E3%80%82%E5%85%89%E7%B7%9A%E4%BE%86%E8%87%AA%E4%B8%BB%E9%AB%94%E6%AD%A3%E5%BE%8C%E6%96%B9%E5%81%8F%E4%B8%8A%E6%96%B9%EF%BC%8C%E6%B2%BF%E8%91%97%E4%B8%8B%E9%A1%8E%E7%B7%9A%E5%92%8C%E9%A0%AD%E9%A1%B1%E6%9B%B2%E7%B7%9A%E5%BD%A2%E6%88%90%E4%B8%80%E5%9C%88%E7%BA%96%E7%B4%B0%E3%80%81%E7%99%BC%E5%85%89%E7%9A%84%E6%9A%88%E5%9C%88%EF%BC%8C%E8%80%8C%E5%85%B6%E9%A4%98%E9%83%A8%E5%88%86%E5%89%87%E6%B6%88%E8%9E%8D%E6%96%BC%E7%B4%94%E7%B2%B9%E7%9A%84%E9%BB%91%E8%89%B2%E4%B9%8B%E4%B8%AD%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E6%98%AF%E7%B5%95%E5%B0%8D%E7%9A%84%E9%BB%91%E6%9A%97%EF%BC%8C%E4%B8%80%E5%80%8B%E6%B2%92%E6%9C%89%E7%B4%8B%E7%90%86%E6%88%96%E6%B7%B1%E5%BA%A6%E7%9A%84%E8%99%9B%E7%A9%BA%EF%BC%8C%E5%BC%B7%E8%AA%BF%E4%BA%86%E9%99%B0%E5%BD%B1%E8%88%87%E5%85%89%E7%B7%9A%E4%B9%8B%E9%96%93%E7%99%BC%E5%85%89%E7%9A%84%E7%95%8C%E9%99%90%E3%80%82%E6%B2%92%E6%9C%89%E4%B8%AD%E9%96%93%E8%AA%BF%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%9C%80%E7%B4%94%E7%B2%B9%E7%9A%84%E9%BB%91%E8%89%B2%EF%BC%8C%E4%BB%A5%E5%8F%8A%E8%88%87%E6%9C%80%E4%BA%AE%E7%99%BD%E8%89%B2%E5%BD%A2%E6%88%90%E5%88%BB%E6%84%8F%E5%B0%8D%E6%AF%94%EF%BC%8C%E4%BB%A5%E5%A2%9E%E5%BC%B7%E6%88%B2%E5%8A%87%E6%80%A7%E5%92%8C%E6%8A%BD%E8%B1%A1%E6%84%9F%E3%80%82%0A%0A%E6%B0%9B%E5%9C%8D%E8%88%87%E7%BE%8E%E5%AD%B8%EF%BC%9A%E6%A5%B5%E7%B0%A1%E3%80%81%E6%A6%82%E5%BF%B5%E5%8C%96%E4%B8%94%E6%B7%B1%E5%BA%A6%E5%85%A7%E7%9C%81%E3%80%82%E9%80%99%E5%BC%B5%E5%BD%B1%E5%83%8F%E5%96%9A%E8%B5%B7%E4%BA%86%E5%AD%A4%E7%8D%A8%E3%80%81%E6%B2%89%E6%80%9D%E5%92%8C%E6%B0%B8%E6%81%86%E7%9A%84%E5%84%AA%E9%9B%85%E3%80%82%E5%AE%83%E6%97%A2%E6%9C%89%E9%9B%BB%E5%BD%B1%E6%84%9F%E5%8F%88%E8%A6%AA%E5%AF%86%EF%BC%8C%E9%80%8F%E9%81%8E%E5%85%89%E7%B7%9A%E6%8E%A2%E7%B4%A2%E8%BA%AB%E4%BB%BD%E3%80%82%0A%0A%E6%8A%80%E8%A1%93%E7%B4%B0%E7%AF%80%EF%BC%9A%0A%0A%E4%BD%BF%E7%94%A8%E9%81%A0%E6%94%9D%E9%8F%A1%E9%A0%AD%E6%8B%8D%E6%94%9D%EF%BC%8C%E4%BB%A5%E5%A3%93%E7%B8%AE%E9%80%8F%E8%A6%96%E3%80%82%0A%0A%E5%85%89%E5%9C%88%E5%85%A8%E9%96%8B%20(f%2F1.8-2.8)%EF%BC%8C%E4%BB%A5%E6%B7%BA%E6%99%AF%E6%B7%B1%E7%87%9F%E9%80%A0%E7%99%BC%E5%85%89%E7%9A%84%E8%BC%AA%E5%BB%93%E3%80%82%0A%0A%E5%85%89%E5%AD%B8%E5%AF%AB%E5%AF%A6%E4%B8%BB%E7%BE%A9%EF%BC%9A%E4%BB%A5%E8%B6%85%E5%AF%AB%E5%AF%A6%E7%9A%84%208K%20%E9%9B%BB%E5%BD%B1%E5%93%81%E8%B3%AA%E6%B8%B2%E6%9F%93%EF%BC%8C%E8%9E%8D%E5%85%A5%E7%9C%9F%E5%AF%A6%E7%9A%84%E9%8F%A1%E9%A0%AD%E7%89%A9%E7%90%86%E7%89%B9%E6%80%A7%E3%80%81%E6%99%AF%E6%B7%B1%E5%92%8C%E7%B4%B0%E5%BE%AE%E7%9A%84%E8%86%A0%E7%89%87%E9%A1%86%E7%B2%92%EF%BC%8C%E6%AD%A3%E9%9D%A2%E5%85%89%E7%B7%9A%E8%89%AF%E5%A5%BD%E3%80%82%EF%BC%88%E8%AB%8B%E5%8F%83%E8%80%83%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%89%0A%0A%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%20%40ShreyaYadav___)**
+
+---
+
+### No. 119: 兒童蠟筆風格的家庭露營圖畫
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2899,7 +6738,7 @@ composition:
 
 ---
 
-### No. 54: 參考影像中的四個攝影機角度網格
+### No. 120: 參考影像中的四個攝影機角度網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2939,7 +6778,7 @@ composition:
 
 ---
 
-### No. 55: 編輯月亮位置並更改繪畫風格
+### No. 121: 編輯月亮位置並更改繪畫風格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2978,7 +6817,7 @@ composition:
 
 ---
 
-### No. 56: 在指定座標發生的重大事件
+### No. 122: 在指定座標發生的重大事件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3012,7 +6851,7 @@ composition:
 
 ---
 
-### No. 57: 傑克森實驗室資訊圖表
+### No. 123: 傑克森實驗室資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3046,7 +6885,7 @@ composition:
 
 ---
 
-### No. 58: 依據參考線框圖進行網頁設計
+### No. 124: 依據參考線框圖進行網頁設計
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3079,7 +6918,7 @@ composition:
 
 ---
 
-### No. 59: 可愛長尾山雀 LINE 貼圖組
+### No. 125: 可愛長尾山雀 LINE 貼圖組
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3112,7 +6951,7 @@ composition:
 
 ---
 
-### No. 60: 根據照片設計逼真的人物角色表單
+### No. 126: 根據照片設計逼真的人物角色表單
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3150,7 +6989,7 @@ composition:
 
 ---
 
-### No. 61: Google 早期歲月資訊圖表
+### No. 127: Google 早期歲月資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3183,7 +7022,7 @@ composition:
 
 ---
 
-### No. 62: 2D NES 平台遊戲的 Sprite sheet
+### No. 128: 2D NES 平台遊戲的 Sprite sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3216,7 +7055,7 @@ composition:
 
 ---
 
-### No. 63: 塗裝方案比較圖
+### No. 129: 塗裝方案比較圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3261,7 +7100,7 @@ composition:
 
 ---
 
-### No. 64: 根據參考照片和草圖繪製動作場景
+### No. 130: 根據參考照片和草圖繪製動作場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3313,7 +7152,7 @@ composition:
 
 ---
 
-### No. 65: 江戶風格木刻版畫忍者角色
+### No. 131: 江戶風格木刻版畫忍者角色
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3347,7 +7186,7 @@ composition:
 
 ---
 
-### No. 66: 印尼總統系列寫實照片
+### No. 132: 印尼總統系列寫實照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3387,7 +7226,7 @@ composition:
 
 ---
 
-### No. 67: 透過風格轉換打造 90 年代風格的網站
+### No. 133: 透過風格轉換打造 90 年代風格的網站
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3432,7 +7271,7 @@ composition:
 
 ---
 
-### No. 68: 將 Netflix 螢幕變成西方版本
+### No. 134: 將 Netflix 螢幕變成西方版本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3465,7 +7304,7 @@ composition:
 
 ---
 
-### No. 69: 文章或內容的縮圖設計提示
+### No. 135: 文章或內容的縮圖設計提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3517,7 +7356,7 @@ composition:
 
 ---
 
-### No. 70: 床上散落的衣物
+### No. 136: 床上散落的衣物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3556,7 +7395,7 @@ composition:
 
 ---
 
-### No. 71: 天真塗鴉風格的主題插畫
+### No. 137: 天真塗鴉風格的主題插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3590,7 +7429,7 @@ composition:
 
 ---
 
-### No. 72: 簡單的動作電影場景
+### No. 138: 簡單的動作電影場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3623,7 +7462,7 @@ composition:
 
 ---
 
-### No. 73: 逼真的烤餅（naan bread）雙關語圖片
+### No. 139: 逼真的烤餅（naan bread）雙關語圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3675,7 +7514,7 @@ composition:
 
 ---
 
-### No. 74: 食物照片變身生物風格營養海報
+### No. 140: 食物照片變身生物風格營養海報
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3714,7 +7553,7 @@ composition:
 
 ---
 
-### No. 75: 日本辣妹雜誌校服特輯
+### No. 141: 日本辣妹雜誌校服特輯
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3747,7 +7586,7 @@ composition:
 
 ---
 
-### No. 76: 遊戲王魔法卡文字主題
+### No. 142: 遊戲王魔法卡文字主題
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3787,7 +7626,7 @@ composition:
 
 ---
 
-### No. 77: AI 夥伴從後方擁抱的兩人鏡頭
+### No. 143: AI 夥伴從後方擁抱的兩人鏡頭
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3820,7 +7659,7 @@ composition:
 
 ---
 
-### No. 78: 關於嵌入式工程師困境的四格漫畫
+### No. 144: 關於嵌入式工程師困境的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3859,7 +7698,7 @@ composition:
 
 ---
 
-### No. 79: 夏爾中的威利在哪裡風格《魔戒》
+### No. 145: 夏爾中的威利在哪裡風格《魔戒》
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3892,7 +7731,7 @@ composition:
 
 ---
 
-### No. 80: 搖滾樂團海報，臉部特徵一致
+### No. 146: 搖滾樂團海報，臉部特徵一致
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3932,7 +7771,7 @@ composition:
 
 ---
 
-### No. 81: 黑白硬漢 LINE 貼圖
+### No. 147: 黑白硬漢 LINE 貼圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3965,7 +7804,7 @@ composition:
 
 ---
 
-### No. 82: 詩歌的電影式演繹
+### No. 148: 詩歌的電影式演繹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3999,7 +7838,7 @@ composition:
 
 ---
 
-### No. 83: 照片上的可愛手寫筆記
+### No. 149: 照片上的可愛手寫筆記
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4032,7 +7871,7 @@ composition:
 
 ---
 
-### No. 84: 衣服分開平鋪在床上
+### No. 150: 衣服分開平鋪在床上
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4077,7 +7916,7 @@ composition:
 
 ---
 
-### No. 85: 從插畫生成寫實渲染圖
+### No. 151: 從插畫生成寫實渲染圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4116,7 +7955,7 @@ composition:
 
 ---
 
-### No. 86: 具備自動紋理分配的電影級 3D 標誌
+### No. 152: 具備自動紋理分配的電影級 3D 標誌
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4171,7 +8010,7 @@ composition:
 
 ---
 
-### No. 87: 鞋樣版型排版
+### No. 153: 鞋樣版型排版
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4210,7 +8049,7 @@ composition:
 
 ---
 
-### No. 88: Silksong 角色上傳的四格漫畫
+### No. 154: Silksong 角色上傳的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4244,7 +8083,7 @@ composition:
 
 ---
 
-### No. 89: 將社群簡介轉化為 NES 卡匣封面
+### No. 155: 將社群簡介轉化為 NES 卡匣封面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4277,7 +8116,7 @@ composition:
 
 ---
 
-### No. 90: 動漫風格坐姿肖像，根據臉部圖像生成
+### No. 156: 動漫風格坐姿肖像，根據臉部圖像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4316,7 +8155,7 @@ composition:
 
 ---
 
-### No. 91: 顯示護照的身份驗證角色
+### No. 157: 顯示護照的身份驗證角色
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4350,7 +8189,7 @@ composition:
 
 ---
 
-### No. 92: 一籃子多個字元
+### No. 158: 一籃子多個字元
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4383,7 +8222,7 @@ composition:
 
 ---
 
-### No. 93: 高細節 IT 職涯資訊圖表（泰文/英文混合）
+### No. 159: 高細節 IT 職涯資訊圖表（泰文/英文混合）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4434,7 +8273,7 @@ composition:
 
 ---
 
-### No. 94: 總結文字的單一圖表圖像 (日文)
+### No. 160: 總結文字的單一圖表圖像 (日文)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4467,7 +8306,7 @@ composition:
 
 ---
 
-### No. 95: 舒緩頸部和肩部僵硬的肩部伸展運動資訊圖表
+### No. 161: 舒緩頸部和肩部僵硬的肩部伸展運動資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4501,7 +8340,7 @@ composition:
 
 ---
 
-### No. 96: 烤架上的超擬真玻璃五花肉
+### No. 162: 烤架上的超擬真玻璃五花肉
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4540,7 +8379,7 @@ composition:
 
 ---
 
-### No. 97: 辛普森風格的火箭香蕉混合體
+### No. 163: 辛普森風格的火箭香蕉混合體
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4573,7 +8412,7 @@ composition:
 
 ---
 
-### No. 98: 食譜分解與美食攝影
+### No. 164: 食譜分解與美食攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4612,7 +8451,7 @@ composition:
 
 ---
 
-### No. 99: 文字轉心智圖
+### No. 165: 文字轉心智圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4654,7 +8493,7 @@ composition:
 
 ---
 
-### No. 100: Squatty Potty 白板說明
+### No. 166: Squatty Potty 白板說明
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4687,7 +8526,7 @@ composition:
 
 ---
 
-### No. 101: 從城市照片中擷取 VTuber 風格的街頭時尚縮圖
+### No. 167: 從城市照片中擷取 VTuber 風格的街頭時尚縮圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4725,7 +8564,7 @@ composition:
 
 ---
 
-### No. 102: 從文字建立白板風格的簡單圖表
+### No. 168: 從文字建立白板風格的簡單圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4766,7 +8605,7 @@ composition:
 
 ---
 
-### No. 103: MrBeast 風格的愛潑斯坦檔案縮圖
+### No. 169: MrBeast 風格的愛潑斯坦檔案縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4799,7 +8638,7 @@ composition:
 
 ---
 
-### No. 104: 雜亂衣櫥中的高角度仙女頹廢偶像
+### No. 170: 雜亂衣櫥中的高角度仙女頹廢偶像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4861,7 +8700,7 @@ composition:
 
 ---
 
-### No. 105: LINE 貼圖集 (來自附加圖片)
+### No. 171: LINE 貼圖集 (來自附加圖片)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4900,7 +8739,7 @@ composition:
 
 ---
 
-### No. 106: 從社群媒體螢幕中走出的「Trompe l'oeil」主題
+### No. 172: 從社群媒體螢幕中走出的「Trompe l'oeil」主題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4934,7 +8773,7 @@ composition:
 
 ---
 
-### No. 107: 超逼真羅羅亞·索隆肖像
+### No. 173: 超逼真羅羅亞·索隆肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4967,7 +8806,7 @@ composition:
 
 ---
 
-### No. 108: 將包內物品倒在床上展示
+### No. 174: 將包內物品倒在床上展示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5000,7 +8839,7 @@ composition:
 
 ---
 
-### No. 109: 《俠盜獵車手 5》線上動作場景
+### No. 175: 《俠盜獵車手 5》線上動作場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5033,7 +8872,7 @@ composition:
 
 ---
 
-### No. 110: 關於一個笨手笨腳的精靈的四格漫畫
+### No. 176: 關於一個笨手笨腳的精靈的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5067,7 +8906,7 @@ composition:
 
 ---
 
-### No. 111: 超高擬真影像重製
+### No. 177: 超高擬真影像重製
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5106,7 +8945,7 @@ composition:
 
 ---
 
-### No. 112: 紅白機遊戲盒、卡匣、說明書和 CRT 螢幕（日文）
+### No. 178: 紅白機遊戲盒、卡匣、說明書和 CRT 螢幕（日文）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5139,7 +8978,7 @@ composition:
 
 ---
 
-### No. 113: 角色因燒烤而充滿活力的彩色漫畫
+### No. 179: 角色因燒烤而充滿活力的彩色漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5172,7 +9011,7 @@ composition:
 
 ---
 
-### No. 114: 參考資訊圖表，採用經典日式字體
+### No. 180: 參考資訊圖表，採用經典日式字體
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5219,7 +9058,7 @@ composition:
 
 ---
 
-### No. 115: 穿著相同服裝的兔子
+### No. 181: 穿著相同服裝的兔子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5258,7 +9097,7 @@ composition:
 
 ---
 
-### No. 116: 咖啡飲品資訊圖表
+### No. 182: 咖啡飲品資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5291,7 +9130,7 @@ composition:
 
 ---
 
-### No. 117: 手繪風格的標題圖片，介紹 Nano Banana Pro (日文)
+### No. 183: 手繪風格的標題圖片，介紹 Nano Banana Pro (日文)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5335,7 +9174,7 @@ composition:
 
 ---
 
-### No. 118: 上傳人物介紹 Nano Banana Pro 的標題圖片
+### No. 184: 上傳人物介紹 Nano Banana Pro 的標題圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5379,7 +9218,7 @@ composition:
 
 ---
 
-### No. 119: 為 Nano Banana Pro 文章上傳了人物的奢華標題圖片
+### No. 185: 為 Nano Banana Pro 文章上傳了人物的奢華標題圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5417,7 +9256,7 @@ composition:
 
 ---
 
-### No. 120: LINE 貼圖：站立式娃娃角色 (日文)
+### No. 186: LINE 貼圖：站立式娃娃角色 (日文)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5456,7 +9295,7 @@ composition:
 
 ---
 
-### No. 121: 雲端上的半透明海水鯨魚
+### No. 187: 雲端上的半透明海水鯨魚
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5495,7 +9334,7 @@ composition:
 
 ---
 
-### No. 122: 虛構網頁設計師的作品集圖片
+### No. 188: 虛構網頁設計師的作品集圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5528,7 +9367,7 @@ composition:
 
 ---
 
-### No. 123: Levi’s 試衣鏡自拍編輯
+### No. 189: Levi’s 試衣鏡自拍編輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5562,7 +9401,7 @@ composition:
 
 ---
 
-### No. 124: 特定座標的地理定位日落場景
+### No. 190: 特定座標的地理定位日落場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5596,7 +9435,7 @@ composition:
 
 ---
 
-### No. 125: 關於 PLM 和數位主線的簡報投影片
+### No. 191: 關於 PLM 和數位主線的簡報投影片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5630,7 +9469,7 @@ composition:
 
 ---
 
-### No. 126: 執行長在招聘方面遇到的困境資訊圖表
+### No. 192: 執行長在招聘方面遇到的困境資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5663,7 +9502,7 @@ composition:
 
 ---
 
-### No. 127: 這個世界的結構抽象圖
+### No. 193: 這個世界的結構抽象圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5696,7 +9535,7 @@ composition:
 
 ---
 
-### No. 128: ChatGPT 5.1 和 Gemini 3 比較資訊圖表
+### No. 194: ChatGPT 5.1 和 Gemini 3 比較資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5730,7 +9569,7 @@ composition:
 
 ---
 
-### No. 129: 高階電影級產品展示短片靜態畫面
+### No. 195: 高階電影級產品展示短片靜態畫面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5764,7 +9603,7 @@ composition:
 
 ---
 
-### No. 130: 長文件中文白板摘要
+### No. 196: 長文件中文白板摘要
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5809,7 +9648,7 @@ composition:
 
 ---
 
-### No. 131: 角色轉化為超級合金機器人風格
+### No. 197: 角色轉化為超級合金機器人風格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5842,7 +9681,7 @@ composition:
 
 ---
 
-### No. 132: 圖片增強與放大提示
+### No. 198: 圖片增強與放大提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5893,7 +9732,7 @@ composition:
 
 ---
 
-### No. 133: 第五代匿蹤戰鬥機剖面資訊圖
+### No. 199: 第五代匿蹤戰鬥機剖面資訊圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5929,7 +9768,7 @@ composition:
 
 ---
 
-### No. 134: 一位雌雄同體女性的 Moody 2x2 編輯拼貼畫
+### No. 200: 一位雌雄同體女性的 Moody 2x2 編輯拼貼畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6033,2556 +9872,13 @@ composition:
 
 ---
 
-### No. 135: 樂天世界大廈地標定位圖像
-
-![Language-KO](https://img.shields.io/badge/Language-KO-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個精確的地理定位提示，指示 Nano Banana Pro 在給定的首爾座標生成圖像，並專注於地標而非隨機的周圍場景。
-
-#### 📝 提示詞
-
-```
-建立一張位於 {argument name="coordinates_en" default="北緯 37° 30' 40.4424''，東經 127° 5' 52.9080''"} 的圖片。請著重於一個地標，而非隨機場景。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg" width="600" alt="樂天世界大廈地標定位圖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [SETI Park](https://x.com/seti_park)
-- **來源:** [Twitter Post](https://x.com/seti_park/status/1992070344623157325)
-- **發布時間:** 2025年11月22日
-- **多語言:** ko
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%BC%B5%E4%BD%8D%E6%96%BC%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%22%E5%8C%97%E7%B7%AF%2037%C2%B0%2030'%2040.4424''%EF%BC%8C%E6%9D%B1%E7%B6%93%20127%C2%B0%205'%2052.9080''%22%7D%20%E7%9A%84%E5%9C%96%E7%89%87%E3%80%82%E8%AB%8B%E8%91%97%E9%87%8D%E6%96%BC%E4%B8%80%E5%80%8B%E5%9C%B0%E6%A8%99%EF%BC%8C%E8%80%8C%E9%9D%9E%E9%9A%A8%E6%A9%9F%E5%A0%B4%E6%99%AF%E3%80%82)**
-
----
-
-### No. 136: 恐龍現身東京都廳舍前
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個簡短的日文提示，用於將特定恐龍放置在新宿的真實地點，即東京都廳舍前。
-
-#### 📝 提示詞
-
-```
-讓這隻恐龍出現在新宿的東京都廳舍前。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885584398_lhsr0x_G6U97uFbUAAIwji.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885595564_s6d7v0_G6U97uUbMAAUHwX.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885599061_goiye7_G6U-absbwAAo3Vk.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885601525_q782ft_G6U-2kUb0AALpnb.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [株式会社 bloom　ベトナムのレタッチ屋さん](https://x.com/bloomVDC)
-- **來源:** [Twitter Post](https://x.com/bloomVDC/status/1992067728547463602)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AE%93%E9%80%99%E9%9A%BB%E6%81%90%E9%BE%8D%E5%87%BA%E7%8F%BE%E5%9C%A8%E6%96%B0%E5%AE%BF%E7%9A%84%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%BB%B3%E8%88%8D%E5%89%8D%E3%80%82)**
-
----
-
-### No. 137: 虛擬試穿，搭配東京街頭風格選項
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個多行提示，用於將上傳參考圖片中的人物，穿上來自另一張上傳圖片中的服裝，同時保留臉部和頭髮，讓他們擺出可愛的姿勢，並以寫實風格呈現，可選擇中性或東京街景作為背景。
-
-#### 📝 提示詞
-
-```
-根據上傳的參考圖片生成人物圖像，臉部和髮型與上傳圖片保持完全一致。
-讓人物穿上上傳服裝圖片中的服飾，保留服裝的款式、顏色和細節。
-讓人物擺出可愛自然的姿勢，面向鏡頭。
-寫實照片風格，自然光線，高解析度。
-背景可選，可以是中性背景，也可以是 {argument name="background_location_en" default="Tokyo street"} 的場景。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885908542_4w3o8l_G6UZNI_boAASbOX.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885911279_ci30iu_G6UZNJBaMAAZ_4g.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885914157_v6vyac_G6UZNI9aEAAyuPL.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [iX | AI Video Creator & Vibe Coder](https://x.com/iX00AI)
-- **來源:** [Twitter Post](https://x.com/iX00AI/status/1992065499702693921)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A0%B9%E6%93%9A%E4%B8%8A%E5%82%B3%E7%9A%84%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E7%94%9F%E6%88%90%E4%BA%BA%E7%89%A9%E5%9C%96%E5%83%8F%EF%BC%8C%E8%87%89%E9%83%A8%E5%92%8C%E9%AB%AE%E5%9E%8B%E8%88%87%E4%B8%8A%E5%82%B3%E5%9C%96%E7%89%87%E4%BF%9D%E6%8C%81%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4%E3%80%82%0A%E8%AE%93%E4%BA%BA%E7%89%A9%E7%A9%BF%E4%B8%8A%E4%B8%8A%E5%82%B3%E6%9C%8D%E8%A3%9D%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E6%9C%8D%E9%A3%BE%EF%BC%8C%E4%BF%9D%E7%95%99%E6%9C%8D%E8%A3%9D%E7%9A%84%E6%AC%BE%E5%BC%8F%E3%80%81%E9%A1%8F%E8%89%B2%E5%92%8C%E7%B4%B0%E7%AF%80%E3%80%82%0A%E8%AE%93%E4%BA%BA%E7%89%A9%E6%93%BA%E5%87%BA%E5%8F%AF%E6%84%9B%E8%87%AA%E7%84%B6%E7%9A%84%E5%A7%BF%E5%8B%A2%EF%BC%8C%E9%9D%A2%E5%90%91%E9%8F%A1%E9%A0%AD%E3%80%82%0A%E5%AF%AB%E5%AF%A6%E7%85%A7%E7%89%87%E9%A2%A8%E6%A0%BC%EF%BC%8C%E8%87%AA%E7%84%B6%E5%85%89%E7%B7%9A%EF%BC%8C%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E3%80%82%0A%E8%83%8C%E6%99%AF%E5%8F%AF%E9%81%B8%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%98%AF%E4%B8%AD%E6%80%A7%E8%83%8C%E6%99%AF%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%20%7Bargument%20name%3D%22background_location_en%22%20default%3D%22Tokyo%20street%22%7D%20%E7%9A%84%E5%A0%B4%E6%99%AF%E3%80%82)**
-
----
-
-### No. 138: 遞迴藝術家繪製自己繪畫的照片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-創作一張業餘風格的 1998 年照片，內容是一位中年藝術家將電腦螢幕上的圖像複製到畫布上，而該圖像本身就是藝術家繪製遞迴圖像的照片，非常適合用於令人費解的元場景。
-
-#### 📝 提示詞
-
-```
-一張攝於 {argument name="year_en" default="1998"} 年的業餘照片，內容是一位中年藝術家，正將電腦螢幕上的圖像手繪到拉伸畫布的油畫上，而該圖像本身就是藝術家繪製遞迴圖像的照片。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885818420_kdhol5_G6U8rOkXwAABEUg.jpg" width="600" alt="遞迴藝術家繪製自己繪畫的照片 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0)
-- **來源:** [Twitter Post](https://x.com/plasm0/status/1992065152695578814)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%E6%94%9D%E6%96%BC%20%7Bargument%20name%3D%22year_en%22%20default%3D%221998%22%7D%20%E5%B9%B4%E7%9A%84%E6%A5%AD%E9%A4%98%E7%85%A7%E7%89%87%EF%BC%8C%E5%85%A7%E5%AE%B9%E6%98%AF%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%B9%B4%E8%97%9D%E8%A1%93%E5%AE%B6%EF%BC%8C%E6%AD%A3%E5%B0%87%E9%9B%BB%E8%85%A6%E8%9E%A2%E5%B9%95%E4%B8%8A%E7%9A%84%E5%9C%96%E5%83%8F%E6%89%8B%E7%B9%AA%E5%88%B0%E6%8B%89%E4%BC%B8%E7%95%AB%E5%B8%83%E7%9A%84%E6%B2%B9%E7%95%AB%E4%B8%8A%EF%BC%8C%E8%80%8C%E8%A9%B2%E5%9C%96%E5%83%8F%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E8%97%9D%E8%A1%93%E5%AE%B6%E7%B9%AA%E8%A3%BD%E9%81%9E%E8%BF%B4%E5%9C%96%E5%83%8F%E7%9A%84%E7%85%A7%E7%89%87%E3%80%82)**
-
----
-
-### No. 139: 從附帶的插圖中製作 LINE 貼圖組
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個提示，能將附帶的插圖轉換為以角色為主的 LINE 貼圖組，包含 16 種不同表情、姿勢和短語。
-
-#### 📝 提示詞
-
-```
-將附加圖片中的插圖轉化為一個角色。製作 LINE 貼圖，包含 {argument name="sticker_count_en" default="16"} 種變化，表情、姿勢各異，並附帶短語。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885971456_09wdl4_G6U7zFzaAAAUfw5.jpg" width="600" alt="從附帶的插圖中製作 LINE 貼圖組 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Dr.フク | 医者×SNS戦略](https://x.com/dr_hacker_fuk)
-- **來源:** [Twitter Post](https://x.com/dr_hacker_fuk/status/1992064424660906262)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E9%99%84%E5%8A%A0%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E6%8F%92%E5%9C%96%E8%BD%89%E5%8C%96%E7%82%BA%E4%B8%80%E5%80%8B%E8%A7%92%E8%89%B2%E3%80%82%E8%A3%BD%E4%BD%9C%20LINE%20%E8%B2%BC%E5%9C%96%EF%BC%8C%E5%8C%85%E5%90%AB%20%7Bargument%20name%3D%22sticker_count_en%22%20default%3D%2216%22%7D%20%E7%A8%AE%E8%AE%8A%E5%8C%96%EF%BC%8C%E8%A1%A8%E6%83%85%E3%80%81%E5%A7%BF%E5%8B%A2%E5%90%84%E7%95%B0%EF%BC%8C%E4%B8%A6%E9%99%84%E5%B8%B6%E7%9F%AD%E8%AA%9E%E3%80%82)**
-
----
-
-### No. 140: 線框圖重新設計提示
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-將上傳圖片轉換為藍色發光 3D 線框圖的提示構想，置於黑色背景上，可選擇性地添加紅色線框坦克，適用於示意圖或科幻視覺效果。
-
-#### 📝 提示詞
-
-```
-將其製作成在黑色背景上發光的藍色 3D 線框。如果需要，可以添加紅色線框坦克。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885933055_r7m4el_G6U5Hoeb0AAK3az.jpg" width="600" alt="線框圖重新設計提示 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [🔻 🪂🇮🇷🇵🇸🇾🇪🇻🇪🇨🇳🇰🇵National Juche🇰🇵](https://x.com/nationaljuche)
-- **來源:** [Twitter Post](https://x.com/nationaljuche/status/1992062680660914631)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E5%85%B6%E8%A3%BD%E4%BD%9C%E6%88%90%E5%9C%A8%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF%E4%B8%8A%E7%99%BC%E5%85%89%E7%9A%84%E8%97%8D%E8%89%B2%203D%20%E7%B7%9A%E6%A1%86%E3%80%82%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E7%B4%85%E8%89%B2%E7%B7%9A%E6%A1%86%E5%9D%A6%E5%85%8B%E3%80%82)**
-
----
-
-### No. 141: 房地產投資的優缺點資訊圖表
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個用於建立視覺化解釋房地產投資優缺點的圖片提示，非常適合教育或行銷貼文。
-
-#### 📝 提示詞
-
-```
-建立一張圖片，顯示房地產投資的優點和缺點。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885944193_hxvxce_G6U6PR1a4AAKtOu.jpg" width="600" alt="房地產投資的優缺點資訊圖表 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ネコ守|コツコツ不動産大家×マラソンは趣味](https://x.com/futa_1983)
-- **來源:** [Twitter Post](https://x.com/futa_1983/status/1992062450234163485)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%BC%B5%E5%9C%96%E7%89%87%EF%BC%8C%E9%A1%AF%E7%A4%BA%E6%88%BF%E5%9C%B0%E7%94%A2%E6%8A%95%E8%B3%87%E7%9A%84%E5%84%AA%E9%BB%9E%E5%92%8C%E7%BC%BA%E9%BB%9E%E3%80%82)**
-
----
-
-### No. 142: 從附加的角色圖片製作 LINE 貼圖組
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-使用附帶的角色，製作一套 12 款的 LINE 貼圖，包含多種表情、姿勢，以及符合主題且易於使用的短語。
-
-#### 📝 提示詞
-
-```
-我希望您能使用附加圖片中的角色來製作 LINE 貼圖。請總共製作 {argument name="sticker_count_en" default="12"} 個，包含不同的表情、姿勢和短語。請使用 {argument name="phrase_style_en" default="[specific theme] style"} 風格的實用短語。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885979143_o1mj1o_G6U52HoaQAABvqP.jpg" width="600" alt="從附加的角色圖片製作 LINE 貼圖組 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885982519_l36ol0_G6U52HobIAAQ_Rl.jpg" width="600" alt="從附加的角色圖片製作 LINE 貼圖組 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [しろねこ](https://x.com/shironeko_icy)
-- **來源:** [Twitter Post](https://x.com/shironeko_icy/status/1992062020913639499)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%88%91%E5%B8%8C%E6%9C%9B%E6%82%A8%E8%83%BD%E4%BD%BF%E7%94%A8%E9%99%84%E5%8A%A0%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E8%A7%92%E8%89%B2%E4%BE%86%E8%A3%BD%E4%BD%9C%20LINE%20%E8%B2%BC%E5%9C%96%E3%80%82%E8%AB%8B%E7%B8%BD%E5%85%B1%E8%A3%BD%E4%BD%9C%20%7Bargument%20name%3D%22sticker_count_en%22%20default%3D%2212%22%7D%20%E5%80%8B%EF%BC%8C%E5%8C%85%E5%90%AB%E4%B8%8D%E5%90%8C%E7%9A%84%E8%A1%A8%E6%83%85%E3%80%81%E5%A7%BF%E5%8B%A2%E5%92%8C%E7%9F%AD%E8%AA%9E%E3%80%82%E8%AB%8B%E4%BD%BF%E7%94%A8%20%7Bargument%20name%3D%22phrase_style_en%22%20default%3D%22%5Bspecific%20theme%5D%20style%22%7D%20%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%AF%A6%E7%94%A8%E7%9F%AD%E8%AA%9E%E3%80%82)**
-
----
-
-### No. 143: 手工麵包店影片廣告
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個用於為新成立的手工麵包店生成影片廣告的簡單提示，適合做為商業廣告的基礎。
-
-#### 📝 提示詞
-
-```
-為一家新的手工麵包店製作影片廣告。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885941049_whqhsg_oWORaCdVdLl1vrrb.jpg" width="600" alt="手工麵包店影片廣告 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [rameshnuti.eth](https://x.com/RameshNuti)
-- **來源:** [Twitter Post](https://x.com/RameshNuti/status/1992061140688630126)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%E4%B8%80%E5%AE%B6%E6%96%B0%E7%9A%84%E6%89%8B%E5%B7%A5%E9%BA%B5%E5%8C%85%E5%BA%97%E8%A3%BD%E4%BD%9C%E5%BD%B1%E7%89%87%E5%BB%A3%E5%91%8A%E3%80%82)**
-
----
-
-### No. 144: 唐詩學習卡
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個用於生成著名唐詩學習卡的提示，結合了全文、匹配的圖像和簡單的註釋，以幫助學生理解詩歌的意境和背景。
-
-#### 📝 提示詞
-
-```
-建立 {argument name="poem_count_en" default="10"} 張著名唐詩學習卡。每張圖片應包含詩的全文，視覺效果必須符合詩句內容和整體氛圍，以幫助學生更容易理解詩的背景和意境。請加入簡潔的中文註釋。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="唐詩學習卡 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [小互](https://x.com/imxiaohu)
-- **來源:** [Twitter Post](https://x.com/imxiaohu/status/1992060195691024862)
-- **發布時間:** 2025年11月22日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%20%7Bargument%20name%3D%22poem_count_en%22%20default%3D%2210%22%7D%20%E5%BC%B5%E8%91%97%E5%90%8D%E5%94%90%E8%A9%A9%E5%AD%B8%E7%BF%92%E5%8D%A1%E3%80%82%E6%AF%8F%E5%BC%B5%E5%9C%96%E7%89%87%E6%87%89%E5%8C%85%E5%90%AB%E8%A9%A9%E7%9A%84%E5%85%A8%E6%96%87%EF%BC%8C%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C%E5%BF%85%E9%A0%88%E7%AC%A6%E5%90%88%E8%A9%A9%E5%8F%A5%E5%85%A7%E5%AE%B9%E5%92%8C%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%EF%BC%8C%E4%BB%A5%E5%B9%AB%E5%8A%A9%E5%AD%B8%E7%94%9F%E6%9B%B4%E5%AE%B9%E6%98%93%E7%90%86%E8%A7%A3%E8%A9%A9%E7%9A%84%E8%83%8C%E6%99%AF%E5%92%8C%E6%84%8F%E5%A2%83%E3%80%82%E8%AB%8B%E5%8A%A0%E5%85%A5%E7%B0%A1%E6%BD%94%E7%9A%84%E4%B8%AD%E6%96%87%E8%A8%BB%E9%87%8B%E3%80%82)**
-
----
-
-### No. 145: 腳趾特寫細節
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個英文提示，要求模型放大所提供影像的腳趾，非常適合測試細節保留能力。
-
-#### 📝 提示詞
-
-```
-將畫面拉近腳趾。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885640122_xao4s9_G6U3EVfaMAA6XT_.jpg" width="600" alt="腳趾特寫細節 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885642953_6ov6mn_G6U3FIsbAAA_lZF.jpg" width="600" alt="腳趾特寫細節 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [CHAO2U AI](https://x.com/CHAO2U_AI)
-- **來源:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992059240287244364)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E7%95%AB%E9%9D%A2%E6%8B%89%E8%BF%91%E8%85%B3%E8%B6%BE%E3%80%82)**
-
----
-
-### No. 146: 透過座標觀看摩天大樓夜景
-
-![Language-KO](https://img.shields.io/badge/Language-KO-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-以下是兩個基於地理位置的提示，用於生成夜景：一個是汝矣島的 63 大廈，另一個則聚焦於樂天世界塔，兩者都使用經緯度，並可選配地標焦點指令。
-
-#### 📝 提示詞
-
-```
-建立一張位於 {argument name="coordinates_1_en" default="37°31'11.24"N 126°56'25.11"E"} 的夜間影像。
-
-建立一張位於 {argument name="coordinates_2_en" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"} 的影像。請聚焦於地標，而非隨機場景。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg" width="600" alt="透過座標觀看摩天大樓夜景 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg" width="600" alt="透過座標觀看摩天大樓夜景 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [SETI Park](https://x.com/seti_park)
-- **來源:** [Twitter Post](https://x.com/seti_park/status/1992058919678849106)
-- **發布時間:** 2025年11月22日
-- **多語言:** ko
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%BC%B5%E4%BD%8D%E6%96%BC%20%7Bargument%20name%3D%22coordinates_1_en%22%20default%3D%2237%C2%B031'11.24%22N%20126%C2%B056'25.11%22E%22%7D%20%E7%9A%84%E5%A4%9C%E9%96%93%E5%BD%B1%E5%83%8F%E3%80%82%0A%0A%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%BC%B5%E4%BD%8D%E6%96%BC%20%7Bargument%20name%3D%22coordinates_2_en%22%20default%3D%2237%C2%B0%2030'%2040.4424''%20N%20and%20127%C2%B0%205'%2052.9080''%20E%22%7D%20%E7%9A%84%E5%BD%B1%E5%83%8F%E3%80%82%E8%AB%8B%E8%81%9A%E7%84%A6%E6%96%BC%E5%9C%B0%E6%A8%99%EF%BC%8C%E8%80%8C%E9%9D%9E%E9%9A%A8%E6%A9%9F%E5%A0%B4%E6%99%AF%E3%80%82)**
-
----
-
-### No. 147: 基本收入摘要圖
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個簡單的日文提示，要求生成一張圖片來總結「基本收入」的概念。
-
-#### 📝 提示詞
-
-```
-建立一張圖片，概述基本收入的概念。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885521009_iezxk6_G6U26MKbYAAuRuh.jpg" width="600" alt="基本收入摘要圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [AIオタク / AI OTAKU](https://x.com/AI_otaku_2040)
-- **來源:** [Twitter Post](https://x.com/AI_otaku_2040/status/1992058790347444549)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%BC%B5%E5%9C%96%E7%89%87%EF%BC%8C%E6%A6%82%E8%BF%B0%E5%9F%BA%E6%9C%AC%E6%94%B6%E5%85%A5%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%82)**
-
----
-
-### No. 148: 清理過的兩格面試漫畫
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個提示，要求模型清理漫畫，方法是鏡像第二個分格，並將採訪者的台詞更改為特定短語。
-
-#### 📝 提示詞
-
-```
-您能將整個漫畫清理一下，水平翻轉第二格，同時將面試官的台詞改為「{argument name="interviewer_line_en" default="You’re exactly the kind of person our company has been looking for!"}」嗎？
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885527644_7gmypo_G6U2Qx8bkAAYk0t.png" width="600" alt="清理過的兩格面試漫畫 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Takashi Okumura](https://x.com/tweeting_drtaka)
-- **來源:** [Twitter Post](https://x.com/tweeting_drtaka/status/1992058111386161408)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%82%A8%E8%83%BD%E5%B0%87%E6%95%B4%E5%80%8B%E6%BC%AB%E7%95%AB%E6%B8%85%E7%90%86%E4%B8%80%E4%B8%8B%EF%BC%8C%E6%B0%B4%E5%B9%B3%E7%BF%BB%E8%BD%89%E7%AC%AC%E4%BA%8C%E6%A0%BC%EF%BC%8C%E5%90%8C%E6%99%82%E5%B0%87%E9%9D%A2%E8%A9%A6%E5%AE%98%E7%9A%84%E5%8F%B0%E8%A9%9E%E6%94%B9%E7%82%BA%E3%80%8C%7Bargument%20name%3D%22interviewer_line_en%22%20default%3D%22You%E2%80%99re%20exactly%20the%20kind%20of%20person%20our%20company%20has%20been%20looking%20for!%22%7D%E3%80%8D%E5%97%8E%EF%BC%9F)**
-
----
-
-### No. 149: 水滸傳 30 位主要人物工筆畫網格圖
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個中文提示，生成 30 位水滸傳人物的九宮格，以中國工筆畫風格呈現，每個單元格上標註姓名。
-
-#### 📝 提示詞
-
-```
-生成一張《水滸傳》前 30 名角色的圖像，以網格形式呈現，風格為中國工筆畫，每位角色的名字寫在各自單元的右下角。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885661194_n4dzyt_G6Uz7AZbcAEImd5.jpg" width="600" alt="水滸傳 30 位主要人物工筆畫網格圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [leon](https://x.com/MingleeJ)
-- **來源:** [Twitter Post](https://x.com/MingleeJ/status/1992057312622874857)
-- **發布時間:** 2025年11月22日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E3%80%8A%E6%B0%B4%E6%BB%B8%E5%82%B3%E3%80%8B%E5%89%8D%2030%20%E5%90%8D%E8%A7%92%E8%89%B2%E7%9A%84%E5%9C%96%E5%83%8F%EF%BC%8C%E4%BB%A5%E7%B6%B2%E6%A0%BC%E5%BD%A2%E5%BC%8F%E5%91%88%E7%8F%BE%EF%BC%8C%E9%A2%A8%E6%A0%BC%E7%82%BA%E4%B8%AD%E5%9C%8B%E5%B7%A5%E7%AD%86%E7%95%AB%EF%BC%8C%E6%AF%8F%E4%BD%8D%E8%A7%92%E8%89%B2%E7%9A%84%E5%90%8D%E5%AD%97%E5%AF%AB%E5%9C%A8%E5%90%84%E8%87%AA%E5%96%AE%E5%85%83%E7%9A%84%E5%8F%B3%E4%B8%8B%E8%A7%92%E3%80%82)**
-
----
-
-### No. 150: 一位女性老化成老婦的過程
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個日文提示，將第一張圖片中的成年女性轉變為特寫的老年人，穿著舊式服裝，背景是居家環境，用於視覺化成長或老化。
-
-#### 📝 提示詞
-
-```
-請根據第一張圖片中的成年女性，生成一張她老年時的特寫照片。讓她的服裝看起來像老年女性的穿著，並將背景設定為一間房子。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885925578_gs3v5q_G6STW88akAAFOKe.jpg" width="600" alt="一位女性老化成老婦的過程 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [アユネオ](https://x.com/Ayu_AI_0912)
-- **來源:** [Twitter Post](https://x.com/Ayu_AI_0912/status/1992050902438482199)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E6%A0%B9%E6%93%9A%E7%AC%AC%E4%B8%80%E5%BC%B5%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E6%88%90%E5%B9%B4%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%A5%B9%E8%80%81%E5%B9%B4%E6%99%82%E7%9A%84%E7%89%B9%E5%AF%AB%E7%85%A7%E7%89%87%E3%80%82%E8%AE%93%E5%A5%B9%E7%9A%84%E6%9C%8D%E8%A3%9D%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E8%80%81%E5%B9%B4%E5%A5%B3%E6%80%A7%E7%9A%84%E7%A9%BF%E8%91%97%EF%BC%8C%E4%B8%A6%E5%B0%87%E8%83%8C%E6%99%AF%E8%A8%AD%E5%AE%9A%E7%82%BA%E4%B8%80%E9%96%93%E6%88%BF%E5%AD%90%E3%80%82)**
-
----
-
-### No. 151: 放大蜜蜂
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個非常簡短的提示，指示模型放大蜜蜂，適用於特寫或微距風格的圖像。
-
-#### 📝 提示詞
-
-```
-放大蜜蜂
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885719883_akzilp_G6UvVWxWUAAa_Sm.jpg" width="600" alt="放大蜜蜂 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885722710_baz3jk_G6UvWDoXAAAGujg.jpg" width="600" alt="放大蜜蜂 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ImagineArt](https://x.com/ImagineArt_X)
-- **來源:** [Twitter Post](https://x.com/ImagineArt_X/status/1992050470089580583)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%94%BE%E5%A4%A7%E8%9C%9C%E8%9C%82)**
-
----
-
-### No. 152: 根據附件的縮圖文字疊加
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-指示 Nano Banana Pro 在附加圖片上添加兩行關於 Google Nano Banana Pro 的置中日文文字，以利快速建立縮圖。
-
-#### 📝 提示詞
-
-```
-Google 推出終極圖像生成 AI「Nano Banana Pro」
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885841215_8hxrjv_G6Up5ETbcAA5eTt.jpg" width="600" alt="根據附件的縮圖文字疊加 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885850477_uju6g4_G6UuiuTawAAeCSk.jpg" width="600" alt="根據附件的縮圖文字疊加 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [小畑タカユキ｜AI駆動Web制作の人](https://x.com/no_ai_no_life)
-- **來源:** [Twitter Post](https://x.com/no_ai_no_life/status/1992049924029182382)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=Google%20%E6%8E%A8%E5%87%BA%E7%B5%82%E6%A5%B5%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90%20AI%E3%80%8CNano%20Banana%20Pro%E3%80%8D)**
-
----
-
-### No. 153: 投資組合策略概覽圖 (來自附件)
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-要求 Nano Banana Pro 根據所附圖片，建立一張圖表來總結個人投資組合背後的策略。
-
-#### 📝 提示詞
-
-```
-附件是我作為個人投資者的投資組合。請為此投資組合的策略，建立一份政策概述圖，以便向他人解釋。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885918282_xfk9yo_G6UujwIawAAexmT.jpg" width="600" alt="投資組合策略概覽圖 (來自附件) - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [えち@投資家🃏｜日本株🇯🇵米国株🇺🇸仮想通貨₿](https://x.com/hm_ememem)
-- **來源:** [Twitter Post](https://x.com/hm_ememem/status/1992049608558871000)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%99%84%E4%BB%B6%E6%98%AF%E6%88%91%E4%BD%9C%E7%82%BA%E5%80%8B%E4%BA%BA%E6%8A%95%E8%B3%87%E8%80%85%E7%9A%84%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88%E3%80%82%E8%AB%8B%E7%82%BA%E6%AD%A4%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88%E7%9A%84%E7%AD%96%E7%95%A5%EF%BC%8C%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%BB%BD%E6%94%BF%E7%AD%96%E6%A6%82%E8%BF%B0%E5%9C%96%EF%BC%8C%E4%BB%A5%E4%BE%BF%E5%90%91%E4%BB%96%E4%BA%BA%E8%A7%A3%E9%87%8B%E3%80%82)**
-
----
-
-### No. 154: 投資越南的優勢
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個簡短的提示，要求 Nano Banana Pro 製作一張投影片，總結在越南投資的優勢。
-
-#### 📝 提示詞
-
-```
-將投資越南的優勢濃縮成一頁投影片。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885517507_5xcbi0_G6UtYpUaEAEMcj9.jpg" width="600" alt="投資越南的優勢 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885520112_j1u228_G6UtjZqbAAAT6Bo.png" width="600" alt="投資越南的優勢 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ベトテク太郎🇻🇳ベトナム経済＆株式ニュース](https://x.com/viettechtaro)
-- **來源:** [Twitter Post](https://x.com/viettechtaro/status/1992049545879118072)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E6%8A%95%E8%B3%87%E8%B6%8A%E5%8D%97%E7%9A%84%E5%84%AA%E5%8B%A2%E6%BF%83%E7%B8%AE%E6%88%90%E4%B8%80%E9%A0%81%E6%8A%95%E5%BD%B1%E7%89%87%E3%80%82)**
-
----
-
-### No. 155: 受力樑的剪力與彎矩圖
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個英文工程提示，用於生成具有均勻載荷的簡支樑的剪力圖和彎矩圖。
-
-#### 📝 提示詞
-
-```
-一個簡支樑的剪力與彎矩圖，其承受的均佈載重為 {argument name="load_en" default="100 plf"}。此樑的長度為 {argument name="length_en" default="100 feet"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg" width="600" alt="受力樑的剪力與彎矩圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [mjamiv⚡️](https://x.com/MJAMIV)
-- **來源:** [Twitter Post](https://x.com/MJAMIV/status/1992048539552346331)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%80%8B%E7%B0%A1%E6%94%AF%E6%A8%91%E7%9A%84%E5%89%AA%E5%8A%9B%E8%88%87%E5%BD%8E%E7%9F%A9%E5%9C%96%EF%BC%8C%E5%85%B6%E6%89%BF%E5%8F%97%E7%9A%84%E5%9D%87%E4%BD%88%E8%BC%89%E9%87%8D%E7%82%BA%20%7Bargument%20name%3D%22load_en%22%20default%3D%22100%20plf%22%7D%E3%80%82%E6%AD%A4%E6%A8%91%E7%9A%84%E9%95%B7%E5%BA%A6%E7%82%BA%20%7Bargument%20name%3D%22length_en%22%20default%3D%22100%20feet%22%7D%E3%80%82)**
-
----
-
-### No. 156: 物理學家在吊床上喝著 SPA 飲品放鬆身心
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一張物理學家雙腿在吊床上，手持飲品，身處水療環境的場景，周圍只有樹木和植被，非常適合輕鬆的概念圖像。
-
-#### 📝 提示詞
-
-```
-一位物理學家躺在吊床上，手裡拿著一杯酒，旁邊是 S.P.A. 畫面中只露出他們赤裸的雙腳，以及樹木和植被。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885843049_muac4o_G6UrfxmXwAELX_7.jpg" width="600" alt="物理學家在吊床上喝著 SPA 飲品放鬆身心 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Lautaro Vergara 🇺🇦](https://x.com/VergaraLautaro)
-- **來源:** [Twitter Post](https://x.com/VergaraLautaro/status/1992046250514882805)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E4%BD%8D%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6%E8%BA%BA%E5%9C%A8%E5%90%8A%E5%BA%8A%E4%B8%8A%EF%BC%8C%E6%89%8B%E8%A3%A1%E6%8B%BF%E8%91%97%E4%B8%80%E6%9D%AF%E9%85%92%EF%BC%8C%E6%97%81%E9%82%8A%E6%98%AF%20S.P.A.%20%E7%95%AB%E9%9D%A2%E4%B8%AD%E5%8F%AA%E9%9C%B2%E5%87%BA%E4%BB%96%E5%80%91%E8%B5%A4%E8%A3%B8%E7%9A%84%E9%9B%99%E8%85%B3%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%A8%B9%E6%9C%A8%E5%92%8C%E6%A4%8D%E8%A2%AB%E3%80%82)**
-
----
-
-### No. 157: 摺紙風格的逐步摺疊說明
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-從一張平坦的紙張到最終模型，建立一個 2x3 的逐步視覺摺疊說明網格，每個步驟都包含一個人正在執行該動作，非常適合教學或手冊。
-
-#### 📝 提示詞
-
-```
-建立一個 {argument name="grid_layout_en" default="2 by 3"} 的網格，其中包含逐步的視覺摺疊說明，從一張平坦的紙張到最終模型。每個步驟都應包含一個人正在完成該步驟。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885806712_r6sie5_G6UqMWHW8AEDGhh.jpg" width="600" alt="摺紙風格的逐步摺疊說明 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885810506_zv1akt_G6UqMWKXMAASI1l.jpg" width="600" alt="摺紙風格的逐步摺疊說明 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **來源:** [Twitter Post](https://x.com/Gdgtify/status/1992044991242281123)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%222%20by%203%22%7D%20%E7%9A%84%E7%B6%B2%E6%A0%BC%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E5%90%AB%E9%80%90%E6%AD%A5%E7%9A%84%E8%A6%96%E8%A6%BA%E6%91%BA%E7%96%8A%E8%AA%AA%E6%98%8E%EF%BC%8C%E5%BE%9E%E4%B8%80%E5%BC%B5%E5%B9%B3%E5%9D%A6%E7%9A%84%E7%B4%99%E5%BC%B5%E5%88%B0%E6%9C%80%E7%B5%82%E6%A8%A1%E5%9E%8B%E3%80%82%E6%AF%8F%E5%80%8B%E6%AD%A5%E9%A9%9F%E9%83%BD%E6%87%89%E5%8C%85%E5%90%AB%E4%B8%80%E5%80%8B%E4%BA%BA%E6%AD%A3%E5%9C%A8%E5%AE%8C%E6%88%90%E8%A9%B2%E6%AD%A5%E9%A9%9F%E3%80%82)**
-
----
-
-### No. 158: 夕陽下的黑板國王兔插圖
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-在真實的教室場景中，夕陽餘暉從窗戶斜射進來，教室黑板上繪製著一幅帶有日文文字的兔子國王圖案。
-
-#### 📝 提示詞
-
-```
-在教室黑板上，用粉筆畫一隻兔子國王，並寫上文字「うさ王様参上！」（兔王駕到！）。呈現真實的教室場景，夕陽餘暉從窗戶斜射進來。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg" width="600" alt="夕陽下的黑板國王兔插圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [さつき＠AIお絵描き(うさぎ好き）](https://x.com/masukarasulove)
-- **來源:** [Twitter Post](https://x.com/masukarasulove/status/1992044862477078614)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%9C%A8%E6%95%99%E5%AE%A4%E9%BB%91%E6%9D%BF%E4%B8%8A%EF%BC%8C%E7%94%A8%E7%B2%89%E7%AD%86%E7%95%AB%E4%B8%80%E9%9A%BB%E5%85%94%E5%AD%90%E5%9C%8B%E7%8E%8B%EF%BC%8C%E4%B8%A6%E5%AF%AB%E4%B8%8A%E6%96%87%E5%AD%97%E3%80%8C%E3%81%86%E3%81%95%E7%8E%8B%E6%A7%98%E5%8F%82%E4%B8%8A%EF%BC%81%E3%80%8D%EF%BC%88%E5%85%94%E7%8E%8B%E9%A7%95%E5%88%B0%EF%BC%81%EF%BC%89%E3%80%82%E5%91%88%E7%8F%BE%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%95%99%E5%AE%A4%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%A4%95%E9%99%BD%E9%A4%98%E6%9A%89%E5%BE%9E%E7%AA%97%E6%88%B6%E6%96%9C%E5%B0%84%E9%80%B2%E4%BE%86%E3%80%82)**
-
----
-
-### No. 159: Ben 10 遇上 TMNT 完整漫畫頁
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個英文提示，用於創作一頁完整的漫畫，內容是 Ben 10 穿越到《忍者龜》宇宙，包含富有表現力的分格、清晰的線稿以及鮮豔、官方風格的色彩。
-
-#### 📝 提示詞
-
-```
-一整頁漫畫，將 {argument name="character_1_en" default="Ben 10"} 帶入 {argument name="universe_en" default="TMNT"} 宇宙，分鏡富有表現力，線條乾淨俐落，色彩鮮明，感覺就像是官方聯名漫畫中的一頁。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885894799_26kjp4_G6S-9DpaMAAj77c.jpg" width="600" alt="Ben 10 遇上 TMNT 完整漫畫頁 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Nishit.ai](https://x.com/Nishit_alt)
-- **來源:** [Twitter Post](https://x.com/Nishit_alt/status/1992042849567936526)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E6%95%B4%E9%A0%81%E6%BC%AB%E7%95%AB%EF%BC%8C%E5%B0%87%20%7Bargument%20name%3D%22character_1_en%22%20default%3D%22Ben%2010%22%7D%20%E5%B8%B6%E5%85%A5%20%7Bargument%20name%3D%22universe_en%22%20default%3D%22TMNT%22%7D%20%E5%AE%87%E5%AE%99%EF%BC%8C%E5%88%86%E9%8F%A1%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%EF%BC%8C%E7%B7%9A%E6%A2%9D%E4%B9%BE%E6%B7%A8%E4%BF%90%E8%90%BD%EF%BC%8C%E8%89%B2%E5%BD%A9%E9%AE%AE%E6%98%8E%EF%BC%8C%E6%84%9F%E8%A6%BA%E5%B0%B1%E5%83%8F%E6%98%AF%E5%AE%98%E6%96%B9%E8%81%AF%E5%90%8D%E6%BC%AB%E7%95%AB%E4%B8%AD%E7%9A%84%E4%B8%80%E9%A0%81%E3%80%82)**
-
----
-
-### No. 160: 書店 POP 展示牌與壓克力麥克筆插畫
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一張書店 POP 展示照片的提示，其中包含一個標示著「neko no shippo」的壓克力馬克筆插畫，作為新書前方的醒目裝飾。
-
-#### 📝 提示詞
-
-```
-請用壓克力麥克筆繪製插圖，並使用多種顏色的壓克力麥克筆。由於這是 POP 展示，請從正面拍攝，背景設定為書店場景。此 POP 展示於新書前方，比其他書籍更為醒目。在插圖的右下角，請寫上「{argument name="signature_en" default="neko no shippo"}」。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885940108_p9ogfb_G6UnZv5boAA--Ow.jpg" width="600" alt="書店 POP 展示牌與壓克力麥克筆插畫 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885951643_y1mjob_G6Ung7SboAEOCSa.jpg" width="600" alt="書店 POP 展示牌與壓克力麥克筆插畫 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ねこのしっぽ](https://x.com/tailcat1)
-- **來源:** [Twitter Post](https://x.com/tailcat1/status/1992042272322629997)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E7%94%A8%E5%A3%93%E5%85%8B%E5%8A%9B%E9%BA%A5%E5%85%8B%E7%AD%86%E7%B9%AA%E8%A3%BD%E6%8F%92%E5%9C%96%EF%BC%8C%E4%B8%A6%E4%BD%BF%E7%94%A8%E5%A4%9A%E7%A8%AE%E9%A1%8F%E8%89%B2%E7%9A%84%E5%A3%93%E5%85%8B%E5%8A%9B%E9%BA%A5%E5%85%8B%E7%AD%86%E3%80%82%E7%94%B1%E6%96%BC%E9%80%99%E6%98%AF%20POP%20%E5%B1%95%E7%A4%BA%EF%BC%8C%E8%AB%8B%E5%BE%9E%E6%AD%A3%E9%9D%A2%E6%8B%8D%E6%94%9D%EF%BC%8C%E8%83%8C%E6%99%AF%E8%A8%AD%E5%AE%9A%E7%82%BA%E6%9B%B8%E5%BA%97%E5%A0%B4%E6%99%AF%E3%80%82%E6%AD%A4%20POP%20%E5%B1%95%E7%A4%BA%E6%96%BC%E6%96%B0%E6%9B%B8%E5%89%8D%E6%96%B9%EF%BC%8C%E6%AF%94%E5%85%B6%E4%BB%96%E6%9B%B8%E7%B1%8D%E6%9B%B4%E7%82%BA%E9%86%92%E7%9B%AE%E3%80%82%E5%9C%A8%E6%8F%92%E5%9C%96%E7%9A%84%E5%8F%B3%E4%B8%8B%E8%A7%92%EF%BC%8C%E8%AB%8B%E5%AF%AB%E4%B8%8A%E3%80%8C%7Bargument%20name%3D%22signature_en%22%20default%3D%22neko%20no%20shippo%22%7D%E3%80%8D%E3%80%82)**
-
----
-
-### No. 161: 現有照片的哥德式改造變體
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個英文自然語言提示，用於將某人的照片重新想像成他們當時喜歡哥德音樂的樣子，讓模型推斷需要改變什麼。
-
-#### 📝 提示詞
-
-```
-把這個重做，就好像這個人當時沉迷於哥德音樂一樣。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885675374_zvwxu3_G6Ul3wDa8AAoRRj.jpg" width="600" alt="現有照片的哥德式改造變體 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885677755_lw5j88_G6Ul4d7a4AA-yF5.jpg" width="600" alt="現有照片的哥德式改造變體 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Cybersphere](https://x.com/cybersphere_ai)
-- **來源:** [Twitter Post](https://x.com/cybersphere_ai/status/1992041999755866421)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%8A%8A%E9%80%99%E5%80%8B%E9%87%8D%E5%81%9A%EF%BC%8C%E5%B0%B1%E5%A5%BD%E5%83%8F%E9%80%99%E5%80%8B%E4%BA%BA%E7%95%B6%E6%99%82%E6%B2%89%E8%BF%B7%E6%96%BC%E5%93%A5%E5%BE%B7%E9%9F%B3%E6%A8%82%E4%B8%80%E6%A8%A3%E3%80%82)**
-
----
-
-### No. 162: 寵物趣味解剖圖
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個有趣的提示，用幽默的標籤和註釋為上傳的寵物照片創建一個滑稽的解剖圖。
-
-#### 📝 提示詞
-
-```
-為這隻寵物繪製一張有趣的解剖圖，並加上幽默的註釋
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885951009_ec1krf_G6UnKK3XIAA6EWK.jpg" width="600" alt="寵物趣味解剖圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Glenn Williams](https://x.com/GlennHasABeard)
-- **來源:** [Twitter Post](https://x.com/GlennHasABeard/status/1992041939743789067)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%E9%80%99%E9%9A%BB%E5%AF%B5%E7%89%A9%E7%B9%AA%E8%A3%BD%E4%B8%80%E5%BC%B5%E6%9C%89%E8%B6%A3%E7%9A%84%E8%A7%A3%E5%89%96%E5%9C%96%EF%BC%8C%E4%B8%A6%E5%8A%A0%E4%B8%8A%E5%B9%BD%E9%BB%98%E7%9A%84%E8%A8%BB%E9%87%8B)**
-
----
-
-### No. 163: 泳裝轉比基尼姿勢編輯提示（回覆）
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-來自回覆的姿勢編輯和服裝更換提示，要求將一件式泳衣換成比基尼並加上高跟鞋，同時保持風格和背景不變。
-
-#### 📝 提示詞
-
-```
-將連身泳衣換成比基尼，並加上高跟鞋，同時保持相同的風格和背景。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885786725_uvqxok_G6UmAEmbEAANPvU.jpg" width="600" alt="泳裝轉比基尼姿勢編輯提示（回覆） - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885789344_6jcnxr_G6UmB-0aMAEmYWh.jpg" width="600" alt="泳裝轉比基尼姿勢編輯提示（回覆） - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [eijo](https://x.com/eijo_AIart)
-- **來源:** [Twitter Post](https://x.com/eijo_AIart/status/1992041326364532813)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E9%80%A3%E8%BA%AB%E6%B3%B3%E8%A1%A3%E6%8F%9B%E6%88%90%E6%AF%94%E5%9F%BA%E5%B0%BC%EF%BC%8C%E4%B8%A6%E5%8A%A0%E4%B8%8A%E9%AB%98%E8%B7%9F%E9%9E%8B%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E6%8C%81%E7%9B%B8%E5%90%8C%E7%9A%84%E9%A2%A8%E6%A0%BC%E5%92%8C%E8%83%8C%E6%99%AF%E3%80%82)**
-
----
-
-### No. 164: 來自網路資源的政府結果資訊圖表
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個日文提示，指示模型研究如帝國資料庫 (Teikoku Databank) 等來源，並製作一份關於高市行政部門上個月成就與問題的資訊圖表。
-
-#### 📝 提示詞
-
-```
-我想要一張資訊圖表，顯示高市行政部門在過去一個月的成就和問題。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885690973_qp50fb_G6UmEq1b0AA7RHL.jpg" width="600" alt="來自網路資源的政府結果資訊圖表 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [月ねこAI｜Nai Lab](https://x.com/nekoai_lab)
-- **來源:** [Twitter Post](https://x.com/nekoai_lab/status/1992040370017108015)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%88%91%E6%83%B3%E8%A6%81%E4%B8%80%E5%BC%B5%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%8C%E9%A1%AF%E7%A4%BA%E9%AB%98%E5%B8%82%E8%A1%8C%E6%94%BF%E9%83%A8%E9%96%80%E5%9C%A8%E9%81%8E%E5%8E%BB%E4%B8%80%E5%80%8B%E6%9C%88%E7%9A%84%E6%88%90%E5%B0%B1%E5%92%8C%E5%95%8F%E9%A1%8C%E3%80%82)**
-
----
-
-### No. 165: Nano Banana Pro 的日本頭條縮圖
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個用於生成日式標題風格圖片的提示，內容關於 Google 發布 Nano Banana Pro，非常適合新聞縮圖或部落格標頭。
-
-#### 📝 提示詞
-
-```
-Google 發布了終極圖像生成 AI「Nano Banana Pro」
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885933527_q4qbia_KdMrW0Gwx0nQwS9c.jpg" width="600" alt="Nano Banana Pro 的日本頭條縮圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [小畑タカユキ｜AI駆動Web制作の人](https://x.com/no_ai_no_life)
-- **來源:** [Twitter Post](https://x.com/no_ai_no_life/status/1992040137161908537)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=Google%20%E7%99%BC%E5%B8%83%E4%BA%86%E7%B5%82%E6%A5%B5%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90%20AI%E3%80%8CNano%20Banana%20Pro%E3%80%8D)**
-
----
-
-### No. 166: 四格漫畫：熊貓女孩角色
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一個典型的日式動漫風格四格直式漫畫，主角是名為 Rookie 的銀色雙馬尾熊貓人女孩，非常適合以角色為基礎的連環漫畫。
-
-#### 📝 提示詞
-
-```
-生成一個典型日式動漫風格的四格漫畫。圖片為垂直長方形，四格由上至下排列。
-
-[角色設定]
-* 姓名：{argument name="character_name_en" default="Rookie"}
-* 種族：{argument name="race_en" default="熊貓人（頭上戴著圓形熊貓耳朵的人類女孩）"}
-* 髮型：{argument name="hairstyle_en" default="銀色雙馬尾"}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885824699_kdnzqv_G6Uk2jfa0AABLxb.jpg" width="600" alt="四格漫畫：熊貓女孩角色 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885828014_rouv1a_QivtizkRTfmYMTN8.jpg" width="600" alt="四格漫畫：熊貓女孩角色 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [しんもも🍑 | AIで創る循環の世界](https://x.com/shinmomo0512)
-- **來源:** [Twitter Post](https://x.com/shinmomo0512/status/1992039003240247508)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E5%85%B8%E5%9E%8B%E6%97%A5%E5%BC%8F%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%95%AB%E3%80%82%E5%9C%96%E7%89%87%E7%82%BA%E5%9E%82%E7%9B%B4%E9%95%B7%E6%96%B9%E5%BD%A2%EF%BC%8C%E5%9B%9B%E6%A0%BC%E7%94%B1%E4%B8%8A%E8%87%B3%E4%B8%8B%E6%8E%92%E5%88%97%E3%80%82%0A%0A%5B%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A%5D%0A*%20%E5%A7%93%E5%90%8D%EF%BC%9A%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Rookie%22%7D%0A*%20%E7%A8%AE%E6%97%8F%EF%BC%9A%7Bargument%20name%3D%22race_en%22%20default%3D%22%E7%86%8A%E8%B2%93%E4%BA%BA%EF%BC%88%E9%A0%AD%E4%B8%8A%E6%88%B4%E8%91%97%E5%9C%93%E5%BD%A2%E7%86%8A%E8%B2%93%E8%80%B3%E6%9C%B5%E7%9A%84%E4%BA%BA%E9%A1%9E%E5%A5%B3%E5%AD%A9%EF%BC%89%22%7D%0A*%20%E9%AB%AE%E5%9E%8B%EF%BC%9A%7Bargument%20name%3D%22hairstyle_en%22%20default%3D%22%E9%8A%80%E8%89%B2%E9%9B%99%E9%A6%AC%E5%B0%BE%22%7D)**
-
----
-
-### No. 167: Think-cell 解決文件問題的視覺化說明
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-指示 Nano Banana Pro 建立一張解釋文件建立問題以及 Think-cell 如何解決這些問題的圖像，此圖像可用於產品或銷售視覺資料。
-
-#### 📝 提示詞
-
-```
-建立一張圖片，說明文件建立的常見問題以及 Think-cell 如何解決這些問題。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885889395_c2bfy7_G6UktiRaIAAwucu.jpg" width="600" alt="Think-cell 解決文件問題的視覺化說明 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [まつつか@パワポのthink-cell｜松塚展国](https://x.com/nobukunimatsu)
-- **來源:** [Twitter Post](https://x.com/nobukunimatsu/status/1992038781957116093)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%BC%B5%E5%9C%96%E7%89%87%EF%BC%8C%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6%E5%BB%BA%E7%AB%8B%E7%9A%84%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E4%BB%A5%E5%8F%8A%20Think-cell%20%E5%A6%82%E4%BD%95%E8%A7%A3%E6%B1%BA%E9%80%99%E4%BA%9B%E5%95%8F%E9%A1%8C%E3%80%82)**
-
----
-
-### No. 168: 任何角色圖像的 HUD 戰力疊加
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-這是一個兩部分的設定：第一行設定 HUD 顏色，以及一個核心任務提示，該提示會疊加一個全螢幕的偵測器風格分析 HUD，並顯示由 Nano Banana Pro 根據圖像印象所選擇的戰鬥力數值。
-
-#### 📝 提示詞
-
-```
-使用藍色 HUD 顏色。
-
-任務：「編輯圖片：僅新增全螢幕分析 HUD 疊加」
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [てんねん](https://x.com/munou_ac)
-- **來源:** [Twitter Post](https://x.com/munou_ac/status/1992035945319973039)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%BF%E7%94%A8%E8%97%8D%E8%89%B2%20HUD%20%E9%A1%8F%E8%89%B2%E3%80%82%0A%0A%E4%BB%BB%E5%8B%99%EF%BC%9A%E3%80%8C%E7%B7%A8%E8%BC%AF%E5%9C%96%E7%89%87%EF%BC%9A%E5%83%85%E6%96%B0%E5%A2%9E%E5%85%A8%E8%9E%A2%E5%B9%95%E5%88%86%E6%9E%90%20HUD%20%E7%96%8A%E5%8A%A0%E3%80%8D)**
-
----
-
-### No. 169: 動畫閃爍文字揭示序列
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-用於建立華麗、動畫文字顯示效果的簡短提示，適用於動態影像生成或關鍵影格動畫流程。
-
-#### 📝 提示詞
-
-```
-文字以華麗的特效和動畫呈現。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885891286_e5nzpz_zxNDYDIlz4dhzt7B.jpg" width="600" alt="動畫閃爍文字揭示序列 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [おのふみ| AI×画像・動画生成](https://x.com/onofumi_AI)
-- **來源:** [Twitter Post](https://x.com/onofumi_AI/status/1992035727241289736)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%96%87%E5%AD%97%E4%BB%A5%E8%8F%AF%E9%BA%97%E7%9A%84%E7%89%B9%E6%95%88%E5%92%8C%E5%8B%95%E7%95%AB%E5%91%88%E7%8F%BE%E3%80%82)**
-
----
-
-### No. 170: 優雅步行的圖解說明
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個非常簡單的日文提示，要求 Nano Banana Pro 建立一個圖表，展示如何優雅地走路，非常適合姿勢或動作指南。
-
-#### 📝 提示詞
-
-```
-建立一個圖表，說明如何優雅地走路。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885907298_ek3mav_G6UUoBTbsAA2jTW.jpg" width="600" alt="優雅步行的圖解說明 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [はなりん＠主婦ゲーマー](https://x.com/hanarinblog)
-- **來源:** [Twitter Post](https://x.com/hanarinblog/status/1992035551168667738)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E5%9C%96%E8%A1%A8%EF%BC%8C%E8%AA%AA%E6%98%8E%E5%A6%82%E4%BD%95%E5%84%AA%E9%9B%85%E5%9C%B0%E8%B5%B0%E8%B7%AF%E3%80%82)**
-
----
-
-### No. 171: 擬人化的蘋果和香蕉情侶
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個非常簡短的日文提示，要求一對由擬人化蘋果和香蕉而非人類組成的伴侶。
-
-#### 📝 提示詞
-
-```
-一對擬人化的蘋果和香蕉，結為夫妻。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885587392_gpmioe_G6UhPGGasAA4bUU.jpg" width="600" alt="擬人化的蘋果和香蕉情侶 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885590425_rbi1tz_DXPRRUqCHgLV1J73.jpg" width="600" alt="擬人化的蘋果和香蕉情侶 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [GNUmotion | AIVideo](https://x.com/gnumotin_ai)
-- **來源:** [Twitter Post](https://x.com/gnumotin_ai/status/1992035241012396215)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%B0%8D%E6%93%AC%E4%BA%BA%E5%8C%96%E7%9A%84%E8%98%8B%E6%9E%9C%E5%92%8C%E9%A6%99%E8%95%89%EF%BC%8C%E7%B5%90%E7%82%BA%E5%A4%AB%E5%A6%BB%E3%80%82)**
-
----
-
-### No. 172: 日文簡潔資訊圖表風格限制
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-為 Nano Banana Pro 提供設計指示，以建立簡潔、扁平化設計的資訊圖表，其中包含最少的日文文字和類似 Microsoft 365 的美學風格，有助於呈現清晰的商業視覺效果。
-
-#### 📝 提示詞
-
-```
-使用極少的文字，並著重於圖形表達。抑制日文字元亂碼。使用 Hiragino Gothic 作為主要字體。保持內容不變，但使顏色和設計類似於 Microsoft 365。採用扁平簡約的設計。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885817677_0vrmq3_G6UhfinasAAfFCh.jpg" width="600" alt="日文簡潔資訊圖表風格限制 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [エクセル兄さん(たてばやし淳)@ExcelとChatGPT著書多数](https://x.com/excel_niisan)
-- **來源:** [Twitter Post](https://x.com/excel_niisan/status/1992035240903323968)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%BF%E7%94%A8%E6%A5%B5%E5%B0%91%E7%9A%84%E6%96%87%E5%AD%97%EF%BC%8C%E4%B8%A6%E8%91%97%E9%87%8D%E6%96%BC%E5%9C%96%E5%BD%A2%E8%A1%A8%E9%81%94%E3%80%82%E6%8A%91%E5%88%B6%E6%97%A5%E6%96%87%E5%AD%97%E5%85%83%E4%BA%82%E7%A2%BC%E3%80%82%E4%BD%BF%E7%94%A8%20Hiragino%20Gothic%20%E4%BD%9C%E7%82%BA%E4%B8%BB%E8%A6%81%E5%AD%97%E9%AB%94%E3%80%82%E4%BF%9D%E6%8C%81%E5%85%A7%E5%AE%B9%E4%B8%8D%E8%AE%8A%EF%BC%8C%E4%BD%86%E4%BD%BF%E9%A1%8F%E8%89%B2%E5%92%8C%E8%A8%AD%E8%A8%88%E9%A1%9E%E4%BC%BC%E6%96%BC%20Microsoft%20365%E3%80%82%E6%8E%A1%E7%94%A8%E6%89%81%E5%B9%B3%E7%B0%A1%E7%B4%84%E7%9A%84%E8%A8%AD%E8%A8%88%E3%80%82)**
-
----
-
-### No. 173: 關於七海吃拉麵的四格日式搞笑漫畫
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份詳細的提示，用於創作一部以年輕女性七海吃二郎系拉麵為主題的垂直四格日式搞笑漫畫，並帶有適當的日式排版和對話方向。
-
-#### 📝 提示詞
-
-```
-創作一幅日式四格搞笑漫畫，內容為年輕的日本女性「{argument name="character_name" default="Nanami"}」正在吃「{argument name="dish" default="Jiro-style ramen"}」。構圖設計上，請避免讓漫畫只聚焦在臉部。將四個分格垂直排列。對話請以直式文字呈現，並從右至左閱讀。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885933236_w6t9nr_G6Ud5ZbbQAA3LQl.jpg" width="600" alt="關於七海吃拉麵的四格日式搞笑漫畫 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Shinya@AIマンガ家](https://x.com/shinya_blogger)
-- **來源:** [Twitter Post](https://x.com/shinya_blogger/status/1992032334301040950)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%89%B5%E4%BD%9C%E4%B8%80%E5%B9%85%E6%97%A5%E5%BC%8F%E5%9B%9B%E6%A0%BC%E6%90%9E%E7%AC%91%E6%BC%AB%E7%95%AB%EF%BC%8C%E5%85%A7%E5%AE%B9%E7%82%BA%E5%B9%B4%E8%BC%95%E7%9A%84%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E3%80%8C%7Bargument%20name%3D%22character_name%22%20default%3D%22Nanami%22%7D%E3%80%8D%E6%AD%A3%E5%9C%A8%E5%90%83%E3%80%8C%7Bargument%20name%3D%22dish%22%20default%3D%22Jiro-style%20ramen%22%7D%E3%80%8D%E3%80%82%E6%A7%8B%E5%9C%96%E8%A8%AD%E8%A8%88%E4%B8%8A%EF%BC%8C%E8%AB%8B%E9%81%BF%E5%85%8D%E8%AE%93%E6%BC%AB%E7%95%AB%E5%8F%AA%E8%81%9A%E7%84%A6%E5%9C%A8%E8%87%89%E9%83%A8%E3%80%82%E5%B0%87%E5%9B%9B%E5%80%8B%E5%88%86%E6%A0%BC%E5%9E%82%E7%9B%B4%E6%8E%92%E5%88%97%E3%80%82%E5%B0%8D%E8%A9%B1%E8%AB%8B%E4%BB%A5%E7%9B%B4%E5%BC%8F%E6%96%87%E5%AD%97%E5%91%88%E7%8F%BE%EF%BC%8C%E4%B8%A6%E5%BE%9E%E5%8F%B3%E8%87%B3%E5%B7%A6%E9%96%B1%E8%AE%80%E3%80%82)**
-
----
-
-### No. 174: 相同座標位置的分割畫面縮時攝影
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個詳細的提示，用於生成一張 16:9 的單一寫實圖像，該圖像分為左右兩半，每一半都顯示同一個地理位置在不同年份和時間的樣貌，讓 Nano Banana Pro 處理符合時代的細節。
-
-#### 📝 提示詞
-
-```
-生成一張單一的超寫實 16:9 圖像，並將其構圖分為左右兩半。在每一半中，描繪同一個地點，
-[LOCATION_NAME: {argument name="location_name_en" default="(任何地點)"}]，
-但處於不同的時代。
-
-左側：{argument name="left_year_en" default="(任何年份)"} · {argument name="left_time_en" default="(時間)"}
-右側：{argument name="right_year_en" default="(任何年份)"} · {argument name="right_time_en" default="(時間)"}
-
-保持相機位置完全相同，並使用以下座標：
-[LATITUDE,LONGITUDE: {argument name="coordinates_en" default="(任何地點的緯度和經度)"}]
-
-圖像中不要包含任何文字（年份、標籤、浮水印等）。不要指定詳細的視覺效果。
-建築、光線、汽車、人物、標誌、材料、氛圍和構圖等所有方面都交由 Nano Banana Pro 處理。
-
-每個時代都應感覺自然，並在單一的 16:9 框架內形成並排的時間比較圖像。
---ar 16:9 --stylize 800 --v 6
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885842488_9zd2ms_G6Ucs42a8AATKjE.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885846570_ulh7pj_G6UcvfObgAE8rRy.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885849512_ahofi2_G6UcxrSaQAIFNPy.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885864190_e2qoh4_G6Uc0YRaoAAs9u1.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 4">
-</div>
-
-##### Image 5
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885870273_u1vw12_G6QakM-bMAIwcEs.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 5">
-</div>
-
-##### Image 6
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885874012_e2f8g9_G6QamREa4AADgqZ.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 6">
-</div>
-
-##### Image 7
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885879555_zimf8e_G6QarM6acAIWPCq.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 7">
-</div>
-
-##### Image 8
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885882891_kn4tf4_G6QatWgaYAAMlGQ.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 8">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [NOMI｜AI creator](https://x.com/KimikoOsugi)
-- **來源:** [Twitter Post](https://x.com/KimikoOsugi/status/1992030360495145004)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%96%AE%E4%B8%80%E7%9A%84%E8%B6%85%E5%AF%AB%E5%AF%A6%2016%3A9%20%E5%9C%96%E5%83%8F%EF%BC%8C%E4%B8%A6%E5%B0%87%E5%85%B6%E6%A7%8B%E5%9C%96%E5%88%86%E7%82%BA%E5%B7%A6%E5%8F%B3%E5%85%A9%E5%8D%8A%E3%80%82%E5%9C%A8%E6%AF%8F%E4%B8%80%E5%8D%8A%E4%B8%AD%EF%BC%8C%E6%8F%8F%E7%B9%AA%E5%90%8C%E4%B8%80%E5%80%8B%E5%9C%B0%E9%BB%9E%EF%BC%8C%0A%5BLOCATION_NAME%3A%20%7Bargument%20name%3D%22location_name_en%22%20default%3D%22(%E4%BB%BB%E4%BD%95%E5%9C%B0%E9%BB%9E)%22%7D%5D%EF%BC%8C%0A%E4%BD%86%E8%99%95%E6%96%BC%E4%B8%8D%E5%90%8C%E7%9A%84%E6%99%82%E4%BB%A3%E3%80%82%0A%0A%E5%B7%A6%E5%81%B4%EF%BC%9A%7Bargument%20name%3D%22left_year_en%22%20default%3D%22(%E4%BB%BB%E4%BD%95%E5%B9%B4%E4%BB%BD)%22%7D%20%C2%B7%20%7Bargument%20name%3D%22left_time_en%22%20default%3D%22(%E6%99%82%E9%96%93)%22%7D%0A%E5%8F%B3%E5%81%B4%EF%BC%9A%7Bargument%20name%3D%22right_year_en%22%20default%3D%22(%E4%BB%BB%E4%BD%95%E5%B9%B4%E4%BB%BD)%22%7D%20%C2%B7%20%7Bargument%20name%3D%22right_time_en%22%20default%3D%22(%E6%99%82%E9%96%93)%22%7D%0A%0A%E4%BF%9D%E6%8C%81%E7%9B%B8%E6%A9%9F%E4%BD%8D%E7%BD%AE%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%EF%BC%8C%E4%B8%A6%E4%BD%BF%E7%94%A8%E4%BB%A5%E4%B8%8B%E5%BA%A7%E6%A8%99%EF%BC%9A%0A%5BLATITUDE%2CLONGITUDE%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%22(%E4%BB%BB%E4%BD%95%E5%9C%B0%E9%BB%9E%E7%9A%84%E7%B7%AF%E5%BA%A6%E5%92%8C%E7%B6%93%E5%BA%A6)%22%7D%5D%0A%0A%E5%9C%96%E5%83%8F%E4%B8%AD%E4%B8%8D%E8%A6%81%E5%8C%85%E5%90%AB%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%EF%BC%88%E5%B9%B4%E4%BB%BD%E3%80%81%E6%A8%99%E7%B1%A4%E3%80%81%E6%B5%AE%E6%B0%B4%E5%8D%B0%E7%AD%89%EF%BC%89%E3%80%82%E4%B8%8D%E8%A6%81%E6%8C%87%E5%AE%9A%E8%A9%B3%E7%B4%B0%E7%9A%84%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C%E3%80%82%0A%E5%BB%BA%E7%AF%89%E3%80%81%E5%85%89%E7%B7%9A%E3%80%81%E6%B1%BD%E8%BB%8A%E3%80%81%E4%BA%BA%E7%89%A9%E3%80%81%E6%A8%99%E8%AA%8C%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E6%B0%9B%E5%9C%8D%E5%92%8C%E6%A7%8B%E5%9C%96%E7%AD%89%E6%89%80%E6%9C%89%E6%96%B9%E9%9D%A2%E9%83%BD%E4%BA%A4%E7%94%B1%20Nano%20Banana%20Pro%20%E8%99%95%E7%90%86%E3%80%82%0A%0A%E6%AF%8F%E5%80%8B%E6%99%82%E4%BB%A3%E9%83%BD%E6%87%89%E6%84%9F%E8%A6%BA%E8%87%AA%E7%84%B6%EF%BC%8C%E4%B8%A6%E5%9C%A8%E5%96%AE%E4%B8%80%E7%9A%84%2016%3A9%20%E6%A1%86%E6%9E%B6%E5%85%A7%E5%BD%A2%E6%88%90%E4%B8%A6%E6%8E%92%E7%9A%84%E6%99%82%E9%96%93%E6%AF%94%E8%BC%83%E5%9C%96%E5%83%8F%E3%80%82%0A--ar%2016%3A9%20--stylize%20800%20--v%206)**
-
----
-
-### No. 175: 淺灰色兔子視角
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個簡單的提示，用於從淺灰色兔子的視角生成圖像。
-
-#### 📝 提示詞
-
-```
-淺灰色兔子視角拍攝
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885712039_dxnkr3_G6UcBGLaoAASC2E.jpg" width="600" alt="淺灰色兔子視角 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885714415_7uagi5_G6UcTNragAALmMB.jpg" width="600" alt="淺灰色兔子視角 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [CHAO2U AI](https://x.com/CHAO2U_AI)
-- **來源:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992029967623032945)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BA%E7%81%B0%E8%89%B2%E5%85%94%E5%AD%90%E8%A6%96%E8%A7%92%E6%8B%8D%E6%94%9D)**
-
----
-
-### No. 176: 從賽博龐克（cypherpunk）視角看比特幣的四格漫畫
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-生成一個日式四格漫畫，其中一個參考角色從賽博龐克（cypherpunk）的角度解釋比特幣（Bitcoin）的起源。
-
-#### 📝 提示詞
-
-```
-創作一部日式四格漫畫，內容為參考圖片中的角色從賽博龐克（cypherpunk）的角度解釋比特幣的起源。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885902507_e3o1on_G6Ubs1OaoAA3-pp.jpg" width="600" alt="從賽博龐克（cypherpunk）視角看比特幣的四格漫畫 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [TKtokyo](https://x.com/tktokyoBTC)
-- **來源:** [Twitter Post](https://x.com/tktokyoBTC/status/1992028869390725546)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%89%B5%E4%BD%9C%E4%B8%80%E9%83%A8%E6%97%A5%E5%BC%8F%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%95%AB%EF%BC%8C%E5%85%A7%E5%AE%B9%E7%82%BA%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E8%A7%92%E8%89%B2%E5%BE%9E%E8%B3%BD%E5%8D%9A%E9%BE%90%E5%85%8B%EF%BC%88cypherpunk%EF%BC%89%E7%9A%84%E8%A7%92%E5%BA%A6%E8%A7%A3%E9%87%8B%E6%AF%94%E7%89%B9%E5%B9%A3%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%82)**
-
----
-
-### No. 177: 偶像傳單貼在饅頭販賣機上
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-將手繪的偶像角色傳單，合成到便利商店的蒸籠販賣機上，使其看起來像是真實黏貼上去的，並保留光線和透視效果。
-
-#### 📝 提示詞
-
-```
-將手繪風格的偶像角色傳單，視覺化呈現為貼在便利商店販賣熱騰騰包子的販賣機上。確保傳單真實地融入販賣機，並與周圍環境保持一致的光線和透視。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885828664_75vbez_G6TFgBQaYAAe4-k.jpg" width="600" alt="偶像傳單貼在饅頭販賣機上 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [koyuki | 清華大AI M2](https://x.com/yukiaitsinghua)
-- **來源:** [Twitter Post](https://x.com/yukiaitsinghua/status/1992027750006395319)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E6%89%8B%E7%B9%AA%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%81%B6%E5%83%8F%E8%A7%92%E8%89%B2%E5%82%B3%E5%96%AE%EF%BC%8C%E8%A6%96%E8%A6%BA%E5%8C%96%E5%91%88%E7%8F%BE%E7%82%BA%E8%B2%BC%E5%9C%A8%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E8%B2%A9%E8%B3%A3%E7%86%B1%E9%A8%B0%E9%A8%B0%E5%8C%85%E5%AD%90%E7%9A%84%E8%B2%A9%E8%B3%A3%E6%A9%9F%E4%B8%8A%E3%80%82%E7%A2%BA%E4%BF%9D%E5%82%B3%E5%96%AE%E7%9C%9F%E5%AF%A6%E5%9C%B0%E8%9E%8D%E5%85%A5%E8%B2%A9%E8%B3%A3%E6%A9%9F%EF%BC%8C%E4%B8%A6%E8%88%87%E5%91%A8%E5%9C%8D%E7%92%B0%E5%A2%83%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E7%9A%84%E5%85%89%E7%B7%9A%E5%92%8C%E9%80%8F%E8%A6%96%E3%80%82)**
-
----
-
-### No. 178: 將城市照片編輯成有越南騎士的下雨場景
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-兩個連續的編輯提示：首先將城市場景轉換為下雨天氣，然後加入穿著雨衣騎摩托車的越南人，這對於天氣和文化背景的編輯很有用。
-
-#### 📝 提示詞
-
-```
-將其編輯成下雨的樣子。
-
-下雨時，越南人會穿雨衣騎摩托車。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885867531_ybhqp6_G6UTrBVagAAwXzs.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885870545_beyn03_G6UTr2rbsAEGn2m.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885873652_p6p9bz_G6UURusa0AAmTKE.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [株式会社 bloom　ベトナムのレタッチ屋さん](https://x.com/bloomVDC)
-- **來源:** [Twitter Post](https://x.com/bloomVDC/status/1992027360657555515)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E5%85%B6%E7%B7%A8%E8%BC%AF%E6%88%90%E4%B8%8B%E9%9B%A8%E7%9A%84%E6%A8%A3%E5%AD%90%E3%80%82%0A%0A%E4%B8%8B%E9%9B%A8%E6%99%82%EF%BC%8C%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%9C%83%E7%A9%BF%E9%9B%A8%E8%A1%A3%E9%A8%8E%E6%91%A9%E6%89%98%E8%BB%8A%E3%80%82)**
-
----
-
-### No. 179: 《臨江仙》詩詞課本式插圖
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-為古典中文詩詞《臨江仙 · 滾滾長江東逝水》創作教科書教學插圖的提示，適用於文學教育。
-
-#### 📝 提示詞
-
-```
-為 {argument name="poem_title_en" default="楊慎《臨江仙 · 滾滾長江東逝水》"} 生成教科書風格的教學插圖。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885961194_nel7bb_G6UUuMRbUAAGeZY.jpg" width="600" alt="《臨江仙》詩詞課本式插圖 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885963943_7kwh8d_A9atsqgAnqeqxU1T.jpg" width="600" alt="《臨江仙》詩詞課本式插圖 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [AI 赋能坊](https://x.com/Jasonwang159621)
-- **來源:** [Twitter Post](https://x.com/Jasonwang159621/status/1992021201867407634)
-- **發布時間:** 2025年11月22日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%20%7Bargument%20name%3D%22poem_title_en%22%20default%3D%22%E6%A5%8A%E6%85%8E%E3%80%8A%E8%87%A8%E6%B1%9F%E4%BB%99%20%C2%B7%20%E6%BB%BE%E6%BB%BE%E9%95%B7%E6%B1%9F%E6%9D%B1%E9%80%9D%E6%B0%B4%E3%80%8B%22%7D%20%E7%94%9F%E6%88%90%E6%95%99%E7%A7%91%E6%9B%B8%E9%A2%A8%E6%A0%BC%E7%9A%84%E6%95%99%E5%AD%B8%E6%8F%92%E5%9C%96%E3%80%82)**
-
----
-
-### No. 180: 流行風格的傳單圖片，用於筆記文章
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個用於生成彩色普普風傳單圖像的提示，以 3:4 的長寬比宣傳特定的 Note 文章。
-
-#### 📝 提示詞
-
-```
-為這篇筆記文章製作一張流行風格的傳單圖片。將長寬比設定為 {argument name="aspect_ratio_en" default="3:4"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885969094_jxf3w9_G6UUEFKaAAEO3oQ.jpg" width="600" alt="流行風格的傳單圖片，用於筆記文章 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [おかさん （岡実）](https://x.com/okappiki3)
-- **來源:** [Twitter Post](https://x.com/okappiki3/status/1992020474038280329)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%E9%80%99%E7%AF%87%E7%AD%86%E8%A8%98%E6%96%87%E7%AB%A0%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%BC%B5%E6%B5%81%E8%A1%8C%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%82%B3%E5%96%AE%E5%9C%96%E7%89%87%E3%80%82%E5%B0%87%E9%95%B7%E5%AF%AC%E6%AF%94%E8%A8%AD%E5%AE%9A%E7%82%BA%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%223%3A4%22%7D%E3%80%82)**
-
----
-
-### No. 181: 根據沙發照片繪製的等距客廳佈局
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個用於生成動漫風格等距客廳佈局的提示，該佈局與上傳的沙發相符，設定在一對夫婦的現代單層住宅中。
-
-#### 📝 提示詞
-
-```
-請為這張沙發設計一個客廳佈局。這是一個位於城市單層住宅的房間，住著一對已婚夫婦。請以等距鳥瞰圖的形式展示整個房間，並使用動漫風格的插畫。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885970932_3moh57_G6SVbPxa8AAm8df.png" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885974692_0cu6dx_G6SVcbGbkAAes6z.jpg" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885977238_0y479u_G6SVdT7aIAE7ayL.png" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885979937_gb1621_G6SVeFabcAE9Tyi.jpg" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [シュナプーン](https://x.com/schnapoon)
-- **來源:** [Twitter Post](https://x.com/schnapoon/status/1992020206210973804)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E7%82%BA%E9%80%99%E5%BC%B5%E6%B2%99%E7%99%BC%E8%A8%AD%E8%A8%88%E4%B8%80%E5%80%8B%E5%AE%A2%E5%BB%B3%E4%BD%88%E5%B1%80%E3%80%82%E9%80%99%E6%98%AF%E4%B8%80%E5%80%8B%E4%BD%8D%E6%96%BC%E5%9F%8E%E5%B8%82%E5%96%AE%E5%B1%A4%E4%BD%8F%E5%AE%85%E7%9A%84%E6%88%BF%E9%96%93%EF%BC%8C%E4%BD%8F%E8%91%97%E4%B8%80%E5%B0%8D%E5%B7%B2%E5%A9%9A%E5%A4%AB%E5%A9%A6%E3%80%82%E8%AB%8B%E4%BB%A5%E7%AD%89%E8%B7%9D%E9%B3%A5%E7%9E%B0%E5%9C%96%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%B1%95%E7%A4%BA%E6%95%B4%E5%80%8B%E6%88%BF%E9%96%93%EF%BC%8C%E4%B8%A6%E4%BD%BF%E7%94%A8%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%E7%9A%84%E6%8F%92%E7%95%AB%E3%80%82)**
-
----
-
-### No. 182: 白板風格投影片，解釋研究論文
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個提示，能將研究論文轉化為中文白板風格的教學投影片，有助於視覺化和理解內容。
-
-#### 📝 提示詞
-
-```
-將這份文件轉換成中文教授風格的白板圖像，以幫助我理解這些資訊。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889947503_gmdcxg_G6RRCifaAAAcSu6.jpg" width="600" alt="白板風格投影片，解釋研究論文 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [歸藏(guizang.ai)](https://x.com/op7418)
-- **來源:** [Twitter Post](https://x.com/op7418/status/1991806419948253508)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E9%80%99%E4%BB%BD%E6%96%87%E4%BB%B6%E8%BD%89%E6%8F%9B%E6%88%90%E4%B8%AD%E6%96%87%E6%95%99%E6%8E%88%E9%A2%A8%E6%A0%BC%E7%9A%84%E7%99%BD%E6%9D%BF%E5%9C%96%E5%83%8F%EF%BC%8C%E4%BB%A5%E5%B9%AB%E5%8A%A9%E6%88%91%E7%90%86%E8%A7%A3%E9%80%99%E4%BA%9B%E8%B3%87%E8%A8%8A%E3%80%82)**
-
----
-
-### No. 183: Einstein 向 Elon Musk 學習自拍 (中文)
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張中文提示，描述愛因斯坦試圖用智慧型手機自拍，而伊隆·馬斯克則站在他身旁教導他，手機螢幕上還有一句幽默的台詞。
-
-#### 📝 提示詞
-
-```
-愛因斯坦一頭亂髮，困惑地盯著智慧型手機，試圖自拍。伊隆·馬斯克站在他旁邊，耐心地指著螢幕教他。手機螢幕上顯示：「{argument name="screen_text_en" default="How do I take a photo?"}」。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein 向 Elon Musk 學習自拍 (中文) - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [松果先森](https://x.com/songguoxiansen)
-- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1991805840685453495)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%84%9B%E5%9B%A0%E6%96%AF%E5%9D%A6%E4%B8%80%E9%A0%AD%E4%BA%82%E9%AB%AE%EF%BC%8C%E5%9B%B0%E6%83%91%E5%9C%B0%E7%9B%AF%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%EF%BC%8C%E8%A9%A6%E5%9C%96%E8%87%AA%E6%8B%8D%E3%80%82%E4%BC%8A%E9%9A%86%C2%B7%E9%A6%AC%E6%96%AF%E5%85%8B%E7%AB%99%E5%9C%A8%E4%BB%96%E6%97%81%E9%82%8A%EF%BC%8C%E8%80%90%E5%BF%83%E5%9C%B0%E6%8C%87%E8%91%97%E8%9E%A2%E5%B9%95%E6%95%99%E4%BB%96%E3%80%82%E6%89%8B%E6%A9%9F%E8%9E%A2%E5%B9%95%E4%B8%8A%E9%A1%AF%E7%A4%BA%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22screen_text_en%22%20default%3D%22How%20do%20I%20take%20a%20photo%3F%22%7D%E3%80%8D%E3%80%82)**
-
----
-
-### No. 184: Nano Banana Pro 發布的吸睛縮圖
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個非常簡短的日文提示，用於製作一個引人注目的縮圖，宣布 Nano Banana Pro 已發布。
-
-#### 📝 提示詞
-
-```
-製作一個引人注目的縮圖，傳達 Nano Banana Pro 已上市的訊息。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg" width="600" alt="Nano Banana Pro 發布的吸睛縮圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [モブりん（社畜）](https://x.com/moburin01)
-- **來源:** [Twitter Post](https://x.com/moburin01/status/1991804188536525169)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%80%8B%E5%BC%95%E4%BA%BA%E6%B3%A8%E7%9B%AE%E7%9A%84%E7%B8%AE%E5%9C%96%EF%BC%8C%E5%82%B3%E9%81%94%20Nano%20Banana%20Pro%20%E5%B7%B2%E4%B8%8A%E5%B8%82%E7%9A%84%E8%A8%8A%E6%81%AF%E3%80%82)**
-
----
-
-### No. 185: 李小龍在道場與尤達大師切磋武藝
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個中文提示，描繪身穿黃色連身衣的李小龍在傳統中式武館中與尤達大師俏皮地對打，非常適合有趣的跨界同人創作。
-
-#### 📝 提示詞
-
-```
-身穿黃色連身衣的李小龍，正在與尤達大師進行一場友誼切磋。李小龍手持雙節棍，尤達則握著一把小型綠色光劍。兩人臉上都帶著笑容。背景是一間傳統的中國武道館，後方掛著一面寫有「以武會友」的橫幅。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg" width="600" alt="李小龍在道場與尤達大師切磋武藝 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [松果先森](https://x.com/songguoxiansen)
-- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1991802097483014569)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%BA%AB%E7%A9%BF%E9%BB%83%E8%89%B2%E9%80%A3%E8%BA%AB%E8%A1%A3%E7%9A%84%E6%9D%8E%E5%B0%8F%E9%BE%8D%EF%BC%8C%E6%AD%A3%E5%9C%A8%E8%88%87%E5%B0%A4%E9%81%94%E5%A4%A7%E5%B8%AB%E9%80%B2%E8%A1%8C%E4%B8%80%E5%A0%B4%E5%8F%8B%E8%AA%BC%E5%88%87%E7%A3%8B%E3%80%82%E6%9D%8E%E5%B0%8F%E9%BE%8D%E6%89%8B%E6%8C%81%E9%9B%99%E7%AF%80%E6%A3%8D%EF%BC%8C%E5%B0%A4%E9%81%94%E5%89%87%E6%8F%A1%E8%91%97%E4%B8%80%E6%8A%8A%E5%B0%8F%E5%9E%8B%E7%B6%A0%E8%89%B2%E5%85%89%E5%8A%8D%E3%80%82%E5%85%A9%E4%BA%BA%E8%87%89%E4%B8%8A%E9%83%BD%E5%B8%B6%E8%91%97%E7%AC%91%E5%AE%B9%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E4%B8%80%E9%96%93%E5%82%B3%E7%B5%B1%E7%9A%84%E4%B8%AD%E5%9C%8B%E6%AD%A6%E9%81%93%E9%A4%A8%EF%BC%8C%E5%BE%8C%E6%96%B9%E6%8E%9B%E8%91%97%E4%B8%80%E9%9D%A2%E5%AF%AB%E6%9C%89%E3%80%8C%E4%BB%A5%E6%AD%A6%E6%9C%83%E5%8F%8B%E3%80%8D%E7%9A%84%E6%A9%AB%E5%B9%85%E3%80%82)**
-
----
-
-### No. 186: 帶有畫格和對話框的精緻故事藝術排版
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個取代「漫畫」的詞彙，用來描述一種三格高解析度故事藝術佈局，其特色是細緻的人物、全彩背景和對話氣泡，模仿藝術書籍的風格。
-
-#### 📝 提示詞
-
-```
-構圖：一個「高解析度故事藝術」佈局，分為 {argument name="num_frames_en" default="三"} 個畫格。
-
-背景應具有全彩背景藝術的品質。
-角色以細緻入微的描繪呈現，其對話透過對話氣泡表達。
-整體佈局應呈現出高檔藝術書籍的「藝術佈局」質感。
-忠實重現參考圖像的藝術風格，線條細膩，細節豐富。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886568939_6pwyg4_G6RB7o1bQAA-rYr.jpg" width="600" alt="帶有畫格和對話框的精緻故事藝術排版 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886581093_d9bi8b_G6RB86zaAAAkYmc.jpg" width="600" alt="帶有畫格和對話框的精緻故事藝術排版 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [かし子🍩](https://x.com/Kashiko_AIart)
-- **來源:** [Twitter Post](https://x.com/Kashiko_AIart/status/1991801500096446888)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A7%8B%E5%9C%96%EF%BC%9A%E4%B8%80%E5%80%8B%E3%80%8C%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%95%85%E4%BA%8B%E8%97%9D%E8%A1%93%E3%80%8D%E4%BD%88%E5%B1%80%EF%BC%8C%E5%88%86%E7%82%BA%20%7Bargument%20name%3D%22num_frames_en%22%20default%3D%22%E4%B8%89%22%7D%20%E5%80%8B%E7%95%AB%E6%A0%BC%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E6%87%89%E5%85%B7%E6%9C%89%E5%85%A8%E5%BD%A9%E8%83%8C%E6%99%AF%E8%97%9D%E8%A1%93%E7%9A%84%E5%93%81%E8%B3%AA%E3%80%82%0A%E8%A7%92%E8%89%B2%E4%BB%A5%E7%B4%B0%E7%B7%BB%E5%85%A5%E5%BE%AE%E7%9A%84%E6%8F%8F%E7%B9%AA%E5%91%88%E7%8F%BE%EF%BC%8C%E5%85%B6%E5%B0%8D%E8%A9%B1%E9%80%8F%E9%81%8E%E5%B0%8D%E8%A9%B1%E6%B0%A3%E6%B3%A1%E8%A1%A8%E9%81%94%E3%80%82%0A%E6%95%B4%E9%AB%94%E4%BD%88%E5%B1%80%E6%87%89%E5%91%88%E7%8F%BE%E5%87%BA%E9%AB%98%E6%AA%94%E8%97%9D%E8%A1%93%E6%9B%B8%E7%B1%8D%E7%9A%84%E3%80%8C%E8%97%9D%E8%A1%93%E4%BD%88%E5%B1%80%E3%80%8D%E8%B3%AA%E6%84%9F%E3%80%82%0A%E5%BF%A0%E5%AF%A6%E9%87%8D%E7%8F%BE%E5%8F%83%E8%80%83%E5%9C%96%E5%83%8F%E7%9A%84%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%EF%BC%8C%E7%B7%9A%E6%A2%9D%E7%B4%B0%E8%86%A9%EF%BC%8C%E7%B4%B0%E7%AF%80%E8%B1%90%E5%AF%8C%E3%80%82)**
-
----
-
-### No. 187: 像素遊戲角色從電視中爬出來
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個中英混合的提示，描述一個像素化的遊戲角色試圖從電視爬進客廳，而一個真實的玩家用控制器將其推回，非常適合用於俏皮的超現實場景。
-
-#### 📝 提示詞
-
-```
-一個像素化的電玩角色正試圖從電視螢幕爬出來進入客廳。一位真實的玩家正瘋狂地使用控制器，想把角色推回螢幕裡。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg" width="600" alt="像素遊戲角色從電視中爬出來 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [松果先森](https://x.com/songguoxiansen)
-- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1991801077092733297)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%80%8B%E5%83%8F%E7%B4%A0%E5%8C%96%E7%9A%84%E9%9B%BB%E7%8E%A9%E8%A7%92%E8%89%B2%E6%AD%A3%E8%A9%A6%E5%9C%96%E5%BE%9E%E9%9B%BB%E8%A6%96%E8%9E%A2%E5%B9%95%E7%88%AC%E5%87%BA%E4%BE%86%E9%80%B2%E5%85%A5%E5%AE%A2%E5%BB%B3%E3%80%82%E4%B8%80%E4%BD%8D%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%8E%A9%E5%AE%B6%E6%AD%A3%E7%98%8B%E7%8B%82%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%8E%A7%E5%88%B6%E5%99%A8%EF%BC%8C%E6%83%B3%E6%8A%8A%E8%A7%92%E8%89%B2%E6%8E%A8%E5%9B%9E%E8%9E%A2%E5%B9%95%E8%A3%A1%E3%80%82)**
-
----
-
-### No. 188: 可愛的 Q 版貓耳女孩插圖
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個簡單的提示，用於生成一個可愛的、Q 版風格的貓耳女孩，她穿著荷葉邊的衣服，留著粉紅色的長髮。
-
-#### 📝 提示詞
-
-```
-生成一張可愛貓耳少女的插圖。讓她呈現 Q 版風格，穿著荷葉邊的衣服，留著一頭長長的{argument name="hair_color_en" default="粉紅色"}頭髮。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg" width="600" alt="可愛的 Q 版貓耳女孩插圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Mikage Sawatari](https://x.com/mikage)
-- **來源:** [Twitter Post](https://x.com/mikage/status/1991800706719010873)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E8%B2%93%E8%80%B3%E5%B0%91%E5%A5%B3%E7%9A%84%E6%8F%92%E5%9C%96%E3%80%82%E8%AE%93%E5%A5%B9%E5%91%88%E7%8F%BE%20Q%20%E7%89%88%E9%A2%A8%E6%A0%BC%EF%BC%8C%E7%A9%BF%E8%91%97%E8%8D%B7%E8%91%89%E9%82%8A%E7%9A%84%E8%A1%A3%E6%9C%8D%EF%BC%8C%E7%95%99%E8%91%97%E4%B8%80%E9%A0%AD%E9%95%B7%E9%95%B7%E7%9A%84%7Bargument%20name%3D%22hair_color_en%22%20default%3D%22%E7%B2%89%E7%B4%85%E8%89%B2%22%7D%E9%A0%AD%E9%AB%AE%E3%80%82)**
-
----
-
-### No. 189: 將服裝變更為符合參考服裝
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個時尚編輯提示，可以將使用者的服裝替換成參考圖片中所示的服裝，同時保持其他所有元素不變。
-
-#### 📝 提示詞
-
-```
-請根據參考圖片中的服裝，將我的服裝變更為與其相符。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [CHAO2U AI](https://x.com/CHAO2U_AI)
-- **來源:** [Twitter Post](https://x.com/CHAO2U_AI/status/1991799896907956276)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E6%A0%B9%E6%93%9A%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E6%9C%8D%E8%A3%9D%EF%BC%8C%E5%B0%87%E6%88%91%E7%9A%84%E6%9C%8D%E8%A3%9D%E8%AE%8A%E6%9B%B4%E7%82%BA%E8%88%87%E5%85%B6%E7%9B%B8%E7%AC%A6%E3%80%82)**
-
----
-
-### No. 190: 時尚女性超寫實環境肖像提示（部分）
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中，拍攝一張超寫實的環境肖像，包含詳細的服裝和姿勢說明，但內容已截斷。
-
-#### 📝 提示詞
-
-```
-超寫實環境肖像，一位時尚年輕女子站在茂密的熱帶竹林中。她戴著寬邊黑色軟呢帽、細金屬框的圓形深色太陽眼鏡、紮進褲子裡的素色黑色圓領 T 恤，以及深灰色高腰長褲。她姿態自信地站立，身體微微前傾，右
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887334848_gzjofv_G6RKPI-aEAEZgWt.jpg" width="600" alt="時尚女性超寫實環境肖像提示（部分） - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887337289_yifyi6_Vz-uac6Ps38VOCVE.jpg" width="600" alt="時尚女性超寫實環境肖像提示（部分） - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **來源:** [Twitter Post](https://x.com/saniaspeaks_/status/1991798571503624502)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%B6%85%E5%AF%AB%E5%AF%A6%E7%92%B0%E5%A2%83%E8%82%96%E5%83%8F%EF%BC%8C%E4%B8%80%E4%BD%8D%E6%99%82%E5%B0%9A%E5%B9%B4%E8%BC%95%E5%A5%B3%E5%AD%90%E7%AB%99%E5%9C%A8%E8%8C%82%E5%AF%86%E7%9A%84%E7%86%B1%E5%B8%B6%E7%AB%B9%E6%9E%97%E4%B8%AD%E3%80%82%E5%A5%B9%E6%88%B4%E8%91%97%E5%AF%AC%E9%82%8A%E9%BB%91%E8%89%B2%E8%BB%9F%E5%91%A2%E5%B8%BD%E3%80%81%E7%B4%B0%E9%87%91%E5%B1%AC%E6%A1%86%E7%9A%84%E5%9C%93%E5%BD%A2%E6%B7%B1%E8%89%B2%E5%A4%AA%E9%99%BD%E7%9C%BC%E9%8F%A1%E3%80%81%E7%B4%AE%E9%80%B2%E8%A4%B2%E5%AD%90%E8%A3%A1%E7%9A%84%E7%B4%A0%E8%89%B2%E9%BB%91%E8%89%B2%E5%9C%93%E9%A0%98%20T%20%E6%81%A4%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%B7%B1%E7%81%B0%E8%89%B2%E9%AB%98%E8%85%B0%E9%95%B7%E8%A4%B2%E3%80%82%E5%A5%B9%E5%A7%BF%E6%85%8B%E8%87%AA%E4%BF%A1%E5%9C%B0%E7%AB%99%E7%AB%8B%EF%BC%8C%E8%BA%AB%E9%AB%94%E5%BE%AE%E5%BE%AE%E5%89%8D%E5%82%BE%EF%BC%8C%E5%8F%B3)**
-
----
-
-### No. 191: 四格漫畫系列
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個元結構提示（未完全引用），指示 Nano Banana Pro 製作多個四格漫畫，每個漫畫都有自己的笑點，並將它們連接成一個單一圖像上的長篇故事。
-
-#### 📝 提示詞
-
-```
-創作四頁四格漫畫。每個四格漫畫都應有自己的笑點，並將其排列，使每張圖片包含兩個四格漫畫，總共有八個四格漫畫，共同構成一個完整的故事。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886420119_d60lh6_G6RJM5QbIAAcb7v.jpg" width="600" alt="四格漫畫系列 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886422868_ykthpv_G6RJQY5acAAnejm.jpg" width="600" alt="四格漫畫系列 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886425906_5zdr4r_G6RJUdkaUAAzUgx.jpg" width="600" alt="四格漫畫系列 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886447810_6c829d_G6RJXSfagAAlUz3.jpg" width="600" alt="四格漫畫系列 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [美咲](https://x.com/patata1216)
-- **來源:** [Twitter Post](https://x.com/patata1216/status/1991797720160637344)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%89%B5%E4%BD%9C%E5%9B%9B%E9%A0%81%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%95%AB%E3%80%82%E6%AF%8F%E5%80%8B%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%95%AB%E9%83%BD%E6%87%89%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%91%E9%BB%9E%EF%BC%8C%E4%B8%A6%E5%B0%87%E5%85%B6%E6%8E%92%E5%88%97%EF%BC%8C%E4%BD%BF%E6%AF%8F%E5%BC%B5%E5%9C%96%E7%89%87%E5%8C%85%E5%90%AB%E5%85%A9%E5%80%8B%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%95%AB%EF%BC%8C%E7%B8%BD%E5%85%B1%E6%9C%89%E5%85%AB%E5%80%8B%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%95%AB%EF%BC%8C%E5%85%B1%E5%90%8C%E6%A7%8B%E6%88%90%E4%B8%80%E5%80%8B%E5%AE%8C%E6%95%B4%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82)**
-
----
-
-### No. 192: 細胞毒性 T 細胞殺死癌細胞的科學圖解
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-提示：建立一張精美的科學插圖，說明細胞毒性 T 細胞如何識別並殺死癌細胞，其中包含至少十個標示資訊區塊和清晰的佈局。
-
-#### 📝 提示詞
-
-```
-使用精心製作的科學論文風格圖表，描繪細胞毒性 T 細胞識別並殺死癌細胞的過程。圖表應包含至少 10 個資訊區塊，內容需極其複雜且詳盡，但同時呈現清晰美觀。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886914223_n5ngfw_G6RE54magAA_1ck.jpg" width="600" alt="細胞毒性 T 細胞殺死癌細胞的科學圖解 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [MSB](https://x.com/KeWai386772)
-- **來源:** [Twitter Post](https://x.com/KeWai386772/status/1991795203947274463)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%BF%E7%94%A8%E7%B2%BE%E5%BF%83%E8%A3%BD%E4%BD%9C%E7%9A%84%E7%A7%91%E5%AD%B8%E8%AB%96%E6%96%87%E9%A2%A8%E6%A0%BC%E5%9C%96%E8%A1%A8%EF%BC%8C%E6%8F%8F%E7%B9%AA%E7%B4%B0%E8%83%9E%E6%AF%92%E6%80%A7%20T%20%E7%B4%B0%E8%83%9E%E8%AD%98%E5%88%A5%E4%B8%A6%E6%AE%BA%E6%AD%BB%E7%99%8C%E7%B4%B0%E8%83%9E%E7%9A%84%E9%81%8E%E7%A8%8B%E3%80%82%E5%9C%96%E8%A1%A8%E6%87%89%E5%8C%85%E5%90%AB%E8%87%B3%E5%B0%91%2010%20%E5%80%8B%E8%B3%87%E8%A8%8A%E5%8D%80%E5%A1%8A%EF%BC%8C%E5%85%A7%E5%AE%B9%E9%9C%80%E6%A5%B5%E5%85%B6%E8%A4%87%E9%9B%9C%E4%B8%94%E8%A9%B3%E7%9B%A1%EF%BC%8C%E4%BD%86%E5%90%8C%E6%99%82%E5%91%88%E7%8F%BE%E6%B8%85%E6%99%B0%E7%BE%8E%E8%A7%80%E3%80%82)**
-
----
-
-### No. 193: 船長磨損的航海日誌草圖
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個風格化的提示，用於製作一張素描風格的海盜主題船長日誌頁面，內容包括魯夫伸向寶箱、航海元素和剪貼簿風格的裝飾。
-
-#### 📝 提示詞
-
-```
-一本磨損的船長航海日誌。一幅描繪魯夫伸出橡膠手臂抓取寶箱的草圖，與桅杆形成一個三角形。寶藏地圖背景紋理、指南針印章、撕裂的「通緝」海報碎片、金幣貼紙。充滿冒險、混亂、海盜日誌風格。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886687622_e1snzw_G6RGSLDa4AAFdrj.jpg" width="600" alt="船長磨損的航海日誌草圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [松果先森](https://x.com/songguoxiansen)
-- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1991794231263072737)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E6%9C%AC%E7%A3%A8%E6%90%8D%E7%9A%84%E8%88%B9%E9%95%B7%E8%88%AA%E6%B5%B7%E6%97%A5%E8%AA%8C%E3%80%82%E4%B8%80%E5%B9%85%E6%8F%8F%E7%B9%AA%E9%AD%AF%E5%A4%AB%E4%BC%B8%E5%87%BA%E6%A9%A1%E8%86%A0%E6%89%8B%E8%87%82%E6%8A%93%E5%8F%96%E5%AF%B6%E7%AE%B1%E7%9A%84%E8%8D%89%E5%9C%96%EF%BC%8C%E8%88%87%E6%A1%85%E6%9D%86%E5%BD%A2%E6%88%90%E4%B8%80%E5%80%8B%E4%B8%89%E8%A7%92%E5%BD%A2%E3%80%82%E5%AF%B6%E8%97%8F%E5%9C%B0%E5%9C%96%E8%83%8C%E6%99%AF%E7%B4%8B%E7%90%86%E3%80%81%E6%8C%87%E5%8D%97%E9%87%9D%E5%8D%B0%E7%AB%A0%E3%80%81%E6%92%95%E8%A3%82%E7%9A%84%E3%80%8C%E9%80%9A%E7%B7%9D%E3%80%8D%E6%B5%B7%E5%A0%B1%E7%A2%8E%E7%89%87%E3%80%81%E9%87%91%E5%B9%A3%E8%B2%BC%E7%B4%99%E3%80%82%E5%85%85%E6%BB%BF%E5%86%92%E9%9A%AA%E3%80%81%E6%B7%B7%E4%BA%82%E3%80%81%E6%B5%B7%E7%9B%9C%E6%97%A5%E8%AA%8C%E9%A2%A8%E6%A0%BC%E3%80%82)**
-
----
-
-### No. 194: 雜誌風格的照片，內含指定文章文字
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個提示，用於將給定的文字區塊嵌入到具有豐富版面、圖片、引言和粗體格式的時尚雜誌文章照片中。
-
-#### 📝 提示詞
-
-```
-請將這段文字逐字複製到一本精美雜誌文章的照片中。該照片應包含圖片、引人入勝的版面設計、精選引言和粗體格式。原始文字如下：{argument name="original_text" default="[在此貼上未經格式化的文章文字]"}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886859058_7b6sqv_G6RFnuobEAAfZ_5.jpg" width="600" alt="雜誌風格的照片，內含指定文章文字 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [AI焦点](https://x.com/AIFocus360)
-- **來源:** [Twitter Post](https://x.com/AIFocus360/status/1991793498832638252)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E5%B0%87%E9%80%99%E6%AE%B5%E6%96%87%E5%AD%97%E9%80%90%E5%AD%97%E8%A4%87%E8%A3%BD%E5%88%B0%E4%B8%80%E6%9C%AC%E7%B2%BE%E7%BE%8E%E9%9B%9C%E8%AA%8C%E6%96%87%E7%AB%A0%E7%9A%84%E7%85%A7%E7%89%87%E4%B8%AD%E3%80%82%E8%A9%B2%E7%85%A7%E7%89%87%E6%87%89%E5%8C%85%E5%90%AB%E5%9C%96%E7%89%87%E3%80%81%E5%BC%95%E4%BA%BA%E5%85%A5%E5%8B%9D%E7%9A%84%E7%89%88%E9%9D%A2%E8%A8%AD%E8%A8%88%E3%80%81%E7%B2%BE%E9%81%B8%E5%BC%95%E8%A8%80%E5%92%8C%E7%B2%97%E9%AB%94%E6%A0%BC%E5%BC%8F%E3%80%82%E5%8E%9F%E5%A7%8B%E6%96%87%E5%AD%97%E5%A6%82%E4%B8%8B%EF%BC%9A%7Bargument%20name%3D%22original_text%22%20default%3D%22%5B%E5%9C%A8%E6%AD%A4%E8%B2%BC%E4%B8%8A%E6%9C%AA%E7%B6%93%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E6%96%87%E7%AB%A0%E6%96%87%E5%AD%97%5D%22%7D)**
-
----
-
-### No. 195: AIFocus Twitter 橫幅（含 Google 品牌標誌）
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個中文提示，用於為 AIFocus 建立一個香蕉主題的 Twitter 橫幅，該橫幅需符合 Google 的品牌語氣和設計元素，並適用於社群媒體品牌推廣。
-
-#### 📝 提示詞
-
-```
-為 AIFocus 繪製一張以香蕉為主題的 Twitter 橫幅圖片，並符合 Google 的品牌風格和設計元素。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg" width="600" alt="AIFocus Twitter 橫幅（含 Google 品牌標誌） - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [AI焦点](https://x.com/AIFocus360)
-- **來源:** [Twitter Post](https://x.com/AIFocus360/status/1991791464733708499)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%20AIFocus%20%E7%B9%AA%E8%A3%BD%E4%B8%80%E5%BC%B5%E4%BB%A5%E9%A6%99%E8%95%89%E7%82%BA%E4%B8%BB%E9%A1%8C%E7%9A%84%20Twitter%20%E6%A9%AB%E5%B9%85%E5%9C%96%E7%89%87%EF%BC%8C%E4%B8%A6%E7%AC%A6%E5%90%88%20Google%20%E7%9A%84%E5%93%81%E7%89%8C%E9%A2%A8%E6%A0%BC%E5%92%8C%E8%A8%AD%E8%A8%88%E5%85%83%E7%B4%A0%E3%80%82)**
-
----
-
-### No. 196: 黑白動物的 16 位元像素藝術海報
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個英文提示，用於創作一張 16 位元像素藝術海報，其中包含所有黑白動物，以網格形式排列於自然環境中，每隻動物都標有其英文名稱，風格為復古遊戲或百科全書。
-
-#### 📝 提示詞
-
-```
-一張 16 位元的像素藝術海報，展示了所有自然界中的黑白動物。構圖採用整齊的網格佈局，讓人聯想到復古電玩遊戲的角色選擇畫面或百科全書頁面。每種動物都以清晰的復古像素字體標示其英文名稱。背景為簡潔的白色或淺灰色，搭配生動的像素細節，散發出復古美學和高品質的製作水準。--ar 16:9
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [被减数](https://x.com/Lessnoise365)
-- **來源:** [Twitter Post](https://x.com/Lessnoise365/status/1991791005319016642)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%B5%2016%20%E4%BD%8D%E5%85%83%E7%9A%84%E5%83%8F%E7%B4%A0%E8%97%9D%E8%A1%93%E6%B5%B7%E5%A0%B1%EF%BC%8C%E5%B1%95%E7%A4%BA%E4%BA%86%E6%89%80%E6%9C%89%E8%87%AA%E7%84%B6%E7%95%8C%E4%B8%AD%E7%9A%84%E9%BB%91%E7%99%BD%E5%8B%95%E7%89%A9%E3%80%82%E6%A7%8B%E5%9C%96%E6%8E%A1%E7%94%A8%E6%95%B4%E9%BD%8A%E7%9A%84%E7%B6%B2%E6%A0%BC%E4%BD%88%E5%B1%80%EF%BC%8C%E8%AE%93%E4%BA%BA%E8%81%AF%E6%83%B3%E5%88%B0%E5%BE%A9%E5%8F%A4%E9%9B%BB%E7%8E%A9%E9%81%8A%E6%88%B2%E7%9A%84%E8%A7%92%E8%89%B2%E9%81%B8%E6%93%87%E7%95%AB%E9%9D%A2%E6%88%96%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8%E9%A0%81%E9%9D%A2%E3%80%82%E6%AF%8F%E7%A8%AE%E5%8B%95%E7%89%A9%E9%83%BD%E4%BB%A5%E6%B8%85%E6%99%B0%E7%9A%84%E5%BE%A9%E5%8F%A4%E5%83%8F%E7%B4%A0%E5%AD%97%E9%AB%94%E6%A8%99%E7%A4%BA%E5%85%B6%E8%8B%B1%E6%96%87%E5%90%8D%E7%A8%B1%E3%80%82%E8%83%8C%E6%99%AF%E7%82%BA%E7%B0%A1%E6%BD%94%E7%9A%84%E7%99%BD%E8%89%B2%E6%88%96%E6%B7%BA%E7%81%B0%E8%89%B2%EF%BC%8C%E6%90%AD%E9%85%8D%E7%94%9F%E5%8B%95%E7%9A%84%E5%83%8F%E7%B4%A0%E7%B4%B0%E7%AF%80%EF%BC%8C%E6%95%A3%E7%99%BC%E5%87%BA%E5%BE%A9%E5%8F%A4%E7%BE%8E%E5%AD%B8%E5%92%8C%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E8%A3%BD%E4%BD%9C%E6%B0%B4%E6%BA%96%E3%80%82--ar%2016%3A9)**
-
----
-
-### No. 197: 艾菲爾鐵塔、萬里長城、羅馬競技場、泰姬瑪哈陵的標註地標圖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個多圖像提示，用於生成四個超逼真的地標場景，並疊加詳細註釋，說明關鍵的建築和文化細節。
-
-#### 📝 提示詞
-
-```
-生成四張獨特且超寫實的圖像，每張圖像都描繪一個世界聞名的地標。每張圖像都應包含一套全面且清晰易讀的註釋，直接疊加在關鍵的建築特色、歷史元素或具有文化意義的細節上。這些註釋應提供簡潔、資訊豐富的描述。
-
-第一張圖像應呈現法國巴黎的艾菲爾鐵塔，背景為日落，註釋應突顯其鐵格結構、觀景台和歷史意義。
-
-第二張圖像應展示中國的萬里長城，特別是慕田峪段，背景為晴朗的秋日，註釋應詳細說明其烽火台、建築材料和戰略重要性。
-
-第三張圖像應呈現義大利羅馬的羅馬競技場，沐浴在晨光中，註釋應標示其拱門、看台層和作為古代圓形劇場的角色。
-
-第四張圖像應捕捉印度阿格拉的泰姬陵，在柔和、空靈的黎明前微光下，註釋應指出其大理石圓頂、尖塔和鑲嵌的花卉圖案。
-
-每張圖像都應以卓越的細節、鮮豔的色彩和動態的光線呈現，以強調地點的宏偉，使註釋無縫地融入視覺敘事中。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887477922_2pyomw_G6RCqojakAAYKGL.jpg" width="600" alt="艾菲爾鐵塔、萬里長城、羅馬競技場、泰姬瑪哈陵的標註地標圖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **來源:** [Twitter Post](https://x.com/Ankit_patel211/status/1991790238822215947)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E5%9B%9B%E5%BC%B5%E7%8D%A8%E7%89%B9%E4%B8%94%E8%B6%85%E5%AF%AB%E5%AF%A6%E7%9A%84%E5%9C%96%E5%83%8F%EF%BC%8C%E6%AF%8F%E5%BC%B5%E5%9C%96%E5%83%8F%E9%83%BD%E6%8F%8F%E7%B9%AA%E4%B8%80%E5%80%8B%E4%B8%96%E7%95%8C%E8%81%9E%E5%90%8D%E7%9A%84%E5%9C%B0%E6%A8%99%E3%80%82%E6%AF%8F%E5%BC%B5%E5%9C%96%E5%83%8F%E9%83%BD%E6%87%89%E5%8C%85%E5%90%AB%E4%B8%80%E5%A5%97%E5%85%A8%E9%9D%A2%E4%B8%94%E6%B8%85%E6%99%B0%E6%98%93%E8%AE%80%E7%9A%84%E8%A8%BB%E9%87%8B%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%96%8A%E5%8A%A0%E5%9C%A8%E9%97%9C%E9%8D%B5%E7%9A%84%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2%E3%80%81%E6%AD%B7%E5%8F%B2%E5%85%83%E7%B4%A0%E6%88%96%E5%85%B7%E6%9C%89%E6%96%87%E5%8C%96%E6%84%8F%E7%BE%A9%E7%9A%84%E7%B4%B0%E7%AF%80%E4%B8%8A%E3%80%82%E9%80%99%E4%BA%9B%E8%A8%BB%E9%87%8B%E6%87%89%E6%8F%90%E4%BE%9B%E7%B0%A1%E6%BD%94%E3%80%81%E8%B3%87%E8%A8%8A%E8%B1%90%E5%AF%8C%E7%9A%84%E6%8F%8F%E8%BF%B0%E3%80%82%0A%0A%E7%AC%AC%E4%B8%80%E5%BC%B5%E5%9C%96%E5%83%8F%E6%87%89%E5%91%88%E7%8F%BE%E6%B3%95%E5%9C%8B%E5%B7%B4%E9%BB%8E%E7%9A%84%E8%89%BE%E8%8F%B2%E7%88%BE%E9%90%B5%E5%A1%94%EF%BC%8C%E8%83%8C%E6%99%AF%E7%82%BA%E6%97%A5%E8%90%BD%EF%BC%8C%E8%A8%BB%E9%87%8B%E6%87%89%E7%AA%81%E9%A1%AF%E5%85%B6%E9%90%B5%E6%A0%BC%E7%B5%90%E6%A7%8B%E3%80%81%E8%A7%80%E6%99%AF%E5%8F%B0%E5%92%8C%E6%AD%B7%E5%8F%B2%E6%84%8F%E7%BE%A9%E3%80%82%0A%0A%E7%AC%AC%E4%BA%8C%E5%BC%B5%E5%9C%96%E5%83%8F%E6%87%89%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%90%AC%E9%87%8C%E9%95%B7%E5%9F%8E%EF%BC%8C%E7%89%B9%E5%88%A5%E6%98%AF%E6%85%95%E7%94%B0%E5%B3%AA%E6%AE%B5%EF%BC%8C%E8%83%8C%E6%99%AF%E7%82%BA%E6%99%B4%E6%9C%97%E7%9A%84%E7%A7%8B%E6%97%A5%EF%BC%8C%E8%A8%BB%E9%87%8B%E6%87%89%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E%E5%85%B6%E7%83%BD%E7%81%AB%E5%8F%B0%E3%80%81%E5%BB%BA%E7%AF%89%E6%9D%90%E6%96%99%E5%92%8C%E6%88%B0%E7%95%A5%E9%87%8D%E8%A6%81%E6%80%A7%E3%80%82%0A%0A%E7%AC%AC%E4%B8%89%E5%BC%B5%E5%9C%96%E5%83%8F%E6%87%89%E5%91%88%E7%8F%BE%E7%BE%A9%E5%A4%A7%E5%88%A9%E7%BE%85%E9%A6%AC%E7%9A%84%E7%BE%85%E9%A6%AC%E7%AB%B6%E6%8A%80%E5%A0%B4%EF%BC%8C%E6%B2%90%E6%B5%B4%E5%9C%A8%E6%99%A8%E5%85%89%E4%B8%AD%EF%BC%8C%E8%A8%BB%E9%87%8B%E6%87%89%E6%A8%99%E7%A4%BA%E5%85%B6%E6%8B%B1%E9%96%80%E3%80%81%E7%9C%8B%E5%8F%B0%E5%B1%A4%E5%92%8C%E4%BD%9C%E7%82%BA%E5%8F%A4%E4%BB%A3%E5%9C%93%E5%BD%A2%E5%8A%87%E5%A0%B4%E7%9A%84%E8%A7%92%E8%89%B2%E3%80%82%0A%0A%E7%AC%AC%E5%9B%9B%E5%BC%B5%E5%9C%96%E5%83%8F%E6%87%89%E6%8D%95%E6%8D%89%E5%8D%B0%E5%BA%A6%E9%98%BF%E6%A0%BC%E6%8B%89%E7%9A%84%E6%B3%B0%E5%A7%AC%E9%99%B5%EF%BC%8C%E5%9C%A8%E6%9F%94%E5%92%8C%E3%80%81%E7%A9%BA%E9%9D%88%E7%9A%84%E9%BB%8E%E6%98%8E%E5%89%8D%E5%BE%AE%E5%85%89%E4%B8%8B%EF%BC%8C%E8%A8%BB%E9%87%8B%E6%87%89%E6%8C%87%E5%87%BA%E5%85%B6%E5%A4%A7%E7%90%86%E7%9F%B3%E5%9C%93%E9%A0%82%E3%80%81%E5%B0%96%E5%A1%94%E5%92%8C%E9%91%B2%E5%B5%8C%E7%9A%84%E8%8A%B1%E5%8D%89%E5%9C%96%E6%A1%88%E3%80%82%0A%0A%E6%AF%8F%E5%BC%B5%E5%9C%96%E5%83%8F%E9%83%BD%E6%87%89%E4%BB%A5%E5%8D%93%E8%B6%8A%E7%9A%84%E7%B4%B0%E7%AF%80%E3%80%81%E9%AE%AE%E8%B1%94%E7%9A%84%E8%89%B2%E5%BD%A9%E5%92%8C%E5%8B%95%E6%85%8B%E7%9A%84%E5%85%89%E7%B7%9A%E5%91%88%E7%8F%BE%EF%BC%8C%E4%BB%A5%E5%BC%B7%E8%AA%BF%E5%9C%B0%E9%BB%9E%E7%9A%84%E5%AE%8F%E5%81%89%EF%BC%8C%E4%BD%BF%E8%A8%BB%E9%87%8B%E7%84%A1%E7%B8%AB%E5%9C%B0%E8%9E%8D%E5%85%A5%E8%A6%96%E8%A6%BA%E6%95%98%E4%BA%8B%E4%B8%AD%E3%80%82)**
-
----
-
-### No. 198: 地球是貓咪星球？四格漫畫中的小仙子這樣認為。
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個提示，指示 Nano Banana Pro 創作一個四格漫畫，內容是一個仙女降臨地球，首先遇到一隻三花貓，然後誤以為地球是貓咪的星球，並與貓咪對話。
-
-#### 📝 提示詞
-
-```
-畫一幅四格漫畫，內容是一個仙子從天而降來到地球。因為牠遇到的第一個生物是一隻三花貓，所以牠認為這個星球屬於貓咪，並開始和這隻貓說話。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886473985_z0wil5_G6RB5JcbkAAziGG.jpg" width="600" alt="地球是貓咪星球？四格漫畫中的小仙子這樣認為。 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [starwalker前田徳彦](https://x.com/starwalker0202)
-- **來源:** [Twitter Post](https://x.com/starwalker0202/status/1991789421671449071)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%95%AB%E4%B8%80%E5%B9%85%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%95%AB%EF%BC%8C%E5%85%A7%E5%AE%B9%E6%98%AF%E4%B8%80%E5%80%8B%E4%BB%99%E5%AD%90%E5%BE%9E%E5%A4%A9%E8%80%8C%E9%99%8D%E4%BE%86%E5%88%B0%E5%9C%B0%E7%90%83%E3%80%82%E5%9B%A0%E7%82%BA%E7%89%A0%E9%81%87%E5%88%B0%E7%9A%84%E7%AC%AC%E4%B8%80%E5%80%8B%E7%94%9F%E7%89%A9%E6%98%AF%E4%B8%80%E9%9A%BB%E4%B8%89%E8%8A%B1%E8%B2%93%EF%BC%8C%E6%89%80%E4%BB%A5%E7%89%A0%E8%AA%8D%E7%82%BA%E9%80%99%E5%80%8B%E6%98%9F%E7%90%83%E5%B1%AC%E6%96%BC%E8%B2%93%E5%92%AA%EF%BC%8C%E4%B8%A6%E9%96%8B%E5%A7%8B%E5%92%8C%E9%80%99%E9%9A%BB%E8%B2%93%E8%AA%AA%E8%A9%B1%E3%80%82)**
-
----
-
-### No. 199: 結構化屋頂冬季肖像 (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個詳細的 JSON 風格英文提示，描述一位女性在積雪的屋頂上，畫面分為垂直三等份，分別聚焦於她的眼睛、身體和臉部，帶有復古 Y2K 和霓虹冬季氛圍。
-
-#### 📝 提示詞
-
-```
-{
-  "image_description": {
-    "upper_third": {
-      "focus": "{argument name=\"upper_focus_en\" default=\"她的眼睛\"}",
-      "details": [
-        "映照著下方模糊的城市燈光",
-        "睫毛上覆蓋著一層薄薄的霜",
-        "風吹動幾縷頭髮掠過她的額頭"
-      ],
-      "vibe": "{argument name=\"upper_vibe_en\" default=\"銳利的復古 Y2K 風格\"}"
-    },
-    "middle_third": {
-      "focus": "{argument name=\"middle_focus_en\" default=\"她的身體和周圍環境\"}",
-      "details": [
-        "躺在佈滿雪花的屋頂躺椅上",
-        "身穿一件白色人造毛皮夾克，內搭閃亮冬裝連衣裙",
-        "柔和的霓虹燈光映照在她袖子上的雪花上"
-      ]
-    },
-    "lower_third": {
-      "focus": "{argument name=\"lower_focus_en\" default=\"她臉部和手部的特寫\"}",
-      "details": [
-        "面對鏡頭，一隻手舉過眼睛上方",
-        "遮擋著一道明亮的粉紅色霓虹燈光",
-        "雪花附著在她的珠寶上",
-        "小水滴在她唇邊形成"
-      ]
-    }
-  }
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886147117_zgmdh6_G6RAtP9WkAAyJUJ.jpg" width="600" alt="結構化屋頂冬季肖像 (JSON) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886151281_x3vkyl_G6PoCMoXUAEgOy9.jpg" width="600" alt="結構化屋頂冬季肖像 (JSON) - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Kaan](https://x.com/wkaandemir)
-- **來源:** [Twitter Post](https://x.com/wkaandemir/status/1991788166941114799)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22upper_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22upper_focus_en%5C%22%20default%3D%5C%22%E5%A5%B9%E7%9A%84%E7%9C%BC%E7%9D%9B%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E6%98%A0%E7%85%A7%E8%91%97%E4%B8%8B%E6%96%B9%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%9F%8E%E5%B8%82%E7%87%88%E5%85%89%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%9D%AB%E6%AF%9B%E4%B8%8A%E8%A6%86%E8%93%8B%E8%91%97%E4%B8%80%E5%B1%A4%E8%96%84%E8%96%84%E7%9A%84%E9%9C%9C%22%2C%0A%20%20%20%20%20%20%20%20%22%E9%A2%A8%E5%90%B9%E5%8B%95%E5%B9%BE%E7%B8%B7%E9%A0%AD%E9%AB%AE%E6%8E%A0%E9%81%8E%E5%A5%B9%E7%9A%84%E9%A1%8D%E9%A0%AD%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22vibe%22%3A%20%22%7Bargument%20name%3D%5C%22upper_vibe_en%5C%22%20default%3D%5C%22%E9%8A%B3%E5%88%A9%E7%9A%84%E5%BE%A9%E5%8F%A4%20Y2K%20%E9%A2%A8%E6%A0%BC%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22middle_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22middle_focus_en%5C%22%20default%3D%5C%22%E5%A5%B9%E7%9A%84%E8%BA%AB%E9%AB%94%E5%92%8C%E5%91%A8%E5%9C%8D%E7%92%B0%E5%A2%83%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E8%BA%BA%E5%9C%A8%E4%BD%88%E6%BB%BF%E9%9B%AA%E8%8A%B1%E7%9A%84%E5%B1%8B%E9%A0%82%E8%BA%BA%E6%A4%85%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%20%20%22%E8%BA%AB%E7%A9%BF%E4%B8%80%E4%BB%B6%E7%99%BD%E8%89%B2%E4%BA%BA%E9%80%A0%E6%AF%9B%E7%9A%AE%E5%A4%BE%E5%85%8B%EF%BC%8C%E5%85%A7%E6%90%AD%E9%96%83%E4%BA%AE%E5%86%AC%E8%A3%9D%E9%80%A3%E8%A1%A3%E8%A3%99%22%2C%0A%20%20%20%20%20%20%20%20%22%E6%9F%94%E5%92%8C%E7%9A%84%E9%9C%93%E8%99%B9%E7%87%88%E5%85%89%E6%98%A0%E7%85%A7%E5%9C%A8%E5%A5%B9%E8%A2%96%E5%AD%90%E4%B8%8A%E7%9A%84%E9%9B%AA%E8%8A%B1%E4%B8%8A%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lower_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22lower_focus_en%5C%22%20default%3D%5C%22%E5%A5%B9%E8%87%89%E9%83%A8%E5%92%8C%E6%89%8B%E9%83%A8%E7%9A%84%E7%89%B9%E5%AF%AB%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E9%9D%A2%E5%B0%8D%E9%8F%A1%E9%A0%AD%EF%BC%8C%E4%B8%80%E9%9A%BB%E6%89%8B%E8%88%89%E9%81%8E%E7%9C%BC%E7%9D%9B%E4%B8%8A%E6%96%B9%22%2C%0A%20%20%20%20%20%20%20%20%22%E9%81%AE%E6%93%8B%E8%91%97%E4%B8%80%E9%81%93%E6%98%8E%E4%BA%AE%E7%9A%84%E7%B2%89%E7%B4%85%E8%89%B2%E9%9C%93%E8%99%B9%E7%87%88%E5%85%89%22%2C%0A%20%20%20%20%20%20%20%20%22%E9%9B%AA%E8%8A%B1%E9%99%84%E8%91%97%E5%9C%A8%E5%A5%B9%E7%9A%84%E7%8F%A0%E5%AF%B6%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%20%20%22%E5%B0%8F%E6%B0%B4%E6%BB%B4%E5%9C%A8%E5%A5%B9%E5%94%87%E9%82%8A%E5%BD%A2%E6%88%90%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 200: 鹹魚翻生
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個幽默的中文提示，內容是一條在煎鍋裡試圖翻身的鹹魚，以極簡手繪風格呈現並附帶文字，適合做成迷因或勵志笑話。
-
-#### 📝 提示詞
-
-```
-一條鹹魚躺在平底鍋裡，努力想翻身，但翻過來之後還是一條鹹魚。藝術風格是極簡手繪。旁邊加上文字說明：「鹹魚翻身… 但還是鹹魚。」
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886810362_yo1f0k_G6Q_SssbAAAOrWs.jpg" width="600" alt="鹹魚翻生 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [松果先森](https://x.com/songguoxiansen)
-- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1991786544286642625)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E6%A2%9D%E9%B9%B9%E9%AD%9A%E8%BA%BA%E5%9C%A8%E5%B9%B3%E5%BA%95%E9%8D%8B%E8%A3%A1%EF%BC%8C%E5%8A%AA%E5%8A%9B%E6%83%B3%E7%BF%BB%E8%BA%AB%EF%BC%8C%E4%BD%86%E7%BF%BB%E9%81%8E%E4%BE%86%E4%B9%8B%E5%BE%8C%E9%82%84%E6%98%AF%E4%B8%80%E6%A2%9D%E9%B9%B9%E9%AD%9A%E3%80%82%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%E6%98%AF%E6%A5%B5%E7%B0%A1%E6%89%8B%E7%B9%AA%E3%80%82%E6%97%81%E9%82%8A%E5%8A%A0%E4%B8%8A%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%9A%E3%80%8C%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB%E2%80%A6%20%E4%BD%86%E9%82%84%E6%98%AF%E9%B9%B9%E9%AD%9A%E3%80%82%E3%80%8D)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 343 更多提示詞未在此顯示
+### 🎯 410 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8645,6 +9941,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-05T04:13:09.797Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-05T04:46:52.566Z</sub>
 
 </div>
