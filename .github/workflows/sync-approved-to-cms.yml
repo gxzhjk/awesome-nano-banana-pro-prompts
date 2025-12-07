@@ -4,6 +4,10 @@ on:
   issues:
     types: [labeled]
 
+permissions:
+  issues: write
+  contents: read
+
 jobs:
   sync:
     # Only trigger when 'approved' label is added
